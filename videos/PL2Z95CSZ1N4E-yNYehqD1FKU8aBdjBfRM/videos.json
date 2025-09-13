@@ -1,0 +1,462 @@
+[
+    {
+        "i": 49,
+        "j": "_jdxunj3nbo",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | CATALOGO GLOBAL (video 50)"
+    },
+    {
+        "i": 65,
+        "j": "_wp3eowGQzw",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | GPO CREACION Y VINCULO (video 66)"
+    },
+    {
+        "i": 69,
+        "j": "-_e7qyHH_wI",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | GPO REDIRECCIONAMIENTO DE CARPETAS (video 70)"
+    },
+    {
+        "i": 66,
+        "j": "-5gz7VeWz74",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | GPO, VINCULO LOCAL, QUITAR HERENCIA (video 67)"
+    },
+    {
+        "i": 16,
+        "j": "-YpJq-SOSrU",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | EL FIREWALL (video 17)"
+    },
+    {
+        "i": 34,
+        "j": "1fq7s-NuTio",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | QUITAR ARREGLO MIRROR [RAID 1] (video 35)"
+    },
+    {
+        "i": 40,
+        "j": "3ZENAjiG04w",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | CENTRO DE ADMINISTRACION DE AD (video 41)"
+    },
+    {
+        "i": 43,
+        "j": "4JibMrTat_c",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | USUARIOS TEMPORALES EN AD (video 44)"
+    },
+    {
+        "i": 1,
+        "j": "5mcLpLtVVPE",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DESCARGA DE INSTALADORES (video 2)"
+    },
+    {
+        "i": 87,
+        "j": "6clP656g3Kw",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVER CORE, VISOR DE EVENTOS (video 88)"
+    },
+    {
+        "i": 82,
+        "j": "6O-zV9Ecfds",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVER CORE, CAMBIAR NOMBRE Y FECHA  (video 83)"
+    },
+    {
+        "i": 89,
+        "j": "6To0iMOiR50",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVER CORE, ADMINISTRACION DE DISCOS (video 90)"
+    },
+    {
+        "i": 60,
+        "j": "6zSllcADQEQ",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | IPCONFIG RELEASE, IPCONFIG RENEW (video 61)"
+    },
+    {
+        "i": 5,
+        "j": "7PYvZAwkYOw",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | EVENTOS DE APAGADO EN EL SERVIDOR (video 6)"
+    },
+    {
+        "i": 62,
+        "j": "8976lb7HuFw",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | RESERVA DE DIRECCION IP (video 63)"
+    },
+    {
+        "i": 45,
+        "j": "8E5JOhUEzZg",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | UNIR EQUIPOS A ACTIVE DIRECTORY (video 46)"
+    },
+    {
+        "i": 23,
+        "j": "8yLhU9pDZ68",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | CONFIGURACION DE RED (PARTE 1) (video 24)"
+    },
+    {
+        "i": 2,
+        "j": "ac9_3HxAvjw",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | INSTALACION DE W SERVER EN HYPER-V (video 3)"
+    },
+    {
+        "i": 39,
+        "j": "an7-RrE9VrU",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | CONSOLA ADMINISTRACION DE USUARIOS AD (video 40)"
+    },
+    {
+        "i": 63,
+        "j": "ArRhBTPe1qY",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DENEGAR DHCP (video 64)"
+    },
+    {
+        "i": 55,
+        "j": "AXZADlsnaHQ",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | IP PARA CONSULTAS DNS (video 56)"
+    },
+    {
+        "i": 56,
+        "j": "B6dCQ_3H0gs",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DHCP [INTRODUCCION] (video 57)"
+    },
+    {
+        "i": 13,
+        "j": "BQxZ4Bpwfro",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | HORA, FECHA Y ZONA HORARIA (video 14)"
+    },
+    {
+        "i": 51,
+        "j": "bvWtpPvuS2w",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | PROTOCOLO DNS (video 52)"
+    },
+    {
+        "i": 41,
+        "j": "ckJtJXR6eC4",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | CREACION DE USUARIOS EN AD (video 42)"
+    },
+    {
+        "i": 48,
+        "j": "CLGPjw7eark",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | ACTIVAR PAPELERA DE RECICLAJE EN AD (video 49)"
+    },
+    {
+        "i": 88,
+        "j": "DIoBWAXOrqM",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVER CORE, CONFIGURACION DE RED  (video 89)"
+    },
+    {
+        "i": 79,
+        "j": "eCICykTz6UQ",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | WSUS, INSTALACION (video 80)"
+    },
+    {
+        "i": 85,
+        "j": "Eqt53NMfTg4",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVER CORE, GRUPOS DE USUARIOS (video 86)"
+    },
+    {
+        "i": 76,
+        "j": "f2d6FhZh0X8",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | PUERTA DE ENLACE Y CERTIFICADOS  (video 77)"
+    },
+    {
+        "i": 42,
+        "j": "fBJ1aU1jjyI",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | CREACION DE GRUPOS EN AD (video 43)"
+    },
+    {
+        "i": 70,
+        "j": "GMmr9RiEtdw",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVIDOR DE ARCHIVOS  (video 71)"
+    },
+    {
+        "i": 74,
+        "j": "GVXLxtq56yU",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | MAPEO DE UNIDADES DE RED  (video 75)"
+    },
+    {
+        "i": 84,
+        "j": "H0rjfiBkBiQ",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVER CORE, USUARIOS (video 85)"
+    },
+    {
+        "i": 7,
+        "j": "hHtcqUPeX9g",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | ADMINISTRAR ACTUALIZACIONES  (video 8)"
+    },
+    {
+        "i": 28,
+        "j": "hJTvXas1IX4",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DESINSTALAR ROLES Y CARACTERISTICAS (video 29)"
+    },
+    {
+        "i": 6,
+        "j": "hsk4Q-6Zp1A",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | PRIMERAS ACTUALIZACIONES  (video 7)"
+    },
+    {
+        "i": 37,
+        "j": "HSNoq9uJvnY",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | COMO INSTALAR ACTIVE DIRECTORY (video 38)"
+    },
+    {
+        "i": 30,
+        "j": "hSX5BSQpaHc",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DISCOS Y VOLUMENES PARTE 2 (video 31)"
+    },
+    {
+        "i": 80,
+        "j": "iduEiUeBpgs",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | INSTALAR WINDOWS SERVER CORE EDITION (video 81)"
+    },
+    {
+        "i": 91,
+        "j": "IIFIS-tePkQ",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | FIN DEL CURSO, DESPEDIDA (video 92)"
+    },
+    {
+        "i": 50,
+        "j": "INuSEtVYUmw",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | REDES [CONCEPTOS BASICOS] (video 51)"
+    },
+    {
+        "i": 22,
+        "j": "iSKWo-VLoqo",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | MONITOR DE RECURSOS (video 23)"
+    },
+    {
+        "i": 15,
+        "j": "it1b-O1YneQ",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | WINDOWS DEFENDER (video 16)"
+    },
+    {
+        "i": 81,
+        "j": "j5k-HLII1Q0",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVER CORE ,HERRAMIENTAS GRAFICAS  (video 82)"
+    },
+    {
+        "i": 71,
+        "j": "JH0FIdiG5ds",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | AUDITORIA DE ARCHIVOS (video 72)"
+    },
+    {
+        "i": 52,
+        "j": "jTuRHzZNNN0",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DNS [CREAR SERVIDOR] (video 53)"
+    },
+    {
+        "i": 44,
+        "j": "k6XWUtklbDY",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | UNIDADES ORGANIZATIVAS EN AD (video 45)"
+    },
+    {
+        "i": 21,
+        "j": "khfN7ltSXKE",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | TAREAS PROGRAMADAS (video 22)"
+    },
+    {
+        "i": 8,
+        "j": "kRMN6dDO6vc",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | POLITICAS DE ACTUALIZACIONES  (video 9)"
+    },
+    {
+        "i": 46,
+        "j": "lFjRyL9kLIc",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | RESTRINGIR USUARIOS A UNICOS EQUIPOS (video 47)"
+    },
+    {
+        "i": 83,
+        "j": "lN_6Rff4nFE",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVER CORE, ESCRITORIO REMOTO  (video 84)"
+    },
+    {
+        "i": 75,
+        "j": "lTF9hd8L8sc",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | ACCESO DE ESCRITORIO REMOTO  (video 76)"
+    },
+    {
+        "i": 25,
+        "j": "m1vm7EcfLJI",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | FORMACION DE EQUIPOS NIC (video 26)"
+    },
+    {
+        "i": 35,
+        "j": "MOU1Enimi5c",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | GRUPO DE TRABAJO VS DOMINIO DE RED (video 36)"
+    },
+    {
+        "i": 19,
+        "j": "MvqJNWUSABk",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVICIOS (video 20)"
+    },
+    {
+        "i": 10,
+        "j": "N-5eD9lAaeU",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | ACCESO CON USUARIO STANDARD  (video 11)"
+    },
+    {
+        "i": 4,
+        "j": "OnKzOt2JCxs",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | ACCESO ADMINSITRADOR AL SERVIDOR (video 5)"
+    },
+    {
+        "i": 58,
+        "j": "peqMzPg_kiw",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DHCP, MODIFICAR PROPIEDADES (video 59)"
+    },
+    {
+        "i": 47,
+        "j": "pP98tLlvAFo",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | CONTROL DE HORARIO DE USUARIOS (video 48)"
+    },
+    {
+        "i": 33,
+        "j": "QbtWXHt7oOI",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | ARREGLO DE TIPO MIRROR [RAID 1] (video 34)"
+    },
+    {
+        "i": 29,
+        "j": "qQUiEnKfYNQ",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DISCOS Y VOLUMENES PARTE 1 (video 30)"
+    },
+    {
+        "i": 68,
+        "j": "r2v_FaRGB18",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | ADMINISTRACION DE CONTRASEÑAS  (video 69)"
+    },
+    {
+        "i": 36,
+        "j": "RFQLQ09zcfM",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | ACTIVE DIRECTORY [INTRODUCCION]  (video 37)"
+    },
+    {
+        "i": 77,
+        "j": "Rit0JaGEMuw",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DIRECTIVAS DE LA PUERTA DE ENLACE  (video 78)"
+    },
+    {
+        "i": 86,
+        "j": "Rmoj99jxsck",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVER CORE, SERVICIOS  (video 87)"
+    },
+    {
+        "i": 32,
+        "j": "runxdDYvNGw",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | VOLUMENES DISTRIBUIDOS (video 33)"
+    },
+    {
+        "i": 3,
+        "j": "SSFjbUlIXi0",
+        "b": "Curso de Microsoft Winodws Server 2022 desde cero | INSTALACION DE W SERVER EN VIRTUAL BOX (video 4)"
+    },
+    {
+        "i": 90,
+        "j": "Tw2_T8jYlN4",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SEGURIDAD, ANTIVIRUS (video 91)"
+    },
+    {
+        "i": 38,
+        "j": "tYrCCb3_GHU",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | VERIFICAR INSTALACION ACT. DIRECTORY (video 39)"
+    },
+    {
+        "i": 78,
+        "j": "U7nYVEkWqTI",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | PRIMER ACCESO REMOTO, CLIENTE  (video 79)"
+    },
+    {
+        "i": 12,
+        "j": "ukwCcCuYrP4",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | CAMBIAR NOMBRE AL SERVIDOR(video 13)"
+    },
+    {
+        "i": 18,
+        "j": "upHsS_5tjfg",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | EL FIREWALL, REGLAS DE SALIDA (video 19)"
+    },
+    {
+        "i": 59,
+        "j": "uXY-SAf30fk",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DHCP, CONECTAR EQUIPOS (video 60)"
+    },
+    {
+        "i": 64,
+        "j": "V0B1s7q3n7g",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | POLITICAS DE GRUPO INTRODUCCION (video 65)"
+    },
+    {
+        "i": 27,
+        "j": "Vi4NTLE5nBY",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | INSTALAR ROLES Y CARACTERISTICAS (video 28)"
+    },
+    {
+        "i": 73,
+        "j": "vlJraKu_mqg",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | FILTRO DE ARCHIVOS (video 74)"
+    },
+    {
+        "i": 67,
+        "j": "VMnKyLFdZkQ",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | GPO, CREAR POLITICAS DE GRUPOS (video 68)"
+    },
+    {
+        "i": 14,
+        "j": "wclJ7z3cyVQ",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | ESCRITORIO REMOTO (video 15)"
+    },
+    {
+        "i": 9,
+        "j": "WmrfgmKtLps",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | USUARIOS Y GRUPOS DE USUARIOS  (video 10)"
+    },
+    {
+        "i": 54,
+        "j": "wpegdegFWFA",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | BORAR CACHE DNS (video 55)"
+    },
+    {
+        "i": 53,
+        "j": "wxeHcWEZ7yM",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | REGISTRO DNS Y SUFIJO DNS (video 54)"
+    },
+    {
+        "i": 61,
+        "j": "WY1dIJ5InHc",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | LA MAC ADDRESS (video 62)"
+    },
+    {
+        "i": 31,
+        "j": "xFw7y7Eqs5E",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DISCOS BASICOS A DINAMICOS (video 32)"
+    },
+    {
+        "i": 17,
+        "j": "xQ88bk_0R7c",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | EL FIREWALL, REGLAS DE ENTRADA (video 18)"
+    },
+    {
+        "i": 24,
+        "j": "XxDsppBzvRw",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | CONFIGURACION DE RED (PARTE 2) (video 25)"
+    },
+    {
+        "i": 26,
+        "j": "yqCmAVk4tEk",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | INSTALAR WINDOWS 10 (video 27)"
+    },
+    {
+        "i": 0,
+        "j": "yuQATj2xTI8",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero y para principiantes | INTRODUCCION (video 1)"
+    },
+    {
+        "i": 72,
+        "j": "YyJ471pf1kI",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | ADMINISTRAR CUOTAS DE ALMACENAMIENTO (video 73)"
+    },
+    {
+        "i": 11,
+        "j": "z9CUzUS7T10",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | SERVER MANAGER, PRIMER ACCESO(video 12)"
+    },
+    {
+        "i": 20,
+        "j": "Z9R1Uqgr8L0",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | VISOR EVENTOS (video 21)"
+    },
+    {
+        "i": 57,
+        "j": "ZzdrNFqFzrM",
+        "b": "Curso de Microsoft Windows Server 2022 desde cero | DHCP , CREACION Y CONFIGURACION (video 58)"
+    }
+]

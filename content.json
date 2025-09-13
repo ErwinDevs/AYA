@@ -1,43 +1,33 @@
 [
     {
-        "a": 97,
-        "e": "PLyvsggKtwbLVOPuOGn9J1Ie9RD7r7LcWD",
-        "b": "Curso Spring Boot : Desarrollo de Microservicios",
-        "f": "https://i.ytimg.com/vi/BRtPNl0aBkA/hqdefault.jpg",
-        "g": 30,
-        "d": "UCeEW6PHNJlIwI-rKChmqqkw",
-        "h": "2024-02-29 15:56:43",
-        "c": "¡Sumérgete en el apasionante mundo del desarrollo de microservicios con Spring Boot, una de las tecnologías más codiciadas en la actualidad dentro del vasto universo tecnológico!\n\nEn este completo curso, te llevaremos de la mano paso a paso a través del desarrollo de un microservicio backend con Spring Boot, utilizando la poderosa herramienta InteliJ como nuestro fiel compañero de viaje.\n\nExploraremos las últimas y más actualizadas versiones de Java, Spring y Spring Boot, desentrañando meticulosamente cada una de las anotaciones que Spring nos ofrece para potenciar nuestro código al máximo.\n\nSin embargo, lo que realmente distingue este curso es el énfasis especial que pondremos en el diseño arquitectónico de cada capa de la solución. Profundizaremos en conceptos complejos como la inyección de dependencias, el bajo acoplamiento y la cohesión de los diversos componentes, asegurando que comprendas no solo cómo codificar, sino cómo construir robustas y escalables soluciones.\n\nCada implementación de controladores, servicios y persistencia se realizará siguiendo las mejores prácticas que Java nos ofrece, garantizando un código limpio y de calidad excepcional.\n\nPero eso no es todo, también exploraremos la integración de tecnologías complementarias como Docker para la gestión de contenedores, PostgresSQL como nuestra base de datos relacional y Lombok para simplificar el código. Y para asegurarnos de que nuestra API REST esté en la cima de su juego, llevaremos a cabo exhaustivas pruebas utilizando Postman, garantizando que esté bien formada y lista para enfrentar los desafíos del mundo real.\n\n¡Prepárate para transformar tu manera de desarrollar microservicios y llevar tus habilidades al siguiente nivel con este emocionante curso!"
+        "a": 102,
+        "e": "PL2Z95CSZ1N4E-yNYehqD1FKU8aBdjBfRM",
+        "b": "Curso de Windows Server 2022 desde cero para principantes",
+        "f": "https://i.ytimg.com/vi/yuQATj2xTI8/hqdefault.jpg",
+        "g": 92,
+        "d": "UCtt69OVnWMAcC5ZEWY0BO5A",
+        "h": "2024-04-15 19:43:40",
+        "c": "\"¡Bienvenido al Curso Completo de SQL Server 2022! En esta serie de videos, te sumergirás en el fascinante mundo de SQL Server, desde los conceptos básicos hasta técnicas avanzadas."
     },
     {
-        "a": 26,
-        "e": "PLAWADOpEOsdGBc8tYyW_im4Fg5z1m6eZu",
-        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Crea tus PRIMEROS PROGRMAS 🚀",
-        "f": "https://i.ytimg.com/vi/s43aiz5aNRQ/hqdefault.jpg",
-        "g": 21,
-        "d": "UCs_67ao0waslOaAbzaweHXA",
-        "h": "2020-04-08 20:01:57",
-        "c": "¿Te ha dado curiosidad estudiar programación?  En este curso podrás APRENDER PROGRAMACIÓN y crearás tus PRIMEROS PROGRAMAS! ⚡️ \nAnalizaremos tanto teoría como ejercicios prácticos para que tú puedas convertirte en un programador de calidad.\nCada semana habrá nuevos tutoriales! Suscríbete para verlos 🚀"
+        "a": 39,
+        "e": "PLkn3t7vbvnHSPdBnnRNdoCE8ODCJFW09x",
+        "b": "CURSO de SOLDADURA ELÉCTRICA para Principiantes - Aprende a como SOLDAR Hierro y Metal con Electrodo",
+        "f": "https://i.ytimg.com/vi/RpMTRhhhleI/hqdefault.jpg",
+        "g": 28,
+        "d": "UChgycoU69S92S_z25wlROaQ",
+        "h": "2021-10-16 21:48:44",
+        "c": "Aprende a SOLDAR desde \"CERO\" en éste curso Completo y totalmente online!! Aprende sobre los diferentes tipos de Maquinas, sus diferencias y los tipos de soldaduras con todos sus trucos, técnicas y secretos que podrás aplicar en tus proyectos de Herrería.\n\n=========\n\n👉 ¿Cuánto pagarías por un curso como este? 🤔\nEste curso es Gratis y siempre lo será, pero si sientes que lo que aprendiste te sirvió,\npuedes apoyarme con una donación invitándome un TECITO ☕ en el siguiente link...\n\n👉🔗 https://tecito.app/grantotem\n\n=========\n\n#Soldar #comosoldar #Herreria #hierro #cursodesoldadura #comosoldarparaprincipiantes #aprenderasoldar #soldarhierro #soldarconelectrodo #soldaduraelectrica #soldaduraparaprincipiantes"
     },
     {
-        "a": 43,
-        "e": "PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB",
-        "b": "Curso de programación JAVA desde cero",
-        "f": "https://i.ytimg.com/vi/L1oMLsiMusQ/hqdefault.jpg",
-        "g": 48,
-        "d": "UCeEW6PHNJlIwI-rKChmqqkw",
-        "h": "2017-01-21 00:51:19",
-        "c": "Curso JAVA desde cero,  Este es un curso gratuito y completo de programación en JAVA con bloc de notas."
-    },
-    {
-        "a": 22,
-        "e": "PLLniqWgyb4HHfkyWNgMWSvTq6RlUGusgN",
-        "b": "Curso de Excel COMPLETO y GRATIS - Dostin Hurtado",
-        "f": "https://i.ytimg.com/vi/L1D2zga0cBU/hqdefault.jpg",
-        "g": 19,
-        "d": "UCUnwzUFwZvQRcuIVgv5pD7Q",
-        "h": "2013-11-02 18:20:55",
-        "c": "Con este curso aprenderás Excel 2021, 2019, 2016, Excel 2013, Excel 2010 o incluso la 2007 en menos de 1 día, el curso está completo (Básico e Intermedio) y es completamente gratis. También al finalizar les recomiendo si así lo desean realizar el curso de Excel Avanzado (Macros)."
+        "a": 23,
+        "e": "PL2Z95CSZ1N4HLqf215jj9ZJgmWIXm7gOo",
+        "b": "Curso completo de informática básica desde cero para principiantes 2022",
+        "f": "https://i.ytimg.com/vi/o_78Ue_EUeI/hqdefault.jpg",
+        "g": 16,
+        "d": "UCtt69OVnWMAcC5ZEWY0BO5A",
+        "h": "2022-08-30 11:37:12",
+        "c": "¡Bienvenidos al curso de Informática Básica más amigable y accesible en YouTube! Si alguna vez te has sentido abrumado por la tecnología o si simplemente quieres comprender mejor el mundo digital que nos rodea, este curso es perfecto para ti. Desde los conceptos más básicos hasta la navegación en línea y la seguridad informática, te guiaremos en un emocionante viaje para descubrir los fundamentos de la informática.\n\n¿Por qué tomar este curso?\n\nEn la era digital actual, la informática es una habilidad esencial para navegar en el mundo laboral y personal. Aprender los conceptos básicos te permitirá sentirte más cómodo con las tecnologías, realizar tareas cotidianas con confianza y adquirir una base sólida para futuros aprendizajes en áreas más avanzadas."
     },
     {
         "a": 30,
@@ -48,5 +38,14 @@
         "d": "UC1DggK5BjCUPWNgZRy0esRQ",
         "h": "2025-05-24 18:03:06",
         "c": "El mejor curso de Excel Gratis y completo que vas a encontrar en Youtube con ejercicios para descargar. Recuerda es 100% gratis y está pensado para que aprendas desde cero, paso a paso con muchos ejercicios para descargar en todos los módulos.\n\nEste curso esta enfocado en estudiantes, o si trabajas en oficina o simplemente quieres dejar de sufrir cada vez que abres una hoja de cálculo 😅.\nVas a aprender a usar fórmulas básicas, intermedidas y avanzadas, crear tablas dinámicas, automatizar tareas y hasta hacer tus propios reportes o dashboards hasta llegar al nivel de programar tus propias macros con VBA.\n\nNo necesitas saber nada, solo tener ganas de aprender.\n¡Y sí, es totalmente gratis! Así que… ¿qué esperas? 💻✨"
+    },
+    {
+        "a": 37,
+        "e": "PLzjPEWJnnJNqGhk6DGpbuf8NDASsOQUND",
+        "b": "Curso De Trading Para Principiantes",
+        "f": "https://i.ytimg.com/vi/TdEbkTk40qQ/hqdefault.jpg",
+        "g": 14,
+        "d": "UCKP8me8NRKaGZZHAuKSSuvA",
+        "h": "2024-11-24 15:44:31"
     }
 ]
