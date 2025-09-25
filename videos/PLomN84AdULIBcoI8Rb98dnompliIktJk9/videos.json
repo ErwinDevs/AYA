@@ -1,0 +1,882 @@
+[
+    {
+        "i": 37,
+        "j": "_eYwFHQMA3E",
+        "b": "Curso de Redes. 2.4.13  Fibra oscura, envejecimiento y comparación con el cobre"
+    },
+    {
+        "i": 142,
+        "j": "_l1ieN2pTpE",
+        "b": "Curso de Redes. 9.13. Arquitectura de Internet"
+    },
+    {
+        "i": 31,
+        "j": "-5d8A_T01D4",
+        "b": "Curso de Redes. 2.4.7. Cables de fibra óptica. Emisores de luz"
+    },
+    {
+        "i": 14,
+        "j": "-7IV-Nlyaf4",
+        "b": "Curso de Redes. 2.2.4. Cables metálicos. Diafonía"
+    },
+    {
+        "i": 5,
+        "j": "-sQIFuYorTc",
+        "b": "Curso de Redes. 1.6. Protocolos e información de control"
+    },
+    {
+        "i": 20,
+        "j": "0GVoZZs7W54",
+        "b": "Curso de Redes. 2.3.3. Sistemas de cableado estructurado. Cables y categorías"
+    },
+    {
+        "i": 158,
+        "j": "0LAZKtK4iCY",
+        "b": "Curso de Redes Telemáticas. 10. 13. Protocolo TCP: Intercambio de datos"
+    },
+    {
+        "i": 149,
+        "j": "0MlNpTgO97c",
+        "b": "Curso de Redes. 10.4. Protocolo TCP. Funciones y cabecera."
+    },
+    {
+        "i": 105,
+        "j": "0mWO_C2D_y4",
+        "b": "Curso de Redes. 7.7 Routing dinámico basado en el estado del enlace"
+    },
+    {
+        "i": 19,
+        "j": "17oNQpVZ5Fo",
+        "b": "Curso de Redes. 2.3.2. Sistemas de cableado estructurado. Tipos de cables y de apantallamiento"
+    },
+    {
+        "i": 102,
+        "j": "19iCHRX5Fbs",
+        "b": "Curso de Redes. 7.4. Algoritmos de routing."
+    },
+    {
+        "i": 112,
+        "j": "1p96ivgDM5c",
+        "b": "Curso de Redes. 8.7 Tabla de rutas"
+    },
+    {
+        "i": 42,
+        "j": "2QPqo9uwsjo",
+        "b": "Curso de Redes. 2.6.1. Medios inalámbricos. Bandas y tipos de transmisión"
+    },
+    {
+        "i": 70,
+        "j": "3dNzA1ssnEY",
+        "b": "Curso de Redes Telemáticas. 3.7. Protocolo PPP y redes SONET/SDH"
+    },
+    {
+        "i": 84,
+        "j": "3K1MWQ1ZoeU",
+        "b": "Curso de Redes. 5.4.4. Bucles entre puentes. Spanning tree. Ataques"
+    },
+    {
+        "i": 97,
+        "j": "4LTokFLSXTY",
+        "b": "Curso de Redes. 6.5.3 Redes 802.11. Fragmentación/Agrupación"
+    },
+    {
+        "i": 99,
+        "j": "5FJ4u2m9w1g",
+        "b": "Curso de Redes. 7.1. Perspectiva general de la segunda parte del curso."
+    },
+    {
+        "i": 156,
+        "j": "5utodCo7U20",
+        "b": "Curso de Redes. 10.11 Protocolo TCP: Desconexión unilateral"
+    },
+    {
+        "i": 16,
+        "j": "5xKDqwnXFzU",
+        "b": "Curso de Redes. 2.2.6. Cables metálicos. Diafonía \"alien\""
+    },
+    {
+        "i": 131,
+        "j": "6AA5CRnMIKM",
+        "b": "Curso de Redes. 9.2 Resolución inversa de direcciones: protocolo BOOTP"
+    },
+    {
+        "i": 130,
+        "j": "6N4uB1p6MqA",
+        "b": "Curso de Redes. 9.1 Resolución inversa de direcciones: protocolo RARP"
+    },
+    {
+        "i": 126,
+        "j": "6umpYumltCk",
+        "b": "Curso de Redes. 8.21. Alimento para la mente. Ejercicios."
+    },
+    {
+        "i": 64,
+        "j": "7G1p2-VQEKQ",
+        "b": "Curso de Redes. 3.3.2. Control de errores. Códigos detectores"
+    },
+    {
+        "i": 62,
+        "j": "7L4GjIp_5j8",
+        "b": "Curso de Redes. 3.2. Delimitación de tramas"
+    },
+    {
+        "i": 154,
+        "j": "7vrjiF7F3pY",
+        "b": "Curso de Redes. 10.9. Protocolo TCP: Ejemplo de conexión/desconexión."
+    },
+    {
+        "i": 48,
+        "j": "8mIEnf3RRRM",
+        "b": "Curso de Redes. 2.6.7. Medios inalámbricos. Aspectos prácticos en la instalación de APs"
+    },
+    {
+        "i": 145,
+        "j": "8pLe8K1yAnA",
+        "b": "Curso de Redes. 9.16 Organización administrativa de Internet"
+    },
+    {
+        "i": 22,
+        "j": "8puqCreEfgk",
+        "b": "Curso de Redes. 2.3.5. Sistemas de cableado estructurado. Consejos prácticos."
+    },
+    {
+        "i": 121,
+        "j": "8TlL4JlJdDA",
+        "b": "Curso de Redes.8.16. Direcciones"
+    },
+    {
+        "i": 123,
+        "j": "98Igov-JmVI",
+        "b": "Curso de Redes. 8.18. ARP básico"
+    },
+    {
+        "i": 25,
+        "j": "9LEztxR3OKw",
+        "b": "Curso de Redes. 2.4.1. Cables de fibra óptica. Cuestiones generales"
+    },
+    {
+        "i": 172,
+        "j": "9soiAMdmRQw",
+        "b": "Curso de Redes. 10.27 Opciones de TCP"
+    },
+    {
+        "i": 41,
+        "j": "Apsh2AoEoiM",
+        "b": "Curso de Redes. 2.5.4. WDM. Coarse WDM y Short WDM"
+    },
+    {
+        "i": 1,
+        "j": "ASXYvGV6sqE",
+        "b": "Curso de Redes 1.2. Tipos de redes. LAN y WAN."
+    },
+    {
+        "i": 169,
+        "j": "aVTNnvv2E8M",
+        "b": "Curso de Redes. 10.24 Congestion Avoidance de TCP"
+    },
+    {
+        "i": 134,
+        "j": "B_teAa7M-uQ",
+        "b": "Curso de Redes. 9.5 Ataques de spoofing"
+    },
+    {
+        "i": 91,
+        "j": "B_ZlZ9L6p0o",
+        "b": "Curso de Redes. 6.1.2. Redes 802.11. Topología y organización. Identificación"
+    },
+    {
+        "i": 111,
+        "j": "b5KvxuMBNxM",
+        "b": "Curso de Redes. 8.6 Enrutamiento básico"
+    },
+    {
+        "i": 164,
+        "j": "bfbgXEe7UoA",
+        "b": "Curso de Redes. 10.19 Pipeline de TCP y reenvío de segmentos"
+    },
+    {
+        "i": 136,
+        "j": "bga8fR8E570",
+        "b": "Curso de Redes Telemáticas. 9.7 Protocolos de routing: RIP e IGRP/EIGRP"
+    },
+    {
+        "i": 114,
+        "j": "BHZ8AAKuKE0",
+        "b": "Curso de Redes. 8.9 Direcciones especiales"
+    },
+    {
+        "i": 151,
+        "j": "blRsbnSUbls",
+        "b": "Curso de Redes.10.6. Protocolo TCP: establecimiento de conexión."
+    },
+    {
+        "i": 53,
+        "j": "BmAxn8BligE",
+        "b": "Curso de Redes. 2.7. Modulación, codificación, señales."
+    },
+    {
+        "i": 0,
+        "j": "BrqH4PVyYF4",
+        "b": "Curso de Redes. 1.1. Introducción. Conceptos básicos. Redes informáticas y telemáticas."
+    },
+    {
+        "i": 150,
+        "j": "By20rTaXFIw",
+        "b": "Curso de Redes. 10.5. Protocolo TCP: multiplexación"
+    },
+    {
+        "i": 58,
+        "j": "C-bOwlef9hA",
+        "b": "Curso de Redes. 2.9.2. Transmisión analógica. Ley de Shannon"
+    },
+    {
+        "i": 27,
+        "j": "c5tCC5TGhVg",
+        "b": "Curso de Redes.2.4.3. Cables de fibra óptica. Fibra monomodo"
+    },
+    {
+        "i": 35,
+        "j": "Cba8BYpe_c4",
+        "b": "Curso de Redes. 2.4.11. Cables de fibra óptica. Tipos de pulido."
+    },
+    {
+        "i": 76,
+        "j": "CddpeDCStII",
+        "b": "Curso de Redes. 4.4.2. Estandarización. Desarrollos recientes"
+    },
+    {
+        "i": 78,
+        "j": "cM3Uxqzt1vk",
+        "b": "Curso de Redes. 5.1.2. Puentes transparentes. Aparición de los conmutadores"
+    },
+    {
+        "i": 9,
+        "j": "CnSz0XbP1J4",
+        "b": "Curso de Redes. 1.10. Principios de diseño: una pincelada."
+    },
+    {
+        "i": 74,
+        "j": "CpSe2mk_5-I",
+        "b": "Curso de Redes. 4.3.2. El nivel de enlace en Ethernet. Protocolo CSMA/CD"
+    },
+    {
+        "i": 44,
+        "j": "CSodixdrKM0",
+        "b": "Curso de Redes. 2.6.3. Medios inalámbricos. Bandas, canales y estándares"
+    },
+    {
+        "i": 103,
+        "j": "D3v4Q4RUMpU",
+        "b": "Curso de Redes. 7.5. Routing estático basado en el flujo"
+    },
+    {
+        "i": 170,
+        "j": "D9CrKZcu8CA",
+        "b": "Curso de Redes. 10.25 Control avanzado de congestión"
+    },
+    {
+        "i": 117,
+        "j": "DCu6Wv_n8HQ",
+        "b": "Curso de Redes. 8.12 Orden de enrutamiento, tabla de rutas"
+    },
+    {
+        "i": 166,
+        "j": "DHA4SKH6Aos",
+        "b": "Curso de Redes. 10.21 Timer de Keepalive de TCP."
+    },
+    {
+        "i": 80,
+        "j": "Dm1qm-GWKFY",
+        "b": "Curso de Redes. 5.3. Ataques en conmutadores"
+    },
+    {
+        "i": 46,
+        "j": "dPvTRRPu9LM",
+        "b": "Curso de Redes. 2.6.5. Medios inalámbricos. Intensidad de la señal"
+    },
+    {
+        "i": 152,
+        "j": "drBwqN038vM",
+        "b": "Curso de Redes. 10.7. Protocolo TCP: números de secuencia"
+    },
+    {
+        "i": 59,
+        "j": "DztiAAy2SeM",
+        "b": "Curso de Redes. 2.9.3. Transmisión analógica. ADSL"
+    },
+    {
+        "i": 57,
+        "j": "e2ZRg0jnnZc",
+        "b": "Curso de Redes. 2.9.1. Transmisión analógica. Modulación, constelaciones"
+    },
+    {
+        "i": 2,
+        "j": "EDXSvhbaTvM",
+        "b": "Curso de Redes 1.3. Modelo de capas, una analogía."
+    },
+    {
+        "i": 175,
+        "j": "eGgZCJA1X_E",
+        "b": "Curso de Redes. 11.2 NAT II (Network address Translation)"
+    },
+    {
+        "i": 86,
+        "j": "EID4JyA9ewc",
+        "b": "Curso de Redes. 5.5.1. Redes locales virtuales (VLANs). Planteamiento del problema."
+    },
+    {
+        "i": 15,
+        "j": "Ek-OARF2UXg",
+        "b": "Curso de Redes. 2.2.5. Cables metálicos. ACR"
+    },
+    {
+        "i": 120,
+        "j": "ENWMLDZpI5I",
+        "b": "Curso de Redes. 8.15. Ejercicios"
+    },
+    {
+        "i": 153,
+        "j": "EpCOiSCxCgY",
+        "b": "Curso de Redes. 10.8. Protocolo TCP: desconexión."
+    },
+    {
+        "i": 165,
+        "j": "eQxvfHpyXes",
+        "b": "Curso de Redes. 10. 20. Mejoras de rendimiento de TCP"
+    },
+    {
+        "i": 147,
+        "j": "ez82JeEMYjQ",
+        "b": "Curso de Redes. 10.2 Protocolo UDP (1/2)"
+    },
+    {
+        "i": 45,
+        "j": "fAHtbF8CCgc",
+        "b": "Curso de Redes. 2.6.4. Medios inalámbricos. Negociación de velocidad"
+    },
+    {
+        "i": 55,
+        "j": "Ffv2wbo1Hbs",
+        "b": "Curso de Redes. 2.8.2. Transmisión digital. Códigos de bloque"
+    },
+    {
+        "i": 98,
+        "j": "fFvvIWO3JcA",
+        "b": "Curso de Redes. 6.6. Redes 802.11. Rendimiento y compatibilidad"
+    },
+    {
+        "i": 128,
+        "j": "FGjchehMdN8",
+        "b": "Curso de Redes. 8. 23. Duplicidad de direcciones"
+    },
+    {
+        "i": 73,
+        "j": "FH5M4fCRNrE",
+        "b": "Curso de Redes. 4.3.1. El nivel de enlace en Ethernet. Formato de trama"
+    },
+    {
+        "i": 93,
+        "j": "fjdhAOC7e4Q",
+        "b": "Curso de Redes. 6.3. Redes 802.11. Formato de trama"
+    },
+    {
+        "i": 43,
+        "j": "FPBEnht0LM4",
+        "b": "Curso de Redes. 2.6.2. Medios inalámbricos."
+    },
+    {
+        "i": 23,
+        "j": "GG_E0Ca_Ow0",
+        "b": "Curso de Redes. 2.3.6. Sistemas de cableado estructurado. Conectores"
+    },
+    {
+        "i": 104,
+        "j": "gMyEB9_eKwg",
+        "b": "Curso de Redes. 7.6. Routing dinámico basado en vector distancia"
+    },
+    {
+        "i": 34,
+        "j": "gvfSVQ9oHVI",
+        "b": "Curso de Redes. 2.4.10. Cables de fibra óptica. Aspectos prácticos"
+    },
+    {
+        "i": 3,
+        "j": "gyk3Fq7g95o",
+        "b": "Curso de Redes  1.4. Arquitecturas de redes. Descripción de las capas."
+    },
+    {
+        "i": 12,
+        "j": "GzVI-k2-4yI",
+        "b": "Curso de Redes. 2.2.2. Cables metálicos. Trenzado"
+    },
+    {
+        "i": 125,
+        "j": "ha_VqXy4_KM",
+        "b": "Curso de Redes. 8.20. La lógica de encaminamiento de un paquete."
+    },
+    {
+        "i": 161,
+        "j": "hRsUxMcXsxI",
+        "b": "Curso de Redes. 10.16. Flujo de datos interactivos en TCP."
+    },
+    {
+        "i": 173,
+        "j": "iobUcKZ0lSw",
+        "b": "Curso de Redes. 10.28. Resumen de TCP/UDP"
+    },
+    {
+        "i": 119,
+        "j": "IPk_8WD-bRM",
+        "b": "Curso de Redes. 8.14. Envíos broadcast."
+    },
+    {
+        "i": 88,
+        "j": "ixmoiqjAxfg",
+        "b": "Curso de Redes. 5.5.3. Redes locales virtuales (VLANs). Spanning tree."
+    },
+    {
+        "i": 51,
+        "j": "jB1ZG9-LVsw",
+        "b": "Curso de Redes. 2.6.10. Medios inalámbricos. MIMO"
+    },
+    {
+        "i": 33,
+        "j": "jd5H_rLUzr4",
+        "b": "Curso de Redes. 2.4.9. Cables de fibra óptica. Dispersión en fibras monomodo. Tipos de fibras"
+    },
+    {
+        "i": 17,
+        "j": "JGjO47sDRAA",
+        "b": "Curso de Redes. 2.2.7. Cables metálicos. Comparación de NEXT, FEXT, ANEXT y AFEXT en varias redes"
+    },
+    {
+        "i": 49,
+        "j": "ji4yGQ29CRQ",
+        "b": "Curso de Redes. 2.6.8. Medios inalámbricos. Antenas y ganancias"
+    },
+    {
+        "i": 75,
+        "j": "jmumS3Mbc74",
+        "b": "Curso de Redes. 4.4.1. Estandarización. Diferencias Ethernet-IEEE 802.3"
+    },
+    {
+        "i": 40,
+        "j": "Jxm1JxtDO6M",
+        "b": "Curso de redes. 2.5.3. WDM. Redes ópticas"
+    },
+    {
+        "i": 39,
+        "j": "jyMIaS4gicY",
+        "b": "Curso de Redes. 2.5.2 WDM. Amplificadores EDFA, Fibras DSF y NZDSF"
+    },
+    {
+        "i": 143,
+        "j": "KaHpC2W9-l4",
+        "b": "Curso de Redes. 9.14 Fragmentación"
+    },
+    {
+        "i": 137,
+        "j": "KB18rUEGFIo",
+        "b": "Curso de Redes. 9.8 Protocolos de routing: OSPF"
+    },
+    {
+        "i": 139,
+        "j": "KKQPVghhKBQ",
+        "b": "Curso de Redes. 9.10 Mecanismo de enrutado"
+    },
+    {
+        "i": 71,
+        "j": "KrZtNn6l2O0",
+        "b": "Curso de Redes. 4.1. Antecedentes. Red Aloha"
+    },
+    {
+        "i": 113,
+        "j": "kSJ6CgVaG50",
+        "b": "Curso de Redes. 8.8 Hosts multihomed y líneas serie"
+    },
+    {
+        "i": 95,
+        "j": "KXnhOOMMVl0",
+        "b": "Curso de Redes. 6.5.1 Redes 802.11. Tipos de envíos."
+    },
+    {
+        "i": 94,
+        "j": "l_hD7PtsUEA",
+        "b": "Curso de Redes. 6.4. Redes 802.11. Protocolo MAC"
+    },
+    {
+        "i": 66,
+        "j": "l5YdadYnx2E",
+        "b": "Curso de Redes. 3.3.4. Control de errores. Interleaving"
+    },
+    {
+        "i": 72,
+        "j": "lbQD6FWkjNw",
+        "b": "Curso de Redes. 4.2. Origen de Ethernet"
+    },
+    {
+        "i": 82,
+        "j": "lcdY4DSDRC8",
+        "b": "Curso de Redes. 5.4.2. Bucles entre puentes. Spanning tree. Solución"
+    },
+    {
+        "i": 174,
+        "j": "lFyIgt7iVKA",
+        "b": "Curso de Redes 11.1. NAT I (Network Address Translation)."
+    },
+    {
+        "i": 146,
+        "j": "lJVs93IwSU8",
+        "b": "Curso de Redes 10.1. Nivel de transporte, aspectos generales."
+    },
+    {
+        "i": 24,
+        "j": "LmzQeF-E7ys",
+        "b": "Curso de Redes. 2.3.7. Sistemas de cableado estructurado. PoE e interferencias externas"
+    },
+    {
+        "i": 124,
+        "j": "lNfb-S9Qndo",
+        "b": "Curso de Redes. 8.19. ARP avanzado"
+    },
+    {
+        "i": 6,
+        "j": "lojGC2fsPE8",
+        "b": "Curso de Redes. 1.7. El modelo de internetworking de Cisco."
+    },
+    {
+        "i": 133,
+        "j": "mmuvHcGK-8M",
+        "b": "Curso de Redes. 9.4 Ataques relacionados con DHCP"
+    },
+    {
+        "i": 79,
+        "j": "n9dL1cSGYFg",
+        "b": "Curso de Redes. 5.2. Microsegmentación. Full Dúplex"
+    },
+    {
+        "i": 116,
+        "j": "NE5dSS04SIA",
+        "b": "Curso de Redes. 8.11 Ruta por defecto, rutas host"
+    },
+    {
+        "i": 118,
+        "j": "nhi3aPmMeBA",
+        "b": "Curso de Redes. 8.13 Enrutamiento jerárquico"
+    },
+    {
+        "i": 115,
+        "j": "nRjIwd9YAL8",
+        "b": "Curso de Redes. 8.10 Subredes y máscaras"
+    },
+    {
+        "i": 168,
+        "j": "nS08p-lsbPM",
+        "b": "Curso de Redes. 10.23 Control de congestión de TCP"
+    },
+    {
+        "i": 85,
+        "j": "nS13o7zcHBg",
+        "b": "Curso de Redes. 5.4.5. Demo programa Wireshark"
+    },
+    {
+        "i": 54,
+        "j": "NuvmuCaI3hM",
+        "b": "Curso de Redes. 2.8.1. Transmisión digital. Códigos de línea"
+    },
+    {
+        "i": 11,
+        "j": "NzcAbQO2a0Y",
+        "b": "Curso de Redes. 2.2.1. Cables metálicos. Corrientes eléctricas."
+    },
+    {
+        "i": 162,
+        "j": "OAj-vahYHYI",
+        "b": "Curso de Redes. 10.17 Flujo de datos masivos en TCP"
+    },
+    {
+        "i": 30,
+        "j": "ovXDajvixD0",
+        "b": "Curso de Redes. 2.4.6. Cables de fibra óptica. Amplificadores y repetidores"
+    },
+    {
+        "i": 110,
+        "j": "OzzHkGPVuSc",
+        "b": "Curso de Redes.8.5 Organización de las direcciones en Internet."
+    },
+    {
+        "i": 159,
+        "j": "p-rhMXQ2Bxw",
+        "b": "Curso de Redes. 10.14 Negociación de la MTU"
+    },
+    {
+        "i": 140,
+        "j": "PCAjtxbGU-g",
+        "b": "Curso de Redes. 9. 11.  Routing entre sistemas autónomos. Protocolo BGP"
+    },
+    {
+        "i": 106,
+        "j": "pib6cwFl8SY",
+        "b": "Curso de Redes. 8.1 Introducción a Internet"
+    },
+    {
+        "i": 56,
+        "j": "PMAwifK-y-4",
+        "b": "Curso de Redes. 2.8.3. Transmisión digital. Códigos multinivel"
+    },
+    {
+        "i": 29,
+        "j": "pMIdlMfevRs",
+        "b": "Curso de Redes. 2.4.5 Cables de fibra óptica. Atenuación, ventanas y bandas"
+    },
+    {
+        "i": 10,
+        "j": "pz39xEwygFU",
+        "b": "Curso de Redes. 2.1. Medios de transmisión. Introducción"
+    },
+    {
+        "i": 32,
+        "j": "q8-nrc9MvgQ",
+        "b": "Curso de Redes. 2.4.8. Cables de fibra óptica. Dispersión en fibras multimodo. Tipos de fibras"
+    },
+    {
+        "i": 69,
+        "j": "qHX1lKlwZ1o",
+        "b": "Curso de Redes Telemáticas. 3.6. Protocolos de nivel de enlace."
+    },
+    {
+        "i": 87,
+        "j": "QjT5MEC0f84",
+        "b": "Curso de Redes. 5.5.2. Redes locales virtuales (VLANs). Enlaces 'trunk'."
+    },
+    {
+        "i": 101,
+        "j": "Qr69MsqGdhM",
+        "b": "Curso de Redes. 7.3 Tiempo de servicio"
+    },
+    {
+        "i": 92,
+        "j": "qRIjbA0Z5Ow",
+        "b": "Curso de Redes. 6.2. Redes 802.11. Conectividad e itinerancia"
+    },
+    {
+        "i": 7,
+        "j": "QuTUyaMvXdM",
+        "b": "Curso de Redes. 1.8. Estándares."
+    },
+    {
+        "i": 132,
+        "j": "r_8YCvfcNM4",
+        "b": "Curso de Redes. 9.3 Resolución inversa de direcciones: protocolo DHCP"
+    },
+    {
+        "i": 68,
+        "j": "r4PejLabNlo",
+        "b": "Curso de Redes Telemáticas. 3.5. Modos de conmutación."
+    },
+    {
+        "i": 160,
+        "j": "R7XAhXpz9lc",
+        "b": "Curso de Redes. 10.15 Datos 'pushed' y datos urgentes"
+    },
+    {
+        "i": 52,
+        "j": "rTwpCeBQFfI",
+        "b": "Curso de Redes. 2.6.11. Medios inalámbricos. Nuevos desarrollos"
+    },
+    {
+        "i": 18,
+        "j": "S55IpAovx1w",
+        "b": "Curso de Redes. 2.3.1. Sistemas de cableado estructurado. Origen y normativas"
+    },
+    {
+        "i": 157,
+        "j": "SC8LVgVYDEg",
+        "b": "Curso redes. 10.12 Protocolo TCP: Programación sockets"
+    },
+    {
+        "i": 138,
+        "j": "se1R34dmk7Q",
+        "b": "Curso de Redes Telemáticas. 9.9 Protocolos de routing: IS-IS"
+    },
+    {
+        "i": 67,
+        "j": "sOvNObL4VRU",
+        "b": "Curso de Redes. 3.4. Definición de tiempos"
+    },
+    {
+        "i": 83,
+        "j": "t-6NDSwvh5E",
+        "b": "Curso de Redes. 5.4.3. Bucles entre puentes. Spanning tree. Protocolo"
+    },
+    {
+        "i": 28,
+        "j": "TawYYIpoQB0",
+        "b": "Curso de Redes. 2.4.4. Cables de fibra óptica. Algunos ejemplos"
+    },
+    {
+        "i": 96,
+        "j": "tEE_q_m0law",
+        "b": "Curso de Redes. 6.5.2 Redes 802.11. Problema de la estación oculta"
+    },
+    {
+        "i": 38,
+        "j": "TUiNZM4KYSE",
+        "b": "Curso de Redes. 2.5.1 WDM (Wavelength Division Multiplexing). Aspectos generales"
+    },
+    {
+        "i": 107,
+        "j": "twfTrXFCQYc",
+        "b": "Curso de Redes. 8.2 La cabecera IP."
+    },
+    {
+        "i": 21,
+        "j": "Us2BY7Hf2yQ",
+        "b": "Curso de Redes. 2.3.4. Sistemas de cableado estructurado. Comprobación de cables."
+    },
+    {
+        "i": 144,
+        "j": "v_-bHKhDhzA",
+        "b": "Curso de Redes. 9.15 Historia de Internet"
+    },
+    {
+        "i": 13,
+        "j": "vA2JobdSfnU",
+        "b": "Curso de Redes. 2.2.3. Cables metálicos. Atenuación y pérdida de retorno"
+    },
+    {
+        "i": 60,
+        "j": "vdBPLgKj2FM",
+        "b": "Curso de Redes 2.9.4. Transmisión analógica. ADSL, ejemplo práctico"
+    },
+    {
+        "i": 141,
+        "j": "vN3ZSarT1dE",
+        "b": "Curso de Redes. 9.12 Organizaciones con dos conexiones a Internet"
+    },
+    {
+        "i": 148,
+        "j": "vqeapa1MWWA",
+        "b": "Curso de Redes.10.3. Protocolo UDP (2/2)"
+    },
+    {
+        "i": 122,
+        "j": "VRUq1OwqjQ4",
+        "b": "Curso de Redes. 8.17. ICMP. Internet Control Message Protocol"
+    },
+    {
+        "i": 155,
+        "j": "w8qI1krG00k",
+        "b": "Curso de Redes. 10.10 TCP: Desconexión simultánea y pérdida de mensajes de desconexión"
+    },
+    {
+        "i": 8,
+        "j": "waRsyLpwmuU",
+        "b": "Curso de Redes.1.9. Breve historia de la telemática."
+    },
+    {
+        "i": 127,
+        "j": "WDXKeicKL3c",
+        "b": "Curso de Redes. 8.22. Alta disponibilidad"
+    },
+    {
+        "i": 100,
+        "j": "Wj3aXjq1oaI",
+        "b": "Curso de Redes. 7.2. Aspectos generales del nivel de red."
+    },
+    {
+        "i": 81,
+        "j": "WlRc7qVN4p4",
+        "b": "Curso de Redes. 5.4.1. Bucles entre puentes. Spanning tree. Planteamiento del problema"
+    },
+    {
+        "i": 65,
+        "j": "WSmmNvHPaKc",
+        "b": "Curso de Redes. 3.3.3. Control de errores. Códigos correctores"
+    },
+    {
+        "i": 89,
+        "j": "wsr1iYbhXOs",
+        "b": "Curso de Redes. 5.6. Conmutadores configurables y gestionables."
+    },
+    {
+        "i": 47,
+        "j": "wTzhOfQvtqs",
+        "b": "Curso de Redes. 2.6.6. Medios inalámbricos. Interferencias"
+    },
+    {
+        "i": 167,
+        "j": "x17GIy75Ng4",
+        "b": "Curso de Redes. 10.22 Timer de retransmisión en TCP"
+    },
+    {
+        "i": 26,
+        "j": "xEGowifxX-8",
+        "b": "Curso de Redes. 2.4.2. Cables de fibra óptica. Fibra multimodo"
+    },
+    {
+        "i": 163,
+        "j": "xnCw16fGR78",
+        "b": "Curso de Redes. 10.18 Timer de persistencia"
+    },
+    {
+        "i": 36,
+        "j": "xWvuIGPZy7M",
+        "b": "Curso de redes. 2.4.12. Cables de fibra óptica. Transceptores ópticos"
+    },
+    {
+        "i": 77,
+        "j": "XXGDw_Q-bbY",
+        "b": "Curso de Redes. 5.1.1. Puentes transparentes. Como funcionan"
+    },
+    {
+        "i": 108,
+        "j": "y1TIIOv5Tc0",
+        "b": "Curso de Redes. 8.3 La cabecera  IP  y sus opciones."
+    },
+    {
+        "i": 90,
+        "j": "Y218eOMghEA",
+        "b": "Curso de Redes. 6.1.1. Redes 802.11. Topología y organización. Arquitectura"
+    },
+    {
+        "i": 61,
+        "j": "y3A9QBJBbCM",
+        "b": "Curso de Redes. 3.1. Funciones de la capa de enlace"
+    },
+    {
+        "i": 50,
+        "j": "y6hNf9BnOkQ",
+        "b": "Curso de Redes. 2.6.9. Medios inalámbricos. Puentes inalámbricos"
+    },
+    {
+        "i": 109,
+        "j": "ywJprEn_c0U",
+        "b": "Curso de Redes. 8.4 Direcciones IP y enrutamiento en un host."
+    },
+    {
+        "i": 135,
+        "j": "yypuhnxWZTg",
+        "b": "Curso de Redes. 9.6 Protocolos de routing: aspectos generales"
+    },
+    {
+        "i": 4,
+        "j": "yZivRoQW8D4",
+        "b": "Curso de Redes  1.5. El modelo TCP/IP y su arquitectura."
+    },
+    {
+        "i": 171,
+        "j": "Z1VEOOqlOAc",
+        "b": "Curso  de Redes. 10.26 Uso del factor de escala"
+    },
+    {
+        "i": 63,
+        "j": "za7A6oAp9E8",
+        "b": "Curso de Redes. 3.3.1. Control de errores. Cómo se miden"
+    },
+    {
+        "i": 129,
+        "j": "zT7q7ZcfvPo",
+        "b": "Curso de Redes. 8.24. Ejercicios"
+    }
+]
