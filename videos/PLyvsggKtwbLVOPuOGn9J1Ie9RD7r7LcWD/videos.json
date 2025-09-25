@@ -1,1 +1,152 @@
-[]
+[
+    {
+        "i": 5,
+        "j": "_K5X4DfOAVE",
+        "b": "Curso Spring Boot #6 – Desarrollo de una aplicación para verificar palíndromos (Practica propuesta)"
+    },
+    {
+        "i": 6,
+        "j": "16hTP5we0_o",
+        "b": "Curso Spring Boot #7 – ¿Qué son los Microservicios?"
+    },
+    {
+        "i": 12,
+        "j": "22kKypD1OAE",
+        "b": "Curso Spring Boot #13 – La Anotación @PutMapping (Modificación de Recursos)"
+    },
+    {
+        "i": 14,
+        "j": "2hQz4zpWUvI",
+        "b": "Curso Spring Boot #15 – La Anotación @PatchMapping (Modificación Parcial de Recursos)"
+    },
+    {
+        "i": 4,
+        "j": "319Vm8BHCJk",
+        "b": "Curso Spring Boot #5 – La anotación @PathVariable"
+    },
+    {
+        "i": 3,
+        "j": "3mEVNxcBOaA",
+        "b": "Curso Spring Boot #4 – Las anotaciones @RestController y @GetMapping"
+    },
+    {
+        "i": 29,
+        "j": "3SEguz__6V4",
+        "b": "Curso Spring Boot #30 – Externalización de Configuración con @ConfigurationProperties"
+    },
+    {
+        "i": 10,
+        "j": "54EOU85_f1U",
+        "b": "Curso Spring Boot #11 – Enrutamiento de URL en Spring Boot"
+    },
+    {
+        "i": 26,
+        "j": "9WgtXvH6YvY",
+        "b": "Curso Spring Boot #27 – Inyección de Dependencias con @Qualifier"
+    },
+    {
+        "i": 0,
+        "j": "BRtPNl0aBkA",
+        "b": "Curso Spring Boot #1 – Introducción a Spring Framework y Spring Boot"
+    },
+    {
+        "i": 25,
+        "j": "Bs32v62NRUo",
+        "b": "Curso Spring Boot #26 – Inyección de Dependencias con Múltiples Beans (@Primary)"
+    },
+    {
+        "i": 22,
+        "j": "d1qlZp4ylSY",
+        "b": "Curso Spring Boot #23 – Capa de Servicios: Creación de un Servicio (Mi primer servicio)"
+    },
+    {
+        "i": 9,
+        "j": "EC8RKM80kq0",
+        "b": "Curso Spring Boot #10 – Implementación de una API REST"
+    },
+    {
+        "i": 15,
+        "j": "FIAuuDV8vgU",
+        "b": "Curso Spring Boot #16 – La Anotación @RequestMapping | Unificación de URL´s"
+    },
+    {
+        "i": 18,
+        "j": "GUrdV1L1fdk",
+        "b": "Curso Spring Boot #19 – Implementación de La Clase ResponseEntity (Respuestas HTTP)"
+    },
+    {
+        "i": 8,
+        "j": "kcd61eB_SKA",
+        "b": "Curso Spring Boot #9 – ¿Qué es una API? y qué diferencia a una API REST"
+    },
+    {
+        "i": 20,
+        "j": "khsNACoghWE",
+        "b": "Curso Spring Boot #21 – Cómo Crear y Consumir Recursos de Forma Eficiente (Solicitudes POST)"
+    },
+    {
+        "i": 27,
+        "j": "LLsmMzNoPAY",
+        "b": "Curso Spring Boot #28 – Inyección de Dependencias Condicional con @ConditionalOnProperty"
+    },
+    {
+        "i": 21,
+        "j": "O3ptaYDzVAc",
+        "b": "Curso Spring Boot #22 – Convención de Versionado y Estructuración de URL"
+    },
+    {
+        "i": 16,
+        "j": "qMOypthoMzI",
+        "b": "Curso Spring Boot #17 – Sistema para la Gestión de Alumnos"
+    },
+    {
+        "i": 11,
+        "j": "QWwLzhHSfdg",
+        "b": "Curso Spring Boot #12 – Las Anotaciones @PostMapping y @RequestBody"
+    },
+    {
+        "i": 24,
+        "j": "tYhONLofto8",
+        "b": "Curso Spring Boot #25 – Inyección de Dependencias y el Principio Inversión de Control (IoC)"
+    },
+    {
+        "i": 23,
+        "j": "udPHiYLQjlk",
+        "b": "Curso Spring Boot #24 – Programación Orientada a Interfaces: Diseño Flexible y Escalable"
+    },
+    {
+        "i": 17,
+        "j": "udt0cP1dj6Y",
+        "b": "Curso Spring Boot #18 – La Clase ResponseEntity Manejo Avanzado de Respuestas HTTP"
+    },
+    {
+        "i": 7,
+        "j": "vDN0gThf_oQ",
+        "b": "Curso Spring Boot #8 – Arquitectura Basada en Capas"
+    },
+    {
+        "i": 19,
+        "j": "X-2iLX_YG_s",
+        "b": "Curso Spring Boot #20 – Simplificación de Respuestas HTTP con La Clase ResponseEntity"
+    },
+    {
+        "i": 28,
+        "j": "X-EIJr0ZfOs",
+        "b": "Curso Spring Boot #29 – Diferir la Inyección de Beans con @Lazy"
+    },
+    {
+        "i": 1,
+        "j": "xb_y3MMtWsQ",
+        "b": "Curso Spring Boot #2 – Instalación de JDK – IntelliJ IDEA - Postman"
+    },
+    {
+        "i": 2,
+        "j": "YbvZe1wDQqQ",
+        "b": "Curso Spring Boot #3 – Creación y Estructura de un Proyecto (spring initializr)"
+    },
+    {
+        "i": 13,
+        "j": "ypWmw79D6lg",
+        "b": "Curso Spring Boot #14 – La Anotación @DeleteMapping (Eliminación de Recursos)"
+    }
+]
