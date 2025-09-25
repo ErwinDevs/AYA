@@ -1,0 +1,1402 @@
+[
+    {
+        "i": 110,
+        "j": "_EsrxrIYGmA",
+        "b": "Curso Java  Componentes Swing. Atajos del teclado. Vídeo 110"
+    },
+    {
+        "i": 207,
+        "j": "_gcqGA2Ltis",
+        "b": "Curso Java  Acceso a BBDD. JDBC VII. Práctica guiada II. Vídeo 207"
+    },
+    {
+        "i": 1,
+        "j": "_WJkT42l7Wk",
+        "b": "Curso Java 2025. Introducción. Vídeo 1"
+    },
+    {
+        "i": 39,
+        "j": "_ZWcobe9afw",
+        "b": "Curso Java. Sobrecarga de constructores. Vídeo 39"
+    },
+    {
+        "i": 263,
+        "j": "-ba3duXvinw",
+        "b": "Curso Java. MVC XV. Vídeo 262"
+    },
+    {
+        "i": 165,
+        "j": "-KRz46_gGoM",
+        "b": "Curso Java  Programación genérica. Creación clases genéricas propias. Vídeo 165"
+    },
+    {
+        "i": 88,
+        "j": "-Q_gHYLTRPQ",
+        "b": "Curso Java  Componentes Swing. Eventos en cuadros de texto I. Vídeo 88"
+    },
+    {
+        "i": 258,
+        "j": "-rqUC_29ELs",
+        "b": "Curso Java. MVC X. Vídeo 257"
+    },
+    {
+        "i": 215,
+        "j": "-tVk8aaAgEU",
+        "b": "Curso Java. Acceso a BBDD  JDBC XV  Modelo Vista Controlador VI. Vídeo 215"
+    },
+    {
+        "i": 98,
+        "j": "06acFKm-kcQ",
+        "b": "Curso Java  ComponentesSwing. JSpinner I. Vídeo 98"
+    },
+    {
+        "i": 52,
+        "j": "0fifCsOYbXw",
+        "b": "Curso Java. Interfaces y clases internas  Interfaces IV. Vídeo 52"
+    },
+    {
+        "i": 30,
+        "j": "0jbDTCLmyiw",
+        "b": "Curso Java 2025. Getters, Setters y constructores. Vídeo 30"
+    },
+    {
+        "i": 121,
+        "j": "0M_gEkNxNlg",
+        "b": "Curso Java  Aplicaciones gráficas. Ventanas emergentes. Cuadros diálogo I  Vídeo 121"
+    },
+    {
+        "i": 7,
+        "j": "0SG9exLJub8",
+        "b": "Curso Java 2025. Operadores en Java. Vídeo 7"
+    },
+    {
+        "i": 123,
+        "j": "1-Oy2tMF9d8",
+        "b": "Curso Java. Ejercicio Práctico I. Vídeo 123"
+    },
+    {
+        "i": 108,
+        "j": "2KvnW3fv4xg",
+        "b": "Curso Java  Componentes Swing. Menús con CheckBox y RadioButton. Vídeo 108"
+    },
+    {
+        "i": 155,
+        "j": "38YBRnJtQEw",
+        "b": "Curso Java  Streams IV. Leyendo archivos. Streams Byte I. Vídeo 155"
+    },
+    {
+        "i": 42,
+        "j": "3g_3cbH97cs",
+        "b": "Curso Java. Herencia III. Diseñando la herencia. Vídeo 42"
+    },
+    {
+        "i": 97,
+        "j": "3IV2SKV6H80",
+        "b": "Curso Java. Componentes Swing. JSlider II. Vídeo 97"
+    },
+    {
+        "i": 127,
+        "j": "49mKXcjUexY",
+        "b": "Curso Java. Ejercicio Práctico V. Vídeo 127"
+    },
+    {
+        "i": 26,
+        "j": "4b1pCxn7xY8",
+        "b": "Curso Java 2025. Arrays IV. Ejemplo práctico con array bidimensional. Vídeo 26"
+    },
+    {
+        "i": 62,
+        "j": "4J-10RpxK_w",
+        "b": "Curso Java. Aplicaciones gráficas. Swing VIII. Cambiando la letra en el Frame. Vídeo 62"
+    },
+    {
+        "i": 132,
+        "j": "4oXBNwZuCg4",
+        "b": "Curso Java. Despliegue Aplicaciones. Applets I. Vídeo 132"
+    },
+    {
+        "i": 20,
+        "j": "4UltwVkrAYk",
+        "b": "Curso Java 2025. Bucles III. While vs do-While. Vídeo 20"
+    },
+    {
+        "i": 103,
+        "j": "4WmRgXXJaK0",
+        "b": "Curso Java  Componentes Swing. Creación de procesador de textos  Práctica guiada III. Vídeo 103"
+    },
+    {
+        "i": 50,
+        "j": "59Tpg7XbIEo",
+        "b": "Curso Java. Interfaces y clases internas  Interfaces II. Vídeo 50"
+    },
+    {
+        "i": 234,
+        "j": "5cMnffkrsFo",
+        "b": "Curso Java. JSP VI. Vídeo 233"
+    },
+    {
+        "i": 113,
+        "j": "5g1APNnPHo0",
+        "b": "Curso Java  Aplicaciones gráficas. Barras de herramientas III. Vídeo 113"
+    },
+    {
+        "i": 163,
+        "j": "5NOV_Yuk8Ps",
+        "b": "Curso Java  Programación genérica. ArrayList III  Iteradores. Vídeo 163"
+    },
+    {
+        "i": 8,
+        "j": "5vWUjGbUslE",
+        "b": "Curso Java 2025. Declaración múltiple y constantes. Vídeo 8"
+    },
+    {
+        "i": 35,
+        "j": "63Uhd3pUZxA",
+        "b": "Curso Java  POO IX. Construcción objetos IV. Vídeo 35"
+    },
+    {
+        "i": 24,
+        "j": "6AAmjxYkfTE",
+        "b": "Curso Java 2025. Arrays II. Bucle for-each. Vídeo 24"
+    },
+    {
+        "i": 135,
+        "j": "6aXEffh5xvI",
+        "b": "Curso Java  Despliegue Aplicaciones. Applets IV. Paso de parámetros. Vídeo 135"
+    },
+    {
+        "i": 261,
+        "j": "6Nq5N4m-VBY",
+        "b": "Curso Java. MVC XIII. Vídeo 260"
+    },
+    {
+        "i": 273,
+        "j": "6w1e2jclS7Y",
+        "b": "Curso Java. Anexos VIII  Introspección II. Vídeo 272"
+    },
+    {
+        "i": 166,
+        "j": "7Ip_N1fbOmQ",
+        "b": "Curso Java. Programación genérica. Métodos genéricos. Vídeo 166"
+    },
+    {
+        "i": 55,
+        "j": "7q2VBGIKeYc",
+        "b": "Curso Java. Aplicaciones gráficas  Swing I. Vídeo 55"
+    },
+    {
+        "i": 136,
+        "j": "7xLK0uG5hzM",
+        "b": "Curso Java  Despliegue Aplicaciones. Applets V. Vídeo 136"
+    },
+    {
+        "i": 77,
+        "j": "8FQnwZrr8Ck",
+        "b": "Curso Java  Eventos XIII. Múltiples fuentes II. Vídeo 77"
+    },
+    {
+        "i": 140,
+        "j": "8J4yIJ_ryRg",
+        "b": "Curso Java  Despliegue Aplicaciones. Archivos JAR IV. JAR Ejecutables. Vídeo 140"
+    },
+    {
+        "i": 265,
+        "j": "8OFEfaFCkVY",
+        "b": "Curso Java. MVC XVII. Vídeo 264"
+    },
+    {
+        "i": 49,
+        "j": "8xF_BSpSATw",
+        "b": "Curso Java. Interfaces y clases internas. Interfaces I. Vídeo 49"
+    },
+    {
+        "i": 227,
+        "j": "9CBNZpAMCvo",
+        "b": "Curso Java. Acceso a BBDD  JDBC XXVII  Ejercicio práctico IV. Vídeo 227"
+    },
+    {
+        "i": 29,
+        "j": "9uFfvyWJXC4",
+        "b": "Curso Java 2025. Modularización y encapsulamiento. Vídeo 29"
+    },
+    {
+        "i": 266,
+        "j": "9xuZrLsTeFM",
+        "b": "Curso Java. Anexo. Swing Av I  JList. Vídeo 265"
+    },
+    {
+        "i": 73,
+        "j": "9Zflg2FnVjo",
+        "b": "Curso Java  Eventos IX. Eventos de ratón II. Vídeo 73"
+    },
+    {
+        "i": 170,
+        "j": "a_RqHzTdG64",
+        "b": "Curso Java  Threads III. Interrupción de varios hilos. Vídeo 170"
+    },
+    {
+        "i": 226,
+        "j": "A6-iB4effSU",
+        "b": "Curso Java. Acceso a BBDD  JDBC XXVI  Ejercicio práctico III. Vídeo 226"
+    },
+    {
+        "i": 32,
+        "j": "AHLTFjT7pmc",
+        "b": "Curso Java 2025. Creación de objetos I. Vídeo 32"
+    },
+    {
+        "i": 148,
+        "j": "Ai4BI5G7Jx4",
+        "b": "Curso Java  Excepciones VII. Captura de varias excepciones. Vídeo 148"
+    },
+    {
+        "i": 193,
+        "j": "AObq68HFlMM",
+        "b": "Curso Java. Sockets IV  Creación de chat II. Vídeo 193"
+    },
+    {
+        "i": 243,
+        "j": "AXK_MBfPEwU",
+        "b": "Curso Java. JSP XV. JSP Tags II. Vídeo 242"
+    },
+    {
+        "i": 134,
+        "j": "aXkjL9YXAaw",
+        "b": "Curso Java  Despliegue Aplicaciones. Applets III. Ventanas emergentes. Vídeo 134"
+    },
+    {
+        "i": 181,
+        "j": "b1htaYhRawk",
+        "b": "Curso Java. Colecciones III. Métodos equals y hashCode. Vídeo 181"
+    },
+    {
+        "i": 174,
+        "j": "b3OGSKstbgo",
+        "b": "Curso Java. Threads VII  Sincronización de Threads IV. Vídeo 174"
+    },
+    {
+        "i": 225,
+        "j": "b6Pjh3jOjBI",
+        "b": "Curso Java  Acceso a BBDD. JDBC XXV  Ejercicio práctico II. Vídeo 225"
+    },
+    {
+        "i": 65,
+        "j": "b8rkMBnXuwk",
+        "b": "Curso Java. Eventos I. Vídeo 65"
+    },
+    {
+        "i": 145,
+        "j": "BIiVraKyOlU",
+        "b": "Curso Java  Excepciones IV. throws try catch. Vídeo 145"
+    },
+    {
+        "i": 23,
+        "j": "BQ1P0mUZnPI",
+        "b": "Curso Java 2025. Arrays I. Novedades asociadas al uso de Arrays. Vídeo 23"
+    },
+    {
+        "i": 179,
+        "j": "bTu-fz1JmWQ",
+        "b": "Curso Java. Colecciones I. Vídeo 179"
+    },
+    {
+        "i": 183,
+        "j": "BuLEYAd6TBg",
+        "b": "Curso Java. Colecciones V  Iteradores. Vídeo 183"
+    },
+    {
+        "i": 9,
+        "j": "BwZexhLgcfA",
+        "b": "Curso Java 2025. Clase Math y API. Vídeo 9"
+    },
+    {
+        "i": 213,
+        "j": "Ca1WL_KpMEA",
+        "b": "Curso Java. Acceso a BBDD  JDBC XIII  Modelo Vista Controlador IV. Vídeo 213"
+    },
+    {
+        "i": 238,
+        "j": "cEle0k0MIfA",
+        "b": "Curso Java. JSP X. Sesiones I. Vídeo 237"
+    },
+    {
+        "i": 269,
+        "j": "CeZVn9ZLHgk",
+        "b": "Curso Java. Anexos IV  JTable II. Vídeo 268"
+    },
+    {
+        "i": 201,
+        "j": "cFLsynl91B0",
+        "b": "Curso Java. Acceso a BBDD. JDBC I. Vídeo 201"
+    },
+    {
+        "i": 139,
+        "j": "cgauUZRGC78",
+        "b": "Curso Java  Despliegue Aplicaciones. Archivos JAR III  Firmar JAR II. Vídeo 139"
+    },
+    {
+        "i": 212,
+        "j": "cKKF9-55Vs4",
+        "b": "Curso Java. Acceso a BBDD  JDBC XII. Modelo Vista Controlador III. Vídeo 212"
+    },
+    {
+        "i": 242,
+        "j": "CNdehS7bPdc",
+        "b": "Curso Java. JSP XIV  JSP Tags I. Vídeo 241"
+    },
+    {
+        "i": 158,
+        "j": "cOm2-Kj_7Qs",
+        "b": "Curso Java. Serialización II. SerialVersionUID. Vídeo 158"
+    },
+    {
+        "i": 264,
+        "j": "cVXBAWtnUZw",
+        "b": "Curso Java. MVC XVI. Vídeo 263"
+    },
+    {
+        "i": 93,
+        "j": "CWl3ihbT4I0",
+        "b": "Curso Java  Componentes Swing. Botones de radio. Vídeo 93"
+    },
+    {
+        "i": 169,
+        "j": "CYbMqCV1mi4",
+        "b": "Curso Java. Threads II  Interrupción de hilos. Vídeo 169"
+    },
+    {
+        "i": 241,
+        "j": "CySSdNMFpCg",
+        "b": "Curso Java. JSP XIII  Cookies II. Vídeo 240"
+    },
+    {
+        "i": 247,
+        "j": "CZzyi_0ImwI",
+        "b": "Curso Java. Servlets I. Vídeo 246"
+    },
+    {
+        "i": 16,
+        "j": "d7Erga4LQ_w",
+        "b": "Curso Java 2025. Condicionales I. Condicional IF. Vídeo 16"
+    },
+    {
+        "i": 54,
+        "j": "dA5pIY4Na_0",
+        "b": "Curso Java. Interfaces y clases internas. Clases internas II. Vídeo 54"
+    },
+    {
+        "i": 143,
+        "j": "dD-ntlW5Tlc",
+        "b": "Curso Java. Excepciones II. throws try catch. Vídeo 143"
+    },
+    {
+        "i": 254,
+        "j": "dEKrmgaVYcA",
+        "b": "Curso Java. MVC VI. Vídeo 253"
+    },
+    {
+        "i": 117,
+        "j": "dem6gFYfBq8",
+        "b": "Curso Java  Aplicaciones gráficas. Disposiciones avanzadas III  Spring II. Vídeo 117"
+    },
+    {
+        "i": 222,
+        "j": "DgO7kax2lWk",
+        "b": "Curso Java. Acceso a BBDD JDBC XXII. Metadatos I. Vídeo 222"
+    },
+    {
+        "i": 102,
+        "j": "dIKKelWI8K8",
+        "b": "Curso Java  Componentes Swing. Creación de procesador de textos. Práctica guiada II. Vídeo 102"
+    },
+    {
+        "i": 48,
+        "j": "DwriSApbm50",
+        "b": "Curso Java. Tipos enumerados. Vídeo 48"
+    },
+    {
+        "i": 94,
+        "j": "DxrcffniQKQ",
+        "b": "Curso Java  Componentes Swing. Botones de radio II. Vídeo 94"
+    },
+    {
+        "i": 6,
+        "j": "DY1GbOM7rqs",
+        "b": "Curso Java 2025. Estructuras principales III. Vídeo 6"
+    },
+    {
+        "i": 64,
+        "j": "E-0Ij1ouXu0",
+        "b": "Curso Java  Aplicaciones gráficas. Swing X  Incluyendo imágenes II. Vídeo 64"
+    },
+    {
+        "i": 153,
+        "j": "E0H4OzW2_1Y",
+        "b": "Curso Java. Streams II. Accediendo a ficheros  Escritura. Vídeo 153"
+    },
+    {
+        "i": 111,
+        "j": "E4m8vVHpojk",
+        "b": "Curso Java  Aplicaciones gráficas. Barras de herramientas I. Vídeo 111"
+    },
+    {
+        "i": 106,
+        "j": "EbhWqyIPjzA",
+        "b": "Curso Java. Componentes Swing  Creación de procesador de textos. Práctica guiada VI. Vídeo 106"
+    },
+    {
+        "i": 229,
+        "j": "ed-OyXDxNjM",
+        "b": "Curso Java. JSP I. Vídeo 228"
+    },
+    {
+        "i": 192,
+        "j": "eEhHMg-In8o",
+        "b": "Curso Java. Sockets III  Creación de chat I. Vídeo 192"
+    },
+    {
+        "i": 203,
+        "j": "ENCwOv2lCms",
+        "b": "Curso Java. Acceso a BBDD  JDBC III. Vídeo 203"
+    },
+    {
+        "i": 91,
+        "j": "eOblXyMw9wE",
+        "b": "Curso Java  Componentes Swing. Áreas de texto II. Vídeo 91"
+    },
+    {
+        "i": 47,
+        "j": "eQWnegzD6ug",
+        "b": "Curso Java. Modificadores de acceso. Clase Object. Vídeo 47"
+    },
+    {
+        "i": 152,
+        "j": "etQN4EfYN7k",
+        "b": "Curso Java. Streams I. Accediendo a ficheros.  Lectura. Vídeo 152"
+    },
+    {
+        "i": 33,
+        "j": "EyZCCkngGCs",
+        "b": "Curso Java 2025. Construcción de objetos II. Constructor con parámetros. Vídeo 33"
+    },
+    {
+        "i": 82,
+        "j": "FAOGZuvvwrE",
+        "b": "Curso Java. Layouts II. Vídeo 82"
+    },
+    {
+        "i": 87,
+        "j": "Fgt_ysSAXn8",
+        "b": "Curso Java  Componentes Swing. Cuadros de texto II. Vídeo 87"
+    },
+    {
+        "i": 217,
+        "j": "fNb-ovaySqw",
+        "b": "Curso Java  Acceso a BBDD. JDBC XVII  Modelo Vista Controlador VIII. Vídeo 217"
+    },
+    {
+        "i": 81,
+        "j": "Fr8lqCKwjmM",
+        "b": "Curso Java. Layouts I. Vídeo 81"
+    },
+    {
+        "i": 191,
+        "j": "FrYs1us5yxo",
+        "b": "Curso Java. Sockets II. Vídeo 191"
+    },
+    {
+        "i": 206,
+        "j": "FyNDNzeDEXs",
+        "b": "Curso Java  Acceso a BBDD. JDBC VI. Práctica guiada. Vídeo 206"
+    },
+    {
+        "i": 211,
+        "j": "g9ITKr0iEj4",
+        "b": "Curso Java. Acceso a BBDD  JDBC XI  Modelo Vista Controlador II. Vídeo 211"
+    },
+    {
+        "i": 14,
+        "j": "GFRkQm6JzJQ",
+        "b": "Curso Java 2025. Entrada y salida de datos I. Clase Scanner. Vídeo 14"
+    },
+    {
+        "i": 116,
+        "j": "GJVgIyFRktM",
+        "b": "Curso Java  Aplicaciones gráficas. Disposiciones avanzadas II Spring. Vídeo 116"
+    },
+    {
+        "i": 44,
+        "j": "gmceMV8CqSs",
+        "b": "Curso Java. Casting de objetos. Clases y métodos final. Vídeo 44"
+    },
+    {
+        "i": 230,
+        "j": "gOpnLcXDmpA",
+        "b": "Curso Java. JSP II. Vídeo 229"
+    },
+    {
+        "i": 22,
+        "j": "gPEIQNuvDFI",
+        "b": "Curso Java 2025. Bucles V. Bucle for II. Vídeo 22"
+    },
+    {
+        "i": 278,
+        "j": "GT53W0wdW9U",
+        "b": "Curso Java. Actualización. Importante en versión 9: los Módulos. Vídeo 277"
+    },
+    {
+        "i": 25,
+        "j": "GvgnR0LrJh4",
+        "b": "Curso Java 2025 Arrays III. Arrays bidimensionales. Vídeo 25"
+    },
+    {
+        "i": 70,
+        "j": "H_1kldp-d7I",
+        "b": "Curso Java  Eventos VI  Eventos de ventana III. Controlando estado ventana. Vídeo 70"
+    },
+    {
+        "i": 249,
+        "j": "H5A5eXbyPxM",
+        "b": "Curso Java. MVC I. Vídeo 248"
+    },
+    {
+        "i": 17,
+        "j": "h7fR7130xeI",
+        "b": "Curso Java 2025. Condicionales II. Ternario y Switch: novedades. Vídeo 17"
+    },
+    {
+        "i": 277,
+        "j": "hbmu-FH-BJY",
+        "b": "Curso Java. Fin de curso. Generar documentación. Vídeo 276"
+    },
+    {
+        "i": 172,
+        "j": "hcfUP8cc03M",
+        "b": "Curso Java. Threads V. Sincronización de Threads II. Vídeo 172"
+    },
+    {
+        "i": 71,
+        "j": "hgHvmjyHxpU",
+        "b": "Curso Java  Eventos VII. Eventos de teclado I. Vídeo 71"
+    },
+    {
+        "i": 214,
+        "j": "hjnJQrpBKiM",
+        "b": "Curso Java  Acceso a BBDD. JDBC XIV  Modelo Vista Controlador V. Vídeo 214"
+    },
+    {
+        "i": 10,
+        "j": "hkyyaEq84Qg",
+        "b": "Curso Java 2025. Clase Math, Casting y API. Vídeo 10"
+    },
+    {
+        "i": 137,
+        "j": "i2G4-CYyuIk",
+        "b": "Curso Java. Despliegue Aplicaciones. Archivos JAR I. Vídeo 137"
+    },
+    {
+        "i": 131,
+        "j": "ibbIhH05FwQ",
+        "b": "Curso Java. Ejercicio Práctico IX. Vídeo 131"
+    },
+    {
+        "i": 107,
+        "j": "iRY6BIEFJks",
+        "b": "Curso Java  Componentes Swing. Menús con imagen. Vídeo 107"
+    },
+    {
+        "i": 101,
+        "j": "JEy3hb8Fpig",
+        "b": "Curso Java  Componentes Swing. Creación de procesador de textos. Práctica guiada I. Vídeo 101"
+    },
+    {
+        "i": 144,
+        "j": "JiL_NlD-f2I",
+        "b": "Curso Java. Excepciones III. throws try catch. Vídeo 144"
+    },
+    {
+        "i": 275,
+        "j": "jL_NQo6bmeI",
+        "b": "Curso Java. Anexos IX  Java Beans I. Vídeo 274"
+    },
+    {
+        "i": 250,
+        "j": "Jl8qoHqrjd8",
+        "b": "Curso Java. MVC II. Vídeo 249"
+    },
+    {
+        "i": 167,
+        "j": "jlbAY9ITLXM",
+        "b": "Curso Java. Programación genérica. Herencia y tipos comodín. Vídeo 167"
+    },
+    {
+        "i": 220,
+        "j": "JqLmXclWPWM",
+        "b": "Curso Java. Acceso a BBDD  JDBC XX. Transacciones I. Vídeo 220"
+    },
+    {
+        "i": 252,
+        "j": "K_lw3SuPExM",
+        "b": "Curso Java. MVC IV . Vídeo 251"
+    },
+    {
+        "i": 256,
+        "j": "k2P4VV3nKkw",
+        "b": "Curso Java. MVC VIII. Vídeo 255"
+    },
+    {
+        "i": 208,
+        "j": "K7ZS1RFQuNM",
+        "b": "Curso Java  Acceso a BBDD. JDBC VIII. Práctica guiada III. Vídeo 208"
+    },
+    {
+        "i": 244,
+        "j": "KeX8lj8R-2o",
+        "b": "Curso Java. JSP XVI. JSP Tags III. Vídeo 243"
+    },
+    {
+        "i": 279,
+        "j": "KKdA6t52WRY",
+        "b": "Curso Java. Actualización. Importante en versión 9: los Módulos II. Vídeo 278"
+    },
+    {
+        "i": 184,
+        "j": "kP5f5x2n8dw",
+        "b": "Curso Java. Colecciones VI  LinkedList I. Vídeo 184"
+    },
+    {
+        "i": 13,
+        "j": "kv0dR_-u_78",
+        "b": "Curso Java 2025. Profundizando en la API. Vídeo 13"
+    },
+    {
+        "i": 224,
+        "j": "l_Kl2EW_PKw",
+        "b": "Curso Java.  Acceso a BBDD  JDBC XXIV. Ejercicio práctico I. Vídeo 224"
+    },
+    {
+        "i": 100,
+        "j": "L_QzjDWoKDo",
+        "b": "Curso Java  Componentes Swing. Creación de menús I. Vídeo 100"
+    },
+    {
+        "i": 190,
+        "j": "L0Y6hawPB-E",
+        "b": "Curso Java. Sockets I. Vídeo 190"
+    },
+    {
+        "i": 46,
+        "j": "LDZUBY0mxv8",
+        "b": "Curso Java. Clases Abstractas II. Vídeo 46"
+    },
+    {
+        "i": 271,
+        "j": "Ll8JTn6nICo",
+        "b": "Curso Java. Anexos VI  JTable IV. Vídeo 270"
+    },
+    {
+        "i": 260,
+        "j": "lME5w5U_LhI",
+        "b": "Curso Java. MVC XII. Vídeo 259"
+    },
+    {
+        "i": 74,
+        "j": "LMhk2Z7PcoE",
+        "b": "Curso Java  Eventos X. Eventos de foco. Vídeo 74"
+    },
+    {
+        "i": 195,
+        "j": "lsh5OmqTmN4",
+        "b": "Curso Java. Sockets VI  Creación de chat IV. Vídeo 195"
+    },
+    {
+        "i": 189,
+        "j": "ltwlQKMn1hk",
+        "b": "Curso Java. Colecciones XI  Mapas. Vídeo 189"
+    },
+    {
+        "i": 223,
+        "j": "LUflNGme-d4",
+        "b": "Curso Java. Acceso a BBDD  JDBC XXIII  Metadatos II. Vídeo 223"
+    },
+    {
+        "i": 164,
+        "j": "MFu8a_LpnIc",
+        "b": "Curso Java. Programación genérica. Qué es  Por qué utilizarla. Vídeo 164"
+    },
+    {
+        "i": 128,
+        "j": "MJLeq6i6K24",
+        "b": "Curso Java. Ejercicio Práctico VI. Vídeo 128"
+    },
+    {
+        "i": 61,
+        "j": "mMTlAQwi1Cg",
+        "b": "Curso Java  Aplicaciones gráficas. Swing VII. Manejando colores. Vídeo 61"
+    },
+    {
+        "i": 245,
+        "j": "mp7_1RY-79U",
+        "b": "Curso Java. JSP XVII  JSP Tags IV. Vídeo 244"
+    },
+    {
+        "i": 51,
+        "j": "MTdly6e-jPU",
+        "b": "Curso Java. Interfaces y clases internas  Interfaces III. Vídeo 51"
+    },
+    {
+        "i": 68,
+        "j": "mtO5AJxCMio",
+        "b": "Curso Java  Eventos IV. Eventos de ventana I. Vídeo 68"
+    },
+    {
+        "i": 95,
+        "j": "MYdAW9f7YHk",
+        "b": "Curso Java. Componentes Swing. ComboBox. Vídeo 95"
+    },
+    {
+        "i": 125,
+        "j": "N_1HUY8viaM",
+        "b": "Curso Java. Ejercicio Práctico III. Vídeo 125"
+    },
+    {
+        "i": 104,
+        "j": "NiIN3jqC0NU",
+        "b": "Curso Java  Componentes Swing. Creación de procesador de textos  Práctica guiada IV. Vídeo 104"
+    },
+    {
+        "i": 182,
+        "j": "nJBNMN4Dwss",
+        "b": "Curso Java. Colecciones IV. Métodos  equals y hashCode II. Vídeo 182"
+    },
+    {
+        "i": 79,
+        "j": "Nkyt5DT2mA0",
+        "b": "Curso Java  Eventos XV. Múltiples fuentes IV. Vídeo 79"
+    },
+    {
+        "i": 59,
+        "j": "nNu6ideyyGs",
+        "b": "Curso Java  Aplicaciones gráficas. Swing V. Dibujando en el Frame. Vídeo 59"
+    },
+    {
+        "i": 99,
+        "j": "nOisCjNznaE",
+        "b": "Curso Java. Componentes Swing. JSpinner II. Vídeo 99"
+    },
+    {
+        "i": 118,
+        "j": "nSlRwaxbyv4",
+        "b": "Curso Java  Aplicaciones gráficas. Disposiciones avanzadas IV. Disposiciones libres I. Vídeo 118"
+    },
+    {
+        "i": 75,
+        "j": "NvNZNEVWYO8",
+        "b": "Curso Java  Eventos XI. Eventos de foco II. Vídeo 75"
+    },
+    {
+        "i": 232,
+        "j": "o_o9qoyfUAM",
+        "b": "Curso Java. JSP IV. Vídeo 231"
+    },
+    {
+        "i": 199,
+        "j": "O13fK4MduRQ",
+        "b": "Curso Java. Sockets X  Creación de chat VIII. Vídeo 199"
+    },
+    {
+        "i": 133,
+        "j": "O5G1WjMriQA",
+        "b": "Curso Java. Despliegue Aplicaciones. Applets II. Vídeo 133"
+    },
+    {
+        "i": 257,
+        "j": "o7A-aDIzUgo",
+        "b": "Curso Java. MVC IX. Vídeo 256"
+    },
+    {
+        "i": 18,
+        "j": "OiUVhnuk25U",
+        "b": "Curso Java 2025. Bucles I. Bucle while. Vídeo 18"
+    },
+    {
+        "i": 12,
+        "j": "oJpcnvYEWbc",
+        "b": "Curso Java 2025. Clase String. Manipulación de cadenas. Vídeo 12"
+    },
+    {
+        "i": 15,
+        "j": "Okr4kMCcBAc",
+        "b": "Curso Java 2025. Entrada y salida de datos II. Clase JOptionPane. Vídeo 15"
+    },
+    {
+        "i": 216,
+        "j": "OMXU4zsJdO8",
+        "b": "Curso Java. Acceso a BBDD  JDBC XVI  Modelo Vista Controlador VII. Vídeo 216"
+    },
+    {
+        "i": 205,
+        "j": "OOWg6m1B7uo",
+        "b": "Curso Java  Acceso a BBDD. JDBC V. Consultas Preparadas. Vídeo 205"
+    },
+    {
+        "i": 255,
+        "j": "ot37A8471oA",
+        "b": "Curso Java. MVC VII. Vídeo 254"
+    },
+    {
+        "i": 197,
+        "j": "ozswzDYfiZI",
+        "b": "Curso Java. Sockets VIII  Creación de chat VI. Vídeo 197"
+    },
+    {
+        "i": 19,
+        "j": "P6i54QAODIQ",
+        "b": "Curso Java 2025. Bucles II. Ejercicio recopilatorio. Vídeo 19"
+    },
+    {
+        "i": 196,
+        "j": "PDddjzMuRSo",
+        "b": "Curso Java. Sockets VII. Creación de chat V. Vídeo 196"
+    },
+    {
+        "i": 86,
+        "j": "pl_FZDDDPZY",
+        "b": "Curso Java. Componentes Swing. Cuadros de texto I. Vídeo 86"
+    },
+    {
+        "i": 157,
+        "j": "POj5owpInuY",
+        "b": "Curso Java. Serialización. Vídeo 157"
+    },
+    {
+        "i": 147,
+        "j": "poq50T99T6o",
+        "b": "Curso Java  Excepciones VI. Creación de excepciones propias. Vídeo 147"
+    },
+    {
+        "i": 114,
+        "j": "pTWRg-NHA8o",
+        "b": "Curso Java  Aplicaciones gráficas. Barras de herramientas IV. Vídeo 114"
+    },
+    {
+        "i": 83,
+        "j": "Py96zzymLA4",
+        "b": "Curso Java. Layouts III. Vídeo 83"
+    },
+    {
+        "i": 115,
+        "j": "PyjO2FFLnEo",
+        "b": "Curso Java  Aplicaciones gráficas. Disposiciones avanzadas I. Box. Vídeo 115"
+    },
+    {
+        "i": 85,
+        "j": "Q2bzRMcE2Jk",
+        "b": "Curso Java. Layouts V. Vídeo 85"
+    },
+    {
+        "i": 185,
+        "j": "q5a_QAWB7jU",
+        "b": "Curso Java. Colecciones VII. LinkedList II. Vídeo 185"
+    },
+    {
+        "i": 253,
+        "j": "qA50fEk8qH4",
+        "b": "Curso Java. MVC V. Vídeo 252"
+    },
+    {
+        "i": 37,
+        "j": "QIV7FfXa-zY",
+        "b": "Curso Java . Uso static. Vídeo 37"
+    },
+    {
+        "i": 142,
+        "j": "QSohwTY04Go",
+        "b": "Curso Java. Excepciones I. Vídeo 142"
+    },
+    {
+        "i": 90,
+        "j": "qVDzPPUfpLI",
+        "b": "Curso Java  Componentes Swing. Áreas de texto I. Vídeo 90"
+    },
+    {
+        "i": 151,
+        "j": "qvNEQ2nAEVE",
+        "b": "Curso Java. Depurando con Eclipse. Debugging II. Vídeo 151"
+    },
+    {
+        "i": 168,
+        "j": "qXhc4wbDaqU",
+        "b": "Curso Java. Threads I. Programación de hilos. Vídeo 168"
+    },
+    {
+        "i": 69,
+        "j": "QZrNfAJG3fA",
+        "b": "Curso Java  Eventos V. Eventos de ventana II. Clases adaptadoras. Vídeo 69"
+    },
+    {
+        "i": 146,
+        "j": "qzrw5E3_s7s",
+        "b": "Curso Java  Excepciones V. Cláusula throw. Vídeo 146"
+    },
+    {
+        "i": 187,
+        "j": "R3I9dkj2G7I",
+        "b": "Curso Java. Colecciones IX. TreeSet II. Vídeo 187"
+    },
+    {
+        "i": 21,
+        "j": "r6QP3-8qwNU",
+        "b": "Curso Java 2025. Bucles IV. Bucle for. Vídeo 21"
+    },
+    {
+        "i": 67,
+        "j": "R8fnLtVuLxA",
+        "b": "Curso Java. Eventos III. Vídeo 67"
+    },
+    {
+        "i": 41,
+        "j": "rEOFpdI3HY0",
+        "b": "Curso Java. Herencia II. Vídeo 41"
+    },
+    {
+        "i": 180,
+        "j": "rqHBXAZ9F9k",
+        "b": "Curso Java. Colecciones II. Vídeo 180"
+    },
+    {
+        "i": 53,
+        "j": "rQS5P63GTU8",
+        "b": "Curso Java. Interfaces y clases internas. Clases internas I. Vídeo 53"
+    },
+    {
+        "i": 109,
+        "j": "s0k9jIHt-as",
+        "b": "Curso Java  Componentes Swing. Menús emergentes. Vídeo 109"
+    },
+    {
+        "i": 239,
+        "j": "S4PTyGHjQOM",
+        "b": "Curso Java . JSP XI  Sesiones II. Vídeo 238"
+    },
+    {
+        "i": 175,
+        "j": "SajW49zuzXg",
+        "b": "Curso Java. Threads VIII. Sincronización de Threads V. Vídeo 175"
+    },
+    {
+        "i": 43,
+        "j": "sdJgcMaazmI",
+        "b": "Curso Java. Polimorfismo y enlazado dinámico. Vídeo 43"
+    },
+    {
+        "i": 267,
+        "j": "SfljfVnLbc4",
+        "b": "Curso Java  Anexo II. JTree. Vídeo 266"
+    },
+    {
+        "i": 259,
+        "j": "ShIkzPxWOTg",
+        "b": "Curso Java. MVC XI. Vídeo 258"
+    },
+    {
+        "i": 80,
+        "j": "smJg5QjlBpU",
+        "b": "Curso Java  Eventos XVI. Múltiples oyentes. Vídeo 80"
+    },
+    {
+        "i": 72,
+        "j": "SMLwQxlPa9w",
+        "b": "Curso Java  Eventos VIII. Eventos de ratón I. Vídeo 72"
+    },
+    {
+        "i": 84,
+        "j": "sT7UZM8yliE",
+        "b": "Curso Java. Layouts IV. Vídeo 84"
+    },
+    {
+        "i": 78,
+        "j": "sY1CWJlqsSU",
+        "b": "Curso Java  Eventos XIV. Múltiples fuentes III. Vídeo 78"
+    },
+    {
+        "i": 159,
+        "j": "TBzGXYqFq3w",
+        "b": "Curso Java. Manipulación archivos y directorios. Clase File I. Vídeo 159"
+    },
+    {
+        "i": 221,
+        "j": "tFKVfplQrO4",
+        "b": "Curso Java. Acceso a BBDD  JDBC XXI  Transacciones II. Vídeo 221"
+    },
+    {
+        "i": 202,
+        "j": "TipyOAYGsdc",
+        "b": "Curso Java. Acceso a BBDD. JDBC II. Vídeo 202"
+    },
+    {
+        "i": 171,
+        "j": "TjcqR-twOXw",
+        "b": "Curso Java. Threads IV. Sincronización de Threads I. Vídeo 171"
+    },
+    {
+        "i": 126,
+        "j": "TlzytXSEBB8",
+        "b": "Curso Java. Ejercicio Práctico IV. Vídeo 126"
+    },
+    {
+        "i": 176,
+        "j": "tWivwV8JHS8",
+        "b": "Curso Java. Threads IX. Sincronización de Threads VI. Vídeo 176"
+    },
+    {
+        "i": 200,
+        "j": "tX9mrGGwjr0",
+        "b": "Curso Java. Sockets XI  Creación de chat IX. Vídeo 200"
+    },
+    {
+        "i": 36,
+        "j": "tZekQAcSY8o",
+        "b": "Curso Java. Constantes  Uso final. Vídeo 36"
+    },
+    {
+        "i": 204,
+        "j": "U-fDVtRhguk",
+        "b": "Curso Java. Acceso a BBDD  JDBC IV. Vídeo 204"
+    },
+    {
+        "i": 219,
+        "j": "U3HfpXt7fG8",
+        "b": "Curso Java  Acceso a BBDD  JDBC XIX. Procedimientos almacenados II. Vídeo 219"
+    },
+    {
+        "i": 0,
+        "j": "U709qY6S9rA",
+        "b": "Curso Java. ¿Se pide Java en las ofertas de empleo? ¿Merece la pena estudiar Java en 2025?. Vídeo 0"
+    },
+    {
+        "i": 218,
+        "j": "uDe4OsqY-cs",
+        "b": "Curso Java  Acceso a BBDD  JDBC XVIII. Procedimientos almacenados I. Vídeo 218"
+    },
+    {
+        "i": 11,
+        "j": "uerM1mbU_FM",
+        "b": "Curso Java 2025. Clases Math, BigInteger y métodos comunes en Math. Vídeo 11"
+    },
+    {
+        "i": 34,
+        "j": "UfF2pqCewqo",
+        "b": "Curso Java  POO VIII. Construcción objetos III. Vídeo 34"
+    },
+    {
+        "i": 138,
+        "j": "ulgX8Wr5McE",
+        "b": "Curso Java  Despliegue Aplicaciones. Archivos JAR II  Firmar JAR I. Vídeo 138"
+    },
+    {
+        "i": 28,
+        "j": "UP0gmnj4cOo",
+        "b": "Curso java 2025. POO. Clases y objetos. Vídeo 28"
+    },
+    {
+        "i": 89,
+        "j": "uQWVgMeOeHw",
+        "b": "Curso Java  Componentes Swing. Eventos en cuadros de texto II. Vídeo 89"
+    },
+    {
+        "i": 161,
+        "j": "uUWEfmaFOkE",
+        "b": "Curso Java. Programación genérica. ArrayList I. Vídeo 161"
+    },
+    {
+        "i": 122,
+        "j": "uvv-wsP6Cfc",
+        "b": "Curso Java  Aplicaciones gráficas. Ventanas emergentes. Cuadros diálogo II. Vídeo 122"
+    },
+    {
+        "i": 198,
+        "j": "UwTv4K9DOBI",
+        "b": "Curso Java  Sockets IX. Creación de chat VII. Vídeo 198"
+    },
+    {
+        "i": 186,
+        "j": "UY_iH4ia0a4",
+        "b": "Curso Java. Colecciones VIII  TreeSet I. Vídeo 186"
+    },
+    {
+        "i": 92,
+        "j": "V-hmPZ8pDkM",
+        "b": "Curso Java. Componentes Swing  CheckBox. Vídeo 92"
+    },
+    {
+        "i": 38,
+        "j": "V0wIZ-OglsY",
+        "b": "Curso Java. Métodos static. Vídeo 38"
+    },
+    {
+        "i": 276,
+        "j": "V44lPiXvxv8",
+        "b": "Curso Java. Anexos X  Java Beans II. Vídeo 275"
+    },
+    {
+        "i": 156,
+        "j": "v6ctWhhTFrk",
+        "b": "Curso Java. Streams V. Escribiendo archivos  Streams Byte II. Vídeo 156"
+    },
+    {
+        "i": 112,
+        "j": "V9IEfbh5Upo",
+        "b": "Curso Java  Aplicaciones gráficas. Barras de herramientas II. Vídeo 112"
+    },
+    {
+        "i": 60,
+        "j": "VBvRGtEEGGE",
+        "b": "Curso Java  Aplicaciones gráficas. Swing VI  Dibujando en el Frame II. Vídeo 60"
+    },
+    {
+        "i": 272,
+        "j": "vFN7zDRO3Kk",
+        "b": "Curso Java. Anexos VII  Introspección I. Vídeo 271"
+    },
+    {
+        "i": 31,
+        "j": "vFNq3rOHnjw",
+        "b": "Curso Java 2025. Uso del \"this\". Parámetros por valor y por referencia. Vídeo 31"
+    },
+    {
+        "i": 188,
+        "j": "vJQG6tbJWLQ",
+        "b": "Curso Java. Colecciones X  TreeSet III. Vídeo 188"
+    },
+    {
+        "i": 119,
+        "j": "vNnHhBUhnXM",
+        "b": "Curso Java  Aplicaciones gráficas. Disposiciones avanzadas V. Disposiciones libres II. Vídeo 119"
+    },
+    {
+        "i": 235,
+        "j": "Vpl-iNJlyEg",
+        "b": "Curso Java. JSP VII. Vídeo 234"
+    },
+    {
+        "i": 160,
+        "j": "vTLho2lhSQg",
+        "b": "Curso Java. Manipulación archivos y directorios. Clase File II. Vídeo 160"
+    },
+    {
+        "i": 240,
+        "j": "VU5M7s5xWaM",
+        "b": "Curso Java. JSP XII  Cookies I. Vídeo 239"
+    },
+    {
+        "i": 27,
+        "j": "VvyyocOR91A",
+        "b": "Curso Java 2025. ¿Qué es la POO? Vídeo 27"
+    },
+    {
+        "i": 231,
+        "j": "vxLphsdkNPU",
+        "b": "Curso Java. JSP III. Vídeo 230"
+    },
+    {
+        "i": 120,
+        "j": "VXWu2FZ2U1k",
+        "b": "Curso Java  Aplicaciones gráficas. Disposiciones avanzadas VI. Disposiciones libres III. Vídeo 120"
+    },
+    {
+        "i": 4,
+        "j": "w2RMHSNZe-k",
+        "b": "Curso Java 2025. Estructuras principales. Vídeo 4"
+    },
+    {
+        "i": 129,
+        "j": "wCkudqdDURo",
+        "b": "Curso Java. Ejercicio Práctico VII. Vídeo 129"
+    },
+    {
+        "i": 162,
+        "j": "wFzjvb0w-8Q",
+        "b": "Curso Java. Programación genérica  ArrayList II. Vídeo 162"
+    },
+    {
+        "i": 246,
+        "j": "WHIHMZqXwp4",
+        "b": "Curso Java. JSP XVIII  JSP Tags V. Vídeo 245"
+    },
+    {
+        "i": 56,
+        "j": "wk95G-XgWfc",
+        "b": "Curso Java. Aplicaciones gráficas. Swing II. Colocando el Frame. Vídeo 56"
+    },
+    {
+        "i": 40,
+        "j": "wqoyQ3BxK4A",
+        "b": "Curso Java. Herencia I. Vídeo 40"
+    },
+    {
+        "i": 233,
+        "j": "WRTT-tj8374",
+        "b": "Curso Java. JSP V. Vídeo 232"
+    },
+    {
+        "i": 209,
+        "j": "wsHND3n8dzw",
+        "b": "Curso Java  Acceso a BBDD. JDBC IX  Práctica guiada IV. Vídeo 209"
+    },
+    {
+        "i": 2,
+        "j": "wWCdvXN4qAQ",
+        "b": "Curso Java 2025. Historia de Java, características y falsos mitos. Vídeo 2"
+    },
+    {
+        "i": 130,
+        "j": "WZ_w24-QF1s",
+        "b": "Curso Java. Ejercicio Práctico VIII. Vídeo 130"
+    },
+    {
+        "i": 210,
+        "j": "xFuNE_ykjKI",
+        "b": "Curso Java. Acceso a BBDD  JDBC X. Modelo Vista Controlador I. Vídeo 210"
+    },
+    {
+        "i": 178,
+        "j": "xHIokmqL8DM",
+        "b": "Curso Java. Threads XI  Sincronización de Threads VIII. Vídeo 178"
+    },
+    {
+        "i": 270,
+        "j": "XK0BkcM2Xf8",
+        "b": "Curso Java. Anexos V  JTable III. Vídeo 269"
+    },
+    {
+        "i": 173,
+        "j": "XkNKQprHlMM",
+        "b": "Curso Java. Threads VI  Sincronización de Threads III. Vídeo 173"
+    },
+    {
+        "i": 124,
+        "j": "Xl6KDwDESX0",
+        "b": "Curso Java. Ejercicio Práctico II. Vídeo 124"
+    },
+    {
+        "i": 96,
+        "j": "XtoSO1yXgSc",
+        "b": "Curso Java. Componentes Swing. JSlider I. Vídeo 96"
+    },
+    {
+        "i": 154,
+        "j": "YCCE4sbmWrw",
+        "b": "Curso Java. Streams III. Usando buffers. Vídeo 154"
+    },
+    {
+        "i": 268,
+        "j": "yH_g6QGFqes",
+        "b": "Curso Java. Anexos III. JTable I. Vídeo 267"
+    },
+    {
+        "i": 150,
+        "j": "ymV7lUUHkUU",
+        "b": "Curso Java. Depurando con Eclipse. Debugging I. Vídeo 150"
+    },
+    {
+        "i": 76,
+        "j": "YSCNtyNqizk",
+        "b": "Curso Java  Eventos XII. Múltiples fuentes I. Vídeo 76"
+    },
+    {
+        "i": 248,
+        "j": "YUO0NoAMOlg",
+        "b": "Curso Java. Servlets II. Vídeo 247"
+    },
+    {
+        "i": 149,
+        "j": "ywNucPv6flI",
+        "b": "Curso Java  Excepciones VIII. Cláusula finally. Vídeo 149"
+    },
+    {
+        "i": 236,
+        "j": "ywXtHNbrnkc",
+        "b": "Curso Java. JSP VIII. Vídeo 235"
+    },
+    {
+        "i": 105,
+        "j": "YXWgGrjZfps",
+        "b": "Curso Java  Componentes Swing. Creación de procesador de textos  Práctica guiada V. Vídeo 105"
+    },
+    {
+        "i": 251,
+        "j": "z1PREOrTKRE",
+        "b": "Curso Java. MVC III. Vídeo 250"
+    },
+    {
+        "i": 63,
+        "j": "z3CGPfjSYN8",
+        "b": "Curso Java  Aplicaciones gráficas. Swing IX  Incluyendo imágenes. Vídeo 63"
+    },
+    {
+        "i": 177,
+        "j": "Z47VnWjtAd4",
+        "b": "Curso Java. Threads X  Sincronización de Threads VII. Vídeo 177"
+    },
+    {
+        "i": 3,
+        "j": "Z5l1RmsP2gU",
+        "b": "Curso Java 2025. Instalación Java + Eclipse. Vídeo 3"
+    },
+    {
+        "i": 262,
+        "j": "zABtADE64g8",
+        "b": "Curso Java. MVC XIV. Vídeo 261"
+    },
+    {
+        "i": 57,
+        "j": "zADgVrhtBDs",
+        "b": "Curso Java. Aplicaciones gráficas. Swing III. Colocando el Frame II. Vídeo 57"
+    },
+    {
+        "i": 5,
+        "j": "ZJEHc8oQw_0",
+        "b": "Curso Java 2025. Estructuras principales II. Inferencia de tipos. Vídeo 5"
+    },
+    {
+        "i": 274,
+        "j": "ZlrpB9v5-SA",
+        "b": "Curso Java. Anexos IX. Introspección III. Vídeo 273"
+    },
+    {
+        "i": 228,
+        "j": "ZS0QCuOeZOI",
+        "b": "Curso Java. Actualización 2025. De JEE a Jakarta. Vídeo 228 previo"
+    },
+    {
+        "i": 194,
+        "j": "zsONbH8HDEk",
+        "b": "Curso Java. Sockets V  Creación de chat III. Vídeo 194"
+    },
+    {
+        "i": 141,
+        "j": "ZT5vTaov9NY",
+        "b": "Curso Java. Despliegue Aplicaciones. Java Web Start. Vídeo 141"
+    },
+    {
+        "i": 45,
+        "j": "ztpYmmecfQs",
+        "b": "Curso Java. Clases Abstractas I. Vídeo 45"
+    },
+    {
+        "i": 237,
+        "j": "ztqAnZ7Vs6o",
+        "b": "Curso Java. JSP IX. Vídeo 236"
+    },
+    {
+        "i": 66,
+        "j": "zwSub29uORc",
+        "b": "Curso Java. Eventos II. Vídeo 66"
+    },
+    {
+        "i": 58,
+        "j": "zWUMgcFbOlg",
+        "b": "Curso Java. Aplicaciones gráficas  Swing IV. Escribiendo en el Frame. Vídeo 58"
+    }
+]
