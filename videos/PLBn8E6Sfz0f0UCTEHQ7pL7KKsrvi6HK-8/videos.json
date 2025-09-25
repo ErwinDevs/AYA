@@ -1,0 +1,232 @@
+[
+    {
+        "i": 31,
+        "j": "_HlV4DUjnDY",
+        "b": "Shading Básico (Materiales) (Introducción a Blender 2.80 #31)"
+    },
+    {
+        "i": 27,
+        "j": "-rRdbyc_fF8",
+        "b": "Colecciones (Introducción a Blender 2.80 #27)"
+    },
+    {
+        "i": 26,
+        "j": "1-K8Gz6I33I",
+        "b": "Jerarquías (Introducción a Blender 2.80 #26)"
+    },
+    {
+        "i": 43,
+        "j": "51Z7bNyapEM",
+        "b": "Continuar Aprendiendo (Introducción a Blender 2.80 #43)"
+    },
+    {
+        "i": 25,
+        "j": "5FgSxfKV86w",
+        "b": "Revolución Interactiva (Introducción a Blender 2.80 #25)"
+    },
+    {
+        "i": 17,
+        "j": "5H4-EF5YhLk",
+        "b": "Práctica (Parte 1) - Edición Multi-Objeto (Introducción a Blender 2.80 #17)"
+    },
+    {
+        "i": 2,
+        "j": "6-TIk8LgBfM",
+        "b": "Splash Screen (Introducción a Blender 2.80 #02)"
+    },
+    {
+        "i": 9,
+        "j": "7RQ_Zp-4SBg",
+        "b": "Selecciones y Objeto Activo (Introducción a Blender 2.80 #09)"
+    },
+    {
+        "i": 33,
+        "j": "a8d3DjHtBWI",
+        "b": "Editor de Nodos (Introducción a Blender 2.80 #33)"
+    },
+    {
+        "i": 24,
+        "j": "aTXjbXCuJTo",
+        "b": "Revolución (Introducción a Blender 2.80 #24)"
+    },
+    {
+        "i": 39,
+        "j": "bnqW7Ga6H2U",
+        "b": "Render con Cycles (Introducción a Blender 2.80 #39)"
+    },
+    {
+        "i": 20,
+        "j": "BXQZ-t_ZwSA",
+        "b": "Menús Radiales: \"Pie Menus\" (Introducción a Blender 2.80 #20)"
+    },
+    {
+        "i": 3,
+        "j": "BZ9ml0gTexk",
+        "b": "Configuración y Preferencias de Usuario (Introducción a Blender 2.80 #03)"
+    },
+    {
+        "i": 13,
+        "j": "CMtCXu6uExk",
+        "b": "Duplicados, Instancias y Usuarios (Introducción a Blender 2.80 #13)"
+    },
+    {
+        "i": 7,
+        "j": "CPQjaenplJQ",
+        "b": "Búsqueda, Atajos y Favoritos (Introducción a Blender 2.80 #07)"
+    },
+    {
+        "i": 21,
+        "j": "etRlTfgR7uo",
+        "b": "Modificadores (Introducción a Blender 2.80 #21)"
+    },
+    {
+        "i": 41,
+        "j": "FppTunwtWSE",
+        "b": "Guardar Imágenes y Animaciones (Introducción a Blender 2.80 #41)"
+    },
+    {
+        "i": 18,
+        "j": "fsGxLb_yYbE",
+        "b": "Práctica (Parte 2) - ¿Normales Invertidas? (Introducción a Blender 2.80 #18)"
+    },
+    {
+        "i": 8,
+        "j": "GksMOpTUVtU",
+        "b": "Navegación 3D y Vista Local (Introducción a Blender 2.80 #08)"
+    },
+    {
+        "i": 34,
+        "j": "ihgfC7zq5Kg",
+        "b": "Texturas (Introducción a Blender 2.80 #34)"
+    },
+    {
+        "i": 0,
+        "j": "iIcHsLBE1gg",
+        "b": "0/44 Bienvenida, Notas y Consejos (Introducción a Blender 2.80 #00)"
+    },
+    {
+        "i": 14,
+        "j": "ivqeufJ5lRA",
+        "b": "Modos de Interacción (Introducción a Blender 2.80 #14)"
+    },
+    {
+        "i": 45,
+        "j": "j2HvaKVaeDA",
+        "b": "Cómo Crear Personajes Lowpoly (MasterClass Completa)"
+    },
+    {
+        "i": 44,
+        "j": "Ko9eVDm5Knc",
+        "b": "Creación de un Coche Low-Poly (¡para principiantes!)"
+    },
+    {
+        "i": 37,
+        "j": "lpZoDz0F74w",
+        "b": "Cámaras (Introducción a Blender 2.80 #37)"
+    },
+    {
+        "i": 1,
+        "j": "M1HEXk7XrNU",
+        "b": "Descarga e Instalación (Introducción a Blender 2.80 #01)"
+    },
+    {
+        "i": 40,
+        "j": "M2l-NH-lkQE",
+        "b": "Composición con Nodos (Introducción a Blender 2.80 #40)"
+    },
+    {
+        "i": 23,
+        "j": "mdqFiH_DJsw",
+        "b": "Poly2Poly (Introducción a Blender 2.80 #23)"
+    },
+    {
+        "i": 28,
+        "j": "o9C3YXRMHIU",
+        "b": "Preparando la Escena (Introducción a Blender 2.80 #28)"
+    },
+    {
+        "i": 11,
+        "j": "Oh_FoRJ27RA",
+        "b": "Mover, Rotar y Escalar (Introducción a Blender 2.80 #11)"
+    },
+    {
+        "i": 38,
+        "j": "osVFjcNS69k",
+        "b": "Render con EEVEE (Introducción a Blender 2.80 #38)"
+    },
+    {
+        "i": 16,
+        "j": "OzgOyWx894k",
+        "b": "Herramientas de Modelado (Introducción a Blender 2.80 #16)"
+    },
+    {
+        "i": 15,
+        "j": "seiT_OIW_d4",
+        "b": "Modo Edición y Mallas (Introducción a Blender 2.80 #15)"
+    },
+    {
+        "i": 32,
+        "j": "Sgg-JdyoNrA",
+        "b": "Introducción a los Nodos (Introducción a Blender 2.80 #32)"
+    },
+    {
+        "i": 4,
+        "j": "suS_j8l1krY",
+        "b": "La Interfaz de Blender 2.80 (Introducción a Blender 2.80 #04)"
+    },
+    {
+        "i": 36,
+        "j": "TMos8nbG_CU",
+        "b": "Luces (Introducción a Blender 2.80 #36)"
+    },
+    {
+        "i": 35,
+        "j": "twkX4Hwl8AA",
+        "b": "HDRIs y Materiales PBR (Introducción a Blender 2.80 #35)"
+    },
+    {
+        "i": 6,
+        "j": "UDPa6gAFSTY",
+        "b": "Crear y Guardar Archivos (Introducción a Blender 2.80 #06)"
+    },
+    {
+        "i": 5,
+        "j": "ueKCh0pnJE8",
+        "b": "Workspaces (Introducción a Blender 2.80 #05)"
+    },
+    {
+        "i": 42,
+        "j": "vAR4MOrRisU",
+        "b": "Comparación entre EEVEE y Cycles (Introducción a Blender 2.80 #42)"
+    },
+    {
+        "i": 12,
+        "j": "VuvXG3Wlouc",
+        "b": "Cursor 3D y Puntos de Pivote (Introducción a Blender 2.80 #12)"
+    },
+    {
+        "i": 19,
+        "j": "vVSgg39YMxU",
+        "b": "Modos y Opciones de Visualización (Introducción a Blender 2.80 #19)"
+    },
+    {
+        "i": 30,
+        "j": "XHtKlR2eN5o",
+        "b": "Cambiar el Motor de Render (Introducción a Blender 2.80 #30)"
+    },
+    {
+        "i": 29,
+        "j": "YnHd2lOEszg",
+        "b": "Motores de Render: EEVEE y Cycles (Introducción a Blender 2.80 #29)"
+    },
+    {
+        "i": 22,
+        "j": "yrCdz1KanEs",
+        "b": "Box Modeling (Introducción a Blender 2.80 #22)"
+    },
+    {
+        "i": 10,
+        "j": "zufpMRGCGM8",
+        "b": "Creación y Eliminación de Objetos (Introducción a Blender 2.80 #10)"
+    }
+]
