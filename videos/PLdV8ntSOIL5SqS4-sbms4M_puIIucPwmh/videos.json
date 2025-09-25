@@ -1,0 +1,287 @@
+[
+    {
+        "i": 18,
+        "j": "_2-5QWBGHJ8",
+        "b": "Familia de funciones \"apply\" en R con RStudio"
+    },
+    {
+        "i": 15,
+        "j": "_cBt2xCtgkc",
+        "b": "Matrices en R programming"
+    },
+    {
+        "i": 31,
+        "j": "_lgKvzvuhOA",
+        "b": "gganimate. Gráficas animadas con ggplot, gganimate y RStudio"
+    },
+    {
+        "i": 51,
+        "j": "_lvuStQBADI",
+        "b": "Layout Panels en R Shiny con RStudio. DISEÑANDO el UI de nuestra app!"
+    },
+    {
+        "i": 13,
+        "j": "0wD9ks3eD7A",
+        "b": "Dataframes en R programming"
+    },
+    {
+        "i": 41,
+        "j": "13GrrLIy3yg",
+        "b": "Inferencia de media poblacional en R. Estudiante desvelado 👨🏻‍💻"
+    },
+    {
+        "i": 49,
+        "j": "23XhSEaY94E",
+        "b": "Función IFELSE en RStudio en 8 SEGUNDOS!  #rstudio  #hack #programacion"
+    },
+    {
+        "i": 30,
+        "j": "3UiK7XbsPDA",
+        "b": "Tutorial DEFINITIVO de ggplot2 en RStudio 📈📊 Grafica como PRO"
+    },
+    {
+        "i": 5,
+        "j": "4a7LWzv13ls",
+        "b": "Bibliotecas en R programming"
+    },
+    {
+        "i": 44,
+        "j": "4OPRM1Sayx4",
+        "b": "Aprende a manejar errores en R con TryCatch"
+    },
+    {
+        "i": 8,
+        "j": "5_g5nmE4cFU",
+        "b": "Tipos de datos en R programming"
+    },
+    {
+        "i": 35,
+        "j": "5r8MwpyvrS0",
+        "b": "SQL Joins en RStudio. FUNDAMENTAL SABER ESTO."
+    },
+    {
+        "i": 40,
+        "j": "8Mm1UZjoC3s",
+        "b": "Tablas de contingencia y prueba de Independencia Ji-Cuadrada."
+    },
+    {
+        "i": 47,
+        "j": "AGgN72_l4QE",
+        "b": "¿Que es Shiny? Crea aplicaciones FACILMENTE con Shiny en RStudio o Python"
+    },
+    {
+        "i": 4,
+        "j": "aTJsNAqGMTs",
+        "b": "Conociendo RStudio"
+    },
+    {
+        "i": 12,
+        "j": "B0Arnz_Xexs",
+        "b": "Vectores en R programming"
+    },
+    {
+        "i": 19,
+        "j": "b71uk1IiYPo",
+        "b": "Condicionales If else, ifelse() en R"
+    },
+    {
+        "i": 10,
+        "j": "BFPV3_1h_gU",
+        "b": "RTools en R programming"
+    },
+    {
+        "i": 9,
+        "j": "bfUQnisBMj4",
+        "b": "getwd y setwd en R programming"
+    },
+    {
+        "i": 25,
+        "j": "bONcIYsaI38",
+        "b": "Qué son los Missing Values o NA's?"
+    },
+    {
+        "i": 27,
+        "j": "BqaqPTjxH-c",
+        "b": "Operador Pipe, una nueva forma de programar en R."
+    },
+    {
+        "i": 6,
+        "j": "cGrwDl3Ctkg",
+        "b": "Operaciones básicas en R programming"
+    },
+    {
+        "i": 38,
+        "j": "D5gzAUni094",
+        "b": "Estadistica Descriptiva e Inferencial en R con RStudio. Conoce la distribución de tus datos!"
+    },
+    {
+        "i": 24,
+        "j": "dN0nRmbHBuQ",
+        "b": "Leyendo y escribiendo archivos de Excel en RStudio"
+    },
+    {
+        "i": 7,
+        "j": "drCHZYjpZZM",
+        "b": "Variables en R programming"
+    },
+    {
+        "i": 52,
+        "j": "E-m7yJFRmbg",
+        "b": "DISEÑA tu App R Shiny: Agrega Tabs con RStudio | Tutorial Paso a Paso"
+    },
+    {
+        "i": 28,
+        "j": "E0hqXZHHwOg",
+        "b": "Tutorial de dplyr, de las MEJORES bibliotecas en R"
+    },
+    {
+        "i": 26,
+        "j": "F5fZBF0l1Q0",
+        "b": "Reemplazando Missing Values en RStudio"
+    },
+    {
+        "i": 50,
+        "j": "glHoaeNzzTU",
+        "b": "Explicando CLARAMENTE la estructura de una app de R Shiny en RStudio"
+    },
+    {
+        "i": 37,
+        "j": "GWoJN-d7sSo",
+        "b": "Distribuciones de Probabilidad: Binomial y Normal. INDISPENSABLE saber."
+    },
+    {
+        "i": 0,
+        "j": "HVB0kt5ODh0",
+        "b": "Presentación del curso de programación en R"
+    },
+    {
+        "i": 54,
+        "j": "iO48ICNHuPk",
+        "b": "Agrega Tags y HTML a tu app de R Shiny! 😎"
+    },
+    {
+        "i": 34,
+        "j": "IrQh778e4Jk",
+        "b": "Detectando patrónes en texto con Stringr en RStudio"
+    },
+    {
+        "i": 42,
+        "j": "iuRmpH8KJBw",
+        "b": "¿Que es Machine Learning y como aprenderlo GRATIS?"
+    },
+    {
+        "i": 11,
+        "j": "IybRgWm8b8o",
+        "b": "Estructuras de datos en R programming"
+    },
+    {
+        "i": 48,
+        "j": "JgQGuWrWcF8",
+        "b": "Primera app de R Shiny en 5 MINUTOS con RStudio"
+    },
+    {
+        "i": 33,
+        "j": "KaooUI51jiU",
+        "b": "Aprende a Manejar Fechas en R como un EXPERTO con la Biblioteca Clock! #rprogramming #datascience"
+    },
+    {
+        "i": 29,
+        "j": "KXF94qNJ3lM",
+        "b": "Group By en R."
+    },
+    {
+        "i": 16,
+        "j": "Lufhq1wLHTI",
+        "b": "Funciones en R desde cero. RStudio."
+    },
+    {
+        "i": 23,
+        "j": "LYOMSCNLpgY",
+        "b": "Leyendo y escribiendo archivos csv con RStudio"
+    },
+    {
+        "i": 36,
+        "j": "M94zVK3LpoU",
+        "b": "Conceptos IMPORTANTES en Probabilidad"
+    },
+    {
+        "i": 39,
+        "j": "mYTzxMbPvTw",
+        "b": "Prueba de bondad y ajuste Ji-cuadrado. ¿Te esperabas la conclusión?"
+    },
+    {
+        "i": 43,
+        "j": "nMJ2IENU06w",
+        "b": "Nuevo Operador Pipe en R, ¿Ya lo conocías?"
+    },
+    {
+        "i": 32,
+        "j": "NXdeDcbKlsY",
+        "b": "Manejo de Fechas en RStudio con Lubridate. Fundamental saber esto!"
+    },
+    {
+        "i": 22,
+        "j": "OsF8GtZAuHk",
+        "b": "While en R."
+    },
+    {
+        "i": 53,
+        "j": "oVruUy6vrEQ",
+        "b": "HAZ ESTO si quieres convertirte en programador EXPERTO 🥷"
+    },
+    {
+        "i": 14,
+        "j": "pxFUEJ6rqcc",
+        "b": "Listas en R programming"
+    },
+    {
+        "i": 3,
+        "j": "R-7cDi6BNGk",
+        "b": "Cómo instalar R y RStudio."
+    },
+    {
+        "i": 1,
+        "j": "Smnrse99DDQ",
+        "b": "¿Qué es R y R Studio?"
+    },
+    {
+        "i": 21,
+        "j": "T0iK6u4qVjg",
+        "b": "For loop en R."
+    },
+    {
+        "i": 56,
+        "j": "UEn8gWxmz54",
+        "b": "DataTable APLASTA a DataFrame en RStudio 🤯"
+    },
+    {
+        "i": 46,
+        "j": "vjbdGteuasU",
+        "b": "🚀 ¡Domina R Shiny en RStudio! Temario del Curso Completo para Crear Apps de Datos Interactivas"
+    },
+    {
+        "i": 20,
+        "j": "vpuNk9SJct8",
+        "b": "Switch en R. Estructuras de control."
+    },
+    {
+        "i": 2,
+        "j": "y4QMlGOo46c",
+        "b": "Instala R y RStudio en 7 minutos FÁCILMENTE"
+    },
+    {
+        "i": 17,
+        "j": "YoRGBhl_BLM",
+        "b": "MEJORA tu habilidad en la creacion de funciones en R con RStudio 😎"
+    },
+    {
+        "i": 45,
+        "j": "yUkjMqUAeu0",
+        "b": "Creando funciones en RStudio con ChatGPT FÁCILMENTE"
+    },
+    {
+        "i": 55,
+        "j": "ZLE1KSLf6GQ",
+        "b": "Adiós Data Frames en R, Hola Data Tables. #rprogramming  #datascience  #datatables  #bigdata"
+    }
+]

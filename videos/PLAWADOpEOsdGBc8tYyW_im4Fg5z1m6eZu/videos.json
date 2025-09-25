@@ -1,12 +1,107 @@
 [
     {
-        "a": 97,
-        "e": "PLyvsggKtwbLVOPuOGn9J1Ie9RD7r7LcWD",
-        "b": "Curso Spring Boot : Desarrollo de Microservicios",
-        "f": "https://i.ytimg.com/vi/BRtPNl0aBkA/hqdefault.jpg",
-        "g": 30,
-        "d": "UCeEW6PHNJlIwI-rKChmqqkw",
-        "h": "2024-02-29 15:56:43",
-        "c": "¡Sumérgete en el apasionante mundo del desarrollo de microservicios con Spring Boot, una de las tecnologías más codiciadas en la actualidad dentro del vasto universo tecnológico!\n\nEn este completo curso, te llevaremos de la mano paso a paso a través del desarrollo de un microservicio backend con Spring Boot, utilizando la poderosa herramienta InteliJ como nuestro fiel compañero de viaje.\n\nExploraremos las últimas y más actualizadas versiones de Java, Spring y Spring Boot, desentrañando meticulosamente cada una de las anotaciones que Spring nos ofrece para potenciar nuestro código al máximo.\n\nSin embargo, lo que realmente distingue este curso es el énfasis especial que pondremos en el diseño arquitectónico de cada capa de la solución. Profundizaremos en conceptos complejos como la inyección de dependencias, el bajo acoplamiento y la cohesión de los diversos componentes, asegurando que comprendas no solo cómo codificar, sino cómo construir robustas y escalables soluciones.\n\nCada implementación de controladores, servicios y persistencia se realizará siguiendo las mejores prácticas que Java nos ofrece, garantizando un código limpio y de calidad excepcional.\n\nPero eso no es todo, también exploraremos la integración de tecnologías complementarias como Docker para la gestión de contenedores, PostgresSQL como nuestra base de datos relacional y Lombok para simplificar el código. Y para asegurarnos de que nuestra API REST esté en la cima de su juego, llevaremos a cabo exhaustivas pruebas utilizando Postman, garantizando que esté bien formada y lista para enfrentar los desafíos del mundo real.\n\n¡Prepárate para transformar tu manera de desarrollar microservicios y llevar tus habilidades al siguiente nivel con este emocionante curso!"
+        "i": 7,
+        "j": "_7NOEj44e40",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Operadores relacionales"
+    },
+    {
+        "i": 20,
+        "j": "05W42z3sd1M",
+        "b": "Escalera de IFs 🖇✅ (Estructuras de decisión)"
+    },
+    {
+        "i": 19,
+        "j": "2p3seQMOdWI",
+        "b": "Ejercicio Menú con Switch (Condicional Múltiple) 📄✅"
+    },
+    {
+        "i": 3,
+        "j": "311M1woSkhw",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Descargar Pseint"
+    },
+    {
+        "i": 9,
+        "j": "8fkUExzuArQ",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Estructuras de control"
+    },
+    {
+        "i": 15,
+        "j": "AhpKqQK_N9A",
+        "b": "Ejercicio descuento en tienda 💲 | PROGRAMACIÓN DESDE CERO ✅"
+    },
+    {
+        "i": 13,
+        "j": "AkPiKYGWjmY",
+        "b": "Calcular porcentaje de alumnos 📝 | PROGRAMACIÓN DESDE CERO ✅"
+    },
+    {
+        "i": 5,
+        "j": "EttJ8OJZDCg",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Interacción con el usuario"
+    },
+    {
+        "i": 17,
+        "j": "hcX3VF0P9II",
+        "b": "Ejercicio Auto \"Inteligente\" 🚗 | PROGRAMACIÓN DESDE CERO ✅"
+    },
+    {
+        "i": 2,
+        "j": "kUZy9PVD0EI",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Algoritmos"
+    },
+    {
+        "i": 6,
+        "j": "lJhrB6EHTOU",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Operadores aritméticos"
+    },
+    {
+        "i": 8,
+        "j": "M_7V4P3NQdU",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Operadores lógicos"
+    },
+    {
+        "i": 18,
+        "j": "nx-LNSw2jng",
+        "b": "Estructura de decisión Múltiple (Switch) 3️⃣ | PROGRAMACIÓN DESDE CERO ✅"
+    },
+    {
+        "i": 10,
+        "j": "oFzqw89rYAM",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Calculadora Básica"
+    },
+    {
+        "i": 4,
+        "j": "paVKEuzxwwU",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Sentencias, variables y tipos de datos"
+    },
+    {
+        "i": 16,
+        "j": "qoHQYGyN7lc",
+        "b": "Estructura de decisión doble 2️⃣ | PROGRAMACIÓN DESDE CERO ✅"
+    },
+    {
+        "i": 0,
+        "j": "s43aiz5aNRQ",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Introducción"
+    },
+    {
+        "i": 1,
+        "j": "smKYeXoMvyc",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Conceptos básicos"
+    },
+    {
+        "i": 12,
+        "j": "TiU8v4rX4WE",
+        "b": "Conversor de temperatura ☀️ | PROGRAMACIÓN DESDE CERO ✅"
+    },
+    {
+        "i": 11,
+        "j": "uHSYX0_4qUI",
+        "b": "Curso de PROGRAMACIÓN DESDE CERO ✅ 2020 | Diagramas de flujo"
+    },
+    {
+        "i": 14,
+        "j": "ZWTc7X8ZvKU",
+        "b": "Estructura de decisión (simple) ⬇️ | PROGRAMACIÓN DESDE CERO ✅"
     }
 ]
