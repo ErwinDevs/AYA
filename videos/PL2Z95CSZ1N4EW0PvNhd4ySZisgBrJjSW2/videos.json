@@ -1,0 +1,457 @@
+[
+    {
+        "i": 65,
+        "j": "_hLAz3thTUU",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, FUNCIONES DE TIPO TABLA  (video 66)"
+    },
+    {
+        "i": 8,
+        "j": "-M_6hCAaTlA",
+        "b": "Curso de SQL Server 2021 desde cero |  CLAUSULA WHERE (video 9 )"
+    },
+    {
+        "i": 46,
+        "j": "00-mHfMpzkE",
+        "b": "Curso de SQL Server 2021 desde cero | ISNULL, COALESCE  (video 47)"
+    },
+    {
+        "i": 82,
+        "j": "09Zn05i7E0I",
+        "b": "Curso de SQL Server 2021 desde cero | USUSARIOS - MODO SCRIPT (video 83 )"
+    },
+    {
+        "i": 75,
+        "j": "2_8wv9e_QTM",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, WHILE - CONTINUE (video 76 )"
+    },
+    {
+        "i": 79,
+        "j": "2jaC4We9yjw",
+        "b": "Curso de SQL Server 2021 desde cero | CURSORES TIPO TABLA (video 80 )"
+    },
+    {
+        "i": 37,
+        "j": "3lW-PS8LUvM",
+        "b": "Curso de SQL Server 2021 desde cero | OPERADORES: LIKE Y NOT LIKE  (video 38)"
+    },
+    {
+        "i": 51,
+        "j": "3vFudpfQviw",
+        "b": "Curso de SQL Server 2021 desde cero | FUNCIONES LEFT(), RIGHT(), STUFF() (video 52)"
+    },
+    {
+        "i": 67,
+        "j": "3XGOrLFonYE",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, TRIGGERS (INSERT, UPDATE, DELETE) (video 68)"
+    },
+    {
+        "i": 11,
+        "j": "4pjrqcM4ED8",
+        "b": "Curso de SQL Server 2021 desde cero | OPERADORES RELACIONALES  (video 12 )"
+    },
+    {
+        "i": 59,
+        "j": "4uSUd51ZESA",
+        "b": "Curso de SQL Server 2021 desde cero | PROCEDIMIENTOS ALMACENADOS [BORRAR, ACTUALIZAR] (video 60)"
+    },
+    {
+        "i": 78,
+        "j": "53I3v9f8p6I",
+        "b": "Curso de SQL Server 2021 desde cero | CURSORES (Introducción) (video 79 )"
+    },
+    {
+        "i": 86,
+        "j": "5jFE0LeM3Os",
+        "b": "Curso de SQL Server 2021 desde cero | PARTITION BY (video 87 )"
+    },
+    {
+        "i": 15,
+        "j": "5PU3-ms2eKs",
+        "b": "Curso de SQL Server 2021 desde cero | INSERTAR DATOS DESDE OTRA TABLA  (video 16)"
+    },
+    {
+        "i": 50,
+        "j": "62vDyVs88i8",
+        "b": "Curso de SQL Server 2021 desde cero | FUNCIONES DATE (video 51)"
+    },
+    {
+        "i": 61,
+        "j": "6kaR9OaEESg",
+        "b": "Curso de SQL Server 2021 desde cero | PROCEDIMIENTOS ALMACENADOS [PAMETROS DE SALIDA] (video 62)"
+    },
+    {
+        "i": 3,
+        "j": "7f2-vlDUlHE",
+        "b": "Curso de SQL Server 2021 desde cero | CREAR, RENOMBRAR Y BORRAR UNA BASE DE DATOS (video 4 )"
+    },
+    {
+        "i": 43,
+        "j": "7QJ2SK6EIo4",
+        "b": "Curso de SQL Server 2021 desde cero | HAVING  (video 44)"
+    },
+    {
+        "i": 17,
+        "j": "7vM3TIUhQ4s",
+        "b": "Curso de SQL Server 2021 desde cero | NULL, IS NOT NULL (video 18)"
+    },
+    {
+        "i": 20,
+        "j": "893JS-CGaWc",
+        "b": "Curso de SQL Server 2021 desde cero | CONSTRAINTS - UNIQUE (video 21)"
+    },
+    {
+        "i": 84,
+        "j": "8Pbr1NSUMiQ",
+        "b": "Curso de SQL Server 2021 desde cero | BACKUPS DE LA BASE (video 85 )"
+    },
+    {
+        "i": 58,
+        "j": "8sCrjt5e2Yk",
+        "b": "Curso de SQL Server 2021 desde cero |  T-SQL, PROCEDIMIENTOS ALMACENADOS  (video 59)"
+    },
+    {
+        "i": 85,
+        "j": "8T9iH2lBgJ0",
+        "b": "Curso de SQL Server 2021 desde cero | OVER() (video 86 )"
+    },
+    {
+        "i": 16,
+        "j": "9qXcX07Ox_g",
+        "b": "Curso de SQL Server 2021 desde cero | SELECT TOP,  SELECT PERCENT  (video 17)"
+    },
+    {
+        "i": 40,
+        "j": "9yE2p2U8JSk",
+        "b": "Curso de SQL Server 2021 desde cero | ENLACES: FULL JOIN, RIGHT JOIN  (video 41)"
+    },
+    {
+        "i": 5,
+        "j": "a_rZN1cO0-E",
+        "b": "Curso de SQL Server 2021 desde cero | TABLAS (video 6 )"
+    },
+    {
+        "i": 53,
+        "j": "a0DLfgTb310",
+        "b": "Curso de SQL Server 2021 desde cero | TRANSACT-SQL, FIRST_VALUE() PARTE II (video 54)"
+    },
+    {
+        "i": 38,
+        "j": "a4sMtXZjmHk",
+        "b": "Curso de SQL Server 2021 desde cero | ENLACES: INNER JOIN (video 39)"
+    },
+    {
+        "i": 49,
+        "j": "beqzpktupCo",
+        "b": "Curso de SQL Server 2021 desde cero | FUNCIONES STRING (video 50)"
+    },
+    {
+        "i": 62,
+        "j": "cDoSUE68sNw",
+        "b": "Curso de SQL Server 2021 desde cero | PROCEDIMIENTOS ALMACENADOS [ENCRIPTACION] (video 63)"
+    },
+    {
+        "i": 52,
+        "j": "CecRk6n_5_U",
+        "b": "Curso de SQL Server 2021 desde cero | TRANSACT-SQL, BULK INSERT ESTATICO  (video 53)"
+    },
+    {
+        "i": 42,
+        "j": "E9R0dlAoPSM",
+        "b": "Curso de SQL Server 2021 desde cero | GROUP BY (video 43)"
+    },
+    {
+        "i": 32,
+        "j": "EHCu8FCCGv8",
+        "b": "Curso de SQL Server 2021 desde cero | ORDER BY, ORGANIZAR REGISTROS EN LAS CONSULTAS  (video 33)"
+    },
+    {
+        "i": 28,
+        "j": "euuCQnUMXSk",
+        "b": "Curso de SQL Server 2021 desde cero | ALIAS Y  CONCATENACION DE REGISTROS (video 29)"
+    },
+    {
+        "i": 9,
+        "j": "f4isWnoU4IY",
+        "b": "Curso de SQL Server 2021 desde cero |  TRUNCATE TABLE, DELETE FROM (video 10 )"
+    },
+    {
+        "i": 13,
+        "j": "FgBtyXVWO0c",
+        "b": "Curso de SQL Server 2021 desde cero | CAMBIAR LOS NOMBRES DE LOS CAMPOS DE UNA TABLA  (video 14)"
+    },
+    {
+        "i": 19,
+        "j": "G2UyhEfjU-E",
+        "b": "Curso de SQL Server 2021 desde cero | CONSTRAINTS - PRIMARY KEY (video 20)"
+    },
+    {
+        "i": 26,
+        "j": "h3a9eKRu5Tg",
+        "b": "Curso de SQL Server 2021 desde cero | INDICES, (INDEX) (video 27)"
+    },
+    {
+        "i": 29,
+        "j": "hgDhNX_Qk1w",
+        "b": "Curso de SQL Server 2021 desde cero | OPERADORES MATEMATICOS, COLUMNAS CALCULADAS (video 30)"
+    },
+    {
+        "i": 2,
+        "j": "huM3TF_C1_k",
+        "b": "Curso de SQL Server 2021 desde cero | EXPLORACION MANAGMENT STUDIO (video 3)"
+    },
+    {
+        "i": 22,
+        "j": "hWxNHLJpvAs",
+        "b": "Curso de SQL Server 2021 desde cero | CONSTRAINTS - DEFAULT (video 23)"
+    },
+    {
+        "i": 45,
+        "j": "Hxrv4xHJ86o",
+        "b": "Curso de SQL Server 2021 desde cero | SUBCONSULTAS: PARTE 2 (video 46)"
+    },
+    {
+        "i": 10,
+        "j": "i1_O-_9G2Uk",
+        "b": "Curso de SQL Server 2021 desde cero | ALTER TABLE - ADD - DROP  (video 11 )"
+    },
+    {
+        "i": 18,
+        "j": "ICyrAP-2dqY",
+        "b": "Curso de SQL Server 2021 desde cero | CREATE TABLE, NULL NOT NULL, INSERT NULL (video 19)"
+    },
+    {
+        "i": 73,
+        "j": "IJKqwWouePs",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, LOOPS (video 74 )"
+    },
+    {
+        "i": 81,
+        "j": "iRVa5-z--Zw",
+        "b": "Curso de SQL Server 2021 desde cero | USUSARIOS - MODO GRAFICO  (video 82 )"
+    },
+    {
+        "i": 47,
+        "j": "iW69wFkhiZk",
+        "b": "Curso de SQL Server 2021 desde cero | CASE  (video 48)"
+    },
+    {
+        "i": 7,
+        "j": "jdb6Jpx3pLw",
+        "b": "Curso de SQL Server 2021 desde cero | COMO RENOMBRAR Y ELIMINAR TABLAS  (video 8 )"
+    },
+    {
+        "i": 44,
+        "j": "jJGbGYWe1iY",
+        "b": "Curso de SQL Server 2021 desde cero | SUBCONSULTAS: PARTE 1 (video 45)"
+    },
+    {
+        "i": 25,
+        "j": "jwxcGCt9LNE",
+        "b": "Curso de SQL Server 2021 desde cero | VISTAS, (VIEWS) (video 26)"
+    },
+    {
+        "i": 56,
+        "j": "k5_2r2nLXzo",
+        "b": "Curso de SQL Server 2021 desde cero |  T-SQL, VARIABLES (video 57)"
+    },
+    {
+        "i": 60,
+        "j": "KTzJxJfe8ao",
+        "b": "Curso de SQL Server 2021 desde cero | PROCEDIMIENTOS ALMACENADOS [PAMETROS DE ENTRADA] (video 61)"
+    },
+    {
+        "i": 74,
+        "j": "LcjLAQB32Qo",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, WHILE- BREAK (video 75 )"
+    },
+    {
+        "i": 24,
+        "j": "LKOecyqDTbg",
+        "b": "Curso de SQL Server 2021 desde cero | CONSTRAINTS - FOREIGN KEY (video 25)"
+    },
+    {
+        "i": 76,
+        "j": "LYSAdzwm-QU",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, LOOPS ANIDADOS (video 77 )"
+    },
+    {
+        "i": 90,
+        "j": "m-VztZYm1jE",
+        "b": "Curso de SQL Server 2021 desde cero | BEGIN TRANSACTION, COMMIT - ROLLBACK (video 91 )"
+    },
+    {
+        "i": 69,
+        "j": "M0j5TdWCAkw",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, TRIGGERS (ENABLE, DISABLE) (video 70)"
+    },
+    {
+        "i": 80,
+        "j": "mfhQt0ZE82Y",
+        "b": "Curso de SQL Server 2021 desde cero | CURSORES - ACTUALIZAR DATOS (video 81 )"
+    },
+    {
+        "i": 64,
+        "j": "nnT-ZUcTNPY",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, FUNCIONES  (video 65)"
+    },
+    {
+        "i": 33,
+        "j": "Q6mZ-LwReZo",
+        "b": "Curso de SQL Server 2021 desde cero | MAX, MIN - VALORES MAXIMOS Y MINIMOS   (video 34)"
+    },
+    {
+        "i": 6,
+        "j": "Q7XzNjfIwaI",
+        "b": "Curso de SQL Server 2021 desde cero | TABLAS, INSERTAR REGISTROS (video 7 )"
+    },
+    {
+        "i": 55,
+        "j": "q8twUy6aveg",
+        "b": "Curso de SQL Server 2021 desde cero |  T-SQL, IF EXIST() - ELSE  (video 56)"
+    },
+    {
+        "i": 66,
+        "j": "QCS_DY7CYtU",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, TRIGGERS (INTRODUCCION) (video 67)"
+    },
+    {
+        "i": 89,
+        "j": "QOFSgXti2XY",
+        "b": "Curso de SQL Server 2021 desde cero | EJERCICIO CONSULTA CRUZADA (video 90 )"
+    },
+    {
+        "i": 41,
+        "j": "QPFqru_iceM",
+        "b": "Curso de SQL Server 2021 desde cero | CLAUSULA UNION (video 42)"
+    },
+    {
+        "i": 34,
+        "j": "rt3iAnOlXDw",
+        "b": "Curso de SQL Server 2021 desde cero | FUNCIONES DE AGRUPACION: COUNT, SUM, AVG  (video 35)"
+    },
+    {
+        "i": 83,
+        "j": "Sey9nsrWcAo",
+        "b": "Curso de SQL Server 2021 desde cero | JOBS EN SQL SERVER  (video 84 )"
+    },
+    {
+        "i": 68,
+        "j": "Sn5sINjDbt4",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, TRIGGERS (INSTEAD OF) (video 69)"
+    },
+    {
+        "i": 87,
+        "j": "sVeUpPTEB3g",
+        "b": "Curso de SQL Server 2021 desde cero | RANK() (video 88 )"
+    },
+    {
+        "i": 23,
+        "j": "sVjEjC9sYXE",
+        "b": "Curso de SQL Server 2021 desde cero | CONSTRAINTS - IDENTITY (video 24)"
+    },
+    {
+        "i": 0,
+        "j": "SYRsyAoN8BI",
+        "b": "Curso de SQL Server 2021 desde cero | INTRODUCCION (video 1)"
+    },
+    {
+        "i": 27,
+        "j": "tcKttFYtT5E",
+        "b": "Curso de SQL Server 2021 desde cero | DISTINCT (registros duplicados) (video 28)"
+    },
+    {
+        "i": 77,
+        "j": "tzbba5KffkE",
+        "b": "Curso de SQL Server 2021 desde cero | MANEJO DE REGISTROS CON BUCLE WHILE (video 78 )"
+    },
+    {
+        "i": 39,
+        "j": "ud9TOLE0Chw",
+        "b": "Curso de SQL Server 2021 desde cero | ENLACES: LEFT JOIN (video 40)"
+    },
+    {
+        "i": 63,
+        "j": "uyzoZn_Txfk",
+        "b": "Curso de SQL Server 2021 desde cero | TABLAS TEMPORALES (video 64)"
+    },
+    {
+        "i": 88,
+        "j": "V2PTKQiY3bo",
+        "b": "Curso de SQL Server 2021 desde cero | USO DE LA CLAUSULA WITH (video 89 )"
+    },
+    {
+        "i": 71,
+        "j": "vz-QFxkM6qc",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, BULK INSERT DINAMICO, (video 72)"
+    },
+    {
+        "i": 72,
+        "j": "W1anf4vxta0",
+        "b": "Curso de SQL Server 2021 desde cero | VARIABLES DE SISTEMA (video 73 )"
+    },
+    {
+        "i": 48,
+        "j": "W9M00kTqE0Y",
+        "b": "Curso de SQL Server 2021 desde cero | FUNCIONES MATEMATICAS (video 49)"
+    },
+    {
+        "i": 35,
+        "j": "wch540bN4n0",
+        "b": "Curso de SQL Server 2021 desde cero | OPERADORES: AND, OR Y NOT  (video 36)"
+    },
+    {
+        "i": 31,
+        "j": "WpQPSFg7s64",
+        "b": "Curso de SQL Server 2021 desde cero | RESTAURAR UNA BASE DE DATOS (Adventureworks 2022)  (video 32)"
+    },
+    {
+        "i": 12,
+        "j": "XoU6GNoICo8",
+        "b": "Curso de SQL Server 2021 desde cero | COMENTARIOS , LINEAS DE CODIGO (video 13 )"
+    },
+    {
+        "i": 70,
+        "j": "xPvSn9UAJg0",
+        "b": "Curso de SQL Server 2021 desde cero | T-SQL, TRIGGERS (RAISERROR) (video 71)"
+    },
+    {
+        "i": 30,
+        "j": "yDLffIj5kNk",
+        "b": "Curso de SQL Server 2021 desde cero | COMO CREAR ESQUEMAS (video 31)"
+    },
+    {
+        "i": 4,
+        "j": "yiMk4w0OQ4A",
+        "b": "Curso de SQL Server 2021 desde cero | TIPOS DE DATOS  (video 5 )"
+    },
+    {
+        "i": 21,
+        "j": "YpZIczeGbic",
+        "b": "Curso de SQL Server 2021 desde cero | CONSTRAINTS - CHECK (video 22)"
+    },
+    {
+        "i": 57,
+        "j": "Z8__Yt6v6mw",
+        "b": "Curso de SQL Server 2021 desde cero |  T-SQL, VARIABLES TIPO TABLA (video 58)"
+    },
+    {
+        "i": 1,
+        "j": "zK5mk_zmqqs",
+        "b": "Curso de SQL Server 2021 desde cero | INSTALACION BASE DE DATOS Y MANAGMENT STUDIO 19 (video 2)"
+    },
+    {
+        "i": 54,
+        "j": "zPBIYe7cOt8",
+        "b": "Curso de SQL Server 2021 desde cero |  BLOQUES, INTRODUCCION (video 55)"
+    },
+    {
+        "i": 36,
+        "j": "zwumNlHGAUM",
+        "b": "Curso de SQL Server 2021 desde cero | CLAUSULA BETWEEN (video 37)"
+    },
+    {
+        "i": 14,
+        "j": "ZYVjfTtx2hU",
+        "b": "Curso de SQL Server 2021 desde cero | CLAUSULA UPDATE  (video 15)"
+    }
+]
