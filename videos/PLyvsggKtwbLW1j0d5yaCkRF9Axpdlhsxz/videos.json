@@ -1,0 +1,612 @@
+[
+    {
+        "i": 67,
+        "j": "_lDi5YAXmVc",
+        "b": "Curso Python 3 desde cero #67 | Ejercicio práctico #14 (Suma de matrices desde teclado)"
+    },
+    {
+        "i": 29,
+        "j": "_Px4BJbkll8",
+        "b": "Curso Python 3 desde cero #29 | Los métodos rstrip() y lstrip()"
+    },
+    {
+        "i": 94,
+        "j": "-MgjgEKle4M",
+        "b": "Curso Python 3 desde cero #94 | La función zip()"
+    },
+    {
+        "i": 27,
+        "j": "0xzoID_sbCM",
+        "b": "Curso Python 3 desde cero #27 | Concatenación en Python con f-Strings"
+    },
+    {
+        "i": 4,
+        "j": "1CDE1pdVDGw",
+        "b": "Curso Python 3 desde cero #4 | Manipulación de cadenas de caracteres (Strings)"
+    },
+    {
+        "i": 73,
+        "j": "1MaOdhTJaSM",
+        "b": "Curso Python 3 desde cero #73 | El método clear()"
+    },
+    {
+        "i": 75,
+        "j": "1zpcE7W2AdQ",
+        "b": "Curso Python 3 desde cero #75 | El método copy()"
+    },
+    {
+        "i": 26,
+        "j": "2185VEgp0VY",
+        "b": "Curso Python 3 desde cero #26 | Concatenación en Python 3 con el método format()"
+    },
+    {
+        "i": 68,
+        "j": "2oQFv5tmfwM",
+        "b": "Curso Python 3 desde cero #68 | Diccionarios en Python"
+    },
+    {
+        "i": 15,
+        "j": "35kWoAtgzic",
+        "b": "Curso Python 3 desde cero #15 | Operadores lógicos en Python"
+    },
+    {
+        "i": 50,
+        "j": "3M_Iz1j8q30",
+        "b": "Curso Python 3 desde cero #50 | Eliminar elementos de una lista - Método pop()"
+    },
+    {
+        "i": 80,
+        "j": "3xM9Dk_Ro6g",
+        "b": "Curso Python 3 desde cero #80 | El método setdefault()"
+    },
+    {
+        "i": 61,
+        "j": "4-u1wnO46iQ",
+        "b": "Curso Python 3 desde cero #61 | Constructor list() – Convertir objetos a listas"
+    },
+    {
+        "i": 11,
+        "j": "43NYFfUM5uU",
+        "b": "Curso Python 3 desde cero #11 | Sentencias condicionales compuestas en Python (if - else)"
+    },
+    {
+        "i": 40,
+        "j": "4AYusdQ_4Xk",
+        "b": "Curso Python 3 desde cero #40 | Ejercicio práctico #7 (Invertir un String)"
+    },
+    {
+        "i": 14,
+        "j": "4vKrYztae2I",
+        "b": "Curso Python 3 desde cero #14 | Operadores relacionales en Python"
+    },
+    {
+        "i": 58,
+        "j": "5AnY8E8f_p4",
+        "b": "Curso Python 3 desde cero #58 | Ejercicio práctico #10 (Manejo de listas)"
+    },
+    {
+        "i": 33,
+        "j": "5YbUzvjAV-Y",
+        "b": "Curso Python 3 desde cero #33 | El método capitalize()"
+    },
+    {
+        "i": 85,
+        "j": "62UvizLLcNU",
+        "b": "Curso Python 3 desde cero #85 | Tuplas"
+    },
+    {
+        "i": 53,
+        "j": "6EM2xZUliUM",
+        "b": "Curso Python 3 desde cero #53 | Invertir una lista - Método reverse()"
+    },
+    {
+        "i": 106,
+        "j": "6gTDUR_sbMs",
+        "b": "Curso Python 3 desde cero #106 | Agregar un elemento a un conjunto – El método add()"
+    },
+    {
+        "i": 12,
+        "j": "6mBL2p1O3AY",
+        "b": "Curso Python 3 desde cero #12 | Sentencias condicionales múltiples en Python (elif)"
+    },
+    {
+        "i": 6,
+        "j": "6sOEpHItJHs",
+        "b": "Curso Python 3 desde cero #6 | Operadores aritméticos en Python"
+    },
+    {
+        "i": 5,
+        "j": "6yBL1mcd7iY",
+        "b": "Curso Python 3 desde cero #5 | Palabras reservadas en Python"
+    },
+    {
+        "i": 36,
+        "j": "7t-gB2XszM8",
+        "b": "Curso Python 3 desde cero #36 | Los métodos startswith() y endswith()"
+    },
+    {
+        "i": 89,
+        "j": "7wfCq9552bE",
+        "b": "Curso Python 3 desde cero #89 | Inmutabilidad de una tupla"
+    },
+    {
+        "i": 101,
+        "j": "8LGdagGDi1g",
+        "b": "Curso Python 3 desde cero #101 | Superconjuntos – El método issuperset()"
+    },
+    {
+        "i": 28,
+        "j": "8tuyYql2duA",
+        "b": "Curso Python 3 desde cero #28 | El método strip()"
+    },
+    {
+        "i": 62,
+        "j": "8tXEia5ZcCE",
+        "b": "Curso Python 3 desde cero #62 | Listas anidadas"
+    },
+    {
+        "i": 30,
+        "j": "9yZnegffzYw",
+        "b": "Curso Python 3 desde cero #30 | Los métodos istitle() y title()"
+    },
+    {
+        "i": 92,
+        "j": "A6czS1VlRt4",
+        "b": "Curso Python 3 desde cero #92 | La función tuple()"
+    },
+    {
+        "i": 22,
+        "j": "aeXYFaIEELA",
+        "b": "Curso Python 3 desde cero #22 | Bucle o ciclo while"
+    },
+    {
+        "i": 96,
+        "j": "aGDTqRuAtt0",
+        "b": "Curso Python 3 desde cero #96 | Ejercicio práctico #17 (Seleccionador de Nombres)"
+    },
+    {
+        "i": 82,
+        "j": "B10alyprBOc",
+        "b": "Curso Python 3 desde cero #82 | Diccionarios y el ciclo for: ¿Cómo recorrer un diccionario?"
+    },
+    {
+        "i": 117,
+        "j": "bm2CVSYPIPw",
+        "b": "Curso Python 3 desde cero #117 | Proyecto #3 – Tienda virtual"
+    },
+    {
+        "i": 119,
+        "j": "bvtY4bQlDe0",
+        "b": "Curso Python 3 desde cero #119 | Proyecto #5 – Conversor de romano a entero"
+    },
+    {
+        "i": 52,
+        "j": "ByFYD6vsTR0",
+        "b": "Curso Python 3 desde cero #52 | Eliminar una lista – La instrucción del"
+    },
+    {
+        "i": 84,
+        "j": "BYyD9IeFPp0",
+        "b": "Curso Python 3 desde cero #84 | Ejercicio práctico #15 (frecuencia de letras en texto)"
+    },
+    {
+        "i": 47,
+        "j": "bz788gzeUcE",
+        "b": "Curso Python 3 desde cero #47 | Modificar los elementos de una lista"
+    },
+    {
+        "i": 39,
+        "j": "C2JE-6tNONw",
+        "b": "Curso Python 3 desde cero #39 | El ciclo o bucle for"
+    },
+    {
+        "i": 93,
+        "j": "CaY3YcyIO5c",
+        "b": "Curso Python 3 desde cero #93 | Concatenación de tuplas"
+    },
+    {
+        "i": 66,
+        "j": "cdwkj7BNnRw",
+        "b": "Curso Python 3 desde cero #66 | Suma de matrices"
+    },
+    {
+        "i": 97,
+        "j": "Chs_qP41HiU",
+        "b": "Curso Python 3 desde cero #97 | Ejercicio práctico #18 (Suma de Tuplas)"
+    },
+    {
+        "i": 19,
+        "j": "CmuDmU6ncV8",
+        "b": "Curso Python 3 desde cero #19 | Operadores de asignación"
+    },
+    {
+        "i": 1,
+        "j": "DAdRO6ByBoU",
+        "b": "Curso Python 3 desde cero #1 | Introducción e instalación de Python"
+    },
+    {
+        "i": 121,
+        "j": "Db43XBXlk7c",
+        "b": "CURSO Fundamentos de Funciones en PYTHON (curso de programación)"
+    },
+    {
+        "i": 114,
+        "j": "dPkoI6BQc0E",
+        "b": "Curso Python 3 desde cero #114 | Manejo de excepciones (try – except)"
+    },
+    {
+        "i": 91,
+        "j": "e5m5kCIlv98",
+        "b": "Curso Python 3 desde cero #91 | Desempaquetado de tuplas y el ciclo for"
+    },
+    {
+        "i": 81,
+        "j": "e6ha5NKSeK0",
+        "b": "Curso Python 3 desde cero #81 | El método update()"
+    },
+    {
+        "i": 8,
+        "j": "EaWsOcc7R2M",
+        "b": "Curso Python 3 desde cero #8 | Tipos de datos en Python"
+    },
+    {
+        "i": 116,
+        "j": "eP8zymxZLsQ",
+        "b": "Curso Python 3 desde cero #116 | Proyecto #2 – Piensa en un número"
+    },
+    {
+        "i": 38,
+        "j": "ePWYQ9PetnM",
+        "b": "Curso Python 3 desde cero #38 | Ejercicio práctico #6 (Eliminar una palabra)"
+    },
+    {
+        "i": 115,
+        "j": "GH6TOuYBVk0",
+        "b": "Curso Python 3 desde cero #115 | Proyecto #1 – Adivina el número secreto"
+    },
+    {
+        "i": 72,
+        "j": "GZnkdWQTOes",
+        "b": "Curso Python 3 desde cero #72 | El método values()"
+    },
+    {
+        "i": 32,
+        "j": "HT-6MSdKEJw",
+        "b": "Curso Python 3 desde cero #32 | El método swapcase()"
+    },
+    {
+        "i": 42,
+        "j": "hvVxZdt2sSA",
+        "b": "Curso Python 3 desde cero #42 | El bucle for y la clase range()"
+    },
+    {
+        "i": 70,
+        "j": "hwyszwX3Wnk",
+        "b": "Curso Python 3 desde cero #70 | El método items()"
+    },
+    {
+        "i": 51,
+        "j": "I5lDyVVhNG8",
+        "b": "Curso Python 3 desde cero #51 | Eliminar elementos de una lista - Método remove()"
+    },
+    {
+        "i": 88,
+        "j": "iM41Jxlwjc8",
+        "b": "Curso Python 3 desde cero #88 | Elementos de una tupla (Desempaquetado de tuplas)"
+    },
+    {
+        "i": 48,
+        "j": "im6Ny4WDDtw",
+        "b": "Curso Python 3 desde cero #48 | Agregar elementos a una lista – Método append()"
+    },
+    {
+        "i": 77,
+        "j": "it0yNzu8VDQ",
+        "b": "Curso Python 3 desde cero #77 | El método get()"
+    },
+    {
+        "i": 104,
+        "j": "ItxvxYZRcDs",
+        "b": "Curso Python 3 desde cero #104 | Diferencia de conjuntos – El método difference()"
+    },
+    {
+        "i": 24,
+        "j": "Jh7xb5d8hvw",
+        "b": "Curso Python 3 desde cero #24 | Las sentencias break y continue con while"
+    },
+    {
+        "i": 60,
+        "j": "jJXro0bDgj4",
+        "b": "Curso Python 3 desde cero #60 | Ejercicio práctico #12 (Una lista son dos listas)"
+    },
+    {
+        "i": 46,
+        "j": "jxA2ZUXjXpQ",
+        "b": "Curso Python 3 desde cero #46 | Acceder a los elementos de una lista"
+    },
+    {
+        "i": 74,
+        "j": "k5ZTg6eLzQA",
+        "b": "Curso Python 3 desde cero #74 | Modificar y agregar elementos a un diccionario"
+    },
+    {
+        "i": 45,
+        "j": "K7s5jLiat70",
+        "b": "Curso Python 3 desde cero #45 | Listas"
+    },
+    {
+        "i": 21,
+        "j": "Kadly5Rr7xU",
+        "b": "Curso Python 3 desde cero #21 | Los parámetros end y sep"
+    },
+    {
+        "i": 20,
+        "j": "KIrcdiQKxYw",
+        "b": "Curso Python 3 desde cero #20 | Ejercicio práctico #4 (Calculadora con una sola variable)"
+    },
+    {
+        "i": 95,
+        "j": "Kiy1mkkWIek",
+        "b": "Curso Python 3 desde cero #95 | Ejercicio práctico #16 (Modificación de una tupla)"
+    },
+    {
+        "i": 100,
+        "j": "KvAdtb_UBDk",
+        "b": "Curso Python 3 desde cero #100 | Subconjuntos – El método issubset()"
+    },
+    {
+        "i": 49,
+        "j": "L5plGtP-B44",
+        "b": "Curso Python 3 desde cero #49 | Insertar elementos a una lista - Método insert()"
+    },
+    {
+        "i": 41,
+        "j": "lFOtwcw0LBs",
+        "b": "Curso Python 3 desde cero #41 | La clase range"
+    },
+    {
+        "i": 37,
+        "j": "Lgk4zXVVOIA",
+        "b": "Curso Python 3 desde cero #37 | Substrings"
+    },
+    {
+        "i": 56,
+        "j": "LNJCBp3bbz4",
+        "b": "Curso Python 3 desde cero #56 | Concatenar listas – Método extend()"
+    },
+    {
+        "i": 78,
+        "j": "Mej4-fWOxds",
+        "b": "Curso Python 3 desde cero #78 | El método popitem()"
+    },
+    {
+        "i": 0,
+        "j": "mENHDQ8SLsI",
+        "b": "Curso Python 3 desde cero - Curso de programación profesional"
+    },
+    {
+        "i": 107,
+        "j": "Mh23v5fnL9s",
+        "b": "Curso Python 3 desde cero #107 | Agregar elementos a un conjunto – El método update()"
+    },
+    {
+        "i": 69,
+        "j": "MMGFqdGuqwA",
+        "b": "Curso Python 3 desde cero #69 | Acceder a los elementos de un diccionario"
+    },
+    {
+        "i": 10,
+        "j": "Moq9OFxQTc4",
+        "b": "Curso Python 3 desde cero #10 | Sentencias condicionales simples en Python (if)"
+    },
+    {
+        "i": 31,
+        "j": "nB4jyUBvkuM",
+        "b": "Curso Python 3 desde cero #31 | Los métodos islower(), lower(), isupper() y upper()"
+    },
+    {
+        "i": 54,
+        "j": "niW_BNlb5G0",
+        "b": "Curso Python 3 desde cero #54 | Ordenar elementos de una lista – Método sort()"
+    },
+    {
+        "i": 105,
+        "j": "oFYeyghNBJw",
+        "b": "Curso Python 3 desde cero #105 | Diferencia Simétrica – El método symmetric_difference"
+    },
+    {
+        "i": 63,
+        "j": "pgqMaCQnWNc",
+        "b": "Curso Python 3 desde cero #63 | Matrices con listas anidadas"
+    },
+    {
+        "i": 65,
+        "j": "PKBqt_rteX0",
+        "b": "Curso Python 3 desde cero #65 | Ejercicio práctico #13 (Crear una matriz desde teclado)"
+    },
+    {
+        "i": 44,
+        "j": "q5txLirbIgM",
+        "b": "Curso Python 3 desde cero #44 | Ejercicio práctico #9 (String sin vocales)"
+    },
+    {
+        "i": 71,
+        "j": "qAWQRanTD3Y",
+        "b": "Curso Python 3 desde cero #71 | El método keys()"
+    },
+    {
+        "i": 18,
+        "j": "QgJkSpwVP5Q",
+        "b": "Curso Python 3 desde cero #18 | Ejercicio práctico #3 (el número más grande)"
+    },
+    {
+        "i": 34,
+        "j": "QSZ1xhu_Wo4",
+        "b": "Curso Python 3 desde cero #34 | Los métodos center(), ljust() y rjust()"
+    },
+    {
+        "i": 16,
+        "j": "r4zmpyPaEzw",
+        "b": "Curso Python 3 desde cero #16 | Ejercicio práctico #1"
+    },
+    {
+        "i": 64,
+        "j": "raLm2cPsrA8",
+        "b": "Curso Python 3 desde cero #64 | Matrices con el ciclo for"
+    },
+    {
+        "i": 79,
+        "j": "rwg_9ApN00E",
+        "b": "Curso Python 3 desde cero #79 | Cómo utilizar el método pop() con diccionarios"
+    },
+    {
+        "i": 118,
+        "j": "SA3E1Lf0nUA",
+        "b": "Curso Python 3 desde cero #118 | Proyecto #4 – Conversor de entero a romano"
+    },
+    {
+        "i": 23,
+        "j": "SlIPMihC6KE",
+        "b": "Curso Python 3 desde cero #23 | Ejercicio práctico #5 (Sucesión Fibonacci)"
+    },
+    {
+        "i": 25,
+        "j": "sLVqRUriO6Y",
+        "b": "Curso Python 3 desde cero #25 | La función len()"
+    },
+    {
+        "i": 76,
+        "j": "srRiqR3UfPY",
+        "b": "Curso Python 3 desde cero #76 | El método fromkeys()"
+    },
+    {
+        "i": 102,
+        "j": "sWQZJ-Lgx5k",
+        "b": "Curso Python 3 desde cero #102 | Unión de conjuntos – El método union()"
+    },
+    {
+        "i": 108,
+        "j": "U0q-oZaMMhA",
+        "b": "Curso Python 3 desde cero #108 | Eliminar elementos de un conjunto – Métodos remove() y discard()"
+    },
+    {
+        "i": 111,
+        "j": "ULP1758dNcM",
+        "b": "Curso Python 3 desde cero #111 | La función enumerate()"
+    },
+    {
+        "i": 55,
+        "j": "unoXxXRMOVk",
+        "b": "Curso Python 3 desde cero #55 | Buscar elementos en una lista – Método index()"
+    },
+    {
+        "i": 57,
+        "j": "uypyeOTndVQ",
+        "b": "Curso Python 3 desde cero #57 | Sumar los elementos de una lista – Método sum()"
+    },
+    {
+        "i": 2,
+        "j": "UzHFkEdnRuc",
+        "b": "Curso Python 3 desde cero #2 | Ejecución y compilación de un programa con Python"
+    },
+    {
+        "i": 87,
+        "j": "v3DxrsKISe8",
+        "b": "Curso Python 3 desde cero #87 | Elementos de una tupla (operador de segmentación)"
+    },
+    {
+        "i": 9,
+        "j": "vlka4aIRqUc",
+        "b": "Curso Python 3 desde cero #9 | Entrada de datos desde el teclado"
+    },
+    {
+        "i": 86,
+        "j": "vu5SA3DnXBI",
+        "b": "Curso Python 3 desde cero #86 | Acceder a los elementos de una tupla"
+    },
+    {
+        "i": 112,
+        "j": "VwvhR1e-xkE",
+        "b": "Curso Python 3 desde cero #112 | La instrucción import"
+    },
+    {
+        "i": 59,
+        "j": "W3si6t0JSdw",
+        "b": "Curso Python 3 desde cero #59 | Ejercicio práctico #11 (Eliminar caracteres continuos)"
+    },
+    {
+        "i": 3,
+        "j": "w8VZxo1TlnU",
+        "b": "Curso Python 3 desde cero #3 | Variables en Python"
+    },
+    {
+        "i": 120,
+        "j": "wGgJ1CqZLD0",
+        "b": "Curso Python 3 desde cero #120 | Final de curso – Generar ejecutable Python (PyInstaller)"
+    },
+    {
+        "i": 43,
+        "j": "wqBthGFbwfg",
+        "b": "Curso Python 3 desde cero #43 | Ejercicio práctico #8 (Tabla de multiplicar)"
+    },
+    {
+        "i": 90,
+        "j": "XIt-3OO_tqA",
+        "b": "Curso Python 3 desde cero #90 | Tuplas y el ciclo for: ¿Cómo recorrer una tupla?"
+    },
+    {
+        "i": 7,
+        "j": "xptKv7yhfSA",
+        "b": "Curso Python 3 desde cero #7 | Comentarios en Python"
+    },
+    {
+        "i": 109,
+        "j": "Y2TbOe6iGYM",
+        "b": "Curso Python 3 desde cero #109 | Recorrer un conjunto con los ciclos for y while"
+    },
+    {
+        "i": 83,
+        "j": "y44H-rZ9I5c",
+        "b": "Curso Python 3 desde cero #83 | Dominando los Diccionarios en Python: 5 Ejercicios Clave"
+    },
+    {
+        "i": 110,
+        "j": "yGABt1CS2IQ",
+        "b": "Curso Python 3 desde cero #110 | Expresiones de comprensión en Python"
+    },
+    {
+        "i": 113,
+        "j": "ygNU_1yWfus",
+        "b": "Curso Python 3 desde cero #113 | El módulo random – Números aleatorios"
+    },
+    {
+        "i": 13,
+        "j": "yJg0_7r3f-M",
+        "b": "Curso Python 3 desde cero #13 | Sentencias condicionales anidadas en Python"
+    },
+    {
+        "i": 98,
+        "j": "z07s9hLkEko",
+        "b": "Curso Python 3 desde cero #98 | Ejercicio práctico #19 (Ordenamiento de una tupla)"
+    },
+    {
+        "i": 17,
+        "j": "Z3ZQN4mO7sI",
+        "b": "Curso Python 3 desde cero #17 | Ejercicio práctico #2 (número par o impar)"
+    },
+    {
+        "i": 103,
+        "j": "z44g9piaNwE",
+        "b": "Curso Python 3 desde cero #103 | Intersección de conjuntos – El método intersection()"
+    },
+    {
+        "i": 99,
+        "j": "zMYj5efsqbA",
+        "b": "Curso Python 3 desde cero #99 | Conjuntos – La función set()"
+    },
+    {
+        "i": 35,
+        "j": "zvPe3jcxLs4",
+        "b": "Curso Python 3 desde cero #35 | El método count()"
+    }
+]
