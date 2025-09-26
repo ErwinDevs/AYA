@@ -1,0 +1,357 @@
+[
+    {
+        "i": 9,
+        "j": "_3vpyruW85Y",
+        "b": "🔥 CURSO de CSS - 10 ¿Que es un SELECTOR de CLASE en CSS?"
+    },
+    {
+        "i": 5,
+        "j": "_A72VOepsko",
+        "b": "🔥 CURSO de CSS - 06 ¿Como se COLOCA un COMENTARIO en CSS?"
+    },
+    {
+        "i": 35,
+        "j": "-0enk5aSPs0",
+        "b": "🔥 CURSO de CSS - 36 ¿Cual es la DIFERENCIA entre COLOR RGBA y RGB en CSS?"
+    },
+    {
+        "i": 13,
+        "j": "-96mpSkXvck",
+        "b": "🔥 CURSO de CSS - 14 SELECTORES DESCENDIENTES en CSS: Como ACCEDER a los HIJOS"
+    },
+    {
+        "i": 41,
+        "j": "-eQBvdw2bYE",
+        "b": "🔥 CURSO de CSS - 42 ¿Como CAMBIAR el tamaño de una IMAGEN de FONDO en CSS?"
+    },
+    {
+        "i": 0,
+        "j": "-xtS1QwxfOo",
+        "b": "🔥 CURSO de CSS - 01 ¿Que es y para que SIRVE un ARCHIVO CSS?"
+    },
+    {
+        "i": 40,
+        "j": "0S9MenPAKUQ",
+        "b": "🔥 CURSO de CSS - 41 ¿Como HACER que la IMAGEN de FONDO no se REPITA en CSS?"
+    },
+    {
+        "i": 24,
+        "j": "17zNgEkkAjU",
+        "b": "🔥 CURSO de CSS - 25 UNIDADES de MEDIDA del VIEWPORT en CSS (VIEWPORT UNITS VW y VH)"
+    },
+    {
+        "i": 29,
+        "j": "2jzUYHl1hH8",
+        "b": "🔥 CURSO de CSS - 30 ¿Que es y como se USA el PADDING? (MODELO de CAJA)"
+    },
+    {
+        "i": 18,
+        "j": "35MMFDGedPU",
+        "b": "🔥 CURSO de CSS - 19 ¿Como FUNCIONA y como se USA el !important en CSS?"
+    },
+    {
+        "i": 1,
+        "j": "3D9WyBgx0Ug",
+        "b": "🔥 CURSO de CSS - 02 EDITOR de CODIGO y ENTORNO de DESARROLLO para CSS"
+    },
+    {
+        "i": 52,
+        "j": "4yBm61jvK8M",
+        "b": "🔥 CURSO de CSS - 53 ¿Como PONER SOMBRAS a un TEXTO en CSS? (text-shadow)"
+    },
+    {
+        "i": 10,
+        "j": "5TIm2Bh3_bw",
+        "b": "🔥 CURSO de CSS - 11 ¿Cual es el SELECTOR UNIVERSAL de CSS?"
+    },
+    {
+        "i": 39,
+        "j": "6BsZrdTFvQA",
+        "b": "🔥 CURSO de CSS - 40 ¿Como PONER de FONDO una IMAGEN en CSS?"
+    },
+    {
+        "i": 58,
+        "j": "6J5FSc352jo",
+        "b": "🔥 CURSO de CSS - 59 ¿Que es la PROPIEDAD font-variant en CSS?"
+    },
+    {
+        "i": 68,
+        "j": "8517A8bQFYU",
+        "b": "🔥 CURSO de CSS - 69 Cambiar la DECORACION de TEXTO en CSS con text-decoration"
+    },
+    {
+        "i": 44,
+        "j": "8H45XI3h5U0",
+        "b": "🔥 CURSO de CSS - 45 ¿Que es background-clip en CSS?"
+    },
+    {
+        "i": 69,
+        "j": "8kYC_FYA9ig",
+        "b": "🔥 CURSO de CSS - 70 ¿Como FUNCIONA y como USAR la funcion CALC() en CSS?"
+    },
+    {
+        "i": 34,
+        "j": "A-sOpvioIiM",
+        "b": "🔥 CURSO de CSS - 35 ¿Como PONER un COLOR RGB en CSS?"
+    },
+    {
+        "i": 2,
+        "j": "aM9JfdZmbBo",
+        "b": "🔥 CURSO de CSS - 03 ¿Como se ENLAZA CSS a HTML & Como se APLICAN los estilos CSS?"
+    },
+    {
+        "i": 46,
+        "j": "B8D0crUtuCg",
+        "b": "🔥 CURSO de CSS - 47 ¿Como UTILIZAR la propiedad BACKGROUND?"
+    },
+    {
+        "i": 61,
+        "j": "Brz9h6iO0F4",
+        "b": "🔥 CURSO de CSS - 62 ¿Para que se UTILIZA la PROPIEDAD font en CSS?"
+    },
+    {
+        "i": 56,
+        "j": "c8JZhfMgHsU",
+        "b": "🔥 CURSO de CSS - 57 ¿Como CAMBIAR el GROSOR de una FUENTE con CSS?"
+    },
+    {
+        "i": 25,
+        "j": "CSqF3sCUYjI",
+        "b": "🔥 CURSO de CSS - 26 ¿Que es el MODELO de CAJA en CSS? (BOX MODEL)"
+    },
+    {
+        "i": 66,
+        "j": "E2PmaTw5Oso",
+        "b": "🔥 CURSO de CSS - 67 ¿Como poner SANGRIA o INDENTACION con text-indent en CSS?"
+    },
+    {
+        "i": 50,
+        "j": "Ev7eDDeOOao",
+        "b": "🔥 CURSO de CSS - 51 ¿Que es y como se USA un DEGRADADO de COLOR CONICO?"
+    },
+    {
+        "i": 62,
+        "j": "FkR067-b9iY",
+        "b": "🔥 CURSO de CSS - 63 Como agregar FUENTES TTF de GOOGLE FONTS con @font-face (local)"
+    },
+    {
+        "i": 47,
+        "j": "FLOjLAeiQNI",
+        "b": "🔥 CURSO de CSS - 48 FONDOS MULTIPLES: ¿Como PONER varias IMAGENES de FONDO en CSS?"
+    },
+    {
+        "i": 32,
+        "j": "glWovoF9yGE",
+        "b": "🔥 CURSO de CSS - 33 ¿Que es Border-Radius y como HACER un BORDE REDONDEADO en CSS?"
+    },
+    {
+        "i": 51,
+        "j": "grscTq6D5zA",
+        "b": "🔥 CURSO de CSS - 52 Como REPETIR DEGRADADOS en CSS (repeating gradient)"
+    },
+    {
+        "i": 15,
+        "j": "Gx0H9PHxikg",
+        "b": "🔥 CURSO de CSS - 16 ¿Como SELECCIONAR o AGRUPAR varios ELEMENTOS en CSS?"
+    },
+    {
+        "i": 22,
+        "j": "HId-Ex09pXs",
+        "b": "🔥 CURSO de CSS - 23 ¿Que es una UNIDAD de MEDIDA ADSOLUTA en CSS? (PX, CM, MM)"
+    },
+    {
+        "i": 55,
+        "j": "HioL2StCF3Y",
+        "b": "🔥 CURSO de CSS - 56 ¿Como CAMBIAR el TAMAÑO de una FUENTE con CSS?"
+    },
+    {
+        "i": 7,
+        "j": "Hjs6cWAqzJg",
+        "b": "🔥 CURSO de CSS - 08 ¿Que es un SELECTOR de TIPO o ETIQUETA en CSS?"
+    },
+    {
+        "i": 43,
+        "j": "HUvMa9_Gj_Y",
+        "b": "🔥 CURSO de CSS - 44 ¿Como UTILIZAR background-origin en CSS?"
+    },
+    {
+        "i": 3,
+        "j": "HxtcAGliuI0",
+        "b": "🔥 CURSO de CSS - 04 Como IMPORTAR una HOJA de ESTILOS CSS en OTRA con @import"
+    },
+    {
+        "i": 70,
+        "j": "i-4xzOezGOA",
+        "b": "🔥 CURSO de CSS - 71 CAMBIAR TEMAS light/dark en CSS NATIVO con color-scheme"
+    },
+    {
+        "i": 17,
+        "j": "iXfeSMgioa0",
+        "b": "🔥 CURSO de CSS - 18 ¿Que es la ESPECIFICIDAD en CSS? (Como se CALCULA y como FUNCIONA)"
+    },
+    {
+        "i": 19,
+        "j": "JNI8xJood7w",
+        "b": "🔥 CURSO de CSS - 20 La HERENCIA en CSS: ¿Que es inherit e initial en CSS?"
+    },
+    {
+        "i": 8,
+        "j": "K9l-pRrJS7w",
+        "b": "🔥 CURSO de CSS - 09 ¿Que es un SELECTOR de ID en CSS?"
+    },
+    {
+        "i": 16,
+        "j": "KKQDpfxG2aw",
+        "b": "🔥 CURSO de CSS - 17 ¿Como COMBINAR SELECTORES en CSS?"
+    },
+    {
+        "i": 48,
+        "j": "kLDUNqogNFw",
+        "b": "🔥 CURSO de CSS - 49 ¿Que es y como se USA un DEGRADADO de COLOR LINEAL?"
+    },
+    {
+        "i": 42,
+        "j": "lBAA1AnhSLQ",
+        "b": "🔥 CURSO de CSS - 43 ¿Como POSICIONAR una IMAGEN de FONDO con CSS?"
+    },
+    {
+        "i": 20,
+        "j": "mjGSykC1dQc",
+        "b": "🔥 CURSO de CSS - 21 ¿Como se DEFINEN y se USAN las VARIABLES en CSS? (Scope y Fallbacks)"
+    },
+    {
+        "i": 67,
+        "j": "Msfm23PvQF0",
+        "b": "🔥 CURSO de CSS - 68 ¿Que hace text-wrap en CSS?"
+    },
+    {
+        "i": 27,
+        "j": "NNJ8Ly-EAQg",
+        "b": "🔥 CURSO de CSS - 28 ¿Que es el COLAPSO de MARGENES en CSS? (MODELO de CAJA)"
+    },
+    {
+        "i": 38,
+        "j": "NOHKE3-BdqY",
+        "b": "🔥 CURSO de CSS - 39 Como se CAMBIA el COLOR de FONDO de un ELEMENTO en CSS"
+    },
+    {
+        "i": 59,
+        "j": "nPqQ1sF7IHQ",
+        "b": "🔥 CURSO de CSS - 60 ¿Como CAMBIAR la ALTURA de LINEA de un TEXTO en CSS?"
+    },
+    {
+        "i": 33,
+        "j": "OFCHS5nJNeQ",
+        "b": "🔥 CURSO de CSS - 34 ¿Como PONER un COLOR por PALABRA CLAVE en CSS?"
+    },
+    {
+        "i": 21,
+        "j": "oRYc28elg9c",
+        "b": "🔥 CURSO de CSS - 22 ¿Cuales son las UNIDADES de MEDIDA que existen en CSS?"
+    },
+    {
+        "i": 37,
+        "j": "pVbQeT1JRBU",
+        "b": "🔥 CURSO de CSS - 38 ¿Que es un COLOR HSL & HSLA en CSS?"
+    },
+    {
+        "i": 4,
+        "j": "pxR2UCqTl48",
+        "b": "🔥 CURSO de CSS - 05 ¿Cual es la ESTRUCTURA y SINTAXIS de CSS?"
+    },
+    {
+        "i": 31,
+        "j": "QfPiu8gKNls",
+        "b": "🔥 CURSO de CSS - 32 ¿Que es el BOX-SIZING en CSS?: Como DEFINIR el tamaño de una CAJA"
+    },
+    {
+        "i": 60,
+        "j": "RSXgXF5XRG8",
+        "b": "🔥 CURSO de CSS - 61 ¿Como puedo CAMBIAR la FUENTE o TIPO de LETRA con CSS?"
+    },
+    {
+        "i": 30,
+        "j": "rTuiAt1TbC4",
+        "b": "🔥 CURSO de CSS - 31 ¿Que es y que HACE el WIDTH y HEIGHT en CSS? (MODELO de CAJA)"
+    },
+    {
+        "i": 49,
+        "j": "RwYU2nkKAX4",
+        "b": "🔥 CURSO de CSS - 50 ¿Que es y como se USA un DEGRADADO de COLOR RADIAL?"
+    },
+    {
+        "i": 64,
+        "j": "sDqXg8IZXSI",
+        "b": "🔥 CURSO de CSS - 65 ¿Como CAMBIAR el ESPACIADO entre LETRAS y PALABRAS?"
+    },
+    {
+        "i": 6,
+        "j": "TWZNGHM242s",
+        "b": "🔥 CURSO de CSS - 07 ¿Que es la CASCADA en CSS y como FUNCIONA?"
+    },
+    {
+        "i": 14,
+        "j": "UVqZIbRhWpA",
+        "b": "🔥 CURSO de CSS - 15 ¿Cual es el SELECTOR de HERMANOS en CSS? (General y Adyacente)"
+    },
+    {
+        "i": 65,
+        "j": "Vb9kUEkugvg",
+        "b": "🔥 CURSO de CSS - 66 Convertir LETRAS a MAYUSCULAS o MINUSCULAS con text-transform"
+    },
+    {
+        "i": 54,
+        "j": "w8HuGQSL8jg",
+        "b": "🔥 CURSO de CSS - 55 ¿Como CREAR SOMBRAS MULTIPLES a una CAJA en CSS? (box-shadow)"
+    },
+    {
+        "i": 11,
+        "j": "WJ8Utb_o1zs",
+        "b": "🔥 CURSO de CSS - 12 ¿Cual es el SELECTOR de ATRIBUTO en CSS?"
+    },
+    {
+        "i": 36,
+        "j": "WM5gqBdqjQ4",
+        "b": "🔥 CURSO de CSS - 37 ¿Como PONER COLORES HEXADECIMALES en CSS?"
+    },
+    {
+        "i": 26,
+        "j": "wndVeieDsBY",
+        "b": "🔥 CURSO de CSS - 27 ¿Que es y como se USA el MARGIN? (MODELO de CAJA)"
+    },
+    {
+        "i": 28,
+        "j": "xA0wgt-ckTA",
+        "b": "🔥 CURSO de CSS - 29 ¿Que es y como PONER un BORDE con CSS? (MODELO de CAJA)"
+    },
+    {
+        "i": 57,
+        "j": "XNMIEgpH5AA",
+        "b": "🔥 CURSO de CSS - 58 ¿Como CAMBIAR el ESTILO de un TEXTO en CSS?"
+    },
+    {
+        "i": 63,
+        "j": "y_7jlYfELUw",
+        "b": "🔥 CURSO de CSS - 64 ¿Como ALINEAR un TEXTO en CSS con text-align?"
+    },
+    {
+        "i": 53,
+        "j": "Y5gENztEm5k",
+        "b": "🔥 CURSO de CSS - 54 ¿Como agregar SOMBRAS MULTIPLES a TEXTOS en CSS? [TEXT-SHADOW]"
+    },
+    {
+        "i": 23,
+        "j": "YB_RLF9iHxw",
+        "b": "🔥 CURSO de CSS - 24 ¿Que son las UNIDADES de MEDIDA RELATIVAS en CSS? (REM y EM)"
+    },
+    {
+        "i": 12,
+        "j": "yF-lp93Jnoc",
+        "b": "🔥 CURSO de CSS - 13 ¿Cuales son los SELECTORES COMBINADORES en CSS?"
+    },
+    {
+        "i": 45,
+        "j": "yVKoHAhzyhQ",
+        "b": "🔥 CURSO de CSS - 46 ¿Como FUNCIONA background-attachment para PONER una imagen FIJA?"
+    }
+]
