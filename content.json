@@ -1,13 +1,63 @@
 [
     {
-        "a": 11,
-        "e": "PL8ie04dqq7_P2RoaCdVC1ef7JmNizK3uO",
-        "b": "[2022] 📍 GOOGLE MAPS en ANDROID con KOTLIN - CURSO ANDROID STUDIO API📍",
-        "f": "https://i.ytimg.com/vi/_dhFsvEeuCs/hqdefault.jpg",
-        "g": 4,
+        "a": 36,
+        "e": "PLh5zDRokZvyqFHbGcuefTyodUFy1DCMRY",
+        "b": "CURSO DE REPARACIÓN DE CELULARES COMPLETO - GRATIS para PRINCIPIANTES",
+        "f": "https://i.ytimg.com/vi/xVjPHtddyHg/hqdefault.jpg",
+        "g": 53,
+        "d": "UCI1TgRCqdyXopa3pPDhKVFA",
+        "h": "2020-03-25 01:54:19",
+        "c": "ESTAS COMENZANDO EN LA REPARACIÓN DE PLACAS!? Este curso es para ti!! Míralo ya y aprende de manera fácil!!"
+    },
+    {
+        "a": 64,
+        "e": "PLD63zxk3A73wyCMKphs11Pl6GA4wD2EWP",
+        "b": "Curso gratis de astrología",
+        "f": "https://i.ytimg.com/vi/PdWqUwhxvjw/hqdefault.jpg",
+        "g": 12,
+        "d": "UCBupY5eNUT7h-XpKz39wXkA",
+        "h": "2023-01-23 18:34:28",
+        "c": "Aprendé astrología psicológica y evolutiva con estas clases gratis de Camino Arcano. Este curso es para principiantes desde cero, súper fácil de entender!"
+    },
+    {
+        "a": 10,
+        "e": "PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3",
+        "b": "Curso Kotlin Multiplatform desde cero - [2024] Kotlin Compose Multiplatform",
+        "f": "https://i.ytimg.com/vi/smAhUwEQ1d8/hqdefault.jpg",
+        "g": 11,
         "d": "UCIjEgHA1vatSR2K4rfcdNRg",
-        "h": "2021-01-30 10:42:14",
-        "c": "Aprende a trabajar con el API de GOOGLE MAPS 📍 en ANDROID con KOTLIN"
+        "h": "2023-11-20 20:13:45",
+        "c": "Aprende Kotlin Multiplatform desde cero y actualizado."
+    },
+    {
+        "a": 83,
+        "e": "PLg7ZNf8WsbWAeoCT0j4HtptN3-v9KLILN",
+        "b": "🐲 CURSO GRATUITO DE KALI LINUX ▷  INICIACIÓN AL HACKING ÉTICO 2025",
+        "f": "https://i.ytimg.com/vi/V_ehc-REW1s/hqdefault.jpg",
+        "g": 21,
+        "d": "UCYaeLvnLCNRJDrus8LEYaGw",
+        "h": "2023-11-01 19:33:27",
+        "c": "Bienvenido al Curso Gratuito de Kali Linux desde 0 para Hackers Éticos en YouTube.\n\nSi estás interesado en adentrarte en el mundo de la ciberseguridad, este es el lugar perfecto para comenzar.\nHemos diseñado este curso desde cero, pensando en aquellos que desean aprender a utilizar Kali Linux, incluso si nunca han tenido experiencia con Linux o Kali.\n\nNuestra misión es brindarte los conocimientos esenciales para que te sientas cómodo y seguro utilizando este sistema operativo y todas sus potentes herramientas. A lo largo de este curso gratuito, exploraremos desde los conceptos más básicos de Kali Linux hasta la realización de tu primer laboratorio práctico de hacking ético. Una vez completado este curso, tendrás las bases necesarias para avanzar en tu carrera o participar en desafíos de Capture The Flag (CTFs).\n\nCreemos firmemente que dominar los fundamentos es esencial antes de adentrarse en las más de 300 herramientas que ofrece Kali Linux.\n\nComo en cualquier disciplina, primero se debe aprender a caminar antes de correr. Antes de realizar pruebas de penetración, debemos familiarizarnos con el sistema que las hace posibles.\n\nEstamos emocionados de acompañarte en tu viaje hacia convertirte en un especialista en ciberseguridad."
+    },
+    {
+        "a": 12,
+        "e": "PL8ie04dqq7_MvhtWlcIFS9L3_4EWatd-V",
+        "b": "[2022] Arquitecturas Android (MVVM, MVP, MVC..) - Tutoriales Android Studio",
+        "f": "https://i.ytimg.com/vi/hhhSMXi0R3E/hqdefault.jpg",
+        "g": 9,
+        "d": "UCIjEgHA1vatSR2K4rfcdNRg",
+        "h": "2021-05-27 13:23:54",
+        "c": "Aprende a utilizar arquitecturas en Android studio para tus proyectos. Por ahora tenemos una arquitectura MVVM con retrofit, clean architecture, inyección de dependencias con dagger hilt, persistencia de datos con Room y testing."
+    },
+    {
+        "a": 111,
+        "e": "PLM8Ayi2QS6_MDes5A_sguJiy1LKkVoTua",
+        "b": "CURSO GRATIS DE ENERGÍA SOLAR",
+        "f": "https://i.ytimg.com/vi/8iKctaBpLBI/hqdefault.jpg",
+        "g": 11,
+        "d": "UC73Zn1O_N-ORS27ncZeN_Dw",
+        "h": "2021-04-15 20:11:15",
+        "c": "Un curso gratis de energía solar donde aprenderás los puntos básicos de la tecnología fotovoltaica.\n\n¿A qué estas esperando para ver todos los vídeos?"
     },
     {
         "a": 97,
@@ -20,34 +70,14 @@
         "c": "¡Sumérgete en el apasionante mundo del desarrollo de microservicios con Spring Boot, una de las tecnologías más codiciadas en la actualidad dentro del vasto universo tecnológico!\n\nEn este completo curso, te llevaremos de la mano paso a paso a través del desarrollo de un microservicio backend con Spring Boot, utilizando la poderosa herramienta InteliJ como nuestro fiel compañero de viaje.\n\nExploraremos las últimas y más actualizadas versiones de Java, Spring y Spring Boot, desentrañando meticulosamente cada una de las anotaciones que Spring nos ofrece para potenciar nuestro código al máximo.\n\nSin embargo, lo que realmente distingue este curso es el énfasis especial que pondremos en el diseño arquitectónico de cada capa de la solución. Profundizaremos en conceptos complejos como la inyección de dependencias, el bajo acoplamiento y la cohesión de los diversos componentes, asegurando que comprendas no solo cómo codificar, sino cómo construir robustas y escalables soluciones.\n\nCada implementación de controladores, servicios y persistencia se realizará siguiendo las mejores prácticas que Java nos ofrece, garantizando un código limpio y de calidad excepcional.\n\nPero eso no es todo, también exploraremos la integración de tecnologías complementarias como Docker para la gestión de contenedores, PostgresSQL como nuestra base de datos relacional y Lombok para simplificar el código. Y para asegurarnos de que nuestra API REST esté en la cima de su juego, llevaremos a cabo exhaustivas pruebas utilizando Postman, garantizando que esté bien formada y lista para enfrentar los desafíos del mundo real.\n\n¡Prepárate para transformar tu manera de desarrollar microservicios y llevar tus habilidades al siguiente nivel con este emocionante curso!"
     },
     {
-        "a": 60,
-        "e": "PLZDNGV2rkzUDlpDUnyOv3_emQTeeWQeGt",
-        "b": "✅ Curso Completo de Adobe Premiere GRATIS en ESPAÑOL 2024 🚀",
-        "f": "https://i.ytimg.com/vi/n3qiC8wA9vo/hqdefault.jpg",
-        "g": 56,
-        "d": "UCDMvkMlzxClSOQ7XbRN0IyQ",
-        "h": "2024-08-05 06:04:52",
-        "c": "Todos los capítulos del Curso Completo de Adobe Premiere GRATUITO del canal del Profesor Saitama."
-    },
-    {
-        "a": 66,
-        "e": "PLCKuOXG0bPi0sIn-nDsi7ma9OV6MEMkxj",
-        "b": "Curso - Flutter Móvil: de Cero a Experto",
-        "f": "https://i.ytimg.com/vi/zNmDOXbTugE/hqdefault.jpg",
-        "g": 78,
-        "d": "UCuaPTYj15JSkETGnEseaFFg",
-        "h": "2023-05-06 17:27:30",
-        "c": "💙 Esta serie de videos es una pequeña parte de mi curso de #Flutter Móvil: de Cero a Experto - en el cual aprenderás todo lo necesario de Flutter para crear aplicaciones móviles para #iOS y #Android hasta su despliegue en las tiendas. Cuando termines el curso, habrás creado diferentes #Apps y comprenderás el proceso de publicación de las mismas.\n\n📚 Para continuar con estas lecciones, pueden adquirir el curso completo en: https://fernando-herrera.com/#/search/Flutter%20M%C3%B3vil:%20De%20cero%20a%20experto\n\n📝 Puedes encontrar la guía de atajos en:\n#Dart - https://devtalles.com/files/dart-cheat-sheet.pdf\n#Flutter - https://devtalles.com/files/flutter-cheat-sheet.pdf\n\n💼 Si deseas usar este curso para capacitación del equipo en tu institución, visita: https://cursos.devtalles.com/pages/devtalles-para-empresas\n\n📑 Cursos Relacionados:\nDart - https://fernando-herrera.com/#/search/Dart:%20De%20cero%20hasta%20los%20detalles\nFlutter Móvil: Recursos Nativos - Nivel Intermedio: https://fernando-herrera.com/#/search/Flutter%20m%C3%B3vil:%20Recursos%20Nativos%20-%20Nivel%20intermedio\n\n🔗 Mi Web personal: https://fernando-herrera.com\n🎙️ Mi Podcast: https://anchor.fm/fernando-her85\n👥 Mi X / Twitter: https://twitter.com/Fernando_Her85\n👨🏻‍🏫 Perfil de instructor | Udemy: https://www.udemy.com/user/550c38655ec11/\n👨🏻‍💻 {d/t} DevTalles: https://cursos.devtalles.com/\n👨🏻‍🎓 {d/t} DevTalles LinkedIn: https://www.linkedin.com/company/devtalles/\n📱 {d/t} DevTalles X / Twitter: https://twitter.com/DevTalles\n🚀 {d/t} DevTalles Comunidad Discord: https://discord.gg/pBjEVYTC7t\n\n💻 #Programacion #Development #Developer #FernandoHerrera #DevTalles #Fullstack #OnlineLearning #professor #instructor"
-    },
-    {
-        "a": 41,
-        "e": "PLEd0Gu3KmL1Mm_6RR7hN9kCVAFJb5yWh3",
-        "b": "CURSO DE COMPUTACIÓN PARA ADULTOS",
-        "f": "https://i.ytimg.com/vi/jxAgVn73OWg/hqdefault.jpg",
-        "g": 15,
-        "d": "UCG8MM-ZqXWN1VLoCOnhbORQ",
-        "h": "2023-08-22 23:53:13",
-        "c": "CURSO DE COMPUTACIÓN PARA ADULTOS"
+        "a": 70,
+        "e": "PL8Tdjf2jwFRe986dgJB3M-GnxIUK_j3Df",
+        "b": "Curso Vaughan Completo para Aprender Inglés Gratis- Nivel Intermedio",
+        "f": "https://i.ytimg.com/vi/RlR4_98T4Yo/hqdefault.jpg",
+        "g": 12,
+        "d": "UCuRrN-WIsBVucKMerIJ9WIA",
+        "h": "2015-01-29 17:47:30",
+        "c": "¿Quieres aprender inglés? ¡Suscríbete gratis a nuestro canal!\nDisfruta de nuestro curso de inglés definitivo. ¡Ahora por fin en vídeo!\nGracias por compartirnos y contribuir a que este contenido pueda seguir siendo gratis... :-)\n\n***LECCIONES DEL CURSO VAUGHAN PARA APRENDER INGLÉS GRATIS***\n\nLección 1:  https://goo.gl/Z3wWrC\n\nLección 2:  https://goo.gl/aHy7Yp\n\nLección 3:  https://goo.gl/YEUyUd\n\nLección 4:  https://goo.gl/jYcWr6\n\nLección 5:  https://goo.gl/gWUxjk\n\nLección 6:  https://goo.gl/E3ZdF1\n\nLección 7:  https://goo.gl/sYpCJS\n\nLección 8:  https://goo.gl/9Pj6YD\n\nLección 9:  https://goo.gl/GonA72\n\nLección 10: https://goo.gl/dVrfJb\n\n***CURSO AVANZADO DE INGLÉS GRATIS***\n\nhttps://goo.gl/7cTwKV\n\n***CURSO BÁSICO DE INGLÉS GRATIS***\n\nhttps://goo.gl/YnrsN6\n\n***CURSO GRATIS POR EMAIL***\n\n¿Te gustaría recibir más Clases Gratis por Email? ¡Apúntate a nuestro Curso Gratis!\n\nhttps://goo.gl/xTTnd3\n\n***CURSOS VAUGHAN ONLINE Y PRESENCIALES***\n\n¿List@ para dar el siguiente paso y pasar a la acción? ¡Te esperamos en nuestros Cursos Online o Presenciales!\n\nhttps://goo.gl/c5EYZZ\n\n\n***SÍGUENOS EN NUESTRAS REDES***\n\nhttps://twitter.com/GrupoVaughan\nhttps://www.facebook.com/GrupoVaughan/\nhttps://plus.google.com/115829465428666555120\nhttps://www.linkedin.com/company/vaughan-systems/?originalSubdomain=esbankia"
     },
     {
         "a": 40,
@@ -59,42 +89,12 @@
         "h": "2020-08-08 10:09:00"
     },
     {
-        "a": 78,
-        "e": "PLRYhYjaYNiltoudRxjRg--8_NKMdTIqty",
-        "b": "Curso De Guitarra Acústica Para Principiantes: Aprende Como Tocar Guitarra Desde Cero! TCDG",
-        "f": "https://i.ytimg.com/vi/_V0GcjX09Lo/hqdefault.jpg",
-        "g": 33,
-        "d": "UC3k4Tn0XRZ2urVwBLY5s9Zw",
-        "h": "2013-04-02 18:27:33",
-        "c": "Aprende como tocar guitarra gratis!\r\nEl mejor curso de guitarra facil a cargo de tu profesor de guitarra online Mario Freiria. \r\nAprender guitarra acústica es muy simple y divertido! \r\n\r\n Mira estos video tutoriales de guitarra y aprende guitarra acustica de una manera facil, rapida y divertida, totalmente gratis y sin moverte de tu casa!\r\n\r\n Cursos de guitarra para aprender como tocar guitarras acusticas, canciones en guitarra, clases de guitarra para principiantes, notas en guitarra, escalas de guitarra, cursos de guitarra gratis, videos de guitarra para principiante, tablaturas de guitarra, curso de guitarra y mas.\r\n\r\n Tutorial de guitarra: aprender como tocar guitarra acustica."
-    },
-    {
-        "a": 30,
-        "e": "PL1yslgETgkYHWZnyk9w5JyUTY6xkyKrov",
-        "b": "Nuevo Curso de Excel 2025 (Básico, Intermedio y Avanzado)",
-        "f": "https://i.ytimg.com/vi/5RK6s5eB37o/hqdefault.jpg",
-        "g": 58,
-        "d": "UC1DggK5BjCUPWNgZRy0esRQ",
-        "h": "2025-05-24 18:03:06",
-        "c": "El mejor curso de Excel Gratis y completo que vas a encontrar en Youtube con ejercicios para descargar. Recuerda es 100% gratis y está pensado para que aprendas desde cero, paso a paso con muchos ejercicios para descargar en todos los módulos.\n\nEste curso esta enfocado en estudiantes, o si trabajas en oficina o simplemente quieres dejar de sufrir cada vez que abres una hoja de cálculo 😅.\nVas a aprender a usar fórmulas básicas, intermedidas y avanzadas, crear tablas dinámicas, automatizar tareas y hasta hacer tus propios reportes o dashboards hasta llegar al nivel de programar tus propias macros con VBA.\n\nNo necesitas saber nada, solo tener ganas de aprender.\n¡Y sí, es totalmente gratis! Así que… ¿qué esperas? 💻✨"
-    },
-    {
-        "a": 39,
-        "e": "PLkn3t7vbvnHSPdBnnRNdoCE8ODCJFW09x",
-        "b": "CURSO de SOLDADURA ELÉCTRICA para Principiantes - Aprende a como SOLDAR Hierro y Metal con Electrodo",
-        "f": "https://i.ytimg.com/vi/RpMTRhhhleI/hqdefault.jpg",
-        "g": 28,
-        "d": "UChgycoU69S92S_z25wlROaQ",
-        "h": "2021-10-16 21:48:44",
-        "c": "Aprende a SOLDAR desde \"CERO\" en éste curso Completo y totalmente online!! Aprende sobre los diferentes tipos de Maquinas, sus diferencias y los tipos de soldaduras con todos sus trucos, técnicas y secretos que podrás aplicar en tus proyectos de Herrería.\n\n=========\n\n👉 ¿Cuánto pagarías por un curso como este? 🤔\nEste curso es Gratis y siempre lo será, pero si sientes que lo que aprendiste te sirvió,\npuedes apoyarme con una donación invitándome un TECITO ☕ en el siguiente link...\n\n👉🔗 https://tecito.app/grantotem\n\n=========\n\n#Soldar #comosoldar #Herreria #hierro #cursodesoldadura #comosoldarparaprincipiantes #aprenderasoldar #soldarhierro #soldarconelectrodo #soldaduraelectrica #soldaduraparaprincipiantes"
-    },
-    {
-        "a": 42,
-        "e": "PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29",
-        "b": "⚛️ CURSO DE REACT 2024",
-        "f": "https://i.ytimg.com/vi/7iobxzd_2wY/hqdefault.jpg",
-        "g": 12,
-        "d": "UC3aj05GEEyzdOqYM5FLSFeg",
-        "h": "2023-04-12 13:51:54"
+        "a": 61,
+        "e": "PLwn6SgxAAQ15-lZckT0UKEwH5omn9LhRJ",
+        "b": "Curso gratis de Análisis Técnico Forex",
+        "f": "https://i.ytimg.com/vi/zLrhFoxszlM/hqdefault.jpg",
+        "g": 48,
+        "d": "UC1AZPvFr6v1WZaPw_YX19DA",
+        "h": "2020-08-25 03:24:05"
     }
 ]
