@@ -1,99 +1,100 @@
 [
     {
-        "a": 88,
-        "e": "PLC07860E6B2530B8E",
-        "b": "Inglés Americano (Curso completo)",
-        "f": "https://i.ytimg.com/vi/pU5OauLC4Oo/hqdefault.jpg",
-        "g": 464,
-        "d": "UCwvgBXd14CY8dohDq6dHUlg",
-        "h": "2012-06-01 15:55:48"
+        "a": 94,
+        "e": "PLH_tVOsiVGznLd-dSQP9_ttuxLnSmSWwq",
+        "b": "🔥 CURSO COMPLETO de CSS desde CERO a AVANZADO 🔥",
+        "f": "https://i.ytimg.com/vi/-xtS1QwxfOo/hqdefault.jpg",
+        "g": 71,
+        "d": "UCRMJ0vxtnHh_UAq1Yx9BYWQ",
+        "h": "2024-05-27 17:16:25",
+        "c": "CURSO COMPLETO de CSS GRATIS desde CERO a AVANZADO (EXPERTO)"
     },
     {
-        "a": 22,
-        "e": "PLLniqWgyb4HHfkyWNgMWSvTq6RlUGusgN",
-        "b": "Curso de Excel COMPLETO y GRATIS - Dostin Hurtado",
-        "f": "https://i.ytimg.com/vi/L1D2zga0cBU/hqdefault.jpg",
-        "g": 19,
-        "d": "UCUnwzUFwZvQRcuIVgv5pD7Q",
-        "h": "2013-11-02 18:20:55",
-        "c": "Con este curso aprenderás Excel 2021, 2019, 2016, Excel 2013, Excel 2010 o incluso la 2007 en menos de 1 día, el curso está completo (Básico e Intermedio) y es completamente gratis. También al finalizar les recomiendo si así lo desean realizar el curso de Excel Avanzado (Macros)."
-    },
-    {
-        "a": 51,
-        "e": "PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk",
-        "b": "Curso de Java 2025 desde 0",
-        "f": "https://i.ytimg.com/vi/U709qY6S9rA/hqdefault.jpg",
-        "g": 280,
-        "d": "UCdulIs-x_xrRd1ezwJZR9ww",
-        "h": "2014-05-05 14:25:01"
-    },
-    {
-        "a": 113,
-        "e": "PLdV8ntSOIL5SqS4-sbms4M_puIIucPwmh",
-        "b": "Curso de programación en R DESDE CERO",
-        "f": "https://i.ytimg.com/vi/HVB0kt5ODh0/hqdefault.jpg",
-        "g": 57,
-        "d": "UCdwRasV4ErMV7zNhVejjfHw",
-        "h": "2021-09-14 17:35:31",
-        "c": "Aprende programación en R desde cero hasta avanzado con este curso completo. 📈💻 Descubre cómo manipular datos, crear visualizaciones impresionantes y aplicar análisis estadísticos con uno de los lenguajes más poderosos para ciencia de datos. ¡Todo explicado paso a paso y con ejemplos prácticos! 🔥\n\n✅ Sintaxis básica y estructuras de datos\n✅ Análisis y manipulación de datos con tidyverse\n✅ Visualización con ggplot2\n✅ Modelado estadístico y machine learning\n✅ HACKS\n✅ MUCHO MAS\n\n¡Suscríbete y comienza a programar en R hoy mismo! 🚀"
-    },
-    {
-        "a": 79,
-        "e": "PL1yslgETgkYFfOw1lP2W8Vros9v_xE5Bd",
-        "b": "🥇Curso VBA para Macros Excel🥇",
-        "f": "https://i.ytimg.com/vi/ocfurE964-g/hqdefault.jpg",
-        "g": 99,
-        "d": "UC1DggK5BjCUPWNgZRy0esRQ",
-        "h": "2023-10-24 15:41:50",
-        "c": "Curso gratis de VBA para creación de Macros en Excel de Cero a Experto para no programadores. El curso de Macros tiene Ejercicios prácticos y casos de la vida Real. Visual Basic For Application Online te permite ahorrar tiempo, completar tareas miles de veces más rápido.\nPrograma, automatiza y amplía en Excel."
-    },
-    {
-        "a": 50,
-        "e": "PLyvsggKtwbLX06iMtXnRGX5lyjiiMaT2y",
-        "b": "Curso de programación Android desde cero",
-        "f": "https://i.ytimg.com/vi/tyx05coXixw/hqdefault.jpg",
-        "g": 68,
+        "a": 97,
+        "e": "PLyvsggKtwbLVOPuOGn9J1Ie9RD7r7LcWD",
+        "b": "Curso Spring Boot : Desarrollo de Microservicios",
+        "f": "https://i.ytimg.com/vi/BRtPNl0aBkA/hqdefault.jpg",
+        "g": 30,
         "d": "UCeEW6PHNJlIwI-rKChmqqkw",
-        "h": "2017-10-13 20:14:31",
-        "c": "Curso profesional de Android con Android Studio - Aprende a programar aplicaciones móviles desde cero hasta avanzado."
+        "h": "2024-02-29 15:56:43",
+        "c": "¡Sumérgete en el apasionante mundo del desarrollo de microservicios con Spring Boot, una de las tecnologías más codiciadas en la actualidad dentro del vasto universo tecnológico!\n\nEn este completo curso, te llevaremos de la mano paso a paso a través del desarrollo de un microservicio backend con Spring Boot, utilizando la poderosa herramienta InteliJ como nuestro fiel compañero de viaje.\n\nExploraremos las últimas y más actualizadas versiones de Java, Spring y Spring Boot, desentrañando meticulosamente cada una de las anotaciones que Spring nos ofrece para potenciar nuestro código al máximo.\n\nSin embargo, lo que realmente distingue este curso es el énfasis especial que pondremos en el diseño arquitectónico de cada capa de la solución. Profundizaremos en conceptos complejos como la inyección de dependencias, el bajo acoplamiento y la cohesión de los diversos componentes, asegurando que comprendas no solo cómo codificar, sino cómo construir robustas y escalables soluciones.\n\nCada implementación de controladores, servicios y persistencia se realizará siguiendo las mejores prácticas que Java nos ofrece, garantizando un código limpio y de calidad excepcional.\n\nPero eso no es todo, también exploraremos la integración de tecnologías complementarias como Docker para la gestión de contenedores, PostgresSQL como nuestra base de datos relacional y Lombok para simplificar el código. Y para asegurarnos de que nuestra API REST esté en la cima de su juego, llevaremos a cabo exhaustivas pruebas utilizando Postman, garantizando que esté bien formada y lista para enfrentar los desafíos del mundo real.\n\n¡Prepárate para transformar tu manera de desarrollar microservicios y llevar tus habilidades al siguiente nivel con este emocionante curso!"
     },
     {
-        "a": 10,
-        "e": "PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3",
-        "b": "Curso Kotlin Multiplatform desde cero - [2024] Kotlin Compose Multiplatform",
-        "f": "https://i.ytimg.com/vi/smAhUwEQ1d8/hqdefault.jpg",
-        "g": 11,
-        "d": "UCIjEgHA1vatSR2K4rfcdNRg",
-        "h": "2023-11-20 20:13:45",
-        "c": "Aprende Kotlin Multiplatform desde cero y actualizado."
+        "a": 58,
+        "e": "PL46G4t0fsnaKq6JSBQNpPB-To9vfzlxo9",
+        "b": "Curso de ITALIANO",
+        "f": "https://i.ytimg.com/vi/zxGuuJYXl3k/hqdefault.jpg",
+        "g": 40,
+        "d": "UC5cuBrMZHXf1_SvY4TkTPKg",
+        "h": "2021-03-03 03:37:41",
+        "c": "Con este curso de ITALIANO para toda la familia podrás aprender un nuevo idioma de forma divertida y basada en neurociencia."
     },
     {
-        "a": 35,
-        "e": "PLa8PF7Z_n1hWZa8Tz78GAHrk17ELpGy1u",
-        "b": "Curso gratis de HACKING ÉTICO Desde CERO para PRINCIPIANTES con KALI LINUX 2024 Aprende TODO sobre Ciberseguridad y sobre como ser Hacker.",
-        "f": "https://i.ytimg.com/vi/7_4jljxzvcA/hqdefault.jpg",
-        "g": 46,
-        "d": "UCeeOzvMFfd2qcUFIGN_Nzyw",
-        "h": "2020-07-08 00:57:00",
-        "c": "Aquí aprenderás todo sobre Ciberseguridad con Kali Linux 2024. Curso de Seguridad Informática en Español. Curso de Pentesting y Hacking Ético gratuito desde cero para principiantes. Hacking curso 2024 con Kali Linux. Seguridad informática y ciberseguridad. Como ser Hacker."
+        "a": 30,
+        "e": "PL1yslgETgkYHWZnyk9w5JyUTY6xkyKrov",
+        "b": "Nuevo Curso de Excel 2025 (Básico, Intermedio y Avanzado)",
+        "f": "https://i.ytimg.com/vi/5RK6s5eB37o/hqdefault.jpg",
+        "g": 58,
+        "d": "UC1DggK5BjCUPWNgZRy0esRQ",
+        "h": "2025-05-24 18:03:06",
+        "c": "El mejor curso de Excel Gratis y completo que vas a encontrar en Youtube con ejercicios para descargar. Recuerda es 100% gratis y está pensado para que aprendas desde cero, paso a paso con muchos ejercicios para descargar en todos los módulos.\n\nEste curso esta enfocado en estudiantes, o si trabajas en oficina o simplemente quieres dejar de sufrir cada vez que abres una hoja de cálculo 😅.\nVas a aprender a usar fórmulas básicas, intermedidas y avanzadas, crear tablas dinámicas, automatizar tareas y hasta hacer tus propios reportes o dashboards hasta llegar al nivel de programar tus propias macros con VBA.\n\nNo necesitas saber nada, solo tener ganas de aprender.\n¡Y sí, es totalmente gratis! Así que… ¿qué esperas? 💻✨"
     },
     {
-        "a": 49,
-        "e": "PLo-artO3hx9f7dQ7Pt7-Daxw5i8IFHw_y",
-        "b": "CURSO DE COCTELERIA GRATUITO 🍹 (Para aficionados y Bartenders principiantes) 🥇",
-        "f": "https://i.ytimg.com/vi/cpsnXvQZAb8/hqdefault.jpg",
-        "g": 36,
-        "d": "UCrt_ZUP3uyJl27JrD1Z8qRw",
-        "h": "2020-12-09 18:26:10",
-        "c": "Quieres Aprender coctelería? BIENVENIDO (a) Siguiendo el paso a paso de estos videos vas a aprender a hacer los cocteles mas solicitados en el mundo. Mira el primer video y Obtén tu guía Totalmente gratis."
+        "a": 53,
+        "e": "PLBI8wHKIc4CkZnX6ItctDU76k7mL5Qjfv",
+        "b": "Curso De Trading",
+        "f": "https://i.ytimg.com/vi/QPbpQ1wgvF0/hqdefault.jpg",
+        "g": 8,
+        "d": "UCVt4ugq2txl_szlXAO7B3-g",
+        "h": "2024-12-28 13:13:19"
     },
     {
-        "a": 2,
-        "e": "PL8ie04dqq7_Mh8Nz3ihjGLLTwAdNfaLSD",
-        "b": "Diseño de Layouts - Curso Kotlin en Android",
-        "f": "https://i.ytimg.com/vi/xz7U_4Ob6Lg/hqdefault.jpg",
-        "g": 4,
-        "d": "UCIjEgHA1vatSR2K4rfcdNRg",
-        "h": "2020-08-03 16:13:00"
+        "a": 105,
+        "e": "PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV",
+        "b": "Curso de C",
+        "f": "https://i.ytimg.com/vi/R9n7j-u9ijc/hqdefault.jpg",
+        "g": 224,
+        "d": "UCG8jvt0QlVdWcKyU_gNNs3A",
+        "h": "2020-05-31 23:34:34"
+    },
+    {
+        "a": 33,
+        "e": "PLyvsggKtwbLVva0XXvoqx91iaLmhgeNy7",
+        "b": "Curso de programación profesional",
+        "f": "https://i.ytimg.com/vi/AEiRa5xZaZw/hqdefault.jpg",
+        "g": 19,
+        "d": "UCeEW6PHNJlIwI-rKChmqqkw",
+        "h": "2016-12-06 21:43:11",
+        "c": "Curso de programación desde cero para aprender a programar de manera profesional."
+    },
+    {
+        "a": 90,
+        "e": "PLMd59HZRUmEg539WgqJjbsvto4V3fRwn5",
+        "b": "Curso de Hacking Ético y Ciberseguridad",
+        "f": "https://i.ytimg.com/vi/ZDvxqqSoyZs/hqdefault.jpg",
+        "g": 32,
+        "d": "UCGLfzfKRUsV6BzkrF1kJGsg",
+        "h": "2022-09-30 17:13:41",
+        "c": "Curso de hacking ético y ciberseguridad desde cero, donde aprenderemos a utilizar Kali Linux para conocer y explotar las principales vulnerabilidades existentes."
+    },
+    {
+        "a": 83,
+        "e": "PLg7ZNf8WsbWAeoCT0j4HtptN3-v9KLILN",
+        "b": "🐲 CURSO GRATUITO DE KALI LINUX ▷  INICIACIÓN AL HACKING ÉTICO 2025",
+        "f": "https://i.ytimg.com/vi/V_ehc-REW1s/hqdefault.jpg",
+        "g": 21,
+        "d": "UCYaeLvnLCNRJDrus8LEYaGw",
+        "h": "2023-11-01 19:33:27",
+        "c": "Bienvenido al Curso Gratuito de Kali Linux desde 0 para Hackers Éticos en YouTube.\n\nSi estás interesado en adentrarte en el mundo de la ciberseguridad, este es el lugar perfecto para comenzar.\nHemos diseñado este curso desde cero, pensando en aquellos que desean aprender a utilizar Kali Linux, incluso si nunca han tenido experiencia con Linux o Kali.\n\nNuestra misión es brindarte los conocimientos esenciales para que te sientas cómodo y seguro utilizando este sistema operativo y todas sus potentes herramientas. A lo largo de este curso gratuito, exploraremos desde los conceptos más básicos de Kali Linux hasta la realización de tu primer laboratorio práctico de hacking ético. Una vez completado este curso, tendrás las bases necesarias para avanzar en tu carrera o participar en desafíos de Capture The Flag (CTFs).\n\nCreemos firmemente que dominar los fundamentos es esencial antes de adentrarse en las más de 300 herramientas que ofrece Kali Linux.\n\nComo en cualquier disciplina, primero se debe aprender a caminar antes de correr. Antes de realizar pruebas de penetración, debemos familiarizarnos con el sistema que las hace posibles.\n\nEstamos emocionados de acompañarte en tu viaje hacia convertirte en un especialista en ciberseguridad."
+    },
+    {
+        "a": 19,
+        "e": "PLNipMBg3MF-by_2uhpnmGbGTBPMfqo7HV",
+        "b": "aprende gratis, curso de electrónica básica desde cero",
+        "f": "https://i.ytimg.com/vi/LjYClvMPRdE/hqdefault.jpg",
+        "g": 155,
+        "d": "UCUJ6BMwZFHTnBozdGONtIhA",
+        "h": "2015-03-08 00:01:05",
+        "c": "curso que abarca todo lo básico relacionado a electrónica, desde conceptos básicos, manejo de protoboard, soldadura, electrónica análoga y digital, diseño de impresos, manejo de software de simulación etc"
     }
 ]
