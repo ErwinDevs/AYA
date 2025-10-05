@@ -1,5 +1,15 @@
 [
     {
+        "a": 94,
+        "e": "PLH_tVOsiVGznLd-dSQP9_ttuxLnSmSWwq",
+        "b": "🔥 CURSO COMPLETO de CSS desde CERO a AVANZADO 🔥",
+        "f": "https://i.ytimg.com/vi/-xtS1QwxfOo/hqdefault.jpg",
+        "g": 71,
+        "d": "UCRMJ0vxtnHh_UAq1Yx9BYWQ",
+        "h": "2024-05-27 17:16:25",
+        "c": "CURSO COMPLETO de CSS GRATIS desde CERO a AVANZADO (EXPERTO)"
+    },
+    {
         "a": 56,
         "e": "PLROIqh_5RZeDbvISffzihyxzqJBt_z3-Z",
         "b": "✅ CURSO de CSS Completo para Principiantes 🔵( DESDE CERO )",
@@ -9,88 +19,81 @@
         "h": "2021-03-22 19:43:23"
     },
     {
-        "a": 28,
-        "e": "PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA",
-        "b": "Curso JavaScript",
-        "f": "https://i.ytimg.com/vi/2SetvwBV-SU/hqdefault.jpg",
-        "g": 166,
-        "d": "UCXR7VjA26PcHP3vb6F2X3VQ",
-        "h": "2020-02-07 18:52:34",
-        "c": "Aprende JavaScript el lenguaje que domina la web: Sintaxis, Gramática, Lógica, EcmaScript, POO, Asincronía, DOM, AJAX, JSON, API's, Node y más."
-    },
-    {
-        "a": 97,
-        "e": "PLyvsggKtwbLVOPuOGn9J1Ie9RD7r7LcWD",
-        "b": "Curso Spring Boot : Desarrollo de Microservicios",
-        "f": "https://i.ytimg.com/vi/BRtPNl0aBkA/hqdefault.jpg",
-        "g": 30,
-        "d": "UCeEW6PHNJlIwI-rKChmqqkw",
-        "h": "2024-02-29 15:56:43",
-        "c": "¡Sumérgete en el apasionante mundo del desarrollo de microservicios con Spring Boot, una de las tecnologías más codiciadas en la actualidad dentro del vasto universo tecnológico!\n\nEn este completo curso, te llevaremos de la mano paso a paso a través del desarrollo de un microservicio backend con Spring Boot, utilizando la poderosa herramienta InteliJ como nuestro fiel compañero de viaje.\n\nExploraremos las últimas y más actualizadas versiones de Java, Spring y Spring Boot, desentrañando meticulosamente cada una de las anotaciones que Spring nos ofrece para potenciar nuestro código al máximo.\n\nSin embargo, lo que realmente distingue este curso es el énfasis especial que pondremos en el diseño arquitectónico de cada capa de la solución. Profundizaremos en conceptos complejos como la inyección de dependencias, el bajo acoplamiento y la cohesión de los diversos componentes, asegurando que comprendas no solo cómo codificar, sino cómo construir robustas y escalables soluciones.\n\nCada implementación de controladores, servicios y persistencia se realizará siguiendo las mejores prácticas que Java nos ofrece, garantizando un código limpio y de calidad excepcional.\n\nPero eso no es todo, también exploraremos la integración de tecnologías complementarias como Docker para la gestión de contenedores, PostgresSQL como nuestra base de datos relacional y Lombok para simplificar el código. Y para asegurarnos de que nuestra API REST esté en la cima de su juego, llevaremos a cabo exhaustivas pruebas utilizando Postman, garantizando que esté bien formada y lista para enfrentar los desafíos del mundo real.\n\n¡Prepárate para transformar tu manera de desarrollar microservicios y llevar tus habilidades al siguiente nivel con este emocionante curso!"
-    },
-    {
-        "a": 47,
-        "e": "PLBI8wHKIc4Cku8HxUAViFU7LnbTQZzJzF",
-        "b": "Curso De Shopify Dropshipping",
-        "f": "https://i.ytimg.com/vi/j_vfqabSFMQ/hqdefault.jpg",
-        "g": 3,
-        "d": "UCVt4ugq2txl_szlXAO7B3-g",
-        "h": "2024-12-28 13:06:41"
-    },
-    {
-        "a": 31,
-        "e": "PL_wxPflrHc1iECghOLOjQj8qdqxsH-bCf",
-        "b": "Curso de Mecánica Automotriz",
-        "f": "https://i.ytimg.com/vi/PV3XDlAHhYA/hqdefault.jpg",
-        "g": 10,
-        "d": "UCp7Hslrb8xgFU95SwOrZ6fg",
-        "h": "2012-09-19 00:40:39",
-        "c": "Conocer lo básico de la mecánica automotriz, hoy en día es indispensable para cualquier persona. Ven y apréndelo aquí:"
-    },
-    {
-        "a": 110,
-        "e": "PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR",
-        "b": "Curso de CSS Básico desde 0",
-        "f": "https://i.ytimg.com/vi/24gNhTcy6pw/hqdefault.jpg",
-        "g": 18,
-        "d": "UCJl1YajcPWTeJNsQhGyMIMg",
-        "h": "2014-06-17 18:27:29"
-    },
-    {
-        "a": 2,
-        "e": "PL8ie04dqq7_Mh8Nz3ihjGLLTwAdNfaLSD",
-        "b": "Diseño de Layouts - Curso Kotlin en Android",
-        "f": "https://i.ytimg.com/vi/xz7U_4Ob6Lg/hqdefault.jpg",
-        "g": 4,
-        "d": "UCIjEgHA1vatSR2K4rfcdNRg",
-        "h": "2020-08-03 16:13:00"
-    },
-    {
-        "a": 98,
-        "e": "PLj0g_C56bhRkMhBschCdIRd_bJfD2nBgG",
-        "b": "Curso completo de francés  desde cero fácil y rápido para principiantes - NIVEL 1",
-        "f": "https://i.ytimg.com/vi/XUKt0Uqireo/hqdefault.jpg",
-        "g": 54,
-        "d": "UCK6bfsyaPVasHZxTRmieZxA",
-        "h": "2023-11-08 19:51:22"
-    },
-    {
-        "a": 71,
-        "e": "PLuQITQSfEnlJTIhGdNg6l424ZFpV1_3vU",
-        "b": "Curso básico gratis Contabilidad",
-        "f": "https://i.ytimg.com/vi/luIweQmHq94/hqdefault.jpg",
-        "g": 44,
-        "d": "UCa6cCZteFUEbC-XeH4CsKPg",
-        "h": "2013-09-03 22:16:16",
-        "c": "Con este curso aprenderás a contabilizar de una forma fácil y amena con la ayuda de un profesional con muchos años de experiencia en el mundo de la empresa, como administrativo y contable. Si te decides, puedes empezar en el primer capítulo, y antes de que te des cuenta, dedicándole media hora cada día, habrás aprendido lo básico para entender los conceptos fundamentales de Contabilidad Financiera.\r\n\r\nTambién puedes plantear las dudas que te vayan surgiendo, y trataremos de aclarártelas lo antes posible. \r\n\r\n¡Ponte a ello ya mismo!"
-    },
-    {
         "a": 15,
         "e": "PLBI8wHKIc4CnINi5zwAhIyxAWbZ0TxEkz",
         "b": "Cursos Completos y Gratis",
         "f": "https://i.ytimg.com/vi/j_vfqabSFMQ/hqdefault.jpg",
-        "g": 66,
+        "g": 68,
         "d": "UCVt4ugq2txl_szlXAO7B3-g",
         "h": "2023-03-17 13:24:08"
+    },
+    {
+        "a": 16,
+        "e": "PLUa5K0lL89KIZsFan_kKrRJYFMkQ9u6Ki",
+        "b": "👊Curso de ELECTRICIDAD Domiciliaria GRATIS !!",
+        "f": "https://i.ytimg.com/vi/BhgBXZdHWhU/hqdefault.jpg",
+        "g": 25,
+        "d": "UC8cFTqwfcQVacrILakZeGRw",
+        "h": "2021-02-11 22:20:50",
+        "c": "ESTAS EMPEZANDO?►►Mirá los videos de esta lista YA.! Aprender Electricidad NUNCA fue tan FACIL.!! \nAhora desde la comodidad de tu casa te voy a enseñar PASO a PASO todo lo que necesitas saber para hacerte del Dominio de la Electricidad"
+    },
+    {
+        "a": 112,
+        "e": "PLhSj3UTs2_yVHt2DgHky_MzzRC58UHE4z",
+        "b": "Curso de HTML Básico desde 0",
+        "f": "https://i.ytimg.com/vi/cqMfPS8jPys/hqdefault.jpg",
+        "g": 10,
+        "d": "UCJl1YajcPWTeJNsQhGyMIMg",
+        "h": "2014-05-30 18:19:20"
+    },
+    {
+        "a": 17,
+        "e": "PL5jfE0GhCnal2lZYE51n6vPudHFFz98Ih",
+        "b": "💻CURSO DE COMPUTACIÓN DE CERO A EXPERTO 💻",
+        "f": "https://i.ytimg.com/vi/AxDF5WBamBc/hqdefault.jpg",
+        "g": 23,
+        "d": "UCd9hcs803G4P6YzY8LxB_dA",
+        "h": "2021-12-20 17:05:42",
+        "c": "curso de computación de cero a experto, Curso de computación para adultos, curso de computación gratis, cursos gratis. cursos de computacion 2022, windows 10,"
+    },
+    {
+        "a": 74,
+        "e": "PLl7bxsSiKuDa4hCs45FQ-x3ErKFeaJeQz",
+        "b": "MecaGratis.com - Curso Gratis de Mecanografía online",
+        "f": "https://i.ytimg.com/vi/gwthDG9lHMQ/hqdefault.jpg",
+        "g": 85,
+        "d": "UCt3Il-DfHStrOdoE1ss_AOA",
+        "h": "2014-02-11 09:28:56",
+        "c": "MecaGratis es un curso de Mecanografía online gratuito con videos didácticos, lecciones y ejercicios.\n\nhttp://www.mecagratis.com"
+    },
+    {
+        "a": 30,
+        "e": "PL1yslgETgkYHWZnyk9w5JyUTY6xkyKrov",
+        "b": "Nuevo Curso de Excel 2025 (Básico, Intermedio y Avanzado)",
+        "f": "https://i.ytimg.com/vi/5RK6s5eB37o/hqdefault.jpg",
+        "g": 73,
+        "d": "UC1DggK5BjCUPWNgZRy0esRQ",
+        "h": "2025-05-24 18:03:06",
+        "c": "El mejor curso de Excel Gratis y completo que vas a encontrar en Youtube con ejercicios para descargar. Recuerda es 100% gratis y está pensado para que aprendas desde cero, paso a paso con muchos ejercicios para descargar en todos los módulos.\n\nEste curso esta enfocado en estudiantes, o si trabajas en oficina o simplemente quieres dejar de sufrir cada vez que abres una hoja de cálculo 😅.\nVas a aprender a usar fórmulas básicas, intermedidas y avanzadas, crear tablas dinámicas, automatizar tareas y hasta hacer tus propios reportes o dashboards hasta llegar al nivel de programar tus propias macros con VBA.\n\nNo necesitas saber nada, solo tener ganas de aprender.\n¡Y sí, es totalmente gratis! Así que… ¿qué esperas? 💻✨"
+    },
+    {
+        "a": 55,
+        "e": "PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_",
+        "b": "Curso de PHP/MySQL",
+        "f": "https://i.ytimg.com/vi/I75CUdSJifw/hqdefault.jpg",
+        "g": 105,
+        "d": "UCdulIs-x_xrRd1ezwJZR9ww",
+        "h": "2015-03-23 15:08:57",
+        "c": "Curso de PHP/MySQL desde 0"
+    },
+    {
+        "a": 64,
+        "e": "PLD63zxk3A73wyCMKphs11Pl6GA4wD2EWP",
+        "b": "Curso gratis de astrología",
+        "f": "https://i.ytimg.com/vi/PdWqUwhxvjw/hqdefault.jpg",
+        "g": 12,
+        "d": "UCBupY5eNUT7h-XpKz39wXkA",
+        "h": "2023-01-23 18:34:28",
+        "c": "Aprendé astrología psicológica y evolutiva con estas clases gratis de Camino Arcano. Este curso es para principiantes desde cero, súper fácil de entender!"
     }
 ]
