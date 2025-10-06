@@ -80,6 +80,11 @@
         "b": "Todo lo que necesitas saber sobre CG-NAT. Curso de redes desde 0 | Cap 11 |"
     },
     {
+        "i": 22,
+        "j": "RZOqcwLdMqs",
+        "b": "VLAN nativa, de acceso y trunk paso a paso con ejemplos reales | Cap 22 |"
+    },
+    {
         "i": 8,
         "j": "tyfAsrS7KIs",
         "b": "Conexiones inversas y UPnP. Curso de redes desde 0 | Cap 8 |"
@@ -93,6 +98,11 @@
         "i": 21,
         "j": "USmPUFzcTlE",
         "b": "VLAN para principiantes: Access vs Trunk con ejemplos reales | Cap 21 |"
+    },
+    {
+        "i": 23,
+        "j": "vXshUKOahIA",
+        "b": "Cómo configurar VLANs en Windows y Mac ⚡️ Cambio VLAN nativa para mayor seguridad | Cap 23 |"
     },
     {
         "i": 19,
