@@ -1,72 +1,41 @@
 [
     {
-        "a": 82,
-        "e": "PL3hNLk-aR0J9K5cvCIsQiwjMvO8UFFr35",
-        "b": "☁️Curso AZ900 Azure Fundamentals Certificación en Español 2021 | Prepara tu examen de certificación con el curso Azure Fundamentals AZ-900",
-        "f": "https://i.ytimg.com/vi/iFg-pRDLtoc/hqdefault.jpg",
-        "g": 57,
-        "d": "UCz1Dfbvqa7aG2YPlnKTwriQ",
-        "h": "2020-02-04 04:28:01",
-        "c": "☁️ Curso AZ900 Microsoft Azure Fundamentals \n⬇⬇⬇ Curso completo en: ⬇⬇⬇\n★ Udemy: http://bit.ly/az900-2021\n★ Net-University: https://bit.ly/az-fundamentals\n\nEste curso te proporcionará conocimientos básicos de los servicios en la nube y cómo se proporcionan esos servicios con Microsoft Azure. El curso se puede tomar como un primer paso opcional para aprender sobre los servicios en la nube y Microsoft Azure, antes de tomar más cursos de Microsoft Azure\n\n\nEste curso sobre Fundamentos de Azure (Azure Fundamentals- AZ-900) desarrolla tus competencias a través de habilidades prácticas en Azure que te ayudarán a innovar y a adquirir experiencia necesaria para realizar el examen AZ900 de Microsoft Azure Fundamentals. También revisaremos algunas preguntas de práctica para que puedas lograr obtener tu certificación de Azure Fundamentals.\n\n\nEn este curso aprenderás:\n\nComprender los conceptos de la nube\nDescribir los beneficios y consideraciones del uso de servicios en la nube\nDescribir las diferencias entre modelos de nube pública, privada e híbrida\nDescribir las diferencias entre infraestructuras como servicio (IaaS), plataforma como servicio (PaaS) y software como servicio (SaaS)\nComprender los servicios centrales de Azure\nComprender los principales componentes de arquitectura de Azure\nDescribir algunos de los productos centrales disponibles en Azure\nDescribir algunas de las soluciones disponibles en Azure\nComprender las herramientas de gestión de Azure\nComprender la seguridad, privacidad, cumplimiento y confianza\nComprender la conectividad de red segura en Azure\nComprender las opciones de monitorización e informes en Azure\nDescribir los servicios fundamentales de Azure Identity\nComprender las normas de privacidad, cumplimiento y protección de datos en Azure\nDescribir las herramientas de seguridad y las funciones de Azure\nDescribir las metodologías de gobernanza de Azure\nComprender la fijación de precios y el soporte de Azure\nComprender las suscripciones de Azure\nComprender las opciones de soporte disponibles con Azure\nComprender la planificación y gestión de costes\nDescribir los acuerdos de nivel de servicio (SLA) de Azure\nComprender el ciclo vital de servicio en Azure"
+        "a": 105,
+        "e": "PLIygiKpYTC_6zHLTjI6cFIRZm1BCT3CuV",
+        "b": "Curso de C",
+        "f": "https://i.ytimg.com/vi/R9n7j-u9ijc/hqdefault.jpg",
+        "g": 224,
+        "d": "UCG8jvt0QlVdWcKyU_gNNs3A",
+        "h": "2020-05-31 23:34:34"
     },
     {
-        "a": 66,
-        "e": "PLCKuOXG0bPi0sIn-nDsi7ma9OV6MEMkxj",
-        "b": "Curso - Flutter Móvil: de Cero a Experto",
-        "f": "https://i.ytimg.com/vi/zNmDOXbTugE/hqdefault.jpg",
-        "g": 78,
-        "d": "UCuaPTYj15JSkETGnEseaFFg",
-        "h": "2023-05-06 17:27:30",
-        "c": "💙 Esta serie de videos es una pequeña parte de mi curso de #Flutter Móvil: de Cero a Experto - en el cual aprenderás todo lo necesario de Flutter para crear aplicaciones móviles para #iOS y #Android hasta su despliegue en las tiendas. Cuando termines el curso, habrás creado diferentes #Apps y comprenderás el proceso de publicación de las mismas.\n\n📚 Para continuar con estas lecciones, pueden adquirir el curso completo en: https://fernando-herrera.com/#/search/Flutter%20M%C3%B3vil:%20De%20cero%20a%20experto\n\n📝 Puedes encontrar la guía de atajos en:\n#Dart - https://devtalles.com/files/dart-cheat-sheet.pdf\n#Flutter - https://devtalles.com/files/flutter-cheat-sheet.pdf\n\n💼 Si deseas usar este curso para capacitación del equipo en tu institución, visita: https://cursos.devtalles.com/pages/devtalles-para-empresas\n\n📑 Cursos Relacionados:\nDart - https://fernando-herrera.com/#/search/Dart:%20De%20cero%20hasta%20los%20detalles\nFlutter Móvil: Recursos Nativos - Nivel Intermedio: https://fernando-herrera.com/#/search/Flutter%20m%C3%B3vil:%20Recursos%20Nativos%20-%20Nivel%20intermedio\n\n🔗 Mi Web personal: https://fernando-herrera.com\n🎙️ Mi Podcast: https://anchor.fm/fernando-her85\n👥 Mi X / Twitter: https://twitter.com/Fernando_Her85\n👨🏻‍🏫 Perfil de instructor | Udemy: https://www.udemy.com/user/550c38655ec11/\n👨🏻‍💻 {d/t} DevTalles: https://cursos.devtalles.com/\n👨🏻‍🎓 {d/t} DevTalles LinkedIn: https://www.linkedin.com/company/devtalles/\n📱 {d/t} DevTalles X / Twitter: https://twitter.com/DevTalles\n🚀 {d/t} DevTalles Comunidad Discord: https://discord.gg/pBjEVYTC7t\n\n💻 #Programacion #Development #Developer #FernandoHerrera #DevTalles #Fullstack #OnlineLearning #professor #instructor"
-    },
-    {
-        "a": 16,
-        "e": "PLUa5K0lL89KIZsFan_kKrRJYFMkQ9u6Ki",
-        "b": "👊Curso de ELECTRICIDAD Domiciliaria GRATIS !!",
-        "f": "https://i.ytimg.com/vi/BhgBXZdHWhU/hqdefault.jpg",
-        "g": 25,
-        "d": "UC8cFTqwfcQVacrILakZeGRw",
-        "h": "2021-02-11 22:20:50",
-        "c": "ESTAS EMPEZANDO?►►Mirá los videos de esta lista YA.! Aprender Electricidad NUNCA fue tan FACIL.!! \nAhora desde la comodidad de tu casa te voy a enseñar PASO a PASO todo lo que necesitas saber para hacerte del Dominio de la Electricidad"
-    },
-    {
-        "a": 95,
-        "e": "PL2Z95CSZ1N4EW0PvNhd4ySZisgBrJjSW2",
-        "b": "Curso de Microsoft SQl Server desde cero para principiantes, version 2023",
-        "f": "https://i.ytimg.com/vi/SYRsyAoN8BI/hqdefault.jpg",
-        "g": 91,
-        "d": "UCtt69OVnWMAcC5ZEWY0BO5A",
-        "h": "2023-05-30 22:43:51",
-        "c": "¡Bienvenido aqui iniciamos este curso sobre Microsoft SQL Server, una de las herramientas más potentes y populares en el mundo de la gestión de bases de datos.\n  Con este curso, quiero llevarte de la mano a través de los fundamentos esenciales de Microsoft SQL Server, para que puedas dominar esta poderosa plataforma y aprovechar al máximo sus capacidades.\n\nYa sea que seas un principiante absoluto o tengas algo de experiencia en bases de datos, este curso está diseñado para adaptarse a todos los niveles de conocimiento. Exploraremos desde los conceptos básicos de SQL, como consultas y manipulación de datos, hasta temas más avanzados como optimización de consultas y diseño de bases de datos eficientes.\n\nA lo largo del curso, utilizaré ejemplos prácticos y ejercicios para ayudarte a comprender los conceptos de manera clara y concisa. También te compartiré consejos y trucos que he aprendido a lo largo de mi experiencia profesional, para que puedas aplicarlos en tu trabajo o proyectos personales."
-    },
-    {
-        "a": 101,
-        "e": "PLU8oAlHdN5Bkn-KS1sRFlSEnXXcAtAJ9P",
-        "b": "Curso de Android con Android Studio",
-        "f": "https://i.ytimg.com/vi/pdYkmCcQFd8/hqdefault.jpg",
-        "g": 108,
-        "d": "UCdulIs-x_xrRd1ezwJZR9ww",
-        "h": "2016-02-23 19:13:15"
-    },
-    {
-        "a": 63,
-        "e": "PL2Z95CSZ1N4HXvLWg8oL4IpyJx27HafcD",
-        "b": "Curso completo de JavaScript desde cero para principiantes, version 2023",
-        "f": "https://i.ytimg.com/vi/mpIwKBNr7_o/hqdefault.jpg",
-        "g": 83,
-        "d": "UCtt69OVnWMAcC5ZEWY0BO5A",
-        "h": "2023-10-10 12:35:00",
-        "c": "¡Bienvenido al emocionante mundo de la programación web con JavaScript! 🚀\n¿Estás listo para embarcarte en un viaje que te llevará desde los conceptos fundamentales hasta convertirte en un experto en JavaScript? ¡Este curso es tu boleto de entrada al dominio del lenguaje de la web!\n\nEn este curso de JavaScript, te guiaré paso a paso a través de los principios esenciales de la programación en JavaScript. No importa si eres un principiante absoluto o si ya tienes experiencia en otros lenguajes, este curso está diseñado para adaptarse a todos los niveles de conocimiento.\n\nLo que aprenderás:\n📚 Fundamentos de JavaScript: Variables, tipos de datos, operadores y estructuras de control.\n🌐 Manipulación del DOM: Cómo interactuar con la estructura de tu página web.\n🔗 Eventos y Event Listeners: Hacer que tu sitio web responda a las acciones del usuario.\n🔄 Funciones y Objetos: La base de la programación orientada a objetos en JavaScript.\n💼 Proyectos Prácticos: Aplicaremos lo aprendido en proyectos del mundo real.\n🔥 Consejos y Trucos: Secretos de los profesionales para escribir un código limpio y eficiente.\n\nNo te preocupes si esto suena abrumador; vamos a explicar cada concepto de manera clara y concisa. Además, proporcionaremos ejemplos prácticos y desafíos emocionantes para que puedas poner en práctica tus habilidades.\n\nPrepárate para desbloquear un mundo de posibilidades en el desarrollo web con JavaScript. ¡Inscríbete ahora y comencemos este apasionante viaje juntos! 💻✨\n\nNo olvides darle like, suscribirte y activar la campana de notificaciones para no perderte ni un solo episodio de este curso. ¡Nos vemos en la primera lección! 👋🎉"
-    },
-    {
-        "a": 43,
-        "e": "PLyvsggKtwbLX9LrDnl1-K6QtYo7m0yXWB",
-        "b": "Curso de programación JAVA desde cero",
-        "f": "https://i.ytimg.com/vi/L1oMLsiMusQ/hqdefault.jpg",
-        "g": 48,
+        "a": 33,
+        "e": "PLyvsggKtwbLVva0XXvoqx91iaLmhgeNy7",
+        "b": "Curso de programación profesional",
+        "f": "https://i.ytimg.com/vi/AEiRa5xZaZw/hqdefault.jpg",
+        "g": 19,
         "d": "UCeEW6PHNJlIwI-rKChmqqkw",
-        "h": "2017-01-21 00:51:19",
-        "c": "Curso JAVA desde cero,  Este es un curso gratuito y completo de programación en JAVA con bloc de notas."
+        "h": "2016-12-06 21:43:11",
+        "c": "Curso de programación desde cero para aprender a programar de manera profesional."
+    },
+    {
+        "a": 40,
+        "e": "PLMdlY4Bs8gcQX09vi4SpY78uWkMOvfe9U",
+        "b": "Curso Gratis de patronaje, Corte y Confección",
+        "f": "https://i.ytimg.com/vi/zMdmMwuQTbs/hqdefault.jpg",
+        "g": 82,
+        "d": "UC4Gf9-DfSgBZJOGAmpK_u6g",
+        "h": "2020-08-08 10:09:00"
+    },
+    {
+        "a": 19,
+        "e": "PLNipMBg3MF-by_2uhpnmGbGTBPMfqo7HV",
+        "b": "aprende gratis, curso de electrónica básica desde cero",
+        "f": "https://i.ytimg.com/vi/LjYClvMPRdE/hqdefault.jpg",
+        "g": 155,
+        "d": "UCUJ6BMwZFHTnBozdGONtIhA",
+        "h": "2015-03-08 00:01:05",
+        "c": "curso que abarca todo lo básico relacionado a electrónica, desde conceptos básicos, manejo de protoboard, soldadura, electrónica análoga y digital, diseño de impresos, manejo de software de simulación etc"
     },
     {
         "a": 70,
@@ -79,23 +48,52 @@
         "c": "¿Quieres aprender inglés? ¡Suscríbete gratis a nuestro canal!\nDisfruta de nuestro curso de inglés definitivo. ¡Ahora por fin en vídeo!\nGracias por compartirnos y contribuir a que este contenido pueda seguir siendo gratis... :-)\n\n***LECCIONES DEL CURSO VAUGHAN PARA APRENDER INGLÉS GRATIS***\n\nLección 1:  https://goo.gl/Z3wWrC\n\nLección 2:  https://goo.gl/aHy7Yp\n\nLección 3:  https://goo.gl/YEUyUd\n\nLección 4:  https://goo.gl/jYcWr6\n\nLección 5:  https://goo.gl/gWUxjk\n\nLección 6:  https://goo.gl/E3ZdF1\n\nLección 7:  https://goo.gl/sYpCJS\n\nLección 8:  https://goo.gl/9Pj6YD\n\nLección 9:  https://goo.gl/GonA72\n\nLección 10: https://goo.gl/dVrfJb\n\n***CURSO AVANZADO DE INGLÉS GRATIS***\n\nhttps://goo.gl/7cTwKV\n\n***CURSO BÁSICO DE INGLÉS GRATIS***\n\nhttps://goo.gl/YnrsN6\n\n***CURSO GRATIS POR EMAIL***\n\n¿Te gustaría recibir más Clases Gratis por Email? ¡Apúntate a nuestro Curso Gratis!\n\nhttps://goo.gl/xTTnd3\n\n***CURSOS VAUGHAN ONLINE Y PRESENCIALES***\n\n¿List@ para dar el siguiente paso y pasar a la acción? ¡Te esperamos en nuestros Cursos Online o Presenciales!\n\nhttps://goo.gl/c5EYZZ\n\n\n***SÍGUENOS EN NUESTRAS REDES***\n\nhttps://twitter.com/GrupoVaughan\nhttps://www.facebook.com/GrupoVaughan/\nhttps://plus.google.com/115829465428666555120\nhttps://www.linkedin.com/company/vaughan-systems/?originalSubdomain=esbankia"
     },
     {
-        "a": 41,
-        "e": "PLEd0Gu3KmL1Mm_6RR7hN9kCVAFJb5yWh3",
-        "b": "CURSO DE COMPUTACIÓN PARA ADULTOS",
-        "f": "https://i.ytimg.com/vi/jxAgVn73OWg/hqdefault.jpg",
-        "g": 15,
-        "d": "UCG8MM-ZqXWN1VLoCOnhbORQ",
-        "h": "2023-08-22 23:53:13",
-        "c": "CURSO DE COMPUTACIÓN PARA ADULTOS"
+        "a": 96,
+        "e": "PL19FIL_dCukK9kateK0LG0-dy1dHG6v9X",
+        "b": "CURSO DE INGLES COMPLETO - GRATIS - APRENDE ingles fácil y rápido. Habla ingles fluido.",
+        "f": "https://i.ytimg.com/vi/wcNVzPxyJac/hqdefault.jpg",
+        "g": 40,
+        "d": "UC4W67rUtvRP3kNTaJrTVXBQ",
+        "h": "2024-09-03 19:33:17",
+        "c": "curso de ingles completo, gratis. aprende ingles rápido y fácil."
     },
     {
-        "a": 71,
-        "e": "PLuQITQSfEnlJTIhGdNg6l424ZFpV1_3vU",
-        "b": "Curso básico gratis Contabilidad",
-        "f": "https://i.ytimg.com/vi/luIweQmHq94/hqdefault.jpg",
-        "g": 44,
-        "d": "UCa6cCZteFUEbC-XeH4CsKPg",
-        "h": "2013-09-03 22:16:16",
-        "c": "Con este curso aprenderás a contabilizar de una forma fácil y amena con la ayuda de un profesional con muchos años de experiencia en el mundo de la empresa, como administrativo y contable. Si te decides, puedes empezar en el primer capítulo, y antes de que te des cuenta, dedicándole media hora cada día, habrás aprendido lo básico para entender los conceptos fundamentales de Contabilidad Financiera.\r\n\r\nTambién puedes plantear las dudas que te vayan surgiendo, y trataremos de aclarártelas lo antes posible. \r\n\r\n¡Ponte a ello ya mismo!"
+        "a": 34,
+        "e": "PL2COwwjWBEUYbDyWXazq55RAsgF496T_p",
+        "b": "Curso gratis Patronaje desde cero",
+        "f": "https://i.ytimg.com/vi/bicmwWKs0ew/hqdefault.jpg",
+        "g": 58,
+        "d": "UCogvPj41ww-NvV9rO4g8AoA",
+        "h": "2022-03-04 00:30:29",
+        "c": "Hola creativ@\nBienvenid@ a este curso completo de patronaje desde cero con el método GDS completamente gratis\nCon este curso te iniciarás en el hermoso mundo del patronaje profesional donde aprenderás a desarrollar patrones base para todo tipo de tela y transformaciones nivel básico e intermedio de una forma increíblemente fácil.\nBlusas, vestidos, pantalones y faldas son algunas de las prendas que podrás coser con todos los diseños que te enseñaré paso a paso en este curso."
+    },
+    {
+        "a": 37,
+        "e": "PLzjPEWJnnJNqGhk6DGpbuf8NDASsOQUND",
+        "b": "Curso De Trading Para Principiantes",
+        "f": "https://i.ytimg.com/vi/21ifvjZG23c/hqdefault.jpg",
+        "g": 17,
+        "d": "UCKP8me8NRKaGZZHAuKSSuvA",
+        "h": "2024-11-24 15:44:31"
+    },
+    {
+        "a": 81,
+        "e": "PL6heMTo6Ni5fJMohZgaqKNJAbot2BFrit",
+        "b": "Curso de SEO y Monetización de Webs de ROMUALD FONS",
+        "f": "https://i.ytimg.com/vi/mm4TF_mp0iM/hqdefault.jpg",
+        "g": 24,
+        "d": "UCdZBLznygSwo7iHbydGtxaw",
+        "h": "2022-10-27 08:31:53",
+        "c": "Aprende paso a paso con este Curso de SEO, cómo crear webs en 2022 optimizadas y a generar monetización, utilizando Adsense y Amazon. Aprende SEO desde 0 y crea tu web con Wordpress."
+    },
+    {
+        "a": 27,
+        "e": "PLTIdiuUvwYCHrjyEIYR8ZOhza5NAFef3Y",
+        "b": "MATEMÁTICA DESDE CERO (CURSO COMPLETO)",
+        "f": "https://i.ytimg.com/vi/vMSrAcrH9tg/hqdefault.jpg",
+        "g": 6,
+        "d": "UCa6V1UVOXN4wDm7RDQDoa6g",
+        "h": "2024-05-02 18:04:47",
+        "c": "Aquí tienes 6 clases de 2 horas cada una aproximadamente para aprender conceptos de matemática desde cero."
     }
 ]
