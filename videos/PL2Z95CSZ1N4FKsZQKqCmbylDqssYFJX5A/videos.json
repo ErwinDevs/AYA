@@ -1,0 +1,282 @@
+[
+    {
+        "i": 4,
+        "j": "-mKbJ6fqXBg",
+        "b": "Curso de Linux desde cero para principiantes | COMANDOS II (video 5)"
+    },
+    {
+        "i": 30,
+        "j": "09ORR6vzlJY",
+        "b": "Curso de Linux desde cero para principiantes | VARIABLES: PATH , (video 31)"
+    },
+    {
+        "i": 54,
+        "j": "1F69jOPZIWU",
+        "b": "Curso de Linux desde cero para principiantes | SHELLSCRIPT: CASE (video 55)"
+    },
+    {
+        "i": 6,
+        "j": "2BULX5wR3lA",
+        "b": "Curso de Linux desde cero para principiantes | COMANDOS IV - mkdir, cat, touch, cp (video 7)"
+    },
+    {
+        "i": 53,
+        "j": "2m3UvcmBzIA",
+        "b": "Curso de Linux desde cero para principiantes | SHELLLSCRIPT: EJERCICIO,  OPERADORES  (video 54)"
+    },
+    {
+        "i": 21,
+        "j": "2VSpz8d0ET8",
+        "b": "Curso de Linux desde cero para principiantes | PROCESOS [PARTE 1]  (video 22)"
+    },
+    {
+        "i": 20,
+        "j": "4Nw1ln15zW4",
+        "b": "Curso de Linux desde cero para principiantes |  SORT, CUT (video 21)"
+    },
+    {
+        "i": 7,
+        "j": "4w6_eu7kJMg",
+        "b": "Curso de Linux desde cero para principiantes | COMANDOS - mv, rm, rmdir, cat (video 8)"
+    },
+    {
+        "i": 32,
+        "j": "5EQvL1TP6ew",
+        "b": "Curso de Linux desde cero para principiantes | LOCATE - FIND  (video 33)"
+    },
+    {
+        "i": 22,
+        "j": "8fcJsipV2LQ",
+        "b": "Curso de Linux desde cero para principiantes |  PROCESOS [PARTE II] (video 23)"
+    },
+    {
+        "i": 50,
+        "j": "8KQIvtvy-B4",
+        "b": "Curso de Linux desde cero para principiantes | SHELLSCRIPT: VARIABLES CON COMANDOS (video 51)"
+    },
+    {
+        "i": 29,
+        "j": "9ClYyjkhoZI",
+        "b": "Curso de Linux desde cero para principiantes | VARIABLES  (video 30)"
+    },
+    {
+        "i": 40,
+        "j": "auBZN_SekLw",
+        "b": "Curso de Linux desde cero para principiantes | USUARIOS: creación y administración (video 41)"
+    },
+    {
+        "i": 46,
+        "j": "BGEeyL-CQpI",
+        "b": "Curso de Linux desde cero para principiantes |  Vi: sustituir, guardar (video 47)"
+    },
+    {
+        "i": 9,
+        "j": "BXyY0pzqScQ",
+        "b": "Curso de Linux desde cero para principiantes | INODOS - ENLACES (video 10)"
+    },
+    {
+        "i": 39,
+        "j": "CNM-mXPfkAU",
+        "b": "Curso de Linux desde cero para principiantes | USUARIOS: CREACION DE GRUPOS (video 40)"
+    },
+    {
+        "i": 36,
+        "j": "d1yF3gP1vbo",
+        "b": "Curso de Linux desde cero para principiantes |  JOBS: WATCH, (video 37)"
+    },
+    {
+        "i": 47,
+        "j": "dBJkE9Gq5Nw",
+        "b": "Curso de Linux desde cero para principiantes |  Vi: recuperar archivos, numerar lineas (video 48)"
+    },
+    {
+        "i": 16,
+        "j": "dIJRv0Lhe3Q",
+        "b": "Curso de Linux desde cero para principiantes | REDIRECCIONAMIENTO II, AGUJERO NEGRO  (video 17)"
+    },
+    {
+        "i": 27,
+        "j": "eNQqsH0ElmY",
+        "b": "Curso de Linux desde cero para principiantes | PERMISOS:  CHMOD [octal] (video 28)"
+    },
+    {
+        "i": 8,
+        "j": "EW9aheytpaw",
+        "b": "Curso de Linux desde cero para principiantes | COMANDOS  VI  tail, less, tree (video 9)"
+    },
+    {
+        "i": 51,
+        "j": "F7Ec9I5R2_Q",
+        "b": "Curso de Linux desde cero para principiantes |  SHELLSCRIPT: IF-ELSE (video 52)"
+    },
+    {
+        "i": 43,
+        "j": "FLilQ8Xhb5A",
+        "b": "Curso de Linux desde cero para principiantes | VI: Introducción  (video 44)"
+    },
+    {
+        "i": 34,
+        "j": "g2esUzhiKGU",
+        "b": "Curso de Linux desde cero para principiantes | BACKUPS: tar,  (video 35)"
+    },
+    {
+        "i": 31,
+        "j": "gBhaooyLonY",
+        "b": "Curso de Linux desde cero para principiantes | VARIABLES: PROMPT  (video 32)"
+    },
+    {
+        "i": 26,
+        "j": "gKxfOctpNls",
+        "b": "Curso de Linux desde cero para principiantes | PERMISOS: CHMOD [normal] (video 27)"
+    },
+    {
+        "i": 41,
+        "j": "gXsG3yovq1Y",
+        "b": "Curso de Linux desde cero para principiantes | USUARIOS: cambio de claves, borrar grupos  (video 42)"
+    },
+    {
+        "i": 38,
+        "j": "hD9CdvWch8M",
+        "b": "Curso de Linux desde cero para principiantes |  USUARIOS: passwd - shadow (video 39)"
+    },
+    {
+        "i": 52,
+        "j": "iGrtacyWBXQ",
+        "b": "Curso de Linux desde cero para principiantes |  STRINGS, NUMBERS, INPUT POR TECLADO (video 53)"
+    },
+    {
+        "i": 24,
+        "j": "io6_dNxWehk",
+        "b": "Curso de Linux desde cero para principiantes |  KILL  - JOBS  (video 25)"
+    },
+    {
+        "i": 44,
+        "j": "jAYO41zRFZE",
+        "b": "Curso de Linux desde cero para principiantes | VI: Editar texto, insert, borrar, cambiar  (video 45)"
+    },
+    {
+        "i": 3,
+        "j": "jvBgCwqZLVw",
+        "b": "Curso de Linux desde cero para principiantes | EDITORES - FICHEROS -  USUARIOS (video 4)"
+    },
+    {
+        "i": 48,
+        "j": "kTJjTWYUniI",
+        "b": "Curso de Linux desde cero para principiantes |  SHELLSCRIPT  [ programación en Linux ] (video 49)"
+    },
+    {
+        "i": 19,
+        "j": "l_CuqbcvcOc",
+        "b": "Curso de Linux desde cero para principiantes | GREP, (video 20)"
+    },
+    {
+        "i": 55,
+        "j": "lqyLQeBFNoU",
+        "b": "Curso de Linux desde cero para principiantes |  SHELLSCRIPT: CICLOS FOR Y WHILE  (video 56)"
+    },
+    {
+        "i": 1,
+        "j": "n6-nw9A3HHU",
+        "b": "Curso de Linux desde cero para principiantes | INSTALACION DE LINUX DEBIAN (video 2)"
+    },
+    {
+        "i": 37,
+        "j": "nylaAvqaTBU",
+        "b": "Curso de Linux desde cero para principiantes |  JOBS: CRONTAB (video 38)"
+    },
+    {
+        "i": 35,
+        "j": "nZQ4ILPOW8s",
+        "b": "Curso de Linux desde cero para principiantes | COMPRIMIR ARCHIVOS, GZIP, BZIP, ZIP ,  (video 36)"
+    },
+    {
+        "i": 42,
+        "j": "Oe_7YJgmBBA",
+        "b": "Curso de Linux desde cero para principiantes | USUARIOS: SUDO , SU  (video 43)"
+    },
+    {
+        "i": 15,
+        "j": "oeJwZ1_iPo0",
+        "b": "Curso de Linux desde cero para principiantes | REDIRECCIONAMIENTO (video 16)"
+    },
+    {
+        "i": 14,
+        "j": "OJiDElVuZ4Q",
+        "b": "Curso de Linux desde cero para principiantes | DATE, UPTIME (video 15)"
+    },
+    {
+        "i": 13,
+        "j": "oqsgV90EP5M",
+        "b": "Curso de Linux desde cero para principiantes | ALIAS, TIME, CAL , NCAL  (video 14)"
+    },
+    {
+        "i": 17,
+        "j": "PxAsJ5nOUCM",
+        "b": "Curso de Linux desde cero para principiantes | TUBERIAS , FILTROS  (video 18)"
+    },
+    {
+        "i": 12,
+        "j": "PzRG8yq2aJA",
+        "b": "Curso de Linux desde cero para principiantes | GEDIT, TYPE, WHICH, WHEREIS (video13)"
+    },
+    {
+        "i": 33,
+        "j": "q_pqYQYlY7Y",
+        "b": "Curso de Linux desde cero para principiantes | -TYPE, -SIZE (video 34)"
+    },
+    {
+        "i": 10,
+        "j": "QNSFA1Guz0I",
+        "b": "Curso de Linux desde cero para principiantes | COMANDOS VII - du, df (video 11)"
+    },
+    {
+        "i": 49,
+        "j": "r44YJ0ggLHM",
+        "b": "Curso de Linux desde cero para principiantes | SHELLSCRIPT: VARIABLES  (video 50)"
+    },
+    {
+        "i": 0,
+        "j": "t23trHbTOQE",
+        "b": "Curso de Linux desde cero para principiantes | INTRODUCCION (video 1)"
+    },
+    {
+        "i": 28,
+        "j": "tivLO7Knuvs",
+        "b": "Curso de Linux desde cero para principiantes |  PERMISOS: CHOWN , CHGRP (video 29)"
+    },
+    {
+        "i": 18,
+        "j": "TTm_e9LoxlI",
+        "b": "Curso de Linux desde cero para principiantes |  WC, TEE (video 19)"
+    },
+    {
+        "i": 5,
+        "j": "TtvZJRHAhzU",
+        "b": "Curso de Linux desde cero para principiantes | COMANDOS III - METACARACTERES (video 6)"
+    },
+    {
+        "i": 23,
+        "j": "U_uywdKqgGc",
+        "b": "Curso de Linux desde cero para principiantes | PROCESOS [PARTE III]  (video 24)"
+    },
+    {
+        "i": 25,
+        "j": "Ws67QiFUkdk",
+        "b": "Curso de Linux desde cero para principiantes |  USUARIOS - PERMISOS (video 26)"
+    },
+    {
+        "i": 11,
+        "j": "xlkT8Zv-O0o",
+        "b": "Curso de Linux desde cero para principiantes | TAB - HISTORY - SESIONES(video 12)"
+    },
+    {
+        "i": 45,
+        "j": "YArA86r7Gfo",
+        "b": "Curso de Linux desde cero para principiantes | VI: copiar, cortar, pegar y buscar  (video 46)"
+    },
+    {
+        "i": 2,
+        "j": "YRF93J9TDTs",
+        "b": "Curso de Linux desde cero para principiantes | COMANDOS I (video 3)"
+    }
+]

@@ -1,0 +1,917 @@
+[
+    {
+        "i": 15,
+        "j": "_4fbXE0dstA",
+        "b": "🐘 CURSO de PHP desde CERO - 16 ESTRUCTURA CONDICIONAL SIMPLE (IF) en PHP"
+    },
+    {
+        "i": 11,
+        "j": "_F0oxagTfq0",
+        "b": "🐘 CURSO de PHP desde CERO - 12 ASIGNACION por REFERENCIA en PHP"
+    },
+    {
+        "i": 61,
+        "j": "_tovHJwJrI4",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 10 Como CONECTARSE a una BASE de DATOS con PHP y PDO"
+    },
+    {
+        "i": 173,
+        "j": "_UGTjl_lBKo",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 49 Como ACTUALIZAR los DATOS de una tabla en MySQL (p-1)"
+    },
+    {
+        "i": 46,
+        "j": "_zTWaQSdQCs",
+        "b": "🐘 CURSO de PHP desde CERO - 47 SUBIR o ENVIAR  ARCHIVOS con PHP y AJAX (API FETCH)"
+    },
+    {
+        "i": 123,
+        "j": "-FB8V2G-CyY",
+        "b": "🐘 CURSO POO con PHP desde CERO - 16 Que son los NAMESPACES y para que SIRVEN [EJEMPLO]"
+    },
+    {
+        "i": 43,
+        "j": "-hdmS5NFHkA",
+        "b": "🐘 CURSO de PHP desde CERO - 44 SELECT y CHECKBOX multiples en FORMULARIOS PHP"
+    },
+    {
+        "i": 42,
+        "j": "-kj8BIxHlH8",
+        "b": "🐘 CURSO de PHP desde CERO - 43 ENVIAR FORMULARIOS con METODO GET & POST en PHP (DIFERENCIAS)"
+    },
+    {
+        "i": 157,
+        "j": "-LjHupMgAZY",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 33 FORMULARIO de REGISTRO de USUARIOS con PHP MVC MySQL"
+    },
+    {
+        "i": 109,
+        "j": "0-uuLp-beFg",
+        "b": "🐘 CURSO POO con PHP desde CERO - 02 Que es y como DEFINIR una CLASE METODO y ATRIBUTO [EJEMPLO]"
+    },
+    {
+        "i": 102,
+        "j": "0dj9G-YNnto",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 51 SELECCIONAR y MOSTRAR DATOS de PRODUCTOS por CATEGORIAS"
+    },
+    {
+        "i": 73,
+        "j": "0eWJFLGC6N8",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 22 RESTRINGIR o BLOQUEAR acceso al SISTEMA a USUARIO NO LOGUEADO"
+    },
+    {
+        "i": 88,
+        "j": "0GJDah2mIu0",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 37 Como HACER un CRUD en PHP MySQL PDO: GUARDAR DATOS"
+    },
+    {
+        "i": 53,
+        "j": "0zz89bSh0b0",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 02 Como CREAR una BASE de DATOS en MySQL con PHPMYADMIN"
+    },
+    {
+        "i": 140,
+        "j": "1_MqIvEJsEk",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 16 Creando VISTAS de LOGIN y 404 PAGINA NO ENCONTRADA"
+    },
+    {
+        "i": 179,
+        "j": "1bJf_jVQyb8",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 55 CONTROLADOR para VALIDAR MODULOS del BUSCADOR con PHP y MySQL"
+    },
+    {
+        "i": 121,
+        "j": "1cXEFwo_dyk",
+        "b": "🐘 CURSO POO con PHP desde CERO - 14 Como usar $THIS SELF:: PARENT:: y sus DIFERENCIAS [EJEMPLO]"
+    },
+    {
+        "i": 110,
+        "j": "1hEFz-nopag",
+        "b": "🐘 CURSO POO con PHP desde CERO - 03 Como se INSTANCIA una CLASE para CREAR un OBJETO [EJEMPLO]"
+    },
+    {
+        "i": 59,
+        "j": "1Iw5bS7OMEQ",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 08 ARCHIVO PRINCIPAL del SISTEMA de INVENTARIO en PHP y MySQL"
+    },
+    {
+        "i": 80,
+        "j": "1jfS7Dq-Iis",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 29 Como UTILIZAR la consulta DELETE en MySQL para ELIMINAR DATOS"
+    },
+    {
+        "i": 28,
+        "j": "1PCvdMiL-gM",
+        "b": "🐘 CURSO de PHP desde CERO  - 29 Como USAR el CICLO FOR en PHP (EJEMPLOS)"
+    },
+    {
+        "i": 54,
+        "j": "1ysYz-hUN-M",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 03 Como CREAR TABLAS en MySQL con PHPMYADMIN [EJEMPLO]"
+    },
+    {
+        "i": 138,
+        "j": "2cvNYOVbo6o",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 14 Como APLICAR un MODELO y CONTROLADOR (MVC) en PHP"
+    },
+    {
+        "i": 148,
+        "j": "2ETecECjDA0",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 24 MODELO para ACTUALIZAR DATOS de una BASE de DATOS MySQL"
+    },
+    {
+        "i": 86,
+        "j": "2WwW0lbvk3Y",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 35 Como ACTUALIZAR DATOS de BASE de DATOS MySQL (USUARIO Cap.3)"
+    },
+    {
+        "i": 64,
+        "j": "39bGgzIxgKA",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 13 FUNCION PHP para RENOMBRAR FOTOS"
+    },
+    {
+        "i": 116,
+        "j": "48WW06rfFYk",
+        "b": "🐘 CURSO POO con PHP desde CERO - 09 Como HEREDAR o EXTENDER una CLASE UBICADA en OTRO ARCHIVO"
+    },
+    {
+        "i": 47,
+        "j": "4amiUJHLiy4",
+        "b": "🐘 CURSO de PHP desde CERO - 48 EJEMPLO de MANEJO de COOKIES en PHP (CREAR & ELIMINAR)"
+    },
+    {
+        "i": 79,
+        "j": "4n2wnYg7Dpk",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 28 Como HACER un BUSCADOR de DATOS en PHP y MySQL (USUARIO Cap2)"
+    },
+    {
+        "i": 17,
+        "j": "4X1mqyx4AjA",
+        "b": "🐘 CURSO de PHP desde CERO - 18 ESTRUCTURA CONDICIONAL DOBLE (IF-ELSE) en PHP"
+    },
+    {
+        "i": 171,
+        "j": "5oGBsYCcEyE",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 47 Como ELIMINAR un REGISTRO de USUARIO de MySQL desde PHP"
+    },
+    {
+        "i": 77,
+        "j": "5r57Sdp1_8A",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 26 SELECCIONAR y MOSTRAR datos de BASE de DATOS (USUARIO Cap. 3)"
+    },
+    {
+        "i": 103,
+        "j": "5sgSSZQLPdY",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 52 SELECCIONAR y MOSTRAR DATOS en un FORMULARIO desde BD MySQL"
+    },
+    {
+        "i": 38,
+        "j": "5tk2AV1Wsgs",
+        "b": "🐘 CURSO de PHP desde CERO - 39 FORMATEAR NUMERO o CANTIDADES de DINERO en PHP"
+    },
+    {
+        "i": 24,
+        "j": "5YrE254TTeY",
+        "b": "🐘 CURSO de PHP desde CERO - 25 ESTRUCTURA de SELECCION MULTIPLE SWITCH en PHP (EJEMPLOS)"
+    },
+    {
+        "i": 152,
+        "j": "6cGjVaMjQJc",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 28 Como ENVIAR FORMULARIOS con API FETCH AJAX y PHP (part1)"
+    },
+    {
+        "i": 51,
+        "j": "6Y-5FNr-KQs",
+        "b": "🐘 CURSO de PHP desde CERO - 52 EXPRESIONES REGULARES: VALIDAR FORMULARIOS con PHP [preg_match]"
+    },
+    {
+        "i": 147,
+        "j": "7-jU-1T3TsQ",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 23 MODELO para SELECCIONAR DATOS de una BASE de DATOS MySQL"
+    },
+    {
+        "i": 93,
+        "j": "7KzIeTydtOE",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 42 Como HACER un CRUD en PHP MySQL PDO: ACTUALIZAR DATOS"
+    },
+    {
+        "i": 36,
+        "j": "83bo9ddPIaA",
+        "b": "🐘 CURSO de PHP desde CERO - 37 Como CONVERTIR un STRING en ARREGLO (ARRAY) en PHP"
+    },
+    {
+        "i": 122,
+        "j": "8SodXBCEc6A",
+        "b": "🐘 CURSO POO con PHP desde CERO - 15 Que son los TRAITS: ¿Alternativa a HERENCIA MULTIPLE en PHP?"
+    },
+    {
+        "i": 31,
+        "j": "9TZtr-D0Hwc",
+        "b": "🐘 CURSO de PHP desde CERO - 32 INCLUIR  ARCHIVO PHP en PHP con REQUIRE e INCLUDE (DIFERENCIAS)"
+    },
+    {
+        "i": 164,
+        "j": "9UHLSf91bb0",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 40 Como hacer un CIERRE de SESION de USUARIO con PHP [LOGOUT]"
+    },
+    {
+        "i": 60,
+        "j": "A3d-nk0iQEc",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 09 Creando VISTAS de LOGIN, HOME y PAGINA 404"
+    },
+    {
+        "i": 40,
+        "j": "aA65PJBU8dY",
+        "b": "🐘 CURSO de PHP desde CERO - 41 Como OBTENER la FECHA ACTUAL en ESPAÑOL en PHP [FUNCION PROPIA]"
+    },
+    {
+        "i": 67,
+        "j": "AOUtpOXicak",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 16 Creando VISTAS del MODULO de USUARIOS"
+    },
+    {
+        "i": 33,
+        "j": "ATF8PChICb4",
+        "b": "🐘 CURSO de PHP desde CERO - 34 Como INCLUIR y LLAMAR una FUNCION desde otro ARCHIVO PHP"
+    },
+    {
+        "i": 89,
+        "j": "AtN_pfuTiOo",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 38 Como HACER un CRUD en PHP MySQL PDO: SELECCIONAR DATOS"
+    },
+    {
+        "i": 124,
+        "j": "AWOGc_6PLYU",
+        "b": "🐘 CURSO POO con PHP desde CERO - 17 Que es y como FUNCIONA el AUTOLOAD con NAMESPACES en PHP"
+    },
+    {
+        "i": 84,
+        "j": "B-yI-hdlWyk",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 33 Como ACTUALIZAR DATOS de BASE de DATOS MySQL (USUARIO Cap.1)"
+    },
+    {
+        "i": 144,
+        "j": "bby5syTL1p8",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 20 MODELO para EVITAR INYECCION SQL en PHP (SQL Injection)"
+    },
+    {
+        "i": 137,
+        "j": "bhj_ZdQ0GZk",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 13 Como CREAR y NOMBRAR un CONTROLADOR para las VISTAS"
+    },
+    {
+        "i": 2,
+        "j": "BhOTNewtPcE",
+        "b": "🐘 CURSO de PHP desde CERO - 03 Primeros pasos ENTORNO de DESARROLLO PHP (LARAGON)"
+    },
+    {
+        "i": 74,
+        "j": "c_GIDj85GCI",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 23 Como USAR la CONSULTA SELECT en MySQL (WHERE -COUNT -LIMIT)"
+    },
+    {
+        "i": 70,
+        "j": "c6riT40hXUw",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 19 CRUD: Como GUARDAR DATOS en MySQL desde PHP (USUARIO Cap.3)"
+    },
+    {
+        "i": 132,
+        "j": "ChpPJ22koyM",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 08 ARCHIVO de INICIO de SESION en PHP session_start()"
+    },
+    {
+        "i": 35,
+        "j": "Co1nBiHhd9M",
+        "b": "🐘 CURSO de PHP desde CERO - 36 FUNCIONES para CONTAR CARACTERES y PALABRAS de un STRING"
+    },
+    {
+        "i": 23,
+        "j": "ctlOyVIwYE0",
+        "b": "🐘 CURSO de PHP desde CERO - 24 ESTRUCTURAS CONDICIONALES ANIDADAS en PHP (EJEMPLOS)"
+    },
+    {
+        "i": 105,
+        "j": "D-ikZ4M8_9o",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 54 MOSTRAR IMAGEN GUARDADA en el SERVIDOR con PHP y MySQL"
+    },
+    {
+        "i": 120,
+        "j": "D869GCnxWNI",
+        "b": "🐘 CURSO POO con PHP desde CERO - 13 Que son las PROPIEDADES y METODOS ESTATICOS (STATIC) en POO"
+    },
+    {
+        "i": 136,
+        "j": "de8Twf9mhqE",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 12 Como CREAR y NOMBRAR un MODELO para las VISTAS"
+    },
+    {
+        "i": 21,
+        "j": "DEKiMZoVyzo",
+        "b": "🐘 CURSO de PHP desde CERO - 22 ESTRUCTURA CONDICIONAL MULTIPLE (IF-ELSEIF) en PHP"
+    },
+    {
+        "i": 99,
+        "j": "DF8zFR2vl4Q",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 48 SELECCIONAR y MOSTRAR datos de 3 TABLAS con INNER JOIN"
+    },
+    {
+        "i": 68,
+        "j": "DK4Yr2sBzeM",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 17 CRUD: Como GUARDAR DATOS en MySQL desde PHP (USUARIO Cap.1)"
+    },
+    {
+        "i": 178,
+        "j": "dpH3laCYskk",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 54 Creando CONTROLADOR para HACER un BUSCADOR con MVC PHP y MySQL"
+    },
+    {
+        "i": 82,
+        "j": "Eg317lQBXVc",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 31 Como CARGAR DATOS en FORMULARIO desde una BASE de DATOS MySQL"
+    },
+    {
+        "i": 113,
+        "j": "eG4uMmH4E24",
+        "b": "🐘 CURSO POO con PHP desde CERO - 06 Que son los NAMED PARAMETERS o NOMBRES de PARAMETROS PHP 8"
+    },
+    {
+        "i": 172,
+        "j": "eHZQYMHxYpI",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 48 Como MOSTRAR datos en un FORMULARIO PHP desde DB MySQL"
+    },
+    {
+        "i": 142,
+        "j": "EQmcvuGiayM",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 18 Como CONECTARSE a una BASE de DATOS MySQL con PDO y MVC"
+    },
+    {
+        "i": 9,
+        "j": "eQS9qYtNl_U",
+        "b": "🐘 CURSO de PHP desde CERO - 10 OPERADORES ARITMETICOS (MATEMATICOS) en PHP"
+    },
+    {
+        "i": 19,
+        "j": "FvzoVwBJqW8",
+        "b": "🐘 CURSO de PHP desde CERO - 20 ¿Que es y como FUNCIONA el OPERADOR TERNARIO en PHP?"
+    },
+    {
+        "i": 128,
+        "j": "fX_26OxtDCQ",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 04 Como CREAR una BASE de DATOS en MySQL con PHPMyadmin"
+    },
+    {
+        "i": 111,
+        "j": "h_PeqgLZJsI",
+        "b": "🐘 CURSO POO con PHP desde CERO - 04 Que es el METODO CONSTRUCTOR y como se INVOCA o EJECUTA"
+    },
+    {
+        "i": 118,
+        "j": "hQYZNaxWBv4",
+        "b": "🐘 CURSO POO con PHP desde CERO - 11 Que son los MODIFICADORES de ACCESO y ENCAPSULAMIENTO de DATOS"
+    },
+    {
+        "i": 134,
+        "j": "hUT-2bX_bKY",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 10 Como INSTALAR el PLUGIN SweetAlert2 en un PROYECTO WEB"
+    },
+    {
+        "i": 6,
+        "j": "iJtNWDcxkPk",
+        "b": "🐘 CURSO de PHP desde CERO - 07 ¿Que es y como DECLARAR una CONSTANTE en PHP?"
+    },
+    {
+        "i": 176,
+        "j": "ILxhIYix3D4",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 52 Como ACTUALIZAR IMAGENES con PHP & MySQL y GUARDARLA en CARPETA"
+    },
+    {
+        "i": 58,
+        "j": "imbbjYcJ4Qo",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 07 Como INSTALAR FRAMEWORK BULMA CSS en un PROYECTO WEB"
+    },
+    {
+        "i": 143,
+        "j": "INcZXjZzk64",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 19 MODELO para hacer CONSULTAS a BD MySQL con PDO y MVC"
+    },
+    {
+        "i": 52,
+        "j": "iOVXAbI73WM",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 01 Como CREAR una APLICACION WEB en PHP y BASES de DATOS MySQL"
+    },
+    {
+        "i": 5,
+        "j": "IpYKtfX_EYU",
+        "b": "🐘 CURSO de PHP desde CERO - 06 ¿Como DEFINIR & MOSTRAR el VALOR de una VARIABLE en PHP?"
+    },
+    {
+        "i": 158,
+        "j": "Jr_G9m-GAVg",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 34 CONTROLADOR REGISTRAR USUARIOS (p-1): Recibir DATOS POST"
+    },
+    {
+        "i": 41,
+        "j": "jUMcoJ1vDC0",
+        "b": "🐘 CURSO de PHP desde CERO - 42 Como ENCRIPTAR una CONTRASEÑA o CLAVE en PHP (HASH en PHP)"
+    },
+    {
+        "i": 78,
+        "j": "K9BhFdlRQUw",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 27 Como HACER un BUSCADOR de DATOS en PHP y MySQL (USUARIO Cap1)"
+    },
+    {
+        "i": 97,
+        "j": "k9WcAKzYyL4",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 46 Como SUBIR o CARGAR IMAGENES en SERVIDOR con PHP y MySQL"
+    },
+    {
+        "i": 167,
+        "j": "KcWRdka6HhY",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 43 Como MOSTRAR el CONTENIDO de VARIABLES de SESION en HTML"
+    },
+    {
+        "i": 150,
+        "j": "KHIzTYkCGD0",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 26 MODELO para BOTONES de PAGINACION con PHP y MySQL (part1)"
+    },
+    {
+        "i": 8,
+        "j": "ki2gbG_y4-8",
+        "b": "🐘 CURSO de PHP desde CERO - 09 CONCATENACION e INTERPOLACION de VARIABLES en PHP"
+    },
+    {
+        "i": 131,
+        "j": "kmH8W8KvxXA",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 07 Creando la PLANTILLA PHP base del SISTEMA"
+    },
+    {
+        "i": 166,
+        "j": "l_sof6y_1sg",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 42 Como CERRAR la SESION PHP con JavaScript [LOGOUT]"
+    },
+    {
+        "i": 72,
+        "j": "L032hQfjZ9U",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 21 Como DESTRUIR o CERRAR una SESION con PHP"
+    },
+    {
+        "i": 0,
+        "j": "lLsyzBggW_o",
+        "b": "🐘 CURSO de PHP desde CERO - 01 ¿Que es y para que SIRVE el LENGUAJE de programacion PHP?"
+    },
+    {
+        "i": 154,
+        "j": "lQ-XPLy_vc0",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 30 FUNCION para MOSTRAR ALERTAS con SWEET ALERT 2 con PHP"
+    },
+    {
+        "i": 75,
+        "j": "LXHtLkmuYlE",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 24 SELECCIONAR y MOSTRAR datos de BASE de DATOS (USUARIO Cap. 1)"
+    },
+    {
+        "i": 96,
+        "j": "M1RGrJml2Es",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 45 Como GUARDAR DATOS en una BASE de DATOS MySQL con PHP"
+    },
+    {
+        "i": 57,
+        "j": "m9pez1A1DL4",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 06 ESTRUCTURA de una APP WEB de SISTEMA de INVENTARIO"
+    },
+    {
+        "i": 90,
+        "j": "mC3Y7kOZA1A",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 39 Como HACER un CRUD en PHP MySQL PDO: BUSCAR DATOS"
+    },
+    {
+        "i": 85,
+        "j": "mDX-qc6wlNc",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 34 Como ACTUALIZAR DATOS de BASE de DATOS MySQL (USUARIO Cap.2)"
+    },
+    {
+        "i": 100,
+        "j": "MJcGPsrxNTA",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 49 Como PROGRAMAR un BUSCADOR de DATOS  en PHP y MySQL"
+    },
+    {
+        "i": 129,
+        "j": "MkFbaBI0PSQ",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 05 Creando ARCHIVOS para CONFIGURACIONES del SISTEMA"
+    },
+    {
+        "i": 50,
+        "j": "MklfCTtj3w8",
+        "b": "🐘 CURSO de PHP desde CERO - 51 REDIRECCIONAR paginas usando PHP (FUNCION HEADER) y JavaScript"
+    },
+    {
+        "i": 115,
+        "j": "MQoG-RodMXY",
+        "b": "🐘 CURSO POO con PHP desde CERO - 08 Que es la HERENCIA (EXTENDS) en POO [EJEMPLO]"
+    },
+    {
+        "i": 160,
+        "j": "MuGPmU_fxiM",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 36 CONTROLADOR REGISTRAR USUARIOS (p-3): SUBIR IMAGENES a SERVIDOR"
+    },
+    {
+        "i": 133,
+        "j": "MX3QJgacoXQ",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 09 Como INSTALAR el FRAMEWORK BULMA CSS en un PROYECTO WEB"
+    },
+    {
+        "i": 18,
+        "j": "Mywmp88L2VQ",
+        "b": "🐘 CURSO de PHP desde CERO - 19 EJEMPLOS de ESTRUCTURA CONDICIONAL DOBLE (IF-ELSE)"
+    },
+    {
+        "i": 13,
+        "j": "n4ZUwbEx7YA",
+        "b": "🐘 CURSO de PHP desde CERO - 14 OPERADORES LOGICOS en PHP"
+    },
+    {
+        "i": 107,
+        "j": "NI44RxZn8Ns",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 56 Como ACTUALIZAR una IMAGEN o FOTO en PHP y MySQL"
+    },
+    {
+        "i": 125,
+        "j": "NIff0KF_nWk",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 01 Que es un CRUD con PHP y MySQL"
+    },
+    {
+        "i": 112,
+        "j": "NQCb5YDIoTM",
+        "b": "🐘 CURSO POO con PHP desde CERO - 05 Como LLAMAR a UNA CLASE UBICADA en OTRO ARCHIVO [EJEMPLO]"
+    },
+    {
+        "i": 87,
+        "j": "NUuiTxzKyA0",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 36 Creando VISTAS del MODULO de CATEGORIAS"
+    },
+    {
+        "i": 106,
+        "j": "NweMq7QLjfY",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 55 ELIMINAR IMAGENES o ARCHIVOS del SERVIDOR con PHP y MySQL"
+    },
+    {
+        "i": 63,
+        "j": "ny_osyTXlGM",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 12 FUNCION PHP para EVITAR INYECCION SQL"
+    },
+    {
+        "i": 163,
+        "j": "OdEtj5VZWQA",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 39 Como CREAR o PROGRAMAR un INICIO de SESION [LOGIN] en PHP (p-2)"
+    },
+    {
+        "i": 29,
+        "j": "oK-AvqP_3QQ",
+        "b": "🐘 CURSO de PHP desde CERO - 30 Como USAR el CICLO FOREACH en PHP (EJEMPLOS)"
+    },
+    {
+        "i": 48,
+        "j": "oLV3z--ZzRM",
+        "b": "🐘 CURSO de PHP desde CERO - 49 MANEJO de SESIONES en PHP con VARIABLES de $_SESSION (EJEMPLO)"
+    },
+    {
+        "i": 159,
+        "j": "OyN1LSEAr9Q",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 35 CONTROLADOR REGISTRAR USUARIOS (p-2): Validar DATOS POST"
+    },
+    {
+        "i": 180,
+        "j": "oyy7jdhs_hg",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 56 VISTA para IMPLEMENTAR un BUSCADOR con MVC PHP y MySQL"
+    },
+    {
+        "i": 71,
+        "j": "oZrwvdh1lnY",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 20 CREAR SISTEMA de INICIO de SESION (LOGIN) usando PHP y MySQL"
+    },
+    {
+        "i": 114,
+        "j": "p2OuVkuylFI",
+        "b": "🐘 CURSO POO con PHP desde CERO - 07 CONSTRUCTOR PROPERTY PROMOTION en PHP 8 [EJEMPLO]"
+    },
+    {
+        "i": 83,
+        "j": "P5e28lHujoY",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 32 Como UTILIZAR consulta UPDATE en MySQL para ACTUALIZAR DATOS"
+    },
+    {
+        "i": 34,
+        "j": "pgx1dzlg4tQ",
+        "b": "🐘 CURSO de PHP desde CERO - 35 FUNCIONES para FORMATEAR STRINGS a MAYUSCULAS & MINUSCULAS"
+    },
+    {
+        "i": 94,
+        "j": "pJnQ3DXVJoU",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 43 Creando VISTAS del MODULO de PRODUCTOS"
+    },
+    {
+        "i": 55,
+        "j": "pkZ87yct44A",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 04 Como RELACIONAR TABLAS en MySQL con PHPMYADMIN [EJEMPLO]"
+    },
+    {
+        "i": 149,
+        "j": "PQeTJFgvJoE",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 25 MODELO para ELIMINAR DATOS de una BASE de DATOS MySQL"
+    },
+    {
+        "i": 62,
+        "j": "pvIcNCYQKjQ",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 11 FUNCION para VALIDAR FORMULARIOS con EXPRESIONES REGULARES"
+    },
+    {
+        "i": 127,
+        "j": "Q54W9tZV8WI",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 03 Que es HTACCESS y como CONFIGURAR para URL amigables"
+    },
+    {
+        "i": 66,
+        "j": "q6cwLu8U5uw",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 15 COMO ENVIAR DATOS de FORMULARIOS con AJAX y JAVASCRIPT"
+    },
+    {
+        "i": 130,
+        "j": "qGv5dlWoKKk",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 06 Como FUNCIONA el AUTOLOAD con NAMESPACES en PHP"
+    },
+    {
+        "i": 177,
+        "j": "Qj66LiNZv0U",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 53 Como BORRAR o ELIMINAR una IMAGEN del SERVIDOR con PHP y MySQL"
+    },
+    {
+        "i": 165,
+        "j": "qjygpAjyeUw",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 41 RESTRINGIR o BLOQUEAR acceso al SISTEMA a USUARIOS NO LOGUEADOS"
+    },
+    {
+        "i": 3,
+        "j": "QnqzByABlkU",
+        "b": "🐘 CURSO de PHP desde CERO - 04 ¿Como HACER COMENTARIOS en PHP?"
+    },
+    {
+        "i": 161,
+        "j": "Qs2H1pb1BeA",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 37 CONTROLADOR REGISTRAR USUARIOS (p-4): INSERTAR DATOS en MySQL"
+    },
+    {
+        "i": 162,
+        "j": "R0L7GbkutA4",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 38 Como CREAR o PROGRAMAR un INICIO de SESION [LOGIN] en PHP (p-1)"
+    },
+    {
+        "i": 44,
+        "j": "R62DdvsGxw8",
+        "b": "🐘 CURSO de PHP desde CERO - 45 SABER si una VARIABLE esta VACIA o DEFINIDA con isset() | empty()"
+    },
+    {
+        "i": 95,
+        "j": "REHwQVCtaN8",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 44 MOSTRAR DATOS en un CAMPO SELECT desde BD MySQL con PHP"
+    },
+    {
+        "i": 39,
+        "j": "rlxqbzqL-e0",
+        "b": "🐘 CURSO de PHP desde CERO - 40 Como OBTENER la HORA y FECHA ACTUAL en PHP"
+    },
+    {
+        "i": 175,
+        "j": "RX5pESvne1A",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 51 Como MOSTRAR una IMAGEN en PHP desde BASE de DATOS MySQL"
+    },
+    {
+        "i": 81,
+        "j": "RyYTtywL8XA",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 30 ELIMINAR REGISTROS de BASE de DATOS MySQL con PHP (USUARIO)"
+    },
+    {
+        "i": 135,
+        "j": "rzXWjGDhrTU",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 11 Como CREAR un MODELO y CONTROLADOR para las VISTAS"
+    },
+    {
+        "i": 69,
+        "j": "s2847lvsD74",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 18 CRUD: Como GUARDAR DATOS en MySQL desde PHP (USUARIO Cap.2)"
+    },
+    {
+        "i": 146,
+        "j": "S3WMlngmwks",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 22 MODELO para GUARDAR DATOS en una BASE de DATOS MySQL"
+    },
+    {
+        "i": 45,
+        "j": "T4kFK9M3XYY",
+        "b": "🐘 CURSO de PHP desde CERO - 46 SUBIR o ENVIAR ARCHIVOS a SERVIDOR PHP con FORMULARIOS"
+    },
+    {
+        "i": 27,
+        "j": "TM4AssnhfKQ",
+        "b": "🐘 CURSO de PHP desde CERO - 28 Como USAR el CICLO DO WHILE en PHP  (EJEMPLOS)"
+    },
+    {
+        "i": 141,
+        "j": "tnQ0QC4EddU",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 17 Que es un MODELO PRINCIPAL en MVC con PHP"
+    },
+    {
+        "i": 4,
+        "j": "Tq3zLl00s3M",
+        "b": "🐘 CURSO de PHP desde CERO - 05 ¿Cuales son los TIPOS de DATOS en PHP?"
+    },
+    {
+        "i": 65,
+        "j": "uBJnz5yAin0",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 14 FUNCION PHP para GENERAR PAGINADOR de TABLAS"
+    },
+    {
+        "i": 155,
+        "j": "UbXdUXo-4KU",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 31 Crear VISTAS (VIEWS) de MODULO de USUARIOS en PHP y MVC"
+    },
+    {
+        "i": 20,
+        "j": "UPdBmqmd-3k",
+        "b": "🐘 CURSO de PHP desde CERO - 21 EJEMPLO de OPERADOR TERNARIO en PHP"
+    },
+    {
+        "i": 108,
+        "j": "UyNZxmrouso",
+        "b": "🐘 CURSO POO con PHP desde CERO - 01 ¿Que es la PROGRAMACION ORIENTADA a OBJETOS en PHP?"
+    },
+    {
+        "i": 145,
+        "j": "vJksw123plg",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 21 MODELO para VALIDAR FORMULARIOS con EXPRESIONES REGULARES"
+    },
+    {
+        "i": 7,
+        "j": "VOGeWOKAnE4",
+        "b": "🐘 CURSO de PHP desde CERO - 08 ¿Que es un ARRAY (ARREGLO) y como se DEFINE en PHP?"
+    },
+    {
+        "i": 182,
+        "j": "VPc61kbHfLY",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 58 Como ELIMINAR la BUSQUEDA en un BUSCADOR en MVC PHP y MySQL"
+    },
+    {
+        "i": 91,
+        "j": "VRC5nFU709s",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 40 Como HACER un CRUD en PHP MySQL PDO: ELIMINAR DATOS"
+    },
+    {
+        "i": 30,
+        "j": "wD66uzr7YHQ",
+        "b": "🐘 CURSO de PHP desde CERO - 31 Como SALIR o DETENER un CICLO en PHP [BREAK & CONTINUE]"
+    },
+    {
+        "i": 25,
+        "j": "wfiP9fUdxhY",
+        "b": "🐘 CURSO de PHP desde CERO - 26 ESTRUCTURA de SELECCION MULTIPLE MATCH en PHP (EJEMPLOS)"
+    },
+    {
+        "i": 16,
+        "j": "wLNflBoLJmM",
+        "b": "🐘 CURSO de PHP desde CERO - 17 EJEMPLOS de ESTRUCTURA CONDICIONAL SIMPLE (IF)"
+    },
+    {
+        "i": 117,
+        "j": "WojCeca-DQg",
+        "b": "🐘 CURSO POO con PHP desde CERO - 10 Que es POLIMORFISMO en POO con PHP [EJEMPLO]"
+    },
+    {
+        "i": 98,
+        "j": "wQLp5WPvESw",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 47 Como usar INNER JOIN en MySQL para UNIR 2 o mas TABLAS"
+    },
+    {
+        "i": 168,
+        "j": "x5AZwpvTr_M",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 44 Como HACER una PAGINACION en PHP MVC [LISTAR USUARIOS] (p-1)"
+    },
+    {
+        "i": 32,
+        "j": "x5bFLJdvORk",
+        "b": "🐘 CURSO de PHP desde CERO - 33 Como CREAR y USAR FUNCIONES PROPIAS en PHP (con PARAMETROS)"
+    },
+    {
+        "i": 12,
+        "j": "X5VeBot2sGA",
+        "b": "🐘 CURSO de PHP desde CERO - 13 OPERADORES de COMPARACION en PHP"
+    },
+    {
+        "i": 181,
+        "j": "XbZ4Uom128g",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 57 Como INICIAR una BUSQUEDA en un BUSCADOR con MVC PHP y MySQL"
+    },
+    {
+        "i": 22,
+        "j": "XdOuJl6RIPc",
+        "b": "🐘 CURSO de PHP desde CERO - 23 EJEMPLOS ESTRUCTURA CONDICIONAL MULTIPLE (IF-ELSEIF) en PHP"
+    },
+    {
+        "i": 156,
+        "j": "xoTcpWumDbA",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 32 Como CREAR y NOMBRAR un CONTROLADOR para USUARIOS"
+    },
+    {
+        "i": 170,
+        "j": "XPlN5mouxEM",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 46 Como MOSTRAR una LISTA de USUARIOS en PHP y MVC"
+    },
+    {
+        "i": 169,
+        "j": "xvZEMjy4KSk",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 45 Como HACER una PAGINACION en PHP MVC [LISTAR USUARIOS] (p-2)"
+    },
+    {
+        "i": 92,
+        "j": "Xx6EwrWntog",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 41 Como HACER un CRUD en PHP MySQL PDO: CARGAR DATOS FORMULARIO"
+    },
+    {
+        "i": 153,
+        "j": "Y2GNqh2iD10",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 29 Como ENVIAR FORMULARIOS con API FETCH AJAX y PHP (part2)"
+    },
+    {
+        "i": 26,
+        "j": "Y4qTAU25YrM",
+        "b": "🐘 CURSO de PHP desde CERO - 27 Como USAR el CICLO WHILE en PHP (EJEMPLOS)"
+    },
+    {
+        "i": 104,
+        "j": "Ya3XLwRIngU",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 53 Como ACTUALIZAR DATOS o REGISTROS de BASE de DATOS MySQL"
+    },
+    {
+        "i": 119,
+        "j": "yCN10UCzLvw",
+        "b": "🐘 CURSO POO con PHP desde CERO - 12 Que es y que HACE un GETTER y SETTER en POO [EJEMPLO]"
+    },
+    {
+        "i": 49,
+        "j": "YFjsxCXl7Tk",
+        "b": "🐘 CURSO de PHP desde CERO - 50 DIFERENCIA entre COOKIES y SESIONES en PHP"
+    },
+    {
+        "i": 174,
+        "j": "YjbeMG3J9hY",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 50 Como ACTUALIZAR los DATOS de una tabla en MySQL (p-2)"
+    },
+    {
+        "i": 56,
+        "j": "yK1ODvRwgHY",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 05 CREAR COPIAS DE SEGURIDAD (BACKUP) en MySQL con PHPMYADMIN"
+    },
+    {
+        "i": 139,
+        "j": "ylYMT6APGj4",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 15 Como CREAR una BARRA de NAVEGACION con BULMA CSS"
+    },
+    {
+        "i": 1,
+        "j": "YqSB8WSlb2o",
+        "b": "🐘 CURSO de PHP desde CERO - 02 ¿Que se NECESITA para PROGRAMAR en PHP? (WINDOWS)"
+    },
+    {
+        "i": 10,
+        "j": "YsXlJsfVy1g",
+        "b": "🐘 CURSO de PHP desde CERO - 11 OPERADORES de ASIGNACION en PHP"
+    },
+    {
+        "i": 14,
+        "j": "z5WbpLD3myA",
+        "b": "🐘 CURSO de PHP desde CERO - 15 OPERADORES de INCREMENTO & DECREMENTO en PHP"
+    },
+    {
+        "i": 126,
+        "j": "ZcEIG97YQio",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 02 ESTRUCTURA de un PROYECTO web MVC con PHP"
+    },
+    {
+        "i": 37,
+        "j": "ZidFU2EeaJs",
+        "b": "🐘 CURSO de PHP desde CERO - 38 FUNCIONES MATEMATICAS en PHP"
+    },
+    {
+        "i": 76,
+        "j": "ZJofTBADNMM",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 25 SELECCIONAR y MOSTRAR datos de BASE de DATOS (USUARIO Cap. 2)"
+    },
+    {
+        "i": 151,
+        "j": "ZrRftu2W74Q",
+        "b": "🔥CRUD en PHP y MySQL POO MVC JS - 27 MODELO para BOTONES de PAGINACION con PHP y MySQL (part2)"
+    },
+    {
+        "i": 101,
+        "j": "ZW2mnbbz-HI",
+        "b": "🐬 CURSO de PHP y MySQL desde CERO - 50 Como ELIMINAR REGISTROS e IMAGENES de BD MySQL con PHP"
+    }
+]
