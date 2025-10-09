@@ -120,14 +120,39 @@
         "b": "🔥 CURSO de CSS - 26 ¿Que es el MODELO de CAJA en CSS? (BOX MODEL)"
     },
     {
+        "i": 79,
+        "j": "cwKpaomanns",
+        "b": "🔥 CURSO de CSS - 80 ¿Como APLICARLE un filtro SEPIA a una IMAGEN en CSS?"
+    },
+    {
+        "i": 78,
+        "j": "Dv8jeKna_1M",
+        "b": "🔥 CURSO de CSS - 79 ¿Como darle filtro SATURAR a una IMAGEN en CSS?"
+    },
+    {
+        "i": 71,
+        "j": "e2FXKRO0fYA",
+        "b": "🔥 CURSO de CSS - 72 Propiedad OPACITY para CONTROLAR TRANSPARENCIA en CSS"
+    },
+    {
         "i": 66,
         "j": "E2PmaTw5Oso",
         "b": "🔥 CURSO de CSS - 67 ¿Como poner SANGRIA o INDENTACION con text-indent en CSS?"
     },
     {
+        "i": 80,
+        "j": "eCEBkBEPXek",
+        "b": "🔥 CURSO de CSS - 81 ¿Como INVERTIR los COLORES de una IMAGEN con CSS?"
+    },
+    {
         "i": 50,
         "j": "Ev7eDDeOOao",
         "b": "🔥 CURSO de CSS - 51 ¿Que es y como se USA un DEGRADADO de COLOR CONICO?"
+    },
+    {
+        "i": 77,
+        "j": "EwFbTv6Hzgg",
+        "b": "🔥 CURSO de CSS - 78 ¿Como darle TRANSPARENCIA a una IMAGEN con CSS?"
     },
     {
         "i": 62,
@@ -200,6 +225,11 @@
         "b": "🔥 CURSO de CSS - 09 ¿Que es un SELECTOR de ID en CSS?"
     },
     {
+        "i": 75,
+        "j": "Ke1mrNjRDMw",
+        "b": "🔥 CURSO de CSS - 76 ¿Como PONER en ESCALA de GRISES una IMAGEN en CSS?"
+    },
+    {
         "i": 16,
         "j": "KKQDpfxG2aw",
         "b": "🔥 CURSO de CSS - 17 ¿Como COMBINAR SELECTORES en CSS?"
@@ -213,6 +243,11 @@
         "i": 42,
         "j": "lBAA1AnhSLQ",
         "b": "🔥 CURSO de CSS - 43 ¿Como POSICIONAR una IMAGEN de FONDO con CSS?"
+    },
+    {
+        "i": 82,
+        "j": "M-0u5RdjRQs",
+        "b": "🔥 CURSO de CSS - 83 ¿Como DIFUMINAR la IMAGEN de FONDO con backdrop-filter en CSS?"
     },
     {
         "i": 20,
@@ -240,9 +275,24 @@
         "b": "🔥 CURSO de CSS - 60 ¿Como CAMBIAR la ALTURA de LINEA de un TEXTO en CSS?"
     },
     {
+        "i": 76,
+        "j": "nr7ZkFYeui4",
+        "b": "🔥 CURSO de CSS - 77 ¿Como PUEDO CONTRASTAR una IMAGEN en CSS?"
+    },
+    {
         "i": 33,
         "j": "OFCHS5nJNeQ",
         "b": "🔥 CURSO de CSS - 34 ¿Como PONER un COLOR por PALABRA CLAVE en CSS?"
+    },
+    {
+        "i": 73,
+        "j": "OjTV7hhORrQ",
+        "b": "🔥 CURSO de CSS - 74 ¿Como ACLARAR o dar BRILLO una IMAGEN en CSS?"
+    },
+    {
+        "i": 81,
+        "j": "oKNrWHfRxfo",
+        "b": "🔥 CURSO de CSS - 82 ¿Como ROTAR el TONO de COLOR de una IMAGEN con CSS?"
     },
     {
         "i": 21,
@@ -290,6 +340,16 @@
         "b": "🔥 CURSO de CSS - 07 ¿Que es la CASCADA en CSS y como FUNCIONA?"
     },
     {
+        "i": 72,
+        "j": "uBsy1j-sJ4A",
+        "b": "🔥 CURSO de CSS - 73 ¿Como APLICAR un FILTRO de SOMBRA en una IMAGEN PNG en CSS?"
+    },
+    {
+        "i": 83,
+        "j": "UjkLqGsbgw8",
+        "b": "🔥 CURSO de CSS - 84 ¿Cual es la DIFERENCIA entre OPACITY y VISIBILITY en CSS?"
+    },
+    {
         "i": 14,
         "j": "UVqZIbRhWpA",
         "b": "🔥 CURSO de CSS - 15 ¿Cual es el SELECTOR de HERMANOS en CSS? (General y Adyacente)"
@@ -298,6 +358,11 @@
         "i": 65,
         "j": "Vb9kUEkugvg",
         "b": "🔥 CURSO de CSS - 66 Convertir LETRAS a MAYUSCULAS o MINUSCULAS con text-transform"
+    },
+    {
+        "i": 74,
+        "j": "VYOQYDdyN_M",
+        "b": "🔥 CURSO de CSS - 75 ¿Como DIFUMINAR o DESENFOCAR una IMAGEN en CSS?"
     },
     {
         "i": 54,
