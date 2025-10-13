@@ -1,0 +1,262 @@
+[
+    {
+        "i": 13,
+        "j": "_7OkRiwL01U",
+        "b": "💡 IF Arduino Como Usar 【 2021 】 - Capítulo #13🔋"
+    },
+    {
+        "i": 38,
+        "j": "-pvTlcFQ2Wg",
+        "b": "💡 Aumentar PINES arduino con Shift Register 74HC595 【 2021 】 - Capítulo #37🔋"
+    },
+    {
+        "i": 45,
+        "j": "2eaUjhWL06s",
+        "b": "Calculadora Arduino con LCD 16x2  💡【 2021 】 - Capítulo #44🔋"
+    },
+    {
+        "i": 32,
+        "j": "2HEz5E_qnRM",
+        "b": "💡 Usando SERVOMOTOR en proyecto simple de Arduino 【 2021 】 - Capítulo #31🔋"
+    },
+    {
+        "i": 22,
+        "j": "4DgSj025Q4E",
+        "b": "💡  Cómo crear COLORES con las luces LED RGB Arduino desde Cero 【 2021 】- Capítulo #22🔋"
+    },
+    {
+        "i": 14,
+        "j": "53a3CDrCYfM",
+        "b": "💡 Usar un POTENCIÓMETRO para Controlar un LED con Arduino 【 2021 】 - Capítulo #14🔋"
+    },
+    {
+        "i": 26,
+        "j": "5elmpAmnC2M",
+        "b": "💡 Cómo conectar una FOTORESISTENCIA a Arduino 【 2021 】 - Capítulo #25🔋"
+    },
+    {
+        "i": 37,
+        "j": "6cgpPWlSjig",
+        "b": "💡  Controlar MOTOR DC con JOYSTICK Arduino 【 2021 】 - Capítulo #36🔋"
+    },
+    {
+        "i": 5,
+        "j": "6DQk670nm58",
+        "b": "💡 Cómo convertir numeros BINARIOS a DECIMALES y viceversa 【 2021 】 - Capítulo #05🔋"
+    },
+    {
+        "i": 18,
+        "j": "9EGDFF_f4EA",
+        "b": "💡  LEER Valores desde el MONITOR Serial Arduino desde Cero 【 2021 】 - Capítulo #18🔋"
+    },
+    {
+        "i": 7,
+        "j": "aA5ZpFySimw",
+        "b": "💡 AnalogWrite ARDUINO español desde CERO 【 2021 】 - Capítulo #07🔋"
+    },
+    {
+        "i": 20,
+        "j": "aHbzsgPQZCM",
+        "b": "💡  Condicionales ELSE IF y SWITCH Arduino desde Cero 【 2021 】- Capítulo #20🔋"
+    },
+    {
+        "i": 30,
+        "j": "ajzHQpJDiRw",
+        "b": "💡 Jugando con los COMPONENTES que ya eres un(a) Expert@ 【 2021 】 - Capítulo #29🔋"
+    },
+    {
+        "i": 50,
+        "j": "AmhJ7Yrl6xk",
+        "b": "Encendiendo y Apagando un LED con el Sensor Infrarrojo y Arduino  💡【 2021 】 - Capítulo #49🔋"
+    },
+    {
+        "i": 10,
+        "j": "AmmH7n68w7Y",
+        "b": "💡 AnalogRead ARDUINO Español 【 2021 】Hagamos un Voltímetro! - Capítulo #10🔋"
+    },
+    {
+        "i": 16,
+        "j": "AuXUKNN9byI",
+        "b": "💡  Ciclo FOR en Arduino. Explicado a ULTRA Detalle Parte 2 【 2021 】 - Capítulo #16🔋"
+    },
+    {
+        "i": 2,
+        "j": "EEKMPT_YcTI",
+        "b": "💡Cómo PROGRAMAR arduino UNO desde CERO【 2021 】 - Capítulo #02🔋"
+    },
+    {
+        "i": 39,
+        "j": "efDobXZnHPU",
+        "b": "💡 Cambios Lógicos de BITS con Arduino (Logical Shifts)【 2021 】 - Capítulo #38🔋"
+    },
+    {
+        "i": 31,
+        "j": "GUhPrO1BEJ0",
+        "b": "💡 Cómo Usar SERVOMOTOR Arduino 【 2021 】 - Capítulo #30🔋"
+    },
+    {
+        "i": 0,
+        "j": "gx5yFvVDUsY",
+        "b": "Tutorial Arduino 2021. Trailer del CURSO desde cero en español - Clase 00"
+    },
+    {
+        "i": 15,
+        "j": "HgbCAUkthQE",
+        "b": "💡  Ciclo FOR en Arduino. Secuencia de LED 【 2021 】 - Capítulo #15🔋"
+    },
+    {
+        "i": 46,
+        "j": "huIjJV2B8sA",
+        "b": "Sensor de Temperatura y Humedad Arduino DHT11  💡【 2021 】 - Capítulo #45🔋"
+    },
+    {
+        "i": 12,
+        "j": "k5wGwCEf__g",
+        "b": "💡 Uso de un POTENCIÓMETRO o Resistencia Variable con ARDUINO desde Cero【 2021 】 - Capítulo #12🔋"
+    },
+    {
+        "i": 47,
+        "j": "k9eQEdiEb30",
+        "b": "Sensor de Temperatura y Humedad Arduino DHT11 con Pantalla LCD  💡【 2021 】 - Capítulo #46🔋"
+    },
+    {
+        "i": 36,
+        "j": "KBHJZvTkvNk",
+        "b": "💡 Control de MOTORES DC con Arduino y el chip L293D 【 2021 】 - Capítulo #35🔋"
+    },
+    {
+        "i": 41,
+        "j": "KJaL4YYFNSk",
+        "b": "💡 Display 7 Segmentos Arduino 74HC595 (Shift Register)【 2021 】 - Capítulo #40🔋"
+    },
+    {
+        "i": 33,
+        "j": "mIhkmMHG84w",
+        "b": "💡 Usando Botones PullUp SIN RESISTENCIAS en Arduino 【 2021 】 - Capítulo #32🔋"
+    },
+    {
+        "i": 23,
+        "j": "MJ-YsJSiA-U",
+        "b": "💡 Cómo conectar un Zumbador Activo a Arduino (Active Buzzer)  【 2021 】 - Capítulo #23🔋"
+    },
+    {
+        "i": 27,
+        "j": "mRsJYZmyXjY",
+        "b": "💡 Cómo calcular PUNTO PENDIENTE para Arduino 【 2021 】 - Capítulo #26🔋"
+    },
+    {
+        "i": 8,
+        "j": "myUtMtNN0Q4",
+        "b": "💡 Salida PWM ARDUINO Español desde CERO. Explicación Pulse Width Modulation【 2021 】 - Capítulo #08🔋"
+    },
+    {
+        "i": 34,
+        "j": "MzW4e_kc4FM",
+        "b": "💡 Cómo Programar un JOYSTICK en Arduino 【 2021 】 - Capítulo #33🔋"
+    },
+    {
+        "i": 11,
+        "j": "N4qfraudUK8",
+        "b": "💡 MONITOR SERIAL Arduino Español desde Cero【 2021 】 - Capítulo #11🔋"
+    },
+    {
+        "i": 43,
+        "j": "O5g3lEoMPzU",
+        "b": "💡Calculando la Velocidad del Sonido con Arduino【 2021 】 - Capítulo #42🔋"
+    },
+    {
+        "i": 48,
+        "j": "OVYorevVNpE",
+        "b": "Portabilizando nuestros proyectos de Arduino  💡【 2021 】 - Capítulo #47🔋"
+    },
+    {
+        "i": 25,
+        "j": "OZGY2FKzWNM",
+        "b": "💡 ¿Cómo saber si un LED RGB es de CÁTODO común o ÁNODO común? con Arduino 【BONUS 】🔋"
+    },
+    {
+        "i": 24,
+        "j": "PfXZ3ptiGVA",
+        "b": "💡 Cómo conectar un Zumbador Pasivo a Arduino (Passive Buzzer)  【 2021 】 - Capítulo #24🔋"
+    },
+    {
+        "i": 1,
+        "j": "QAXeJ2w5wlc",
+        "b": "💡CURSO de ARDUINO desde cero en español 【 2021 】 - Capítulo #01🔋"
+    },
+    {
+        "i": 51,
+        "j": "qgYrGFI-3EY",
+        "b": "Controlando LED RGB con el Sensor Infrarrojo y Arduino  💡【 2021 】 - Capítulo #50🔋"
+    },
+    {
+        "i": 4,
+        "j": "r8sk5JzUWLQ",
+        "b": "💡VARIABLES Enteras en Arduino con Código MORSE【 2021 】 - Capítulo #04🔋"
+    },
+    {
+        "i": 28,
+        "j": "rzheIn6dhKY",
+        "b": "💡 Resistencias PULL UP y PULL DOWN  con Arduino 【 2021 】 - Capítulo #27🔋"
+    },
+    {
+        "i": 9,
+        "j": "SjQyThR_WDc",
+        "b": "💡 Ley de OHM Explicada con ARDUINO 【 2021 】 - Capítulo #09🔋"
+    },
+    {
+        "i": 29,
+        "j": "tgWNMA28wXw",
+        "b": "💡 Cómo hacer un Botón INTERRUPTOR (Toggle Button)  con Arduino 【 2021 】 - Capítulo #28🔋"
+    },
+    {
+        "i": 21,
+        "j": "TINPALjszm8",
+        "b": "💡  Controlando un LED RGB de Cátodo Común con Arduino 【 2021 】 - Capítulo #21🔋"
+    },
+    {
+        "i": 17,
+        "j": "U-xSOzldo6s",
+        "b": "💡  Ciclo WHILE Arduino Ejemplos 【 2021 】 - Capítulo #17🔋"
+    },
+    {
+        "i": 19,
+        "j": "VL6R30tg9qQ",
+        "b": "💡  LEER Monitor Serial en Arduino - Proyecto Básico 【 2021 】 - Capítulo #19🔋"
+    },
+    {
+        "i": 49,
+        "j": "w7sYxH1W1GE",
+        "b": "Usando el Sensor Infrarrojo con Arduino  💡【 2021 】 - Capítulo #48🔋"
+    },
+    {
+        "i": 42,
+        "j": "xFZCpR-5xg4",
+        "b": "💡Cómo Usar Sensor UltraSónico HC-SR04 en Arduino【 2021 】 - Capítulo #41🔋"
+    },
+    {
+        "i": 35,
+        "j": "XixNg9DGxgo",
+        "b": "💡 Controlar Motor PASO A PASO con Arduino (Stepper Motor) 【 2021 】 - Capítulo #34🔋"
+    },
+    {
+        "i": 3,
+        "j": "ycXI2E7iArY",
+        "b": "💡 Cómo usar un PROTOBOARD Arduino desde CERO【 2021 】 - Capítulo #03🔋"
+    },
+    {
+        "i": 6,
+        "j": "yOEjuyvK62k",
+        "b": "💡 Contador BINARIO de 4 bits con ARDUINO desde cero 【 2021 】 - Capítulo #06🔋"
+    },
+    {
+        "i": 44,
+        "j": "YTZxYgRMDaI",
+        "b": "Cómo Conectar una Pantalla LCD 16x2 a Arduino 💡【 2021 】 - Capítulo #43🔋"
+    },
+    {
+        "i": 40,
+        "j": "YWBR44uSRKM",
+        "b": "💡 Cambios Lógicos de BITS con Arduino (Circular Shifts y Bit Flip)【 2021 】 - Capítulo #39🔋"
+    }
+]
