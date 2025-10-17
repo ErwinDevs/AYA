@@ -2,151 +2,181 @@
     {
         "i": 5,
         "j": "_K5X4DfOAVE",
-        "b": "Curso Spring Boot #6 – Desarrollo de una aplicación para verificar palíndromos (Practica propuesta)"
+        "b": "Curso Spring Boot #6 – Desarrollo de una aplicación para verificar palíndromos (Practica propuesta)",
+        "h": "20240305002457"
     },
     {
         "i": 6,
         "j": "16hTP5we0_o",
-        "b": "Curso Spring Boot #7 – ¿Qué son los Microservicios?"
+        "b": "Curso Spring Boot #7 – ¿Qué son los Microservicios?",
+        "h": "20240315040359"
     },
     {
         "i": 12,
         "j": "22kKypD1OAE",
-        "b": "Curso Spring Boot #13 – La Anotación @PutMapping (Modificación de Recursos)"
+        "b": "Curso Spring Boot #13 – La Anotación @PutMapping (Modificación de Recursos)",
+        "h": "20240607213840"
     },
     {
         "i": 14,
         "j": "2hQz4zpWUvI",
-        "b": "Curso Spring Boot #15 – La Anotación @PatchMapping (Modificación Parcial de Recursos)"
+        "b": "Curso Spring Boot #15 – La Anotación @PatchMapping (Modificación Parcial de Recursos)",
+        "h": "20240607220836"
     },
     {
         "i": 4,
         "j": "319Vm8BHCJk",
-        "b": "Curso Spring Boot #5 – La anotación @PathVariable"
+        "b": "Curso Spring Boot #5 – La anotación @PathVariable",
+        "h": "20240304233436"
     },
     {
         "i": 3,
         "j": "3mEVNxcBOaA",
-        "b": "Curso Spring Boot #4 – Las anotaciones @RestController y @GetMapping"
+        "b": "Curso Spring Boot #4 – Las anotaciones @RestController y @GetMapping",
+        "h": "20240304222921"
     },
     {
         "i": 29,
         "j": "3SEguz__6V4",
-        "b": "Curso Spring Boot #30 – Externalización de Configuración con @ConfigurationProperties"
+        "b": "Curso Spring Boot #30 – Externalización de Configuración con @ConfigurationProperties",
+        "h": "20241101200226"
     },
     {
         "i": 10,
         "j": "54EOU85_f1U",
-        "b": "Curso Spring Boot #11 – Enrutamiento de URL en Spring Boot"
+        "b": "Curso Spring Boot #11 – Enrutamiento de URL en Spring Boot",
+        "h": "20240327035341"
     },
     {
         "i": 26,
         "j": "9WgtXvH6YvY",
-        "b": "Curso Spring Boot #27 – Inyección de Dependencias con @Qualifier"
+        "b": "Curso Spring Boot #27 – Inyección de Dependencias con @Qualifier",
+        "h": "20240911212217"
     },
     {
         "i": 0,
         "j": "BRtPNl0aBkA",
-        "b": "Curso Spring Boot #1 – Introducción a Spring Framework y Spring Boot"
+        "b": "Curso Spring Boot #1 – Introducción a Spring Framework y Spring Boot",
+        "h": "20240229155648"
     },
     {
         "i": 25,
         "j": "Bs32v62NRUo",
-        "b": "Curso Spring Boot #26 – Inyección de Dependencias con Múltiples Beans (@Primary)"
+        "b": "Curso Spring Boot #26 – Inyección de Dependencias con Múltiples Beans (@Primary)",
+        "h": "20240911211047"
     },
     {
         "i": 22,
         "j": "d1qlZp4ylSY",
-        "b": "Curso Spring Boot #23 – Capa de Servicios: Creación de un Servicio (Mi primer servicio)"
+        "b": "Curso Spring Boot #23 – Capa de Servicios: Creación de un Servicio (Mi primer servicio)",
+        "h": "20240808014052"
     },
     {
         "i": 9,
         "j": "EC8RKM80kq0",
-        "b": "Curso Spring Boot #10 – Implementación de una API REST"
+        "b": "Curso Spring Boot #10 – Implementación de una API REST",
+        "h": "20240322082910"
     },
     {
         "i": 15,
         "j": "FIAuuDV8vgU",
-        "b": "Curso Spring Boot #16 – La Anotación @RequestMapping | Unificación de URL´s"
+        "b": "Curso Spring Boot #16 – La Anotación @RequestMapping | Unificación de URL´s",
+        "h": "20240607221942"
     },
     {
         "i": 18,
         "j": "GUrdV1L1fdk",
-        "b": "Curso Spring Boot #19 – Implementación de La Clase ResponseEntity (Respuestas HTTP)"
+        "b": "Curso Spring Boot #19 – Implementación de La Clase ResponseEntity (Respuestas HTTP)",
+        "h": "20240618081133"
     },
     {
         "i": 8,
         "j": "kcd61eB_SKA",
-        "b": "Curso Spring Boot #9 – ¿Qué es una API? y qué diferencia a una API REST"
+        "b": "Curso Spring Boot #9 – ¿Qué es una API? y qué diferencia a una API REST",
+        "h": "20240321232806"
     },
     {
         "i": 20,
         "j": "khsNACoghWE",
-        "b": "Curso Spring Boot #21 – Cómo Crear y Consumir Recursos de Forma Eficiente (Solicitudes POST)"
+        "b": "Curso Spring Boot #21 – Cómo Crear y Consumir Recursos de Forma Eficiente (Solicitudes POST)",
+        "h": "20240808011212"
     },
     {
         "i": 27,
         "j": "LLsmMzNoPAY",
-        "b": "Curso Spring Boot #28 – Inyección de Dependencias Condicional con @ConditionalOnProperty"
+        "b": "Curso Spring Boot #28 – Inyección de Dependencias Condicional con @ConditionalOnProperty",
+        "h": "20240918215414"
     },
     {
         "i": 21,
         "j": "O3ptaYDzVAc",
-        "b": "Curso Spring Boot #22 – Convención de Versionado y Estructuración de URL"
+        "b": "Curso Spring Boot #22 – Convención de Versionado y Estructuración de URL",
+        "h": "20240808013036"
     },
     {
         "i": 16,
         "j": "qMOypthoMzI",
-        "b": "Curso Spring Boot #17 – Sistema para la Gestión de Alumnos"
+        "b": "Curso Spring Boot #17 – Sistema para la Gestión de Alumnos",
+        "h": "20240607222941"
     },
     {
         "i": 11,
         "j": "QWwLzhHSfdg",
-        "b": "Curso Spring Boot #12 – Las Anotaciones @PostMapping y @RequestBody"
+        "b": "Curso Spring Boot #12 – Las Anotaciones @PostMapping y @RequestBody",
+        "h": "20240607212443"
     },
     {
         "i": 24,
         "j": "tYhONLofto8",
-        "b": "Curso Spring Boot #25 – Inyección de Dependencias y el Principio Inversión de Control (IoC)"
+        "b": "Curso Spring Boot #25 – Inyección de Dependencias y el Principio Inversión de Control (IoC)",
+        "h": "20240821025703"
     },
     {
         "i": 23,
         "j": "udPHiYLQjlk",
-        "b": "Curso Spring Boot #24 – Programación Orientada a Interfaces: Diseño Flexible y Escalable"
+        "b": "Curso Spring Boot #24 – Programación Orientada a Interfaces: Diseño Flexible y Escalable",
+        "h": "20240815235032"
     },
     {
         "i": 17,
         "j": "udt0cP1dj6Y",
-        "b": "Curso Spring Boot #18 – La Clase ResponseEntity Manejo Avanzado de Respuestas HTTP"
+        "b": "Curso Spring Boot #18 – La Clase ResponseEntity Manejo Avanzado de Respuestas HTTP",
+        "h": "20240618080054"
     },
     {
         "i": 7,
         "j": "vDN0gThf_oQ",
-        "b": "Curso Spring Boot #8 – Arquitectura Basada en Capas"
+        "b": "Curso Spring Boot #8 – Arquitectura Basada en Capas",
+        "h": "20240315042125"
     },
     {
         "i": 19,
         "j": "X-2iLX_YG_s",
-        "b": "Curso Spring Boot #20 – Simplificación de Respuestas HTTP con La Clase ResponseEntity"
+        "b": "Curso Spring Boot #20 – Simplificación de Respuestas HTTP con La Clase ResponseEntity",
+        "h": "20240625234912"
     },
     {
         "i": 28,
         "j": "X-EIJr0ZfOs",
-        "b": "Curso Spring Boot #29 – Diferir la Inyección de Beans con @Lazy"
+        "b": "Curso Spring Boot #29 – Diferir la Inyección de Beans con @Lazy",
+        "h": "20241101193239"
     },
     {
         "i": 1,
         "j": "xb_y3MMtWsQ",
-        "b": "Curso Spring Boot #2 – Instalación de JDK – IntelliJ IDEA - Postman"
+        "b": "Curso Spring Boot #2 – Instalación de JDK – IntelliJ IDEA - Postman",
+        "h": "20240304214214"
     },
     {
         "i": 2,
         "j": "YbvZe1wDQqQ",
-        "b": "Curso Spring Boot #3 – Creación y Estructura de un Proyecto (spring initializr)"
+        "b": "Curso Spring Boot #3 – Creación y Estructura de un Proyecto (spring initializr)",
+        "h": "20240304220032"
     },
     {
         "i": 13,
         "j": "ypWmw79D6lg",
-        "b": "Curso Spring Boot #14 – La Anotación @DeleteMapping (Eliminación de Recursos)"
+        "b": "Curso Spring Boot #14 – La Anotación @DeleteMapping (Eliminación de Recursos)",
+        "h": "20240607215744"
     }
 ]

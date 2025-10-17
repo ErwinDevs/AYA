@@ -2,36 +2,43 @@
     {
         "i": 2,
         "j": "-9d3KhCqOtU",
-        "b": "SOLUCIÓN de CORS y Desarrollo de API REST con Express"
+        "b": "SOLUCIÓN de CORS y Desarrollo de API REST con Express",
+        "h": "20230804163354"
     },
     {
         "i": 4,
         "j": "eCWNQfzuuso",
-        "b": "Crea un Base de Datos MySQL y evita los hackers (buenas prácticas)"
+        "b": "Crea un Base de Datos MySQL y evita los hackers (buenas prácticas)",
+        "h": "20230911130955"
     },
     {
         "i": 3,
         "j": "ev3Yxva4wI4",
-        "b": "EL PODER de la ARQUITECTURA MVC + Despliegue de API REST"
+        "b": "EL PODER de la ARQUITECTURA MVC + Despliegue de API REST",
+        "h": "20230814181549"
     },
     {
         "i": 6,
         "j": "UqnnhAZxRac",
-        "b": "Aprende Autenticación de Usuario, Sesión, Cookies y JWT con Node.js"
+        "b": "Aprende Autenticación de Usuario, Sesión, Cookies y JWT con Node.js",
+        "h": "20240613074609"
     },
     {
         "i": 5,
         "j": "WpbBhTx5R9Q",
-        "b": "Chat en TIEMPO REAL con Node.js, Socket.io, SQL, HTML y CSS"
+        "b": "Chat en TIEMPO REAL con Node.js, Socket.io, SQL, HTML y CSS",
+        "h": "20231017202716"
     },
     {
         "i": 0,
         "j": "yB4n_K7dZV8",
-        "b": "CURSO DE NODE.JS DESDE CERO: Introducción y primeros pasos"
+        "b": "CURSO DE NODE.JS DESDE CERO: Introducción y primeros pasos",
+        "h": "20230728160430"
     },
     {
         "i": 1,
         "j": "YmZE1HXjpd4",
-        "b": "Desarrollando una API con Express desde cero"
+        "b": "Desarrollando una API con Express desde cero",
+        "h": "20230728160456"
     }
 ]

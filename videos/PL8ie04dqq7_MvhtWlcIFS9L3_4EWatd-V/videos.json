@@ -2,46 +2,55 @@
     {
         "i": 1,
         "j": "7FptmAjBdsA",
-        "b": "MVVM en ANDROID 📐 [2021] 📐- Model View ViewModel - Clean Architecture, Retrofit 2 y corrutinas (#2)"
+        "b": "MVVM en ANDROID 📐 [2021] 📐- Model View ViewModel - Clean Architecture, Retrofit 2 y corrutinas (#2)",
+        "h": "20210527132359"
     },
     {
         "i": 5,
         "j": "EmUx8wgRxJw",
-        "b": "MVVM con JETPACK COMPOSE desde CERO - TUTORIAL - Ejemplo Login con arquitectura MVVM en Android"
+        "b": "MVVM con JETPACK COMPOSE desde CERO - TUTORIAL - Ejemplo Login con arquitectura MVVM en Android",
+        "h": "20220825122626"
     },
     {
         "i": 0,
         "j": "hhhSMXi0R3E",
-        "b": "MVVM en ANDROID 📐 [2021] 📐- Arquitectura Model View ViewModel en Kotlin con LIVE DATA desde cero #1"
+        "b": "MVVM en ANDROID 📐 [2021] 📐- Arquitectura Model View ViewModel en Kotlin con LIVE DATA desde cero #1",
+        "h": "20210527132734"
     },
     {
         "i": 8,
         "j": "JYeYvEUq8Yw",
-        "b": "TESTING para CI - Prepara tus pull request LIKE A BOSS"
+        "b": "TESTING para CI - Prepara tus pull request LIKE A BOSS",
+        "h": "20230119171652"
     },
     {
         "i": 6,
         "j": "lE8Pu_VZDhM",
-        "b": "JETPACK COMPOSE: Curso COMPLETO de 0 a PRO - MVVM, Testing, DI y MUCHO MÁS [PRESENTACIÓN]"
+        "b": "JETPACK COMPOSE: Curso COMPLETO de 0 a PRO - MVVM, Testing, DI y MUCHO MÁS [PRESENTACIÓN]",
+        "h": "20220904171736"
     },
     {
         "i": 3,
         "j": "lYBb4QedYH8",
-        "b": "ROOM en Android con KOTLIN (Base de datos) 💾 - Tutorial Android Studio con MVVM (Hilt y corrutinas)"
+        "b": "ROOM en Android con KOTLIN (Base de datos) 💾 - Tutorial Android Studio con MVVM (Hilt y corrutinas)",
+        "h": "20220120122105"
     },
     {
         "i": 2,
         "j": "t6ZuzSu2UHI",
-        "b": "Dagger HILT en KOTLIN con MVVM 💉 - Tutorial android inyección de dependencias con Dagger Hilt"
+        "b": "Dagger HILT en KOTLIN con MVVM 💉 - Tutorial android inyección de dependencias con Dagger Hilt",
+        "h": "20210729143815"
     },
     {
         "i": 4,
         "j": "xCjIJMydI3s",
-        "b": "TESTING en ANDROID con KOTLIN desde Cero - [Test unitarios en Android Studio] - Pruebas unitarias"
+        "b": "TESTING en ANDROID con KOTLIN desde Cero - [Test unitarios en Android Studio] - Pruebas unitarias",
+        "h": "20220218163158"
     },
     {
         "i": 7,
         "j": "Zfaev5IOBmI",
-        "b": "CI/CD en ANDROID con GITHUB ACTIONS - TUTORIAL integración continua desde cero."
+        "b": "CI/CD en ANDROID con GITHUB ACTIONS - TUTORIAL integración continua desde cero.",
+        "h": "20230112174335"
     }
 ]

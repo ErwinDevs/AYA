@@ -2,126 +2,151 @@
     {
         "i": 22,
         "j": "_Gy8-hCA8a0",
-        "b": "Curso SQL. Procedimientos almacenados I. Vídeo 23"
+        "b": "Curso SQL. Procedimientos almacenados I. Vídeo 23",
+        "h": "20160322131159"
     },
     {
         "i": 14,
         "j": "_kIWDzZUdA8",
-        "b": "Curso SQL. Referencias cruzadas. Vídeo 15"
+        "b": "Curso SQL. Referencias cruzadas. Vídeo 15",
+        "h": "20151213180508"
     },
     {
         "i": 11,
         "j": "_XvIenBYJc8",
-        "b": "Curso SQL. Consultas de acción I. Vídeo 12"
+        "b": "Curso SQL. Consultas de acción I. Vídeo 12",
+        "h": "20151109195803"
     },
     {
         "i": 7,
         "j": "2LtcWYdVx_I",
-        "b": "Curso SQL. Consultas Multitabla II  Inner Join. Vídeo 8"
+        "b": "Curso SQL. Consultas Multitabla II  Inner Join. Vídeo 8",
+        "h": "20150915082452"
     },
     {
         "i": 13,
         "j": "3iLHq04FuQs",
-        "b": "Curso SQL. Consultas de acción III. Consultas de datos anexados. Vídeo 14"
+        "b": "Curso SQL. Consultas de acción III. Consultas de datos anexados. Vídeo 14",
+        "h": "20151130201233"
     },
     {
         "i": 21,
         "j": "5sLU-drd8P4",
-        "b": "Curso SQL. Triggers III Disparadores. Vídeo 22"
+        "b": "Curso SQL. Triggers III Disparadores. Vídeo 22",
+        "h": "20160310101833"
     },
     {
         "i": 20,
         "j": "bGQbgejFyBo",
-        "b": "Curso SQL. Triggers II Disparadores. Vídeo 21"
+        "b": "Curso SQL. Triggers II Disparadores. Vídeo 21",
+        "h": "20160220124236"
     },
     {
         "i": 1,
         "j": "Bk3rY_ICgPo",
-        "b": "Curso SQL. Introducción a SQL. Vídeo 2"
+        "b": "Curso SQL. Introducción a SQL. Vídeo 2",
+        "h": "20150721103642"
     },
     {
         "i": 24,
         "j": "dfF4WAaUX5c",
-        "b": "Curso SQL  Vistas. Final curso. Vídeo 25"
+        "b": "Curso SQL  Vistas. Final curso. Vídeo 25",
+        "h": "20160406112024"
     },
     {
         "i": 0,
         "j": "iOiyJgnN71c",
-        "b": "Curso SQL. Presentación. Vídeo 1"
+        "b": "Curso SQL. Presentación. Vídeo 1",
+        "h": "20150716161207"
     },
     {
         "i": 17,
         "j": "k__6BKdCaQ8",
-        "b": "Curso SQL. Índices. Vídeo 18"
+        "b": "Curso SQL. Índices. Vídeo 18",
+        "h": "20160125120550"
     },
     {
         "i": 19,
         "j": "kDu_5F159QA",
-        "b": "Curso SQL. Triggers I (Disparadores). Vídeo 20"
+        "b": "Curso SQL. Triggers I (Disparadores). Vídeo 20",
+        "h": "20160211122019"
     },
     {
         "i": 10,
         "j": "lCpMJ2LFdLg",
-        "b": "Curso SQL. Subconsultas II. Vídeo 11"
+        "b": "Curso SQL. Subconsultas II. Vídeo 11",
+        "h": "20151022113206"
     },
     {
         "i": 6,
         "j": "M2Ee0HnSPOU",
-        "b": "Curso SQL. Consultas Multitabla I. Vídeo 7"
+        "b": "Curso SQL. Consultas Multitabla I. Vídeo 7",
+        "h": "20150901111539"
     },
     {
         "i": 16,
         "j": "mLosHjJdc54",
-        "b": "Curso SQL. Agregar, eliminar y modificar campos. Vídeo 17"
+        "b": "Curso SQL. Agregar, eliminar y modificar campos. Vídeo 17",
+        "h": "20160111123646"
     },
     {
         "i": 8,
         "j": "N99-7gvjy6o",
-        "b": "Curso SQL.Consultas Multitabla III. Left Join y Right Join. Vídeo 9"
+        "b": "Curso SQL.Consultas Multitabla III. Left Join y Right Join. Vídeo 9",
+        "h": "20150917102930"
     },
     {
         "i": 2,
         "j": "np6PH_vs-GI",
-        "b": "Curso SQL. Cláusulas y operadores. Vídeo 3"
+        "b": "Curso SQL. Cláusulas y operadores. Vídeo 3",
+        "h": "20150727124330"
     },
     {
         "i": 5,
         "j": "qwfzpXI_Qyw",
-        "b": "Curso SQL. Consultas de cálculo. Vídeo 6"
+        "b": "Curso SQL. Consultas de cálculo. Vídeo 6",
+        "h": "20150828151708"
     },
     {
         "i": 9,
         "j": "rGPb5E1UAJA",
-        "b": "Curso SQL. Subconsultas I. Vídeo 10"
+        "b": "Curso SQL. Subconsultas I. Vídeo 10",
+        "h": "20151004155855"
     },
     {
         "i": 23,
         "j": "sNHZhXeVA4c",
-        "b": "Curso SQL. Procedimientos y triggers. Vídeo 24"
+        "b": "Curso SQL. Procedimientos y triggers. Vídeo 24",
+        "h": "20160323170911"
     },
     {
         "i": 4,
         "j": "TPn1200-fbc",
-        "b": "Curso SQL. Consultas de agrupación o totales. Vídeo 5"
+        "b": "Curso SQL. Consultas de agrupación o totales. Vídeo 5",
+        "h": "20150815165142"
     },
     {
         "i": 12,
         "j": "TTlBR2jLmn0",
-        "b": "Curso SQL. Consultas de acción II. Eliminación. Vídeo 13"
+        "b": "Curso SQL. Consultas de acción II. Eliminación. Vídeo 13",
+        "h": "20151116133318"
     },
     {
         "i": 18,
         "j": "tzYpnIu8sSE",
-        "b": "Curso SQL. Eliminación de Índices. Vídeo 19"
+        "b": "Curso SQL. Eliminación de Índices. Vídeo 19",
+        "h": "20160211105622"
     },
     {
         "i": 15,
         "j": "XJb6qflbsx4",
-        "b": "Curso SQL. DDL  Creación de tablas. Vídeo 16"
+        "b": "Curso SQL. DDL  Creación de tablas. Vídeo 16",
+        "h": "20151228213904"
     },
     {
         "i": 3,
         "j": "yZk9NdxFUrk",
-        "b": "Curso SQL. Cláusula Order By. Ordenando registros. Vídeo 4"
+        "b": "Curso SQL. Cláusula Order By. Ordenando registros. Vídeo 4",
+        "h": "20150815162759"
     }
 ]

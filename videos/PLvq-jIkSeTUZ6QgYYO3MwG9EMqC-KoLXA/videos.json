@@ -2,831 +2,997 @@
     {
         "i": 13,
         "j": "_8Z5AeGVIXE",
-        "b": "Curso JavaScript: 13. Tipos de Operadores - #jonmircha"
+        "b": "Curso JavaScript: 13. Tipos de Operadores - #jonmircha",
+        "h": "20200221031716"
     },
     {
         "i": 85,
         "j": "_MZ4aeVWEz8",
-        "b": "Curso JavaScript: 85. DOM: Ejercicios | Eventos del Teclado (movimientos y colisiones) - #jonmircha"
+        "b": "Curso JavaScript: 85. DOM: Ejercicios | Eventos del Teclado (movimientos y colisiones) - #jonmircha",
+        "h": "20200604003606"
     },
     {
         "i": 131,
         "j": "-2QOxlYkIxc",
-        "b": "Curso JavaScript: 131. Ejercicios AJAX - APIs: Pagos Online con Fetch y Stripe (3/4) - #jonmircha"
+        "b": "Curso JavaScript: 131. Ejercicios AJAX - APIs: Pagos Online con Fetch y Stripe (3/4) - #jonmircha",
+        "h": "20200819164539"
     },
     {
         "i": 165,
         "j": "-vr_VrT6v6c",
-        "b": "Curso Redux con Vanilla JS - jonmircha"
+        "b": "Curso Redux con Vanilla JS - jonmircha",
+        "h": "20240930221932"
     },
     {
         "i": 160,
         "j": "09Vx4IzPAQE",
-        "b": "Curso JavaScript: 160. Reactividad: Interfaz de Usuario (UI) basada en el Estado - #jonmircha"
+        "b": "Curso JavaScript: 160. Reactividad: Interfaz de Usuario (UI) basada en el Estado - #jonmircha",
+        "h": "20210114041535"
     },
     {
         "i": 113,
         "j": "09w2S9g7m74",
-        "b": "Curso JavaScript: 113. API REST: Consumo de datos con cliente REST - #jonmircha"
+        "b": "Curso JavaScript: 113. API REST: Consumo de datos con cliente REST - #jonmircha",
+        "h": "20200719235637"
     },
     {
         "i": 33,
         "j": "0GEUyQXe3NI",
-        "b": "Curso JavaScript: 33. Módulos ( import / export ) - #jonmircha"
+        "b": "Curso JavaScript: 33. Módulos ( import / export ) - #jonmircha",
+        "h": "20200320043014"
     },
     {
         "i": 116,
         "j": "0j24Rebv8NU",
-        "b": "Curso JavaScript: 116. API REST: CRUD con AJAX (2/2) - #jonmircha"
+        "b": "Curso JavaScript: 116. API REST: CRUD con AJAX (2/2) - #jonmircha",
+        "h": "20200725192351"
     },
     {
         "i": 118,
         "j": "0LMThcUx__0",
-        "b": "Curso JavaScript: 118. API REST: CRUD con Fetch (2/2) - #jonmircha"
+        "b": "Curso JavaScript: 118. API REST: CRUD con Fetch (2/2) - #jonmircha",
+        "h": "20200725201756"
     },
     {
         "i": 154,
         "j": "0SwwbsMZGrc",
-        "b": "Curso JavaScript: 154. SPA: Buscador Interno de la App - #jonmircha"
+        "b": "Curso JavaScript: 154. SPA: Buscador Interno de la App - #jonmircha",
+        "h": "20201118031757"
     },
     {
         "i": 23,
         "j": "1-m7xtwvH1E",
-        "b": "Curso JavaScript: 23. Herencia Prototípica - #jonmircha"
+        "b": "Curso JavaScript: 23. Herencia Prototípica - #jonmircha",
+        "h": "20200308024153"
     },
     {
         "i": 89,
         "j": "16geDhp5Xmg",
-        "b": "Curso JavaScript: 89. DOM: Ejercicios Prácticos | API localStorage - #jonmircha"
+        "b": "Curso JavaScript: 89. DOM: Ejercicios Prácticos | API localStorage - #jonmircha",
+        "h": "20200610003713"
     },
     {
         "i": 155,
         "j": "1MAUA1lZPyM",
-        "b": "Curso JavaScript: 155. SPA: Vista de la Búsqueda Actual - #jonmircha"
+        "b": "Curso JavaScript: 155. SPA: Vista de la Búsqueda Actual - #jonmircha",
+        "h": "20201118032135"
     },
     {
         "i": 129,
         "j": "1PSFSsmqxgQ",
-        "b": "Curso JavaScript: 129. Ejercicios AJAX - APIs: Pagos Online con Fetch y Stripe (1/4) - #jonmircha"
+        "b": "Curso JavaScript: 129. Ejercicios AJAX - APIs: Pagos Online con Fetch y Stripe (1/4) - #jonmircha",
+        "h": "20200819040408"
     },
     {
         "i": 75,
         "j": "2LgnPW_VZYU",
-        "b": "Curso JavaScript: 75. DOM: stopPropagation & preventDefault - #jonmircha"
+        "b": "Curso JavaScript: 75. DOM: stopPropagation & preventDefault - #jonmircha",
+        "h": "20200516171025"
     },
     {
         "i": 127,
         "j": "2M4Ur8aa6MY",
-        "b": "Curso JavaScript: 127. Ejercicios AJAX - APIs: Envío Formulario con Fetch y FormSubmit - #jonmircha"
+        "b": "Curso JavaScript: 127. Ejercicios AJAX - APIs: Envío Formulario con Fetch y FormSubmit - #jonmircha",
+        "h": "20200813205712"
     },
     {
         "i": 73,
         "j": "2oHVjLrnRmY",
-        "b": "Curso JavaScript: 73. DOM: Eventos con Parámetros y Remover Eventos - #jonmircha"
+        "b": "Curso JavaScript: 73. DOM: Eventos con Parámetros y Remover Eventos - #jonmircha",
+        "h": "20200516152940"
     },
     {
         "i": 0,
         "j": "2SetvwBV-SU",
-        "b": "Curso JavaScript: 1. Introducción - #jonmircha"
+        "b": "Curso JavaScript: 1. Introducción - #jonmircha",
+        "h": "20200207185239"
     },
     {
         "i": 34,
         "j": "3o5d-tdVscU",
-        "b": "Curso JavaScript: 34. Ejercicios de Lógica de Programación ( 1 / 10 ) - #jonmircha"
+        "b": "Curso JavaScript: 34. Ejercicios de Lógica de Programación ( 1 / 10 ) - #jonmircha",
+        "h": "20200325020346"
     },
     {
         "i": 12,
         "j": "4xig5UPRC00",
-        "b": "Curso JavaScript: 12. Objetos - #jonmircha"
+        "b": "Curso JavaScript: 12. Objetos - #jonmircha",
+        "h": "20200221020535"
     },
     {
         "i": 138,
         "j": "58mre-geXpE",
-        "b": "Curso JavaScript: 138. Ejercicios AJAX - APIs: Selects Anidados con Fetch - #jonmircha"
+        "b": "Curso JavaScript: 138. Ejercicios AJAX - APIs: Selects Anidados con Fetch - #jonmircha",
+        "h": "20200831185618"
     },
     {
         "i": 144,
         "j": "5ukeeimOFLU",
-        "b": "Curso JavaScript: 144. SPA: Introducción a las Single Page Applications - #jonmircha"
+        "b": "Curso JavaScript: 144. SPA: Introducción a las Single Page Applications - #jonmircha",
+        "h": "20201105225649"
     },
     {
         "i": 106,
         "j": "6CQrK1sS7WA",
-        "b": "Curso JavaScript: 106. AJAX: Objeto XMLHttpRequest - #jonmircha"
+        "b": "Curso JavaScript: 106. AJAX: Objeto XMLHttpRequest - #jonmircha",
+        "h": "20200708220257"
     },
     {
         "i": 90,
         "j": "6IwUl-4pAzc",
-        "b": "Curso JavaScript: 90. DOM: Ejercicios Prácticos | Responsive con JavaScript - #jonmircha"
+        "b": "Curso JavaScript: 90. DOM: Ejercicios Prácticos | Responsive con JavaScript - #jonmircha",
+        "h": "20200610225901"
     },
     {
         "i": 150,
         "j": "6WZ_C4iXhWA",
-        "b": "Curso JavaScript: 150. SPA: Renderizado Dinámico - #jonmircha"
+        "b": "Curso JavaScript: 150. SPA: Renderizado Dinámico - #jonmircha",
+        "h": "20201111020148"
     },
     {
         "i": 41,
         "j": "6ZkiOGU4uaA",
-        "b": "Curso JavaScript: 41. Ejercicios de Lógica de Programación ( 8 / 10 ) - #jonmircha"
+        "b": "Curso JavaScript: 41. Ejercicios de Lógica de Programación ( 8 / 10 ) - #jonmircha",
+        "h": "20200403000316"
     },
     {
         "i": 55,
         "j": "7njrLMJgDtQ",
-        "b": "Curso JavaScript: 55. Proxies - #jonmircha"
+        "b": "Curso JavaScript: 55. Proxies - #jonmircha",
+        "h": "20200416030140"
     },
     {
         "i": 40,
         "j": "9BavKzWBr3c",
-        "b": "Curso JavaScript: 40. Ejercicios de Lógica de Programación ( 7 / 10 ) - #jonmircha"
+        "b": "Curso JavaScript: 40. Ejercicios de Lógica de Programación ( 7 / 10 ) - #jonmircha",
+        "h": "20200331232038"
     },
     {
         "i": 14,
         "j": "9h5hyh_wDjo",
-        "b": "Curso JavaScript: 14. Condicionales - #jonmircha"
+        "b": "Curso JavaScript: 14. Condicionales - #jonmircha",
+        "h": "20200221122818"
     },
     {
         "i": 121,
         "j": "9JT5AicuS3U",
-        "b": "Curso JavaScript: 121. Ejercicios AJAX - APIs: Presentación - #jonmircha"
+        "b": "Curso JavaScript: 121. Ejercicios AJAX - APIs: Presentación - #jonmircha",
+        "h": "20200804224447"
     },
     {
         "i": 91,
         "j": "9uIcLSHgzrM",
-        "b": "Curso JavaScript: 91. DOM: Ejercicios Prácticos | Responsive Tester - #jonmircha"
+        "b": "Curso JavaScript: 91. DOM: Ejercicios Prácticos | Responsive Tester - #jonmircha",
+        "h": "20200612023252"
     },
     {
         "i": 15,
         "j": "AapgtR0Rwk0",
-        "b": "Curso JavaScript: 15. Ciclos (Loops) - #jonmircha"
+        "b": "Curso JavaScript: 15. Ciclos (Loops) - #jonmircha",
+        "h": "20200221134330"
     },
     {
         "i": 102,
         "j": "AGPalf1C8Ms",
-        "b": "Curso JavaScript: 102. DOM: Ejercicios Prácticos | Validación de Formularios - #jonmircha"
+        "b": "Curso JavaScript: 102. DOM: Ejercicios Prácticos | Validación de Formularios - #jonmircha",
+        "h": "20200703000435"
     },
     {
         "i": 27,
         "j": "aIHQsAjRLYU",
-        "b": "Curso JavaScript: 27. Objeto Date - #jonmircha"
+        "b": "Curso JavaScript: 27. Objeto Date - #jonmircha",
+        "h": "20200313035816"
     },
     {
         "i": 31,
         "j": "aPkBloR9MEI",
-        "b": "Curso JavaScript: 31. Expresiones Regulares - #jonmircha"
+        "b": "Curso JavaScript: 31. Expresiones Regulares - #jonmircha",
+        "h": "20200320034321"
     },
     {
         "i": 6,
         "j": "arOXcy7K4XQ",
-        "b": "Curso JavaScript: 6. Template Strings - #jonmircha"
+        "b": "Curso JavaScript: 6. Template Strings - #jonmircha",
+        "h": "20200211235559"
     },
     {
         "i": 64,
         "j": "asR6_XGzI3s",
-        "b": "Curso JavaScript: 64. DOM: Estilos y Variables CSS - #jonmircha"
+        "b": "Curso JavaScript: 64. DOM: Estilos y Variables CSS - #jonmircha",
+        "h": "20200501233129"
     },
     {
         "i": 136,
         "j": "bf6lpMAMiVc",
-        "b": "Curso JavaScript: 136. Ejercicios AJAX - APIs: Buscador de Shows con Fetch y TVMAZE API - #jonmircha"
+        "b": "Curso JavaScript: 136. Ejercicios AJAX - APIs: Buscador de Shows con Fetch y TVMAZE API - #jonmircha",
+        "h": "20200827184857"
     },
     {
         "i": 28,
         "j": "BGXwssmxGuY",
-        "b": "Curso JavaScript: 28. Objeto Math - #jonmircha"
+        "b": "Curso JavaScript: 28. Objeto Math - #jonmircha",
+        "h": "20200313195145"
     },
     {
         "i": 77,
         "j": "BoDLn_r0o84",
-        "b": "Curso JavaScript: 77. BOM: Propiedades y Eventos - #jonmircha"
+        "b": "Curso JavaScript: 77. BOM: Propiedades y Eventos - #jonmircha",
+        "h": "20200516183427"
     },
     {
         "i": 1,
         "j": "BS5RX27VaAQ",
-        "b": "AprendeJavascript.org - #jonmircha"
+        "b": "AprendeJavascript.org - #jonmircha",
+        "h": "20200923011541"
     },
     {
         "i": 2,
         "j": "C5FXZ2ki13k",
-        "b": "Curso JavaScript: 2. Características y Gramática - #jonmircha"
+        "b": "Curso JavaScript: 2. Características y Gramática - #jonmircha",
+        "h": "20200210180915"
     },
     {
         "i": 24,
         "j": "C86JvqET61A",
-        "b": "Curso JavaScript: 24. Clases y Herencia - #jonmircha"
+        "b": "Curso JavaScript: 24. Clases y Herencia - #jonmircha",
+        "h": "20200308024501"
     },
     {
         "i": 104,
         "j": "Crh0GXxJSE8",
-        "b": "Curso JavaScript: 104. DOM: Ejercicios Prácticos | Narrador (Lector de Voz) - #jonmircha"
+        "b": "Curso JavaScript: 104. DOM: Ejercicios Prácticos | Narrador (Lector de Voz) - #jonmircha",
+        "h": "20200703012945"
     },
     {
         "i": 8,
         "j": "Csu9tRuuX0M",
-        "b": "Curso JavaScript: 8. Booleans - #jonmircha"
+        "b": "Curso JavaScript: 8. Booleans - #jonmircha",
+        "h": "20200212011850"
     },
     {
         "i": 153,
         "j": "cuQivOPJJ7M",
-        "b": "Curso JavaScript: 153. SPA: Vista de Post Actual - #jonmircha"
+        "b": "Curso JavaScript: 153. SPA: Vista de Post Actual - #jonmircha",
+        "h": "20201118031303"
     },
     {
         "i": 59,
         "j": "d1XijkyZRvM",
-        "b": "Curso JavaScript: 59. JSON - #jonmircha"
+        "b": "Curso JavaScript: 59. JSON - #jonmircha",
+        "h": "20200424131537"
     },
     {
         "i": 61,
         "j": "dF7lp_qBfV0",
-        "b": "Curso JavaScript: 61. DOM: Introducción - #jonmircha"
+        "b": "Curso JavaScript: 61. DOM: Introducción - #jonmircha",
+        "h": "20200501022323"
     },
     {
         "i": 123,
         "j": "DGT6PEdVCXY",
-        "b": "Curso JavaScript: 123. Ejercicios AJAX - APIs: Incluir archivos HTML (include-html.js) - #jonmircha"
+        "b": "Curso JavaScript: 123. Ejercicios AJAX - APIs: Incluir archivos HTML (include-html.js) - #jonmircha",
+        "h": "20200804235436"
     },
     {
         "i": 117,
         "j": "dmkzieeLibk",
-        "b": "Curso JavaScript: 117. API REST: CRUD con Fetch (1/2) - #jonmircha"
+        "b": "Curso JavaScript: 117. API REST: CRUD con Fetch (1/2) - #jonmircha",
+        "h": "20200725192538"
     },
     {
         "i": 9,
         "j": "dux1Uv2eLfw",
-        "b": "Curso JavaScript: 9. undefined, null & NaN - #jonmircha"
+        "b": "Curso JavaScript: 9. undefined, null & NaN - #jonmircha",
+        "h": "20200214234654"
     },
     {
         "i": 96,
         "j": "DXcwvBJ3g5o",
-        "b": "Curso JavaScript: 96. DOM: Ejercicios Prácticos | Filtros de Búsqueda - #jonmircha"
+        "b": "Curso JavaScript: 96. DOM: Ejercicios Prácticos | Filtros de Búsqueda - #jonmircha",
+        "h": "20200618174243"
     },
     {
         "i": 101,
         "j": "dyaH-gdiD34",
-        "b": "Curso JavaScript: 101. DOM: Ejercicios Prácticos | Validación de Formularios con HTML5 - #jonmircha"
+        "b": "Curso JavaScript: 101. DOM: Ejercicios Prácticos | Validación de Formularios con HTML5 - #jonmircha",
+        "h": "20200702223514"
     },
     {
         "i": 107,
         "j": "dYB1UlGGmfk",
-        "b": "Curso JavaScript: 107. AJAX: API Fetch - #jonmircha"
+        "b": "Curso JavaScript: 107. AJAX: API Fetch - #jonmircha",
+        "h": "20200708233106"
     },
     {
         "i": 125,
         "j": "e_Th4Tji5Io",
-        "b": "Curso JavaScript: 125. Ejercicios AJAX - APIs: Uploader AJAX con Barra de Progreso - #jonmircha"
+        "b": "Curso JavaScript: 125. Ejercicios AJAX - APIs: Uploader AJAX con Barra de Progreso - #jonmircha",
+        "h": "20200806233540"
     },
     {
         "i": 51,
         "j": "e2gBknyVJo8",
-        "b": "Curso JavaScript: 51. Maps - #jonmircha"
+        "b": "Curso JavaScript: 51. Maps - #jonmircha",
+        "h": "20200414224911"
     },
     {
         "i": 143,
         "j": "EKKQH35ZIvo",
-        "b": "Curso JavaScript: 143. WordPress REST API & Infinite Scroll (5 / 5) - #jonmircha"
+        "b": "Curso JavaScript: 143. WordPress REST API & Infinite Scroll (5 / 5) - #jonmircha",
+        "h": "20200902015049"
     },
     {
         "i": 70,
         "j": "epMoFp_2ay8",
-        "b": "Curso JavaScript: 70. DOM: Modificando Elementos (Old Style) - #jonmircha"
+        "b": "Curso JavaScript: 70. DOM: Modificando Elementos (Old Style) - #jonmircha",
+        "h": "20200502000910"
     },
     {
         "i": 78,
         "j": "EqLVoofiXVs",
-        "b": "Curso JavaScript: 78. BOM: Métodos - #jonmircha"
+        "b": "Curso JavaScript: 78. BOM: Métodos - #jonmircha",
+        "h": "20200526111253"
     },
     {
         "i": 103,
         "j": "eve9v2g6JXc",
-        "b": "Curso JavaScript: 103. DOM: Ejercicios Prácticos | Envío de Formularios - #jonmircha"
+        "b": "Curso JavaScript: 103. DOM: Ejercicios Prácticos | Envío de Formularios - #jonmircha",
+        "h": "20200703002709"
     },
     {
         "i": 66,
         "j": "ezjxA4o2-Ck",
-        "b": "Curso JavaScript: 66. DOM: Texto y HTML - #jonmircha"
+        "b": "Curso JavaScript: 66. DOM: Texto y HTML - #jonmircha",
+        "h": "20200501234058"
     },
     {
         "i": 44,
         "j": "fcB-ShJmUxk",
-        "b": "Curso JavaScript: 44. Temporizadores (setTimeout & setInterval) - #jonmircha"
+        "b": "Curso JavaScript: 44. Temporizadores (setTimeout & setInterval) - #jonmircha",
+        "h": "20200407235555"
     },
     {
         "i": 130,
         "j": "FDNLAhZS5uM",
-        "b": "Curso JavaScript: 130. Ejercicios AJAX - APIs: Pagos Online con Fetch y Stripe (2/4) - #jonmircha"
+        "b": "Curso JavaScript: 130. Ejercicios AJAX - APIs: Pagos Online con Fetch y Stripe (2/4) - #jonmircha",
+        "h": "20200819155612"
     },
     {
         "i": 163,
         "j": "fdr5Wprx-vE",
-        "b": "Curso JavaScript: 163. Reactividad: Componentes con Estado - #jonmircha"
+        "b": "Curso JavaScript: 163. Reactividad: Componentes con Estado - #jonmircha",
+        "h": "20210114045846"
     },
     {
         "i": 115,
         "j": "FGBm1fjNMhI",
-        "b": "Curso JavaScript: 115. API REST: CRUD con AJAX (1/2) - #jonmircha"
+        "b": "Curso JavaScript: 115. API REST: CRUD con AJAX (1/2) - #jonmircha",
+        "h": "20200724015445"
     },
     {
         "i": 128,
         "j": "Fu8U4ICAO_Y",
-        "b": "Curso JavaScript: 128. Ejercicios AJAX - APIs: Envío Formulario y CORS con Fetch y PHP - #jonmircha"
+        "b": "Curso JavaScript: 128. Ejercicios AJAX - APIs: Envío Formulario y CORS con Fetch y PHP - #jonmircha",
+        "h": "20200814005617"
     },
     {
         "i": 112,
         "j": "g0IZP95Mc18",
-        "b": "Curso JavaScript: 112. API REST: JSON Server - API falsa local - #jonmircha"
+        "b": "Curso JavaScript: 112. API REST: JSON Server - API falsa local - #jonmircha",
+        "h": "20200719233431"
     },
     {
         "i": 32,
         "j": "gbHr5qJjLRg",
-        "b": "Curso JavaScript: 32. Funciones Anónimas Autoejecutables - #jonmircha"
+        "b": "Curso JavaScript: 32. Funciones Anónimas Autoejecutables - #jonmircha",
+        "h": "20200320034935"
     },
     {
         "i": 142,
         "j": "GKcpZWEzSeA",
-        "b": "Curso JavaScript: 142. WordPress REST API y Fetch (4 / 5) - #jonmircha"
+        "b": "Curso JavaScript: 142. WordPress REST API y Fetch (4 / 5) - #jonmircha",
+        "h": "20200902000145"
     },
     {
         "i": 108,
         "j": "GP8OCiJLeN4",
-        "b": "Curso JavaScript: 108. AJAX: API Fetch + Async-Await - #jonmircha"
+        "b": "Curso JavaScript: 108. AJAX: API Fetch + Async-Await - #jonmircha",
+        "h": "20200709143834"
     },
     {
         "i": 126,
         "j": "GtRK8VGAy6w",
-        "b": "Curso JavaScript: 126. Ejercicios AJAX - APIs: Uploader AJAX con Drag & Drop - #jonmircha"
+        "b": "Curso JavaScript: 126. Ejercicios AJAX - APIs: Uploader AJAX con Drag & Drop - #jonmircha",
+        "h": "20200806235759"
     },
     {
         "i": 10,
         "j": "H6U1Pm7x60E",
-        "b": "Curso JavaScript: 10. Funciones - #jonmircha"
+        "b": "Curso JavaScript: 10. Funciones - #jonmircha",
+        "h": "20200214235056"
     },
     {
         "i": 135,
         "j": "hs75Ts9Y5-Q",
-        "b": "Curso JavaScript: 135. Ejercicios AJAX - APIs: Paginación de Pokémons con Fetch (2/2) - #jonmircha"
+        "b": "Curso JavaScript: 135. Ejercicios AJAX - APIs: Paginación de Pokémons con Fetch (2/2) - #jonmircha",
+        "h": "20200824225442"
     },
     {
         "i": 122,
         "j": "I-UMaS_JJrw",
-        "b": "Curso JavaScript: 122. Ejercicios AJAX - APIs: Sitio web con AJAX - #jonmircha"
+        "b": "Curso JavaScript: 122. Ejercicios AJAX - APIs: Sitio web con AJAX - #jonmircha",
+        "h": "20200804225315"
     },
     {
         "i": 30,
         "j": "i2bL0BQdrrE",
-        "b": "Curso JavaScript: 30. alert, confirm y prompt - #jonmircha"
+        "b": "Curso JavaScript: 30. alert, confirm y prompt - #jonmircha",
+        "h": "20200313230349"
     },
     {
         "i": 81,
         "j": "iBAW0xIB6II",
-        "b": "Curso JavaScript: 81. DOM: Ejercicios Prácticos | Menú de Hamburguesa - #jonmircha"
+        "b": "Curso JavaScript: 81. DOM: Ejercicios Prácticos | Menú de Hamburguesa - #jonmircha",
+        "h": "20200526134022"
     },
     {
         "i": 72,
         "j": "IQchmLGDXgU",
-        "b": "Curso JavaScript: 72. DOM: Manejadores de Eventos - #jonmircha"
+        "b": "Curso JavaScript: 72. DOM: Manejadores de Eventos - #jonmircha",
+        "h": "20200516150520"
     },
     {
         "i": 80,
         "j": "ISApT6Lersk",
-        "b": "Curso JavaScript: 80. DOM: Ejercicios Prácticos | Presentación - #jonmircha"
+        "b": "Curso JavaScript: 80. DOM: Ejercicios Prácticos | Presentación - #jonmircha",
+        "h": "20200526121059"
     },
     {
         "i": 17,
         "j": "iv-f163m78A",
-        "b": "Curso JavaScript: 17. break & continue - #jonmircha"
+        "b": "Curso JavaScript: 17. break & continue - #jonmircha",
+        "h": "20200228203916"
     },
     {
         "i": 76,
         "j": "j2fWSgOrxRs",
-        "b": "Curso JavaScript: 76. DOM: Delegación de Eventos - #jonmircha"
+        "b": "Curso JavaScript: 76. DOM: Delegación de Eventos - #jonmircha",
+        "h": "20200516182837"
     },
     {
         "i": 88,
         "j": "JE0pVXicJes",
-        "b": "Curso JavaScript: 88. DOM: Ejercicios Prácticos | Tema Dark/Light - #jonmircha"
+        "b": "Curso JavaScript: 88. DOM: Ejercicios Prácticos | Tema Dark/Light - #jonmircha",
+        "h": "20200609153858"
     },
     {
         "i": 145,
         "j": "jLMyWvZIhB4",
-        "b": "Curso JavaScript: 145. SPA: Estructura de Proyecto (assets, helpers y components) - #jonmircha"
+        "b": "Curso JavaScript: 145. SPA: Estructura de Proyecto (assets, helpers y components) - #jonmircha",
+        "h": "20201106000608"
     },
     {
         "i": 152,
         "j": "keGWjiUJ3V4",
-        "b": "Curso JavaScript: 152. SPA: Refactorización de la App. Enrutamiento Asíncrono - #jonmircha"
+        "b": "Curso JavaScript: 152. SPA: Refactorización de la App. Enrutamiento Asíncrono - #jonmircha",
+        "h": "20201118011903"
     },
     {
         "i": 93,
         "j": "kRVXR0v1SKk",
-        "b": "Curso JavaScript: 93. DOM: Ejercicios Prácticos | Detección del estado de la red - #jonmircha"
+        "b": "Curso JavaScript: 93. DOM: Ejercicios Prácticos | Detección del estado de la red - #jonmircha",
+        "h": "20200613172328"
     },
     {
         "i": 83,
         "j": "ktqSr7Lq_Hc",
-        "b": "Curso JavaScript: 83. DOM: Ejercicios Prácticos | Alarma Sonora - #jonmircha"
+        "b": "Curso JavaScript: 83. DOM: Ejercicios Prácticos | Alarma Sonora - #jonmircha",
+        "h": "20200526140926"
     },
     {
         "i": 63,
         "j": "l6npGZa_vgc",
-        "b": "Curso JavaScript: 63. DOM: Atributos y Data-Attributes - #jonmircha"
+        "b": "Curso JavaScript: 63. DOM: Atributos y Data-Attributes - #jonmircha",
+        "h": "20200501193144"
     },
     {
         "i": 162,
         "j": "LhEY3heuDzs",
-        "b": "Curso JavaScript: 162. Reactividad: Estado Inmutable - #jonmircha"
+        "b": "Curso JavaScript: 162. Reactividad: Estado Inmutable - #jonmircha",
+        "h": "20210114044551"
     },
     {
         "i": 105,
         "j": "lN43CTpbWTU",
-        "b": "Curso JavaScript: 105. AJAX: Introducción - #jonmircha"
+        "b": "Curso JavaScript: 105. AJAX: Introducción - #jonmircha",
+        "h": "20200708211323"
     },
     {
         "i": 50,
         "j": "lnzhtrZ8H34",
-        "b": "Curso JavaScript: 50. Sets - #jonmircha"
+        "b": "Curso JavaScript: 50. Sets - #jonmircha",
+        "h": "20200414220801"
     },
     {
         "i": 43,
         "j": "LqXh7jOfLlM",
-        "b": "Curso JavaScript: 43. Ejercicios de Lógica de Programación ( 10 / 10 ) - #jonmircha"
+        "b": "Curso JavaScript: 43. Ejercicios de Lógica de Programación ( 10 / 10 ) - #jonmircha",
+        "h": "20200405200522"
     },
     {
         "i": 67,
         "j": "m50UZkgV9-Q",
-        "b": "Curso JavaScript: 67. DOM Traversing: Recorriendo el DOM - #jonmircha"
+        "b": "Curso JavaScript: 67. DOM Traversing: Recorriendo el DOM - #jonmircha",
+        "h": "20200501234851"
     },
     {
         "i": 45,
         "j": "m7AgxJSCMVw",
-        "b": "Curso JavaScript: 45. Asincronía y el Event Loop - #jonmircha"
+        "b": "Curso JavaScript: 45. Asincronía y el Event Loop - #jonmircha",
+        "h": "20200409010644"
     },
     {
         "i": 114,
         "j": "MDPz2UST-Zo",
-        "b": "Curso JavaScript: 114. API REST: CRUD - #jonmircha"
+        "b": "Curso JavaScript: 114. API REST: CRUD - #jonmircha",
+        "h": "20200720002653"
     },
     {
         "i": 98,
         "j": "mj-AoCeA1ns",
-        "b": "Curso JavaScript: 98. DOM: Ejercicios Prácticos | Responsive Slider - #jonmircha"
+        "b": "Curso JavaScript: 98. DOM: Ejercicios Prácticos | Responsive Slider - #jonmircha",
+        "h": "20200622222644"
     },
     {
         "i": 97,
         "j": "mL8giLuvxyU",
-        "b": "Curso JavaScript: 97. DOM: Ejercicios Prácticos | Sorteo Digital - #jonmircha"
+        "b": "Curso JavaScript: 97. DOM: Ejercicios Prácticos | Sorteo Digital - #jonmircha",
+        "h": "20200620224254"
     },
     {
         "i": 37,
         "j": "MRmvOTkd7CE",
-        "b": "Curso JavaScript: 37. Ejercicios de Lógica de Programación ( 4 / 10 ) - #jonmircha"
+        "b": "Curso JavaScript: 37. Ejercicios de Lógica de Programación ( 4 / 10 ) - #jonmircha",
+        "h": "20200326030034"
     },
     {
         "i": 133,
         "j": "MtvjOftAsnA",
-        "b": "Curso JavaScript: 133. Ejercicios AJAX - APIs: Blog con Markdown y Showdown.js - #jonmircha"
+        "b": "Curso JavaScript: 133. Ejercicios AJAX - APIs: Blog con Markdown y Showdown.js - #jonmircha",
+        "h": "20200824221020"
     },
     {
         "i": 157,
         "j": "MWrqhpGF6tU",
-        "b": "Curso JavaScript: 157. SPA: Styled Components & Single File Components - #jonmircha"
+        "b": "Curso JavaScript: 157. SPA: Styled Components & Single File Components - #jonmircha",
+        "h": "20201120023132"
     },
     {
         "i": 74,
         "j": "myEsMzsJEFg",
-        "b": "Curso JavaScript: 74. DOM: Flujo de Eventos (Burbuja y Captura) - #jonmircha"
+        "b": "Curso JavaScript: 74. DOM: Flujo de Eventos (Burbuja y Captura) - #jonmircha",
+        "h": "20200516171847"
     },
     {
         "i": 164,
         "j": "n_tKs1yyfBo",
-        "b": "Curso JavaScript: 164. Reactividad: Librería de Componentes - #jonmircha"
+        "b": "Curso JavaScript: 164. Reactividad: Librería de Componentes - #jonmircha",
+        "h": "20210114050649"
     },
     {
         "i": 53,
         "j": "N00DzBNPJEw",
-        "b": "Curso JavaScript: 53. Iterables & Iterators - #jonmircha"
+        "b": "Curso JavaScript: 53. Iterables & Iterators - #jonmircha",
+        "h": "20200416024820"
     },
     {
         "i": 42,
         "j": "n2ACoGsRQHY",
-        "b": "Curso JavaScript: 42. Ejercicios de Lógica de Programación ( 9 / 10 ) - #jonmircha"
+        "b": "Curso JavaScript: 42. Ejercicios de Lógica de Programación ( 9 / 10 ) - #jonmircha",
+        "h": "20200405190138"
     },
     {
         "i": 137,
         "j": "n2r422e87dY",
-        "b": "Curso JavaScript: 137. Ejercicios AJAX - APIs: Buscador de Canciones con Fetch + Async - #jonmircha"
+        "b": "Curso JavaScript: 137. Ejercicios AJAX - APIs: Buscador de Canciones con Fetch + Async - #jonmircha",
+        "h": "20200831144247"
     },
     {
         "i": 151,
         "j": "nC9WK4jFXls",
-        "b": "Curso JavaScript: 151. SPA: Enrutamiento (Router) - #jonmircha"
+        "b": "Curso JavaScript: 151. SPA: Enrutamiento (Router) - #jonmircha",
+        "h": "20201111024811"
     },
     {
         "i": 52,
         "j": "nfMEnCrBL-0",
-        "b": "Curso JavaScript: 52. WeakSets & WeakMaps - #jonmircha"
+        "b": "Curso JavaScript: 52. WeakSets & WeakMaps - #jonmircha",
+        "h": "20200416014626"
     },
     {
         "i": 22,
         "j": "nS5FmAx4u_0",
-        "b": "Curso JavaScript: 22. Prototipos - #jonmircha"
+        "b": "Curso JavaScript: 22. Prototipos - #jonmircha",
+        "h": "20200308023502"
     },
     {
         "i": 57,
         "j": "NWt6-iYJJnA",
-        "b": "Curso JavaScript: 57. this - #jonmircha"
+        "b": "Curso JavaScript: 57. this - #jonmircha",
+        "h": "20200424115641"
     },
     {
         "i": 99,
         "j": "O-G0Zcy43nc",
-        "b": "Curso JavaScript: 99. DOM: Ejercicios Prácticos | ScrollSpy con Intersection Observer - #jonmircha"
+        "b": "Curso JavaScript: 99. DOM: Ejercicios Prácticos | ScrollSpy con Intersection Observer - #jonmircha",
+        "h": "20200624002044"
     },
     {
         "i": 11,
         "j": "o3c8cW73weQ",
-        "b": "Curso JavaScript: 11. Arreglos [Arrays] - #jonmircha"
+        "b": "Curso JavaScript: 11. Arreglos [Arrays] - #jonmircha",
+        "h": "20200221012557"
     },
     {
         "i": 7,
         "j": "o4p6p1z2P5A",
-        "b": "Curso JavaScript: 7. Números (Numbers) - #jonmircha"
+        "b": "Curso JavaScript: 7. Números (Numbers) - #jonmircha",
+        "h": "20200212004105"
     },
     {
         "i": 54,
         "j": "oO-D4PsaI1A",
-        "b": "Curso JavaScript: 54. Generators - #jonmircha"
+        "b": "Curso JavaScript: 54. Generators - #jonmircha",
+        "h": "20200416025531"
     },
     {
         "i": 147,
         "j": "Ovuy9Bj5AtU",
-        "b": "Curso JavaScript: 147. SPA: Helper de peticiones AJAX - #jonmircha"
+        "b": "Curso JavaScript: 147. SPA: Helper de peticiones AJAX - #jonmircha",
+        "h": "20201106015102"
     },
     {
         "i": 79,
         "j": "P5VxI53U_WI",
-        "b": "Curso JavaScript: 79. BOM: Objetos: URL, Historial y Navegador - #jonmircha"
+        "b": "Curso JavaScript: 79. BOM: Objetos: URL, Historial y Navegador - #jonmircha",
+        "h": "20200526112122"
     },
     {
         "i": 48,
         "j": "PbI5EEpodPM",
-        "b": "Curso JavaScript: 48. Async - Await - #jonmircha"
+        "b": "Curso JavaScript: 48. Async - Await - #jonmircha",
+        "h": "20200410015826"
     },
     {
         "i": 86,
         "j": "PgeELAv2030",
-        "b": "Curso JavaScript: 86. DOM: Ejercicios Prácticos | Cuenta Regresiva (countdown) - #jonmircha"
+        "b": "Curso JavaScript: 86. DOM: Ejercicios Prácticos | Cuenta Regresiva (countdown) - #jonmircha",
+        "h": "20200604014708"
     },
     {
         "i": 4,
         "j": "PIHZRj99nHU",
-        "b": "Curso JavaScript: 4. Constantes (const) - #jonmircha"
+        "b": "Curso JavaScript: 4. Constantes (const) - #jonmircha",
+        "h": "20200211221131"
     },
     {
         "i": 47,
         "j": "ppzrpTjwEC8",
-        "b": "Curso JavaScript: 47. Promesas - #jonmircha"
+        "b": "Curso JavaScript: 47. Promesas - #jonmircha",
+        "h": "20200410012703"
     },
     {
         "i": 100,
         "j": "pTEUY4h-ztw",
-        "b": "Curso JavaScript: 100. DOM: Video Inteligente (IntersectionObserver & VisibilityChange) - #jonmircha"
+        "b": "Curso JavaScript: 100. DOM: Video Inteligente (IntersectionObserver & VisibilityChange) - #jonmircha",
+        "h": "20200624223200"
     },
     {
         "i": 69,
         "j": "Q9y9BugN8-s",
-        "b": "Curso JavaScript: 69. DOM: Templates HTML - #jonmircha"
+        "b": "Curso JavaScript: 69. DOM: Templates HTML - #jonmircha",
+        "h": "20200502000101"
     },
     {
         "i": 26,
         "j": "qM9Rsv3LCWc",
-        "b": "Curso JavaScript: 26. Objeto console - #jonmircha"
+        "b": "Curso JavaScript: 26. Objeto console - #jonmircha",
+        "h": "20200313015142"
     },
     {
         "i": 38,
         "j": "qMjGhYhmrFc",
-        "b": "Curso JavaScript: 38. Ejercicios de Lógica de Programación ( 5 / 10 ) - #jonmircha"
+        "b": "Curso JavaScript: 38. Ejercicios de Lógica de Programación ( 5 / 10 ) - #jonmircha",
+        "h": "20200331023412"
     },
     {
         "i": 58,
         "j": "qy6IIjlykD0",
-        "b": "Curso JavaScript: 58. call, apply, bind - #jonmircha"
+        "b": "Curso JavaScript: 58. call, apply, bind - #jonmircha",
+        "h": "20200424130921"
     },
     {
         "i": 84,
         "j": "r-w_0SU-I74",
-        "b": "Curso JavaScript: 84. DOM: Ejercicios Prácticos | Eventos del Teclado (Atajos) - #jonmircha"
+        "b": "Curso JavaScript: 84. DOM: Ejercicios Prácticos | Eventos del Teclado (Atajos) - #jonmircha",
+        "h": "20200603144531"
     },
     {
         "i": 158,
         "j": "RWTLqdS5vTo",
-        "b": "Curso JavaScript: 158. Reactividad: Introducción - #jonmircha"
+        "b": "Curso JavaScript: 158. Reactividad: Introducción - #jonmircha",
+        "h": "20210114035739"
     },
     {
         "i": 149,
         "j": "rY8k7-Jm8ws",
-        "b": "Curso JavaScript: 149. SPA: Componente Header - #jonmircha"
+        "b": "Curso JavaScript: 149. SPA: Componente Header - #jonmircha",
+        "h": "20201111015426"
     },
     {
         "i": 5,
         "j": "s-C8OpALC6E",
-        "b": "Curso JavaScript: 5. Cadenas de Texto (Strings) - #jonmircha"
+        "b": "Curso JavaScript: 5. Cadenas de Texto (Strings) - #jonmircha",
+        "h": "20200211230451"
     },
     {
         "i": 110,
         "j": "SBr_EVNErPk",
-        "b": "Curso JavaScript: 110. AJAX: Librería Axios + Async-Await - #jonmircha"
+        "b": "Curso JavaScript: 110. AJAX: Librería Axios + Async-Await - #jonmircha",
+        "h": "20200709150242"
     },
     {
         "i": 132,
         "j": "SI421AGqHNo",
-        "b": "Curso JavaScript: 132. Ejercicios AJAX - APIs: Pagos Online con Fetch y Stripe (4/4) - #jonmircha"
+        "b": "Curso JavaScript: 132. Ejercicios AJAX - APIs: Pagos Online con Fetch y Stripe (4/4) - #jonmircha",
+        "h": "20200819172413"
     },
     {
         "i": 29,
         "j": "SK7CCXjzVgA",
-        "b": "Curso JavaScript: 29. Operador de Cortocircuito - #jonmircha"
+        "b": "Curso JavaScript: 29. Operador de Cortocircuito - #jonmircha",
+        "h": "20200313225023"
     },
     {
         "i": 16,
         "j": "SPVL8uAezaw",
-        "b": "Curso JavaScript: 16. Manejo de Errores - #jonmircha"
+        "b": "Curso JavaScript: 16. Manejo de Errores - #jonmircha",
+        "h": "20200227234603"
     },
     {
         "i": 25,
         "j": "TEzu31q9MVA",
-        "b": "Curso JavaScript: 25. Métodos estáticos, getters y setters - #jonmircha"
+        "b": "Curso JavaScript: 25. Métodos estáticos, getters y setters - #jonmircha",
+        "h": "20200308024853"
     },
     {
         "i": 68,
         "j": "tFSFX37Yah4",
-        "b": "Curso JavaScript: 68. DOM: Creando Elementos y Fragmentos - #jonmircha"
+        "b": "Curso JavaScript: 68. DOM: Creando Elementos y Fragmentos - #jonmircha",
+        "h": "20200501235516"
     },
     {
         "i": 141,
         "j": "tHUXL27Ryi0",
-        "b": "Curso JavaScript: 141. WordPress REST API y Fetch (3 / 5) - #jonmircha"
+        "b": "Curso JavaScript: 141. WordPress REST API y Fetch (3 / 5) - #jonmircha",
+        "h": "20200901225805"
     },
     {
         "i": 3,
         "j": "tmRa0_EvMoc",
-        "b": "Curso JavaScript: 3. Variables: var 🥊VS🥊 let - #jonmircha"
+        "b": "Curso JavaScript: 3. Variables: var 🥊VS🥊 let - #jonmircha",
+        "h": "20200211172543"
     },
     {
         "i": 71,
         "j": "tqqw2b1kasg",
-        "b": "Curso JavaScript: 71. DOM: Modificando Elementos (Cool Style) - #jonmircha"
+        "b": "Curso JavaScript: 71. DOM: Modificando Elementos (Cool Style) - #jonmircha",
+        "h": "20200502001307"
     },
     {
         "i": 46,
         "j": "TYG2_iUr8XY",
-        "b": "Curso JavaScript: 46. Callbacks - #jonmircha"
+        "b": "Curso JavaScript: 46. Callbacks - #jonmircha",
+        "h": "20200410005619"
     },
     {
         "i": 36,
         "j": "U4buFGcd_eg",
-        "b": "Curso JavaScript: 36. Ejercicios de Lógica de Programación ( 3 / 10 ) - #jonmircha"
+        "b": "Curso JavaScript: 36. Ejercicios de Lógica de Programación ( 3 / 10 ) - #jonmircha",
+        "h": "20200326022111"
     },
     {
         "i": 134,
         "j": "UorxESPSZNA",
-        "b": "Curso JavaScript: 134. Ejercicios AJAX - APIs: Paginación de Pokémons con Fetch (1/2) - #jonmircha"
+        "b": "Curso JavaScript: 134. Ejercicios AJAX - APIs: Paginación de Pokémons con Fetch (1/2) - #jonmircha",
+        "h": "20200824221918"
     },
     {
         "i": 56,
         "j": "UPuTJxodsW8",
-        "b": "Curso JavaScript: 56. Propiedades Dinámicas de los Objetos - #jonmircha"
+        "b": "Curso JavaScript: 56. Propiedades Dinámicas de los Objetos - #jonmircha",
+        "h": "20200424113200"
     },
     {
         "i": 119,
         "j": "uvTgSMYbV8c",
-        "b": "Curso JavaScript: 119. API REST: CRUD con Axios: (1/2) - #jonmircha"
+        "b": "Curso JavaScript: 119. API REST: CRUD con Axios: (1/2) - #jonmircha",
+        "h": "20200725205531"
     },
     {
         "i": 109,
         "j": "uxsEZgkcvFU",
-        "b": "Curso JavaScript: 109. AJAX: Librería Axios - #jonmircha"
+        "b": "Curso JavaScript: 109. AJAX: Librería Axios - #jonmircha",
+        "h": "20200709145601"
     },
     {
         "i": 139,
         "j": "uxWeTQDDAbM",
-        "b": "Curso JavaScript: 139. WordPress REST API y Fetch (1 / 5) - #jonmircha"
+        "b": "Curso JavaScript: 139. WordPress REST API y Fetch (1 / 5) - #jonmircha",
+        "h": "20200901220816"
     },
     {
         "i": 60,
         "j": "VlMiHqTR-7s",
-        "b": "Curso JavaScript: 60. WEB APIs - #jonmircha"
+        "b": "Curso JavaScript: 60. WEB APIs - #jonmircha",
+        "h": "20200424133557"
     },
     {
         "i": 146,
         "j": "VUbKdpVQKDU",
-        "b": "Curso JavaScript: 146. SPA: Helper de conexión a API REST - #jonmircha"
+        "b": "Curso JavaScript: 146. SPA: Helper de conexión a API REST - #jonmircha",
+        "h": "20201106014315"
     },
     {
         "i": 148,
         "j": "w0djekE6NR8",
-        "b": "Curso JavaScript: 148. SPA: Primeros Componentes de UI - #jonmircha"
+        "b": "Curso JavaScript: 148. SPA: Primeros Componentes de UI - #jonmircha",
+        "h": "20201106023818"
     },
     {
         "i": 124,
         "j": "w7bh68aZsKM",
-        "b": "Curso JavaScript: 124. Ejercicios AJAX - APIs: Uploader con AJAX - #jonmircha"
+        "b": "Curso JavaScript: 124. Ejercicios AJAX - APIs: Uploader con AJAX - #jonmircha",
+        "h": "20200806233223"
     },
     {
         "i": 39,
         "j": "WbJzfthCFrM",
-        "b": "Curso JavaScript: 39. Ejercicios de Lógica de Programación ( 6 / 10 ) - #jonmircha"
+        "b": "Curso JavaScript: 39. Ejercicios de Lógica de Programación ( 6 / 10 ) - #jonmircha",
+        "h": "20200331231451"
     },
     {
         "i": 92,
         "j": "WHfyN411fd4",
-        "b": "Curso JavaScript: 92. DOM: Ejercicios Prácticos | Detección de Dispositivos User Agent - #jonmircha"
+        "b": "Curso JavaScript: 92. DOM: Ejercicios Prácticos | Detección de Dispositivos User Agent - #jonmircha",
+        "h": "20200612152721"
     },
     {
         "i": 21,
         "j": "WuCw9agV3Rc",
-        "b": "Curso JavaScript: 21. Arrow Functions - #jonmircha"
+        "b": "Curso JavaScript: 21. Arrow Functions - #jonmircha",
+        "h": "20200305172739"
     },
     {
         "i": 111,
         "j": "wzoUu6rcQ4c",
-        "b": "Curso JavaScript: 111. API REST: Introducción - #jonmircha"
+        "b": "Curso JavaScript: 111. API REST: Introducción - #jonmircha",
+        "h": "20200719231226"
     },
     {
         "i": 65,
         "j": "x1bzRMEH89A",
-        "b": "Curso JavaScript: 65. DOM: Clases CSS - #jonmircha"
+        "b": "Curso JavaScript: 65. DOM: Clases CSS - #jonmircha",
+        "h": "20200501233613"
     },
     {
         "i": 82,
         "j": "XbqZDKLle64",
-        "b": "Curso JavaScript: 82. DOM: Ejercicios Prácticos | Reloj Digital - #jonmircha"
+        "b": "Curso JavaScript: 82. DOM: Ejercicios Prácticos | Reloj Digital - #jonmircha",
+        "h": "20200526134338"
     },
     {
         "i": 94,
         "j": "Xd9eB--HVKg",
-        "b": "Curso JavaScript: 94. DOM: Ejercicios Prácticos | Detección de la WebCam - #jonmircha"
+        "b": "Curso JavaScript: 94. DOM: Ejercicios Prácticos | Detección de la WebCam - #jonmircha",
+        "h": "20200613172704"
     },
     {
         "i": 95,
         "j": "XDjpuBfkFi4",
-        "b": "Curso JavaScript: 95. DOM: Ejercicios Prácticos | Detección de la Geolocalización - #jonmircha"
+        "b": "Curso JavaScript: 95. DOM: Ejercicios Prácticos | Detección de la Geolocalización - #jonmircha",
+        "h": "20200613180533"
     },
     {
         "i": 156,
         "j": "XEf5jW9Y9oE",
-        "b": "Curso JavaScript: 156. SPA: Infinite Scroll & High Order Components - #jonmircha"
+        "b": "Curso JavaScript: 156. SPA: Infinite Scroll & High Order Components - #jonmircha",
+        "h": "20201120004907"
     },
     {
         "i": 35,
         "j": "Xh8p7aZBiaw",
-        "b": "Curso JavaScript: 35. Ejercicios de Lógica de Programación ( 2 / 10 ) - #jonmircha"
+        "b": "Curso JavaScript: 35. Ejercicios de Lógica de Programación ( 2 / 10 ) - #jonmircha",
+        "h": "20200325031457"
     },
     {
         "i": 19,
         "j": "XhJaPRfJaz0",
-        "b": "Curso JavaScript: 19. Objetos literales - #jonmircha"
+        "b": "Curso JavaScript: 19. Objetos literales - #jonmircha",
+        "h": "20200302231635"
     },
     {
         "i": 140,
         "j": "XTJpPIv1Aw0",
-        "b": "Curso JavaScript: 140. WordPress REST API y Fetch (2 / 5) - #jonmircha"
+        "b": "Curso JavaScript: 140. WordPress REST API y Fetch (2 / 5) - #jonmircha",
+        "h": "20200901220848"
     },
     {
         "i": 49,
         "j": "XVBkTsj99so",
-        "b": "Curso JavaScript: 49. Symbols - #jonmircha"
+        "b": "Curso JavaScript: 49. Symbols - #jonmircha",
+        "h": "20200414211208"
     },
     {
         "i": 20,
         "j": "yGJdRAXHCPM",
-        "b": "Curso JavaScript: 20. Parámetros REST & Operador Spread - #jonmircha"
+        "b": "Curso JavaScript: 20. Parámetros REST & Operador Spread - #jonmircha",
+        "h": "20200302232803"
     },
     {
         "i": 18,
         "j": "YTtZ9TUQ48E",
-        "b": "Curso JavaScript: 18. Destructuración - #jonmircha"
+        "b": "Curso JavaScript: 18. Destructuración - #jonmircha",
+        "h": "20200302222028"
     },
     {
         "i": 161,
         "j": "yYyC2bE_q9o",
-        "b": "Curso JavaScript: 161. Reactividad: Estado Reactivo - #jonmircha"
+        "b": "Curso JavaScript: 161. Reactividad: Estado Reactivo - #jonmircha",
+        "h": "20210114043101"
     },
     {
         "i": 120,
         "j": "Z535sOcIaMA",
-        "b": "Curso JavaScript: 120. API REST: CRUD con Axios: (2/2) - #jonmircha"
+        "b": "Curso JavaScript: 120. API REST: CRUD con Axios: (2/2) - #jonmircha",
+        "h": "20200725234631"
     },
     {
         "i": 87,
         "j": "ZBaClgP7i_c",
-        "b": "Curso JavaScript: 87. DOM: Ejercicios Prácticos | Botón de Scroll - #jonmircha"
+        "b": "Curso JavaScript: 87. DOM: Ejercicios Prácticos | Botón de Scroll - #jonmircha",
+        "h": "20200604023530"
     },
     {
         "i": 62,
         "j": "zBmtmlB5b5g",
-        "b": "Curso JavaScript: 62. DOM: Nodos, Elementos y Selectores - #jonmircha"
+        "b": "Curso JavaScript: 62. DOM: Nodos, Elementos y Selectores - #jonmircha",
+        "h": "20200501190221"
     },
     {
         "i": 159,
         "j": "zZvmp6V2fCo",
-        "b": "Curso JavaScript: 159. Reactividad: Manipulación NO Reactiva del DOM - #jonmircha"
+        "b": "Curso JavaScript: 159. Reactividad: Manipulación NO Reactiva del DOM - #jonmircha",
+        "h": "20210114040224"
     }
 ]

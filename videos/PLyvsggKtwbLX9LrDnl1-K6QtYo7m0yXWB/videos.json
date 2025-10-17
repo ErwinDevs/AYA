@@ -2,241 +2,289 @@
     {
         "i": 45,
         "j": "-0zaqKB2_wg",
-        "b": "Curso Java desde cero #46 | Proyecto Final - Como pasar datos de una interfaz a otra."
+        "b": "Curso Java desde cero #46 | Proyecto Final - Como pasar datos de una interfaz a otra.",
+        "h": "20171010195807"
     },
     {
         "i": 29,
         "j": "-pUDnJX5A0A",
-        "b": "Curso Java desde cero #30 | Interfaces gráficas (Swing - JTextArea)"
+        "b": "Curso Java desde cero #30 | Interfaces gráficas (Swing - JTextArea)",
+        "h": "20170607020509"
     },
     {
         "i": 17,
         "j": "1c3sMZ-UTbQ",
-        "b": "Curso Java desde cero #18 | Manipulación de cadenas con los métodos length() & substring()"
+        "b": "Curso Java desde cero #18 | Manipulación de cadenas con los métodos length() & substring()",
+        "h": "20170419201022"
     },
     {
         "i": 30,
         "j": "2Mob_1pizSw",
-        "b": "Curso Java desde cero #31 | Interfaces gráficas (Swing - JScrollPane)"
+        "b": "Curso Java desde cero #31 | Interfaces gráficas (Swing - JScrollPane)",
+        "h": "20170612215730"
     },
     {
         "i": 25,
         "j": "2xLHMUdSPMU",
-        "b": "Curso Java desde cero #26 | Interfaces gráficas (swing - JLabel)"
+        "b": "Curso Java desde cero #26 | Interfaces gráficas (swing - JLabel)",
+        "h": "20170513045219"
     },
     {
         "i": 10,
         "j": "3asmLRCsASs",
-        "b": "Curso Java desde cero #11 | Estructuras de control (Switch - Case)"
+        "b": "Curso Java desde cero #11 | Estructuras de control (Switch - Case)",
+        "h": "20170403070603"
     },
     {
         "i": 22,
         "j": "3cCpfUMwq6w",
-        "b": "Curso Java desde cero #23 | Matrices dinámicas (Ejercicio & resolución)"
+        "b": "Curso Java desde cero #23 | Matrices dinámicas (Ejercicio & resolución)",
+        "h": "20170512044024"
     },
     {
         "i": 21,
         "j": "3FIfjrC1kG0",
-        "b": "Curso Java desde cero #22 | Arreglos bidimensionales (Matrices dinámicas)"
+        "b": "Curso Java desde cero #22 | Arreglos bidimensionales (Matrices dinámicas)",
+        "h": "20170512042828"
     },
     {
         "i": 40,
         "j": "3U9YeYVTgCY",
-        "b": "Curso Java desde cero #41 | Proyecto Final - Sistema de interfaz Gráfica Coca-Cola"
+        "b": "Curso Java desde cero #41 | Proyecto Final - Sistema de interfaz Gráfica Coca-Cola",
+        "h": "20170821233612"
     },
     {
         "i": 14,
         "j": "4MBWUxSR7_M",
-        "b": "Curso Java desde cero #15 | Ejercicios para el desarrollo de la lógica"
+        "b": "Curso Java desde cero #15 | Ejercicios para el desarrollo de la lógica",
+        "h": "20170407062033"
     },
     {
         "i": 13,
         "j": "5B-yd6EgpTc",
-        "b": "Curso Java desde cero #14 | Ciclos o Bucles (Estructura repetitiva do-while)"
+        "b": "Curso Java desde cero #14 | Ciclos o Bucles (Estructura repetitiva do-while)",
+        "h": "20170405014358"
     },
     {
         "i": 26,
         "j": "6PMMn62pf78",
-        "b": "Curso Java desde cero #27 | Interfaces gráficas (Swing - JButton)"
+        "b": "Curso Java desde cero #27 | Interfaces gráficas (Swing - JButton)",
+        "h": "20170530020816"
     },
     {
         "i": 18,
         "j": "6zP9AuO2gsM",
-        "b": "Curso Java desde cero #19 | Arreglos unidimensionales (Vectores)"
+        "b": "Curso Java desde cero #19 | Arreglos unidimensionales (Vectores)",
+        "h": "20170508185936"
     },
     {
         "i": 34,
         "j": "7kUv991zh_o",
-        "b": "Curso Java desde cero #35 | Interfaces gráficas - Botón RGB"
+        "b": "Curso Java desde cero #35 | Interfaces gráficas - Botón RGB",
+        "h": "20170704211744"
     },
     {
         "i": 37,
         "j": "AX8DynqTdsg",
-        "b": "Curso Java desde cero #38 | Interfaces gráficas (Swing - JCheckBox)"
+        "b": "Curso Java desde cero #38 | Interfaces gráficas (Swing - JCheckBox)",
+        "h": "20170718221601"
     },
     {
         "i": 20,
         "j": "bPVcx44wgmQ",
-        "b": "Curso Java desde cero #21 | Arreglos bidimensionales (Matrices)"
+        "b": "Curso Java desde cero #21 | Arreglos bidimensionales (Matrices)",
+        "h": "20170510223557"
     },
     {
         "i": 2,
         "j": "Cdr4wTz0Wro",
-        "b": "Curso Java desde cero  #3 | Errores sintácticos y lógicos"
+        "b": "Curso Java desde cero  #3 | Errores sintácticos y lógicos",
+        "h": "20170131071459"
     },
     {
         "i": 42,
         "j": "CJGOV0-rviw",
-        "b": "Curso Java desde cero #43 | Proyecto Final - Interfaz de Términos y Condiciones"
+        "b": "Curso Java desde cero #43 | Proyecto Final - Interfaz de Términos y Condiciones",
+        "h": "20171004023108"
     },
     {
         "i": 1,
         "j": "Cs5ymoNkrX8",
-        "b": "Curso Java desde cero  #2 | Indentado, Compilación y Ejecución del código"
+        "b": "Curso Java desde cero  #2 | Indentado, Compilación y Ejecución del código",
+        "h": "20170126011206"
     },
     {
         "i": 23,
         "j": "E3_3bF_q64k",
-        "b": "Curso Java desde cero #24 | Interfaces gráficas (Librería swing)"
+        "b": "Curso Java desde cero #24 | Interfaces gráficas (Librería swing)",
+        "h": "20170512050110"
     },
     {
         "i": 44,
         "j": "e3dJkbmsWDQ",
-        "b": "Curso Java desde cero #45 | Proyecto Final - Conexión de interfaces gráficas."
+        "b": "Curso Java desde cero #45 | Proyecto Final - Conexión de interfaces gráficas.",
+        "h": "20171006053847"
     },
     {
         "i": 41,
         "j": "fMZWGDQZknQ",
-        "b": "Curso Java desde cero #42 | Proyecto Final - Interfaz de Bienvenida"
+        "b": "Curso Java desde cero #42 | Proyecto Final - Interfaz de Bienvenida",
+        "h": "20171003203819"
     },
     {
         "i": 32,
         "j": "g3gE5eQMYS8",
-        "b": "Curso Java desde cero #33 | Conversión de datos (Método Parse)"
+        "b": "Curso Java desde cero #33 | Conversión de datos (Método Parse)",
+        "h": "20170625030038"
     },
     {
         "i": 11,
         "j": "GnIdk6Rvj1I",
-        "b": "Curso Java desde cero #12 | Ciclos o Bucles (Estructura repetitiva for)"
+        "b": "Curso Java desde cero #12 | Ciclos o Bucles (Estructura repetitiva for)",
+        "h": "20170403072815"
     },
     {
         "i": 8,
         "j": "i5y1agE0nLs",
-        "b": "Curso Java desde cero #9 | Condiciones compuestas con operadores lógicos & relacionales"
+        "b": "Curso Java desde cero #9 | Condiciones compuestas con operadores lógicos & relacionales",
+        "h": "20170315215850"
     },
     {
         "i": 4,
         "j": "Ifg_JzetpU4",
-        "b": "Curso Java desde cero  #5 | Operadores aritméticos & prioridad de los signos"
+        "b": "Curso Java desde cero  #5 | Operadores aritméticos & prioridad de los signos",
+        "h": "20170216212708"
     },
     {
         "i": 39,
         "j": "IP_UIGj6xmc",
-        "b": "Curso Java desde cero #40 | Interfaces gráficas (Swing - JRadioButton)"
+        "b": "Curso Java desde cero #40 | Interfaces gráficas (Swing - JRadioButton)",
+        "h": "20170720214719"
     },
     {
         "i": 31,
         "j": "iyBH1_EoR9w",
-        "b": "Curso Java desde cero #32 | Como pasar texto de un JTextField a un JTextArea"
+        "b": "Curso Java desde cero #32 | Como pasar texto de un JTextField a un JTextArea",
+        "h": "20170624212022"
     },
     {
         "i": 46,
         "j": "J24UzbjPcHk",
-        "b": "Curso Java desde cero #47 | Proyecto Final - Programación de eventos (Penúltimo vídeo del curso)"
+        "b": "Curso Java desde cero #47 | Proyecto Final - Programación de eventos (Penúltimo vídeo del curso)",
+        "h": "20171011052005"
     },
     {
         "i": 47,
         "j": "JNyWhkF7Eos",
-        "b": "Curso Java desde cero #48 |  Empaquetado de aplicaciones en Java - Final de curso"
+        "b": "Curso Java desde cero #48 |  Empaquetado de aplicaciones en Java - Final de curso",
+        "h": "20171012211306"
     },
     {
         "i": 15,
         "j": "K0R5-9P05ek",
-        "b": "Curso Java desde cero #16 | Sucesión fibonacci"
+        "b": "Curso Java desde cero #16 | Sucesión fibonacci",
+        "h": "20170411033949"
     },
     {
         "i": 9,
         "j": "KjX5SX62e2Y",
-        "b": "Curso Java desde cero #10 | Sistema de control vacacional"
+        "b": "Curso Java desde cero #10 | Sistema de control vacacional",
+        "h": "20170318012806"
     },
     {
         "i": 0,
         "j": "L1oMLsiMusQ",
-        "b": "Curso Java desde cero  #1 | Introducción e instalación de JDK"
+        "b": "Curso Java desde cero  #1 | Introducción e instalación de JDK",
+        "h": "20170121011331"
     },
     {
         "i": 43,
         "j": "mnIPtsPZ_3M",
-        "b": "Curso Java desde cero #44 | Proyecto Final - Interfaz Principal"
+        "b": "Curso Java desde cero #44 | Proyecto Final - Interfaz Principal",
+        "h": "20171004233613"
     },
     {
         "i": 19,
         "j": "O3ke7e-pC3o",
-        "b": "Curso Java desde cero #20 | Arreglos unidimensionales (Vectores dinámicos)"
+        "b": "Curso Java desde cero #20 | Arreglos unidimensionales (Vectores dinámicos)",
+        "h": "20170509040733"
     },
     {
         "i": 27,
         "j": "oJl8inUGzGY",
-        "b": "Curso Java desde cero #28 | Interfaces gráficas (Manejo de botones & etiquetas)"
+        "b": "Curso Java desde cero #28 | Interfaces gráficas (Manejo de botones & etiquetas)",
+        "h": "20170531210901"
     },
     {
         "i": 6,
         "j": "pPG66_BZ8-c",
-        "b": "Curso Java desde cero  #7 | Estructuras condicionales anidadas"
+        "b": "Curso Java desde cero  #7 | Estructuras condicionales anidadas",
+        "h": "20170304015306"
     },
     {
         "i": 5,
         "j": "pwVppK3RgyI",
-        "b": "Curso Java desde cero  #6 | Estructuras condicionales con if-else"
+        "b": "Curso Java desde cero  #6 | Estructuras condicionales con if-else",
+        "h": "20170302011833"
     },
     {
         "i": 12,
         "j": "Q50omd0WitY",
-        "b": "Curso Java desde cero #13 | Ciclos o Bucles (Estructura repetitiva while)"
+        "b": "Curso Java desde cero #13 | Ciclos o Bucles (Estructura repetitiva while)",
+        "h": "20170405012305"
     },
     {
         "i": 28,
         "j": "Rs4gz77Ap0g",
-        "b": "Curso Java desde cero #29 |  Interfaces gráficas (Swing - JTextField)"
+        "b": "Curso Java desde cero #29 |  Interfaces gráficas (Swing - JTextField)",
+        "h": "20170606194343"
     },
     {
         "i": 35,
         "j": "sNFWxrCJb4s",
-        "b": "Curso Java desde cero #36 | Programación de un menú con eventos (JMenuBar - JMenu - JMenuItem)"
+        "b": "Curso Java desde cero #36 | Programación de un menú con eventos (JMenuBar - JMenu - JMenuItem)",
+        "h": "20170706164839"
     },
     {
         "i": 38,
         "j": "tBM8D2nj_u4",
-        "b": "Curso Java desde cero #39 | Botón para Aceptar términos y condiciones (JButton - JCheckBox)"
+        "b": "Curso Java desde cero #39 | Botón para Aceptar términos y condiciones (JButton - JCheckBox)",
+        "h": "20170719221654"
     },
     {
         "i": 3,
         "j": "vJTeIJx_Kn0",
-        "b": "Curso Java desde cero  #4 | Variables & Tipos de datos en JAVA"
+        "b": "Curso Java desde cero  #4 | Variables & Tipos de datos en JAVA",
+        "h": "20170208001918"
     },
     {
         "i": 24,
         "j": "VOGula26mMM",
-        "b": "Curso Java desde cero #25 | Interfaces gráficas (swing - JFrame)"
+        "b": "Curso Java desde cero #25 | Interfaces gráficas (swing - JFrame)",
+        "h": "20170513043400"
     },
     {
         "i": 36,
         "j": "WsPQ7Z_8m9g",
-        "b": "Curso Java desde cero #37 | Programación de Submenus"
+        "b": "Curso Java desde cero #37 | Programación de Submenus",
+        "h": "20170707191501"
     },
     {
         "i": 7,
         "j": "WTgFsYc-RaA",
-        "b": "Curso Java desde cero  #8 | Como introducir datos desde teclado con Scanner"
+        "b": "Curso Java desde cero  #8 | Como introducir datos desde teclado con Scanner",
+        "h": "20170313201941"
     },
     {
         "i": 16,
         "j": "YgNkoObH2IM",
-        "b": "Curso Java desde cero #17 | Cadenas de caracteres con el método equals"
+        "b": "Curso Java desde cero #17 | Cadenas de caracteres con el método equals",
+        "h": "20170412162527"
     },
     {
         "i": 33,
         "j": "ZcTVwj4lHZA",
-        "b": "Curso Java desde cero #34 | Interfaces gráficas (Swing - JComboBox)"
+        "b": "Curso Java desde cero #34 | Interfaces gráficas (Swing - JComboBox)",
+        "h": "20170628154549"
     }
 ]

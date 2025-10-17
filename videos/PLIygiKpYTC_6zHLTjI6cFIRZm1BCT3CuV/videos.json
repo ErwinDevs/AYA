@@ -2,1121 +2,1345 @@
     {
         "i": 166,
         "j": "_e_8RVGo11U",
-        "b": "Estructuras dinámicas en C: Listas genéricas ordenadas - 1"
+        "b": "Estructuras dinámicas en C: Listas genéricas ordenadas - 1",
+        "h": "20200531233730"
     },
     {
         "i": 172,
         "j": "_Ge540jlw5g",
-        "b": "Recursividad Conceptos básicos - 2"
+        "b": "Recursividad Conceptos básicos - 2",
+        "h": "20200531233730"
     },
     {
         "i": 155,
         "j": "_HM2N8h2FE0",
-        "b": "Asignación dinámica de memoria (malloc y free) - 2"
+        "b": "Asignación dinámica de memoria (malloc y free) - 2",
+        "h": "20200531233730"
     },
     {
         "i": 196,
         "j": "-6-BVB66tP4",
-        "b": "Empleo de llaves opcionales en estructuras condicionales y repetitivas"
+        "b": "Empleo de llaves opcionales en estructuras condicionales y repetitivas",
+        "h": "20200604161437"
     },
     {
         "i": 54,
         "j": "-jcrzPDf2Qk",
-        "b": "Estructura repetitiva do while - 3"
+        "b": "Estructura repetitiva do while - 3",
+        "h": "20200531233730"
     },
     {
         "i": 131,
         "j": "-KwZ3qLIlSI",
-        "b": "Estructura de datos tipo registro struct - 1"
+        "b": "Estructura de datos tipo registro struct - 1",
+        "h": "20200531233730"
     },
     {
         "i": 150,
         "j": "-mK5nycAjGE",
-        "b": "Relación entre punteros y vectores - 1"
+        "b": "Relación entre punteros y vectores - 1",
+        "h": "20200531233730"
     },
     {
         "i": 108,
         "j": "0eb6PntHCC8",
-        "b": "Funciones con parámetros de tipo vector - 8"
+        "b": "Funciones con parámetros de tipo vector - 8",
+        "h": "20200531233730"
     },
     {
         "i": 32,
         "j": "0KO8Xul7kdo",
-        "b": "Estructura repetitiva while - 5"
+        "b": "Estructura repetitiva while - 5",
+        "h": "20200531233730"
     },
     {
         "i": 9,
         "j": "0o3hwGX8MiQ",
-        "b": "Estructuras condicionales simples y compuestas - 1"
+        "b": "Estructuras condicionales simples y compuestas - 1",
+        "h": "20200531233730"
     },
     {
         "i": 42,
         "j": "1Ix6ORHMd2g",
-        "b": "Estructura repetitiva for - 4"
+        "b": "Estructura repetitiva for - 4",
+        "h": "20200531233730"
     },
     {
         "i": 197,
         "j": "1QtfGKL96xM",
-        "b": "Declaración de enumeraciones - 1"
+        "b": "Declaración de enumeraciones - 1",
+        "h": "20200604161437"
     },
     {
         "i": 72,
         "j": "1QZ8O4icH50",
-        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 3"
+        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 3",
+        "h": "20200531233730"
     },
     {
         "i": 85,
         "j": "27sA3f4llb0",
-        "b": "Concepto de funciones -  Programación estructurada - 1"
+        "b": "Concepto de funciones -  Programación estructurada - 1",
+        "h": "20200531233730"
     },
     {
         "i": 129,
         "j": "2DCP73xdbLY",
-        "b": "Directiva #define - 1"
+        "b": "Directiva #define - 1",
+        "h": "20200531233730"
     },
     {
         "i": 185,
         "j": "2THaY1cvWzs",
-        "b": "Estructura condicional switch - 3"
+        "b": "Estructura condicional switch - 3",
+        "h": "20200604161437"
     },
     {
         "i": 170,
         "j": "3FpFQtzu45s",
-        "b": "Estructuras dinámicas en C: Listas genéricas circulares"
+        "b": "Estructuras dinámicas en C: Listas genéricas circulares",
+        "h": "20200531233730"
     },
     {
         "i": 146,
         "j": "3iS28w5p7i8",
-        "b": "Parámetros de una función de tipo punteros a int, float y char - 3"
+        "b": "Parámetros de una función de tipo punteros a int, float y char - 3",
+        "h": "20200531233730"
     },
     {
         "i": 188,
         "j": "3xxOpANSIGo",
-        "b": "Comandos break y continue dentro de estructuras repetitivas - 2"
+        "b": "Comandos break y continue dentro de estructuras repetitivas - 2",
+        "h": "20200604161437"
     },
     {
         "i": 14,
         "j": "4FtfqZ8pb50",
-        "b": "Estructuras condicionales anidadas - 1"
+        "b": "Estructuras condicionales anidadas - 1",
+        "h": "20200531233730"
     },
     {
         "i": 127,
         "j": "5A5BnAmtdRk",
-        "b": "Vectores y matrices paralelas (ordenamiento) - 1"
+        "b": "Vectores y matrices paralelas (ordenamiento) - 1",
+        "h": "20200531233730"
     },
     {
         "i": 106,
         "j": "5HYKXZvrqjs",
-        "b": "Funciones con parámetros de tipo vector - 6"
+        "b": "Funciones con parámetros de tipo vector - 6",
+        "h": "20200531233730"
     },
     {
         "i": 4,
         "j": "5M2gxtwpvIY",
-        "b": "Estructura de programación secuencial - 1"
+        "b": "Estructura de programación secuencial - 1",
+        "h": "20200531233730"
     },
     {
         "i": 31,
         "j": "5wss2kMkpU8",
-        "b": "Estructura repetitiva while - 4"
+        "b": "Estructura repetitiva while - 4",
+        "h": "20200531233730"
     },
     {
         "i": 112,
         "j": "6LJVHgtkoCk",
-        "b": "Vectores ordenamiento - 1"
+        "b": "Vectores ordenamiento - 1",
+        "h": "20200531233730"
     },
     {
         "i": 190,
         "j": "71HSoHaRhkg",
-        "b": "Comando goto - 1"
+        "b": "Comando goto - 1",
+        "h": "20200604161437"
     },
     {
         "i": 163,
         "j": "75ST3eWcqzA",
-        "b": "Estructuras dinámicas en C: Listas tipo Cola - Problema de aplicación"
+        "b": "Estructuras dinámicas en C: Listas tipo Cola - Problema de aplicación",
+        "h": "20200531233730"
     },
     {
         "i": 206,
         "j": "79RqV1DUeRw",
-        "b": "Definición de funciones y variables static"
+        "b": "Definición de funciones y variables static",
+        "h": "20200607214527"
     },
     {
         "i": 184,
         "j": "7D9aQHjJU74",
-        "b": "Estructura condicional switch - 2"
+        "b": "Estructura condicional switch - 2",
+        "h": "20200604161437"
     },
     {
         "i": 207,
         "j": "7f82IZyVX1Q",
-        "b": "Variables globales con el modificador extern"
+        "b": "Variables globales con el modificador extern",
+        "h": "20200607214527"
     },
     {
         "i": 34,
         "j": "7wtqSXLJdSM",
-        "b": "Estructura repetitiva while - 7"
+        "b": "Estructura repetitiva while - 7",
+        "h": "20200531233730"
     },
     {
         "i": 69,
         "j": "7YauR6oELIQ",
-        "b": "Tipo de dato char - 6"
+        "b": "Tipo de dato char - 6",
+        "h": "20200531233730"
     },
     {
         "i": 176,
         "j": "7zGu0chDFl0",
-        "b": "Estructuras dinámicas en C: Implementación de un árbol binario ordenado - 1"
+        "b": "Estructuras dinámicas en C: Implementación de un árbol binario ordenado - 1",
+        "h": "20200531233730"
     },
     {
         "i": 191,
         "j": "83npBRPvmB8",
-        "b": "Comando goto - 2"
+        "b": "Comando goto - 2",
+        "h": "20200604161437"
     },
     {
         "i": 107,
         "j": "8JTiH_GgjIM",
-        "b": "Funciones con parámetros de tipo vector - 7"
+        "b": "Funciones con parámetros de tipo vector - 7",
+        "h": "20200531233730"
     },
     {
         "i": 102,
         "j": "8RwCrkYR5z0",
-        "b": "Funciones con parámetros de tipo vector - 2"
+        "b": "Funciones con parámetros de tipo vector - 2",
+        "h": "20200531233730"
     },
     {
         "i": 92,
         "j": "9skp3WWbswM",
-        "b": "Funciones con parámetros de tipo int, float y char - 4"
+        "b": "Funciones con parámetros de tipo int, float y char - 4",
+        "h": "20200531233730"
     },
     {
         "i": 211,
         "j": "A0uYvfrkNsc",
-        "b": "Archivos binarios: desplazamiento del puntero de archivo (fseek) - 1"
+        "b": "Archivos binarios: desplazamiento del puntero de archivo (fseek) - 1",
+        "h": "20200607214527"
     },
     {
         "i": 57,
         "j": "A51zeydBFfk",
-        "b": "Estructura de datos tipo vector elementos int y float - 1"
+        "b": "Estructura de datos tipo vector elementos int y float - 1",
+        "h": "20200531233730"
     },
     {
         "i": 117,
         "j": "AboBwVLYqHg",
-        "b": "Estructura de datos tipo matriz (elementos int y float) - 4"
+        "b": "Estructura de datos tipo matriz (elementos int y float) - 4",
+        "h": "20200531233730"
     },
     {
         "i": 100,
         "j": "AcxqoYoLw_I",
-        "b": "Funciones con retorno de un valor - 5"
+        "b": "Funciones con retorno de un valor - 5",
+        "h": "20200531233730"
     },
     {
         "i": 115,
         "j": "aGekQtvjh_Y",
-        "b": "Estructura de datos tipo matriz (elementos int y float) - 2"
+        "b": "Estructura de datos tipo matriz (elementos int y float) - 2",
+        "h": "20200531233730"
     },
     {
         "i": 168,
         "j": "agmpGHc9mwo",
-        "b": "Estructuras dinámicas en C: Listas genéricas doblemente encadenadas - 1"
+        "b": "Estructuras dinámicas en C: Listas genéricas doblemente encadenadas - 1",
+        "h": "20200531233730"
     },
     {
         "i": 154,
         "j": "ANKj7MfFpIY",
-        "b": "Asignación dinámica de memoria (malloc y free) - 1"
+        "b": "Asignación dinámica de memoria (malloc y free) - 1",
+        "h": "20200531233730"
     },
     {
         "i": 193,
         "j": "B0U5RBMunAs",
-        "b": "Función system"
+        "b": "Función system",
+        "h": "20200604161437"
     },
     {
         "i": 91,
         "j": "b9ToswOLYc8",
-        "b": "Funciones con parámetros de tipo int, float y char - 3"
+        "b": "Funciones con parámetros de tipo int, float y char - 3",
+        "h": "20200531233730"
     },
     {
         "i": 210,
         "j": "bBuBimhglAw",
-        "b": "Archivos binarios: lectura de datos primitivos (fread)"
+        "b": "Archivos binarios: lectura de datos primitivos (fread)",
+        "h": "20200607214527"
     },
     {
         "i": 88,
         "j": "bdPmjEFUHDM",
-        "b": "Concepto de funciones - Programación estructurada - 4"
+        "b": "Concepto de funciones - Programación estructurada - 4",
+        "h": "20200531233730"
     },
     {
         "i": 171,
         "j": "Bl0kSlwjF78",
-        "b": "Recursividad Conceptos básicos - 1"
+        "b": "Recursividad Conceptos básicos - 1",
+        "h": "20200531233730"
     },
     {
         "i": 109,
         "j": "BMl4htFY0Dw",
-        "b": "Funciones con parámetros de tipo vector - 9"
+        "b": "Funciones con parámetros de tipo vector - 9",
+        "h": "20200531233730"
     },
     {
         "i": 151,
         "j": "bOy9MjvscvU",
-        "b": "Relación entre punteros y vectores - 2"
+        "b": "Relación entre punteros y vectores - 2",
+        "h": "20200531233730"
     },
     {
         "i": 218,
         "j": "bpgGChSwbgg",
-        "b": "Archivos binarios: posición actual del puntero de archivo - ftell - 2"
+        "b": "Archivos binarios: posición actual del puntero de archivo - ftell - 2",
+        "h": "20200609005805"
     },
     {
         "i": 148,
         "j": "bwEx2t_VmBI",
-        "b": "Parámetro de una función de tipo punteros a struct - 1"
+        "b": "Parámetro de una función de tipo punteros a struct - 1",
+        "h": "20200531233730"
     },
     {
         "i": 61,
         "j": "C8HlJ5GdC5U",
-        "b": "Estructura de datos tipo vector elementos int y float - 5"
+        "b": "Estructura de datos tipo vector elementos int y float - 5",
+        "h": "20200531233730"
     },
     {
         "i": 189,
         "j": "c8S0MwLqGis",
-        "b": "Comandos break y continue dentro de estructuras repetitivas - 3"
+        "b": "Comandos break y continue dentro de estructuras repetitivas - 3",
+        "h": "20200604161437"
     },
     {
         "i": 38,
         "j": "cF-rf2FCfBA",
-        "b": "Estructura repetitiva while - 11"
+        "b": "Estructura repetitiva while - 11",
+        "h": "20200531233730"
     },
     {
         "i": 98,
         "j": "cHlmKAQxm4M",
-        "b": "Funciones con retorno de un valor - 3"
+        "b": "Funciones con retorno de un valor - 3",
+        "h": "20200531233730"
     },
     {
         "i": 125,
         "j": "ckRUB9qumlQ",
-        "b": "Vectores y matrices paralelas - 2"
+        "b": "Vectores y matrices paralelas - 2",
+        "h": "20200531233730"
     },
     {
         "i": 157,
         "j": "CmwQCT_ij30",
-        "b": "Estructuras dinámicas en C: Concepto de listas"
+        "b": "Estructuras dinámicas en C: Concepto de listas",
+        "h": "20200531233730"
     },
     {
         "i": 215,
         "j": "cqXBODTmZyo",
-        "b": "Archivos binarios: identificar final de archivo (feof) - 1"
+        "b": "Archivos binarios: identificar final de archivo (feof) - 1",
+        "h": "20200607214527"
     },
     {
         "i": 18,
         "j": "Cs2_ZC_bfaQ",
-        "b": "Estructuras condicionales anidadas - 5"
+        "b": "Estructuras condicionales anidadas - 5",
+        "h": "20200531233730"
     },
     {
         "i": 39,
         "j": "Cy3CEWA7o3E",
-        "b": "Estructura repetitiva for - 1"
+        "b": "Estructura repetitiva for - 1",
+        "h": "20200531233730"
     },
     {
         "i": 70,
         "j": "DbUk3SBAlWw",
-        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 1"
+        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 1",
+        "h": "20200531233730"
     },
     {
         "i": 195,
         "j": "dETHgAa0M-8",
-        "b": "Modificador const en los parámetros de una función"
+        "b": "Modificador const en los parámetros de una función",
+        "h": "20200604161437"
     },
     {
         "i": 179,
         "j": "DfuH9DHuy20",
-        "b": "Operador de molde con tipos enteros y reales (cast)"
+        "b": "Operador de molde con tipos enteros y reales (cast)",
+        "h": "20200604161437"
     },
     {
         "i": 192,
         "j": "DIswkvv7Fpo",
-        "b": "Función exit para terminar un programa"
+        "b": "Función exit para terminar un programa",
+        "h": "20200604161437"
     },
     {
         "i": 208,
         "j": "DMLpkM_2Miw",
-        "b": "Modificador inline en la definición de funciones"
+        "b": "Modificador inline en la definición de funciones",
+        "h": "20200607214527"
     },
     {
         "i": 165,
         "j": "dRh2qTOtu40",
-        "b": "Estructuras dinámicas en C: Listas genéricas - 2"
+        "b": "Estructuras dinámicas en C: Listas genéricas - 2",
+        "h": "20200531233730"
     },
     {
         "i": 94,
         "j": "dtu--DhfD1g",
-        "b": "Funciones con parámetros de tipo int, float y char - 6"
+        "b": "Funciones con parámetros de tipo int, float y char - 6",
+        "h": "20200531233730"
     },
     {
         "i": 141,
         "j": "DW6r26Kx-yU",
-        "b": "Variables de tipo puntero - 1"
+        "b": "Variables de tipo puntero - 1",
+        "h": "20200531233730"
     },
     {
         "i": 11,
         "j": "DWl6yDRkTyo",
-        "b": "Estructuras condicionales simples y compuestas - 3"
+        "b": "Estructuras condicionales simples y compuestas - 3",
+        "h": "20200531233730"
     },
     {
         "i": 132,
         "j": "E-Am17sbdT0",
-        "b": "Estructura de datos tipo registro struct - 2"
+        "b": "Estructura de datos tipo registro struct - 2",
+        "h": "20200531233730"
     },
     {
         "i": 87,
         "j": "E1w4qkn9xTk",
-        "b": "Concepto de funciones - Programación estructurada - 3"
+        "b": "Concepto de funciones - Programación estructurada - 3",
+        "h": "20200531233730"
     },
     {
         "i": 65,
         "j": "e9aCFvUhEcc",
-        "b": "Tipo de dato char - 2"
+        "b": "Tipo de dato char - 2",
+        "h": "20200531233730"
     },
     {
         "i": 198,
         "j": "EaTdo-9vHG0",
-        "b": "Declaración de enumeraciones - 2"
+        "b": "Declaración de enumeraciones - 2",
+        "h": "20200604161437"
     },
     {
         "i": 200,
         "j": "eCUI7KILNJ4",
-        "b": "Definición de nuevos nombres para tipos de datos existentes - typedef - 1"
+        "b": "Definición de nuevos nombres para tipos de datos existentes - typedef - 1",
+        "h": "20200606134732"
     },
     {
         "i": 5,
         "j": "Fagwsz99Bd4",
-        "b": "Estructura de programación secuencial - 2"
+        "b": "Estructura de programación secuencial - 2",
+        "h": "20200531233730"
     },
     {
         "i": 64,
         "j": "fPh_f958pwk",
-        "b": "Tipo de dato char - 1"
+        "b": "Tipo de dato char - 1",
+        "h": "20200531233730"
     },
     {
         "i": 66,
         "j": "fvH6DALra1E",
-        "b": "Tipo de dato char - 3"
+        "b": "Tipo de dato char - 3",
+        "h": "20200531233730"
     },
     {
         "i": 181,
         "j": "G2RQlA1puag",
-        "b": "Operador condicional ?:   -  1"
+        "b": "Operador condicional ?:   -  1",
+        "h": "20200604161437"
     },
     {
         "i": 105,
         "j": "G5dH8mQ9GlI",
-        "b": "Funciones con parámetros de tipo vector   5"
+        "b": "Funciones con parámetros de tipo vector   5",
+        "h": "20200531233730"
     },
     {
         "i": 201,
         "j": "GFuZeS5m8e8",
-        "b": "Definición de nuevos nombres para tipos de datos existentes - typedef - 2"
+        "b": "Definición de nuevos nombres para tipos de datos existentes - typedef - 2",
+        "h": "20200606134732"
     },
     {
         "i": 19,
         "j": "GKH9xLmLhKQ",
-        "b": "Condiciones compuestas con operadores lógicos - 1"
+        "b": "Condiciones compuestas con operadores lógicos - 1",
+        "h": "20200531233730"
     },
     {
         "i": 83,
         "j": "GpJRNfQQ1QE",
-        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 7"
+        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 7",
+        "h": "20200531233730"
     },
     {
         "i": 180,
         "j": "gRGCP4H1q74",
-        "b": "Operadores de asignación"
+        "b": "Operadores de asignación",
+        "h": "20200604161437"
     },
     {
         "i": 28,
         "j": "GSOWJ0fYbYw",
-        "b": "Estructura repetitiva while - 1"
+        "b": "Estructura repetitiva while - 1",
+        "h": "20200531233730"
     },
     {
         "i": 204,
         "j": "GyVIA1vG6ms",
-        "b": "Variables locales static - 2"
+        "b": "Variables locales static - 2",
+        "h": "20200606134732"
     },
     {
         "i": 142,
         "j": "gzqVZ--Rk_o",
-        "b": "Variables de tipo puntero - 2"
+        "b": "Variables de tipo puntero - 2",
+        "h": "20200531233730"
     },
     {
         "i": 67,
         "j": "hapZ7Ap1zuI",
-        "b": "Tipo de dato char - 4"
+        "b": "Tipo de dato char - 4",
+        "h": "20200531233730"
     },
     {
         "i": 53,
         "j": "Hc2rejBlWhQ",
-        "b": "Estructura repetitiva do while - 2"
+        "b": "Estructura repetitiva do while - 2",
+        "h": "20200531233730"
     },
     {
         "i": 80,
         "j": "hCunGX-RVuo",
-        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 4"
+        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 4",
+        "h": "20200531233730"
     },
     {
         "i": 25,
         "j": "hd6JMQwwVcE",
-        "b": "Condiciones compuestas con operadores lógicos   7"
+        "b": "Condiciones compuestas con operadores lógicos   7",
+        "h": "20200531233730"
     },
     {
         "i": 147,
         "j": "HfvqnA5za_Q",
-        "b": "Parámetros de una función de tipo punteros a int, float y char - 4"
+        "b": "Parámetros de una función de tipo punteros a int, float y char - 4",
+        "h": "20200531233730"
     },
     {
         "i": 12,
         "j": "Hj_j7wluMbQ",
-        "b": "Estructuras condicionales simples y compuestas - 4"
+        "b": "Estructuras condicionales simples y compuestas - 4",
+        "h": "20200531233730"
     },
     {
         "i": 152,
         "j": "hNV6aBy6_vs",
-        "b": "Operadores ++ y -- con variables de tipo puntero - 1"
+        "b": "Operadores ++ y -- con variables de tipo puntero - 1",
+        "h": "20200531233730"
     },
     {
         "i": 74,
         "j": "hy_QW0f4ZYU",
-        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 5"
+        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 5",
+        "h": "20200531233730"
     },
     {
         "i": 58,
         "j": "I4-d5DWKWgI",
-        "b": "Estructura de datos tipo vector elementos int y float - 2"
+        "b": "Estructura de datos tipo vector elementos int y float - 2",
+        "h": "20200531233730"
     },
     {
         "i": 194,
         "j": "IC6JUGyf-wU",
-        "b": "Definición de constantes const"
+        "b": "Definición de constantes const",
+        "h": "20200604161437"
     },
     {
         "i": 126,
         "j": "iDbdygP4WMY",
-        "b": "Vectores y matrices paralelas - 3"
+        "b": "Vectores y matrices paralelas - 3",
+        "h": "20200531233730"
     },
     {
         "i": 79,
         "j": "Is1jlQRacGY",
-        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h  - 3"
+        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h  - 3",
+        "h": "20200531233730"
     },
     {
         "i": 35,
         "j": "ITnYsyAcYOE",
-        "b": "Estructura repetitiva while - 8"
+        "b": "Estructura repetitiva while - 8",
+        "h": "20200531233730"
     },
     {
         "i": 33,
         "j": "J-_ARY3Hhwc",
-        "b": "Estructura repetitiva while - 6"
+        "b": "Estructura repetitiva while - 6",
+        "h": "20200531233730"
     },
     {
         "i": 68,
         "j": "j7dbgAKX654",
-        "b": "Tipo de dato char - 5"
+        "b": "Tipo de dato char - 5",
+        "h": "20200531233730"
     },
     {
         "i": 81,
         "j": "j8wVppnVnYo",
-        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 5"
+        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 5",
+        "h": "20200531233730"
     },
     {
         "i": 77,
         "j": "jCfCwm-rdF8",
-        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 1"
+        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 1",
+        "h": "20200531233730"
     },
     {
         "i": 136,
         "j": "jN77kGt9CGg",
-        "b": "Funciones con retorno de un struct - 2"
+        "b": "Funciones con retorno de un struct - 2",
+        "h": "20200531233730"
     },
     {
         "i": 99,
         "j": "JuD3aJX1WPc",
-        "b": "Funciones con retorno de un valor   4"
+        "b": "Funciones con retorno de un valor   4",
+        "h": "20200531233730"
     },
     {
         "i": 3,
         "j": "JuqqZ-vd6jA",
-        "b": "Errores sintácticos y lógicos"
+        "b": "Errores sintácticos y lógicos",
+        "h": "20200531233730"
     },
     {
         "i": 84,
         "j": "JxO8hMN9aCk",
-        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 8"
+        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 8",
+        "h": "20200531233730"
     },
     {
         "i": 45,
         "j": "K3M3kt1AFl8",
-        "b": "Estructura repetitiva for - 7"
+        "b": "Estructura repetitiva for - 7",
+        "h": "20200531233730"
     },
     {
         "i": 71,
         "j": "k3vHbJMt-2Y",
-        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 2"
+        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 2",
+        "h": "20200531233730"
     },
     {
         "i": 60,
         "j": "k4T-IjyvkUM",
-        "b": "Estructura de datos tipo vector elementos int y float - 4"
+        "b": "Estructura de datos tipo vector elementos int y float - 4",
+        "h": "20200531233730"
     },
     {
         "i": 162,
         "j": "K9qvIJUtfkk",
-        "b": "Estructuras dinámicas en C: Listas tipo Cola"
+        "b": "Estructuras dinámicas en C: Listas tipo Cola",
+        "h": "20200531233730"
     },
     {
         "i": 116,
         "j": "kdgqZSDvvak",
-        "b": "Estructura de datos tipo matriz (elementos int y float) - 3"
+        "b": "Estructura de datos tipo matriz (elementos int y float) - 3",
+        "h": "20200531233730"
     },
     {
         "i": 17,
         "j": "KFsCWGvSYJw",
-        "b": "Estructuras condicionales anidadas - 4"
+        "b": "Estructuras condicionales anidadas - 4",
+        "h": "20200531233730"
     },
     {
         "i": 219,
         "j": "kJNkk079CvM",
-        "b": "Archivos binarios: grabar y leer vectores completos en un archivo"
+        "b": "Archivos binarios: grabar y leer vectores completos en un archivo",
+        "h": "20200609005805"
     },
     {
         "i": 15,
         "j": "KkJLhxBix8Q",
-        "b": "Estructuras condicionales anidadas - 2"
+        "b": "Estructuras condicionales anidadas - 2",
+        "h": "20200531233730"
     },
     {
         "i": 124,
         "j": "kKqIf56U1kk",
-        "b": "Vectores y matrices paralelas - 1"
+        "b": "Vectores y matrices paralelas - 1",
+        "h": "20200531233730"
     },
     {
         "i": 76,
         "j": "KmIcb3ir74s",
-        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 7"
+        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 7",
+        "h": "20200531233730"
     },
     {
         "i": 167,
         "j": "KXwtV4bjpxc",
-        "b": "Estructuras dinámicas en C: Listas genéricas ordenadas - 2"
+        "b": "Estructuras dinámicas en C: Listas genéricas ordenadas - 2",
+        "h": "20200531233730"
     },
     {
         "i": 220,
         "j": "l1Nn5S2emB4",
-        "b": "Archivos binarios: agregar, consultar y modificar registros (struct) en un archivo"
+        "b": "Archivos binarios: agregar, consultar y modificar registros (struct) en un archivo",
+        "h": "20200609005805"
     },
     {
         "i": 93,
         "j": "L4Rl8DtRSYA",
-        "b": "Funciones con parámetros de tipo int, float y char - 5"
+        "b": "Funciones con parámetros de tipo int, float y char - 5",
+        "h": "20200531233730"
     },
     {
         "i": 50,
         "j": "lfDf3ERi22Y",
-        "b": "Estructura repetitiva for - 12"
+        "b": "Estructura repetitiva for - 12",
+        "h": "20200531233730"
     },
     {
         "i": 10,
         "j": "LGHowVuT01E",
-        "b": "Estructuras condicionales simples y compuestas - 2"
+        "b": "Estructuras condicionales simples y compuestas - 2",
+        "h": "20200531233730"
     },
     {
         "i": 209,
         "j": "LGxbu4c2A5w",
-        "b": "Archivos binarios: creación y grabación de tipo de datos primitivos (fopen, fwrite, fclose)"
+        "b": "Archivos binarios: creación y grabación de tipo de datos primitivos (fopen, fwrite, fclose)",
+        "h": "20200607214527"
     },
     {
         "i": 16,
         "j": "LHEMbjbpGFo",
-        "b": "Estructuras condicionales anidadas - 3"
+        "b": "Estructuras condicionales anidadas - 3",
+        "h": "20200531233730"
     },
     {
         "i": 135,
         "j": "lmPqFYv7TcU",
-        "b": "Funciones con retorno de un struct - 1"
+        "b": "Funciones con retorno de un struct - 1",
+        "h": "20200531233730"
     },
     {
         "i": 123,
         "j": "lod6eSutvnA",
-        "b": "Estructura de datos tipo matriz (elementos char) - 4"
+        "b": "Estructura de datos tipo matriz (elementos char) - 4",
+        "h": "20200531233730"
     },
     {
         "i": 13,
         "j": "lYIzm5It-ZU",
-        "b": "Estructuras condicionales simples y compuestas - 5"
+        "b": "Estructuras condicionales simples y compuestas - 5",
+        "h": "20200531233730"
     },
     {
         "i": 160,
         "j": "m7stqEWZvTM",
-        "b": "Estructuras dinámicas en C: Listas tipo Pila - 3"
+        "b": "Estructuras dinámicas en C: Listas tipo Pila - 3",
+        "h": "20200531233730"
     },
     {
         "i": 169,
         "j": "mIbXGLfnScU",
-        "b": "Estructuras dinámicas en C: Listas genéricas doblemente encadenadas - 2"
+        "b": "Estructuras dinámicas en C: Listas genéricas doblemente encadenadas - 2",
+        "h": "20200531233730"
     },
     {
         "i": 183,
         "j": "MJB6MwxEkMc",
-        "b": "Estructura condicional switch - 1"
+        "b": "Estructura condicional switch - 1",
+        "h": "20200604161437"
     },
     {
         "i": 110,
         "j": "mkuEqqDlnB8",
-        "b": "Vectores mayor y menor elemento - 1"
+        "b": "Vectores mayor y menor elemento - 1",
+        "h": "20200531233730"
     },
     {
         "i": 212,
         "j": "mnLRhgzr928",
-        "b": "Archivos binarios: desplazamiento del puntero de archivo (fseek) - 2"
+        "b": "Archivos binarios: desplazamiento del puntero de archivo (fseek) - 2",
+        "h": "20200607214527"
     },
     {
         "i": 182,
         "j": "MNvMFAMQ6K4",
-        "b": "Operador condicional ?  -  2"
+        "b": "Operador condicional ?  -  2",
+        "h": "20200604161437"
     },
     {
         "i": 95,
         "j": "mxgeOE_rO6M",
-        "b": "Funciones con parámetros de tipo int, float y char - 7"
+        "b": "Funciones con parámetros de tipo int, float y char - 7",
+        "h": "20200531233730"
     },
     {
         "i": 119,
         "j": "n1ih1CDVJ1I",
-        "b": "Estructura de datos tipo matriz (elementos int y float) - 6"
+        "b": "Estructura de datos tipo matriz (elementos int y float) - 6",
+        "h": "20200531233730"
     },
     {
         "i": 97,
         "j": "NaKUJOoM2HA",
-        "b": "Funciones con retorno de un valor - 2"
+        "b": "Funciones con retorno de un valor - 2",
+        "h": "20200531233730"
     },
     {
         "i": 27,
         "j": "nGLCDqznAOY",
-        "b": "Condiciones compuestas con operadores lógicos - 9"
+        "b": "Condiciones compuestas con operadores lógicos - 9",
+        "h": "20200531233730"
     },
     {
         "i": 101,
         "j": "nhAEH28fGTI",
-        "b": "Funciones con parámetros de tipo vector - 1"
+        "b": "Funciones con parámetros de tipo vector - 1",
+        "h": "20200531233730"
     },
     {
         "i": 222,
         "j": "nlh0oXB_YHI",
-        "b": "Archivos de texto: lectura - 1"
+        "b": "Archivos de texto: lectura - 1",
+        "h": "20200609005805"
     },
     {
         "i": 140,
         "j": "nsSPEtOZffc",
-        "b": "Estructura de datos tipo registro (con campos int, float, vector, registros anidados etc.) - 2"
+        "b": "Estructura de datos tipo registro (con campos int, float, vector, registros anidados etc.) - 2",
+        "h": "20200531233730"
     },
     {
         "i": 130,
         "j": "NvSJNXXJgdE",
-        "b": "Directiva #define - 2"
+        "b": "Directiva #define - 2",
+        "h": "20200531233730"
     },
     {
         "i": 20,
         "j": "o-BPu_zkatE",
-        "b": "Condiciones compuestas con operadores lógicos - 2"
+        "b": "Condiciones compuestas con operadores lógicos - 2",
+        "h": "20200531233730"
     },
     {
         "i": 121,
         "j": "o1tScN23y3U",
-        "b": "Estructura de datos tipo matriz (elementos char) - 2"
+        "b": "Estructura de datos tipo matriz (elementos char) - 2",
+        "h": "20200531233730"
     },
     {
         "i": 59,
         "j": "Od-ukuhJ7tY",
-        "b": "Estructura de datos tipo vector elementos int y float - 3"
+        "b": "Estructura de datos tipo vector elementos int y float - 3",
+        "h": "20200531233730"
     },
     {
         "i": 24,
         "j": "onJLnAwanv8",
-        "b": "Condiciones compuestas con operadores lógicos - 6"
+        "b": "Condiciones compuestas con operadores lógicos - 6",
+        "h": "20200531233730"
     },
     {
         "i": 202,
         "j": "Opr1f8U4a2Y",
-        "b": "Definición de nuevos nombres para tipos de datos existentes - typedef - 3"
+        "b": "Definición de nuevos nombres para tipos de datos existentes - typedef - 3",
+        "h": "20200606134732"
     },
     {
         "i": 139,
         "j": "OTG15_XwoaQ",
-        "b": "Estructura de datos tipo registro (con campos int, float, vector, registros anidados etc.) - 1"
+        "b": "Estructura de datos tipo registro (con campos int, float, vector, registros anidados etc.) - 1",
+        "h": "20200531233730"
     },
     {
         "i": 82,
         "j": "P0o2FKsRmTs",
-        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 6"
+        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h - 6",
+        "h": "20200531233730"
     },
     {
         "i": 51,
         "j": "P2tblQu3CGk",
-        "b": "Estructura repetitiva for - 13"
+        "b": "Estructura repetitiva for - 13",
+        "h": "20200531233730"
     },
     {
         "i": 46,
         "j": "pDJl2fMjBVE",
-        "b": "Estructura repetitiva for - 8"
+        "b": "Estructura repetitiva for - 8",
+        "h": "20200531233730"
     },
     {
         "i": 48,
         "j": "pFIDmAQIHbw",
-        "b": "Estructura repetitiva for - 10"
+        "b": "Estructura repetitiva for - 10",
+        "h": "20200531233730"
     },
     {
         "i": 114,
         "j": "Pq_mgCuRQKo",
-        "b": "Estructura de datos tipo matriz (elementos int y float) - 1"
+        "b": "Estructura de datos tipo matriz (elementos int y float) - 1",
+        "h": "20200531233730"
     },
     {
         "i": 203,
         "j": "PQFf6OCV1kg",
-        "b": "Variables locales static - 1"
+        "b": "Variables locales static - 1",
+        "h": "20200606134732"
     },
     {
         "i": 26,
         "j": "pqiT6-B8Nz8",
-        "b": "Condiciones compuestas con operadores lógicos - 8"
+        "b": "Condiciones compuestas con operadores lógicos - 8",
+        "h": "20200531233730"
     },
     {
         "i": 40,
         "j": "PQPOKGtawNE",
-        "b": "Estructura repetitiva for - 2"
+        "b": "Estructura repetitiva for - 2",
+        "h": "20200531233730"
     },
     {
         "i": 43,
         "j": "pv6lbNjNzBk",
-        "b": "Estructura repetitiva for - 5"
+        "b": "Estructura repetitiva for - 5",
+        "h": "20200531233730"
     },
     {
         "i": 221,
         "j": "q2rEI8VPGU8",
-        "b": "Archivos de texto: creación y grabación de datos"
+        "b": "Archivos de texto: creación y grabación de datos",
+        "h": "20200609005805"
     },
     {
         "i": 73,
         "j": "qEwaz_bkBlY",
-        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 4"
+        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 4",
+        "h": "20200531233730"
     },
     {
         "i": 56,
         "j": "qFZSWnS1uuk",
-        "b": "Estructura repetitiva do while - 5"
+        "b": "Estructura repetitiva do while - 5",
+        "h": "20200531233730"
     },
     {
         "i": 104,
         "j": "qHujs5fNS6w",
-        "b": "Funciones con parámetros de tipo vector - 4"
+        "b": "Funciones con parámetros de tipo vector - 4",
+        "h": "20200531233730"
     },
     {
         "i": 137,
         "j": "qQCLCXp2KZc",
-        "b": "Estructura de datos tipo vector elementos de tipo struct - 1"
+        "b": "Estructura de datos tipo vector elementos de tipo struct - 1",
+        "h": "20200531233730"
     },
     {
         "i": 55,
         "j": "Qsb6StuFxMc",
-        "b": "Estructura repetitiva do while - 4"
+        "b": "Estructura repetitiva do while - 4",
+        "h": "20200531233730"
     },
     {
         "i": 118,
         "j": "R44PknHPVAg",
-        "b": "Estructura de datos tipo matriz (elementos int y float) - 5"
+        "b": "Estructura de datos tipo matriz (elementos int y float) - 5",
+        "h": "20200531233730"
     },
     {
         "i": 0,
         "j": "R9n7j-u9ijc",
-        "b": "Instalación del compilador y entorno de desarrollo para el lenguaje C Code:: Blocks"
+        "b": "Instalación del compilador y entorno de desarrollo para el lenguaje C Code:: Blocks",
+        "h": "20200531233730"
     },
     {
         "i": 22,
         "j": "rCSa5Wonf38",
-        "b": "Condiciones compuestas con operadores lógicos - 4"
+        "b": "Condiciones compuestas con operadores lógicos - 4",
+        "h": "20200531233730"
     },
     {
         "i": 7,
         "j": "ree4xj_5bf4",
-        "b": "Estructura de programación secuencial - 4"
+        "b": "Estructura de programación secuencial - 4",
+        "h": "20200531233730"
     },
     {
         "i": 62,
         "j": "rKc8jQwvLjQ",
-        "b": "Estructura de datos tipo vector elementos int y float - 6"
+        "b": "Estructura de datos tipo vector elementos int y float - 6",
+        "h": "20200531233730"
     },
     {
         "i": 223,
         "j": "RlhC9vPmFFI",
-        "b": "Archivos de texto: lectura - 2"
+        "b": "Archivos de texto: lectura - 2",
+        "h": "20200609005805"
     },
     {
         "i": 178,
         "j": "RnRl36ZCpSo",
-        "b": "Todos los tipos de datos primitivos en el lenguaje C"
+        "b": "Todos los tipos de datos primitivos en el lenguaje C",
+        "h": "20200601144537"
     },
     {
         "i": 41,
         "j": "RPxrHeYLa2g",
-        "b": "Estructura repetitiva for - 3"
+        "b": "Estructura repetitiva for - 3",
+        "h": "20200531233730"
     },
     {
         "i": 2,
         "j": "rqcwNXtjgJA",
-        "b": "Codificación del diagrama de flujo en el lenguaje C"
+        "b": "Codificación del diagrama de flujo en el lenguaje C",
+        "h": "20200531233730"
     },
     {
         "i": 89,
         "j": "rqhRzxhVRfM",
-        "b": "Funciones con parámetros de tipo int, float y char - 1"
+        "b": "Funciones con parámetros de tipo int, float y char - 1",
+        "h": "20200531233730"
     },
     {
         "i": 177,
         "j": "RxrKGnUYG-w",
-        "b": "Estructuras dinámicas en C: Implementación de un árbol binario ordenado - 2"
+        "b": "Estructuras dinámicas en C: Implementación de un árbol binario ordenado - 2",
+        "h": "20200531233730"
     },
     {
         "i": 164,
         "j": "s48CwbZtVoc",
-        "b": "Estructuras dinámicas en C: Listas genéricas - 1"
+        "b": "Estructuras dinámicas en C: Listas genéricas - 1",
+        "h": "20200531233730"
     },
     {
         "i": 8,
         "j": "saEw8G-ZXgw",
-        "b": "Estructura de programación secuencial - 5"
+        "b": "Estructura de programación secuencial - 5",
+        "h": "20200531233730"
     },
     {
         "i": 186,
         "j": "sd_U-5BNDls",
-        "b": "Estructura condicional switch - 4"
+        "b": "Estructura condicional switch - 4",
+        "h": "20200604161437"
     },
     {
         "i": 30,
         "j": "sdAGt3h2cS8",
-        "b": "Estructura repetitiva while - 3"
+        "b": "Estructura repetitiva while - 3",
+        "h": "20200531233730"
     },
     {
         "i": 1,
         "j": "sKprL3gUslE",
-        "b": "Algoritmo y Diagrama de flujo"
+        "b": "Algoritmo y Diagrama de flujo",
+        "h": "20200531233730"
     },
     {
         "i": 47,
         "j": "sLdT_fPtSD4",
-        "b": "Estructura repetitiva for - 9"
+        "b": "Estructura repetitiva for - 9",
+        "h": "20200531233730"
     },
     {
         "i": 63,
         "j": "snWHsNgXIfU",
-        "b": "Estructura de datos tipo vector elementos int y float - 7"
+        "b": "Estructura de datos tipo vector elementos int y float - 7",
+        "h": "20200531233730"
     },
     {
         "i": 158,
         "j": "SOXhQuEl_Aw",
-        "b": "Estructuras dinámicas en C: Listas tipo Pila - 1"
+        "b": "Estructuras dinámicas en C: Listas tipo Pila - 1",
+        "h": "20200531233730"
     },
     {
         "i": 90,
         "j": "STaCrFiPI4k",
-        "b": "Funciones con parámetros de tipo int, float y char - 2"
+        "b": "Funciones con parámetros de tipo int, float y char - 2",
+        "h": "20200531233730"
     },
     {
         "i": 44,
         "j": "SYBqVCn4pec",
-        "b": "Estructura repetitiva for - 6"
+        "b": "Estructura repetitiva for - 6",
+        "h": "20200531233730"
     },
     {
         "i": 145,
         "j": "t_6IhBieRqc",
-        "b": "Parámetros de una función de tipo punteros a int, float y char - 2"
+        "b": "Parámetros de una función de tipo punteros a int, float y char - 2",
+        "h": "20200531233730"
     },
     {
         "i": 217,
         "j": "T1_3en6FEbo",
-        "b": "Archivos binarios: posición actual del puntero de archivo - ftell - 1"
+        "b": "Archivos binarios: posición actual del puntero de archivo - ftell - 1",
+        "h": "20200609005805"
     },
     {
         "i": 111,
         "j": "tF7_5AwoV3o",
-        "b": "Vectores mayor y menor elemento - 2"
+        "b": "Vectores mayor y menor elemento - 2",
+        "h": "20200531233730"
     },
     {
         "i": 113,
         "j": "UBgvE56nGrU",
-        "b": "Vectores ordenamiento - 2"
+        "b": "Vectores ordenamiento - 2",
+        "h": "20200531233730"
     },
     {
         "i": 161,
         "j": "uE7PxIOHLJU",
-        "b": "Estructuras dinámicas en C: Listas tipo Pila - Problema de aplicación"
+        "b": "Estructuras dinámicas en C: Listas tipo Pila - Problema de aplicación",
+        "h": "20200531233730"
     },
     {
         "i": 128,
         "j": "UgTE8IHKtAk",
-        "b": "Vectores y matrices paralelas (ordenamiento) - 2"
+        "b": "Vectores y matrices paralelas (ordenamiento) - 2",
+        "h": "20200531233730"
     },
     {
         "i": 143,
         "j": "UhTo24VQuT8",
-        "b": "Variables de tipo puntero - 3"
+        "b": "Variables de tipo puntero - 3",
+        "h": "20200531233730"
     },
     {
         "i": 78,
         "j": "UL_WEWPsljw",
-        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h -  2"
+        "b": "Funciones que facilitan el trabajo con cadenas de caracteres - string.h -  2",
+        "h": "20200531233730"
     },
     {
         "i": 29,
         "j": "uNNRh0j4bvM",
-        "b": "Estructura repetitiva while - 2"
+        "b": "Estructura repetitiva while - 2",
+        "h": "20200531233730"
     },
     {
         "i": 23,
         "j": "uOTtrKJHScg",
-        "b": "Condiciones compuestas con operadores lógicos - 5"
+        "b": "Condiciones compuestas con operadores lógicos - 5",
+        "h": "20200531233730"
     },
     {
         "i": 144,
         "j": "uRqRzhQEqg4",
-        "b": "Parámetros de una función de tipo punteros a int, float y char - 1"
+        "b": "Parámetros de una función de tipo punteros a int, float y char - 1",
+        "h": "20200531233730"
     },
     {
         "i": 174,
         "j": "v_tmnsnhLPo",
-        "b": "Recursividad : Problema donde conviene aplicar la recursividad"
+        "b": "Recursividad : Problema donde conviene aplicar la recursividad",
+        "h": "20200531233730"
     },
     {
         "i": 21,
         "j": "V1lKZjzk5xU",
-        "b": "Condiciones compuestas con operadores lógicos - 3"
+        "b": "Condiciones compuestas con operadores lógicos - 3",
+        "h": "20200531233730"
     },
     {
         "i": 103,
         "j": "VfvRqbmq8Iw",
-        "b": "Funciones con parámetros de tipo vector - 3"
+        "b": "Funciones con parámetros de tipo vector - 3",
+        "h": "20200531233730"
     },
     {
         "i": 187,
         "j": "vHUNpBAdFPs",
-        "b": "Comandos break y continue dentro de estructuras repetitivas - 1"
+        "b": "Comandos break y continue dentro de estructuras repetitivas - 1",
+        "h": "20200604161437"
     },
     {
         "i": 214,
         "j": "vi0BD-jJ09o",
-        "b": "Archivos binarios: modificar datos"
+        "b": "Archivos binarios: modificar datos",
+        "h": "20200607214527"
     },
     {
         "i": 37,
         "j": "ViwFAIi4uD8",
-        "b": "Estructura repetitiva while - 10"
+        "b": "Estructura repetitiva while - 10",
+        "h": "20200531233730"
     },
     {
         "i": 205,
         "j": "VkfwFelhKRY",
-        "b": "Aplicaciones en C con más de un archivo fuente (proyectos con múltiples archivos)"
+        "b": "Aplicaciones en C con más de un archivo fuente (proyectos con múltiples archivos)",
+        "h": "20200606134732"
     },
     {
         "i": 216,
         "j": "VkwiZBIckQU",
-        "b": "Archivos binarios: identificar final de archivo (feof) - 2"
+        "b": "Archivos binarios: identificar final de archivo (feof) - 2",
+        "h": "20200607214527"
     },
     {
         "i": 86,
         "j": "VUIfLvpBS0U",
-        "b": "Concepto de funciones - Programación estructurada - 2"
+        "b": "Concepto de funciones - Programación estructurada - 2",
+        "h": "20200531233730"
     },
     {
         "i": 149,
         "j": "wGTCf5-GL-Y",
-        "b": "Parámetro de una función de tipo punteros a struct - 2"
+        "b": "Parámetro de una función de tipo punteros a struct - 2",
+        "h": "20200531233730"
     },
     {
         "i": 153,
         "j": "WgVcP7e6rFw",
-        "b": "Operadores ++ y -- con variables de tipo puntero - 2"
+        "b": "Operadores ++ y -- con variables de tipo puntero - 2",
+        "h": "20200531233730"
     },
     {
         "i": 134,
         "j": "wR9p_Y98VXY",
-        "b": "Funciones con parámetros de tipo struct - 2"
+        "b": "Funciones con parámetros de tipo struct - 2",
+        "h": "20200531233730"
     },
     {
         "i": 75,
         "j": "WXzE_n_cfpg",
-        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 6"
+        "b": "Cadenas o vectores de caracteres en C (elementos de tipo char) - 6",
+        "h": "20200531233730"
     },
     {
         "i": 120,
         "j": "x3H_k7snjXk",
-        "b": "Estructura de datos tipo matriz (elementos char) - 1"
+        "b": "Estructura de datos tipo matriz (elementos char) - 1",
+        "h": "20200531233730"
     },
     {
         "i": 6,
         "j": "XbdQrP-7bIk",
-        "b": "Estructura de programación secuencial - 3"
+        "b": "Estructura de programación secuencial - 3",
+        "h": "20200531233730"
     },
     {
         "i": 52,
         "j": "xBjH8KpFtIw",
-        "b": "Estructura repetitiva do while - 1"
+        "b": "Estructura repetitiva do while - 1",
+        "h": "20200531233730"
     },
     {
         "i": 138,
         "j": "Xe9VZ0VxhqE",
-        "b": "Estructura de datos tipo vector elementos de tipo struct - 2"
+        "b": "Estructura de datos tipo vector elementos de tipo struct - 2",
+        "h": "20200531233730"
     },
     {
         "i": 133,
         "j": "XG0aSrqqcdY",
-        "b": "Funciones con parámetros de tipo struct - 1"
+        "b": "Funciones con parámetros de tipo struct - 1",
+        "h": "20200531233730"
     },
     {
         "i": 175,
         "j": "xtE-WlxaxBg",
-        "b": "Estructuras dinámicas en C: Conceptos de árboles"
+        "b": "Estructuras dinámicas en C: Conceptos de árboles",
+        "h": "20200531233730"
     },
     {
         "i": 36,
         "j": "XUsTAuWxCS4",
-        "b": "Estructura repetitiva while - 9"
+        "b": "Estructura repetitiva while - 9",
+        "h": "20200531233730"
     },
     {
         "i": 122,
         "j": "xXzdpmaiNs8",
-        "b": "Estructura de datos tipo matriz (elementos char) - 3"
+        "b": "Estructura de datos tipo matriz (elementos char) - 3",
+        "h": "20200531233730"
     },
     {
         "i": 49,
         "j": "Y5KVqhzGL0g",
-        "b": "Estructura repetitiva for - 11"
+        "b": "Estructura repetitiva for - 11",
+        "h": "20200531233730"
     },
     {
         "i": 199,
         "j": "yfcTo4_TAAQ",
-        "b": "Declaración de uniones"
+        "b": "Declaración de uniones",
+        "h": "20200606134732"
     },
     {
         "i": 156,
         "j": "YgK5KQPrYhQ",
-        "b": "Asignación dinámica de memoria (malloc y free) - 3"
+        "b": "Asignación dinámica de memoria (malloc y free) - 3",
+        "h": "20200531233730"
     },
     {
         "i": 159,
         "j": "ymHqvVq020E",
-        "b": "Estructuras dinámicas en C: Listas tipo Pila - 2"
+        "b": "Estructuras dinámicas en C: Listas tipo Pila - 2",
+        "h": "20200531233730"
     },
     {
         "i": 213,
         "j": "yMVO3uMJXp4",
-        "b": "Archivos binarios: agregar datos"
+        "b": "Archivos binarios: agregar datos",
+        "h": "20200607214527"
     },
     {
         "i": 173,
         "j": "zT8H4mIJnaE",
-        "b": "Recursividad Conceptos básicos - 3"
+        "b": "Recursividad Conceptos básicos - 3",
+        "h": "20200531233730"
     },
     {
         "i": 96,
         "j": "zzRkcxWfbFI",
-        "b": "Funciones con retorno de un valor - 1"
+        "b": "Funciones con retorno de un valor - 1",
+        "h": "20200531233730"
     }
 ]
