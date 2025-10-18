@@ -3,66 +3,77 @@
         "i": 2,
         "j": "0S1F-z1xP3s",
         "b": "CLASE 03 DIAGNOSTICO EOBD GENÉRICO, Y ESPECIFICO - ESCANER NIVEL 1",
-        "h": "20220909060138"
+        "h": "20220909060138",
+        "l": null
     },
     {
         "i": 10,
         "j": "9AZpzwYuszU",
         "b": "CLASE 11 NISSAN NP300 SEÑALES - ANALIZANDO DATOS EN VIVO - ESCANER NIVEL 1",
-        "h": "20221217012109"
+        "h": "20221217012109",
+        "l": null
     },
     {
         "i": 6,
         "j": "HGL8VHRJ39Q",
         "b": "CLASE 07 CICLOS DE REFRIGERACION RENAULT LOGAN PRIMERA GENERACION - ESCANER NIVEL 1",
-        "h": "20230107043030"
+        "h": "20230107043030",
+        "l": null
     },
     {
         "i": 7,
         "j": "kiTiuzOvpcE",
         "b": "CLASE 08 COMO SELECCIONAR EL VEHICULO CORRECTO - SALE MAL -  SUZUKI SWIFT DZIRE - ESCANER NIVEL 1",
-        "h": "20221021044945"
+        "h": "20221021044945",
+        "l": null
     },
     {
         "i": 5,
         "j": "MeieM1HS9Wc",
         "b": "CLASE 06 ESCANEANDO EN VIVO 5 MARCAS DIFERENTES COMPARATIVO - ESCANER NIVEL 1",
-        "h": "20221008054515"
+        "h": "20221008054515",
+        "l": null
     },
     {
         "i": 1,
         "j": "NzoZJ8J2A54",
         "b": "CLASE 02 CODIGOS DE FALLA - ESCANER NIVEL 1",
-        "h": "20220904133842"
+        "h": "20220904133842",
+        "l": null
     },
     {
         "i": 9,
         "j": "PH_yPyWlbP0",
         "b": "CLASE 10 ESCANEANDO EN VIVO - COMPENSADORES DE COMBUSTIBLE A CORTO Y LARGO PLAZO - ESCANER NIVEL 1",
-        "h": "20221120132855"
+        "h": "20221120132855",
+        "l": null
     },
     {
         "i": 8,
         "j": "QdtPKutLKPM",
         "b": "CLASE 09 DATOS EN VIVO AQUI OCURRE LA MAGIA - ESCANER NIVEL 1",
-        "h": "20221031022640"
+        "h": "20221031022640",
+        "l": null
     },
     {
         "i": 3,
         "j": "SP1_GabCNrk",
         "b": "CLASE 04 ESCANEANDO EN VIVO - CHEVROLET ONIX 2020 - SOLUCIÓN DE AVERIAS - ESCANER NIVEL 1",
-        "h": "20220923212933"
+        "h": "20220923212933",
+        "l": null
     },
     {
         "i": 0,
         "j": "UG6K0xUUL0o",
         "b": "CLASE 01 BASES DEL ESCANER - ESCANER NIVEL 1",
-        "h": "20220825221506"
+        "h": "20220825221506",
+        "l": null
     },
     {
         "i": 4,
         "j": "w9iSNJ37dYQ",
         "b": "CLASE 05 CONSULTAR CÓDIGOS DE FALLA - INFORMACIÓN TÉCNICA DE CALIDAD - ESCANER NIVEL 1",
-        "h": "20221001034735"
+        "h": "20221001034735",
+        "l": null
     }
 ]

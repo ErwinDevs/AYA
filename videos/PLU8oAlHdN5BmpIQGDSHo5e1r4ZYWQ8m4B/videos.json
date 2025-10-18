@@ -3,762 +3,889 @@
         "i": 75,
         "j": "_7EySSkOUsM",
         "b": "Curso C#. WPF Interfaces gráficas V. Grid. Vídeo 76",
-        "h": "20200124133749"
+        "h": "20200124133749",
+        "l": null
     },
     {
         "i": 28,
         "j": "_eyFoySmHPk",
         "b": "Curso C#. POO III. Encapsulación y convenciones. Vídeo 29",
-        "h": "20181206180957"
+        "h": "20181206180957",
+        "l": null
     },
     {
         "i": 62,
         "j": "_f255TeqteQ",
         "b": "Curso C#.  Colecciones I. Vídeo 63",
-        "h": "20190818114900"
+        "h": "20190818114900",
+        "l": null
     },
     {
         "i": 114,
         "j": "_nWj0b1Vh8o",
         "b": "Curso C#. TASK III. Vídeo 115",
-        "h": "20210621164622"
+        "h": "20210621164622",
+        "l": null
     },
     {
         "i": 53,
         "j": "_SlVGK2nRJU",
         "b": "Curso C#. Clases selladas (sealed classes). Vídeo 54",
-        "h": "20190522095515"
+        "h": "20190522095515",
+        "l": null
     },
     {
         "i": 4,
         "j": "-RwdksWQpnQ",
         "b": "Curso C#. Sintaxis básica III. Vídeo 5",
-        "h": "20180623190821"
+        "h": "20180623190821",
+        "l": null
     },
     {
         "i": 3,
         "j": "18-j9OOHVQc",
         "b": "Curso C#. Sintaxis básica II. Vídeo 4",
-        "h": "20180617121849"
+        "h": "20180617121849",
+        "l": null
     },
     {
         "i": 74,
         "j": "1cbD7hrMwTI",
         "b": "Curso C#. WPF Interfaces gráficas IV. Vídeo 75",
-        "h": "20200116132723"
+        "h": "20200116132723",
+        "l": null
     },
     {
         "i": 86,
         "j": "1MPaYMRyi54",
         "b": "Curso C#. WPF. RadioButton II. Vídeo 87",
-        "h": "20200501090442"
+        "h": "20200501090442",
+        "l": null
     },
     {
         "i": 111,
         "j": "2qeDlKUsGLA",
         "b": "Curso C#. Threads V. ThreadPool. Vídeo 112",
-        "h": "20210415164520"
+        "h": "20210415164520",
+        "l": null
     },
     {
         "i": 110,
         "j": "2YCIAYk63ns",
         "b": "Curso C#. Threads IV. Tareas completadas. Vídeo 111",
-        "h": "20210403110337"
+        "h": "20210403110337",
+        "l": null
     },
     {
         "i": 106,
         "j": "2zHsL8pXJwY",
         "b": "Curso C#. LINQ VIII. LINQ y SQL. Vídeo 107",
-        "h": "20210211223629"
+        "h": "20210211223629",
+        "l": null
     },
     {
         "i": 38,
         "j": "2ZvE6u4e4mo",
         "b": "Curso C#.  Bucle foreach. Arrays IV. Vídeo 39",
-        "h": "20190301080048"
+        "h": "20190301080048",
+        "l": null
     },
     {
         "i": 1,
         "j": "45SBGMBV0B0",
         "b": "Curso C #. Primera aplicación. Vídeo 2",
-        "h": "20180613115921"
+        "h": "20180613115921",
+        "l": null
     },
     {
         "i": 45,
         "j": "4UutATKOCoo",
         "b": "Curso C#. Herencia VI. Modificador de acceso Protected. Vídeo 46",
-        "h": "20190403184508"
+        "h": "20190403184508",
+        "l": null
     },
     {
         "i": 80,
         "j": "5BXzlzb_0uQ",
         "b": "Curso C#. WPF. ListBox II. Vídeo 82",
-        "h": "20200327180727"
+        "h": "20200327180727",
+        "l": null
     },
     {
         "i": 71,
         "j": "5DhlWCli5I4",
         "b": "Curso C#. WPF  Interfaces gráficas I. Vídeo 72",
-        "h": "20191128115129"
+        "h": "20191128115129",
+        "l": null
     },
     {
         "i": 39,
         "j": "6BFiyFuaLYQ",
         "b": "Curso C#. Arrays V  Arrays por parámetros. Vídeo 40",
-        "h": "20190305194305"
+        "h": "20190305194305",
+        "l": null
     },
     {
         "i": 0,
         "j": "6EBNIgkrU74",
         "b": "Curso C#. Presentación. Vídeo 1",
-        "h": "20180608132335"
+        "h": "20180608132335",
+        "l": null
     },
     {
         "i": 18,
         "j": "6gdFd9QXfTY",
         "b": "Curso C#. Bucle While. Vídeo 19",
-        "h": "20180906191155"
+        "h": "20180906191155",
+        "l": null
     },
     {
         "i": 90,
         "j": "7hgcQC9FNJA",
         "b": "Curso C#. BBDD. Sql Server. Mostrar datos I. Vídeo 91",
-        "h": "20200615105842"
+        "h": "20200615105842",
+        "l": null
     },
     {
         "i": 30,
         "j": "7HGwVYsdAxI",
         "b": "Curso C#. POO V. Getters y Setters. Vídeo 31",
-        "h": "20190106185708"
+        "h": "20190106185708",
+        "l": null
     },
     {
         "i": 34,
         "j": "7JfBhGDmrws",
         "b": "Curso C#. POO IX. Clases anónimas. Vídeo 35",
-        "h": "20190218191656"
+        "h": "20190218191656",
+        "l": null
     },
     {
         "i": 97,
         "j": "9YfhUASxzyY",
         "b": "Curso C#. BBDD. Sql Server. Actualizar registros II. Vídeo 98",
-        "h": "20200813175343"
+        "h": "20200813175343",
+        "l": null
     },
     {
         "i": 88,
         "j": "Admk4JD1PM8",
         "b": "Curso C#. WPF. BBDD. Sql Server. Vídeo 89",
-        "h": "20200523111507"
+        "h": "20200523111507",
+        "l": null
     },
     {
         "i": 99,
         "j": "AqLNR_xhd0E",
         "b": "Curso C#. LINQ I. Vídeo 100",
-        "h": "20200917114519"
+        "h": "20200917114519",
+        "l": null
     },
     {
         "i": 42,
         "j": "b8TkibB7CGg",
         "b": "Curso C#. Herencia III. Constructores y base. Vídeo 43",
-        "h": "20190318105408"
+        "h": "20190318105408",
+        "l": null
     },
     {
         "i": 123,
         "j": "bG-utWxwtC8",
         "b": "Curso C#. Unity VII. Codificando movimientos. Vídeo 124",
-        "h": "20220226104108"
+        "h": "20220226104108",
+        "l": null
     },
     {
         "i": 119,
         "j": "BtyHJMh9jqs",
         "b": "Curso C#. Unity III. Creando proyecto. Vídeo 120",
-        "h": "20211220114423"
+        "h": "20211220114423",
+        "l": null
     },
     {
         "i": 84,
         "j": "cBUXZWuAcc8",
         "b": "Curso C#. WPF. ComboBox y CheckBox II. Vídeo 85",
-        "h": "20200413105338"
+        "h": "20200413105338",
+        "l": null
     },
     {
         "i": 48,
         "j": "cKJBHCFJWc8",
         "b": "Curso C#. Interfaces II. Vídeo 49",
-        "h": "20190423104507"
+        "h": "20190423104507",
+        "l": null
     },
     {
         "i": 11,
         "j": "CW00L7fk5gU",
         "b": "Curso C#. Métodos IV. Ámbito y sobrecarga. Vídeo 12",
-        "h": "20180801172405"
+        "h": "20180801172405",
+        "l": null
     },
     {
         "i": 37,
         "j": "Cx0UW5PQJG0",
         "b": "Curso C#.  Arrays III y bucle FOR. Vídeo 38",
-        "h": "20190226212638"
+        "h": "20190226212638",
+        "l": null
     },
     {
         "i": 5,
         "j": "CyG6oaNq8HE",
         "b": "Curso C#. Sintaxis básica IV. Vídeo 6",
-        "h": "20180627102144"
+        "h": "20180627102144",
+        "l": null
     },
     {
         "i": 52,
         "j": "db110IU4i-4",
         "b": "Curso C#. Clases abstractas II. Vídeo 53",
-        "h": "20190515154512"
+        "h": "20190515154512",
+        "l": null
     },
     {
         "i": 94,
         "j": "dKGriVO1RCQ",
         "b": "Curso C#. BBDD. Sql Server. Borrar datos. Vídeo 95",
-        "h": "20200709190812"
+        "h": "20200709190812",
+        "l": null
     },
     {
         "i": 41,
         "j": "Drs8FAtF1Ao",
         "b": "Curso C#.  Herencia II. Sintaxis y clase Object. Vídeo 42",
-        "h": "20190312084109"
+        "h": "20190312084109",
+        "l": null
     },
     {
         "i": 118,
         "j": "Dx54BV2LlLw",
         "b": "Curso C#. Hub y editor. Unity II. Vídeo 119",
-        "h": "20211128184950"
+        "h": "20211128184950",
+        "l": null
     },
     {
         "i": 29,
         "j": "FobGQKXVpH0",
         "b": "Curso C#. POO IV. Constructores. Vídeo 30",
-        "h": "20181217121124"
+        "h": "20181217121124",
+        "l": null
     },
     {
         "i": 91,
         "j": "FrmlFq6X2qc",
         "b": "Curso C#. BBDD. Sql Server. Mostrar datos II. Vídeo 92",
-        "h": "20200615112115"
+        "h": "20200615112115",
+        "l": null
     },
     {
         "i": 8,
         "j": "FTJoQ71r3a4",
         "b": "Curso C#. Métodos I. Vídeo 9",
-        "h": "20180717214212"
+        "h": "20180717214212",
+        "l": null
     },
     {
         "i": 36,
         "j": "G3o96kwDbA4",
         "b": "Curso C#. Arrays II. Vídeo 37",
-        "h": "20190226204702"
+        "h": "20190226204702",
+        "l": null
     },
     {
         "i": 57,
         "j": "gj1AA7ZkuSc",
         "b": "Curso C#. Enum. Vídeo 58",
-        "h": "20190630191557"
+        "h": "20190630191557",
+        "l": null
     },
     {
         "i": 116,
         "j": "Gl-DQxoDtZ4",
         "b": "Curso C#. Cancelación de Task. Vídeo 117",
-        "h": "20220113081803"
+        "h": "20220113081803",
+        "l": null
     },
     {
         "i": 95,
         "j": "gPtBDxJ3y4Q",
         "b": "Curso C#. BBDD. Sql Server. Insertar registros. Vídeo 96",
-        "h": "20200724170833"
+        "h": "20200724170833",
+        "l": null
     },
     {
         "i": 31,
         "j": "HifATXjJ1KE",
         "b": "Curso C#. POO VI. Visual Studio y POO. Vídeo 32",
-        "h": "20190116175245"
+        "h": "20190116175245",
+        "l": null
     },
     {
         "i": 16,
         "j": "hn8wldioGSo",
         "b": "Curso C#. Condicional IF IV. Vídeo 17",
-        "h": "20180822102556"
+        "h": "20180822102556",
+        "l": null
     },
     {
         "i": 35,
         "j": "I1ADyLMTAwo",
         "b": "Curso C#.  Arrays I. Vídeo 36",
-        "h": "20190220110237"
+        "h": "20190220110237",
+        "l": null
     },
     {
         "i": 78,
         "j": "IcJyZ_CNv_g",
         "b": "Curso C#. WPF Data Binding. Vídeo 79",
-        "h": "20200302212326"
+        "h": "20200302212326",
+        "l": null
     },
     {
         "i": 98,
         "j": "IklWqQX3mPc",
         "b": "Curso C#. BBDD. Sql Server. Actualizar registros III. Vídeo 99",
-        "h": "20200831180851"
+        "h": "20200831180851",
+        "l": null
     },
     {
         "i": 103,
         "j": "iNf3KiO4N1Q",
         "b": "Curso C#. LINQ V. LINQ y SQL. Vídeo 104",
-        "h": "20201215135450"
+        "h": "20201215135450",
+        "l": null
     },
     {
         "i": 89,
         "j": "ioSjgsrm-Is",
         "b": "Curso C#. BBDD. Sql Server. Relaciones. Vídeo 90",
-        "h": "20200603114955"
+        "h": "20200603114955",
+        "l": null
     },
     {
         "i": 104,
         "j": "IzBNfguVyVM",
         "b": "Curso C#. LINQ VI. LINQ y SQL. Vídeo 105",
-        "h": "20210112122532"
+        "h": "20210112122532",
+        "l": null
     },
     {
         "i": 51,
         "j": "J08ltBa86y4",
         "b": "Curso C#. Clases abstractas I. Vídeo 52",
-        "h": "20190515152854"
+        "h": "20190515152854",
+        "l": null
     },
     {
         "i": 7,
         "j": "j8SYB_77fmE",
         "b": "Curso C#. Sintaxis básica. Uso de constantes. Vídeo 8",
-        "h": "20180711094551"
+        "h": "20180711094551",
+        "l": null
     },
     {
         "i": 126,
         "j": "jfrUUS31g8o",
         "b": "Curso C#. Unity X. El enemigo. Fin de curso. Vídeo 127",
-        "h": "20220506114149"
+        "h": "20220506114149",
+        "l": null
     },
     {
         "i": 40,
         "j": "jvfUsKQgj88",
         "b": "Curso C#. Herencia. Concepto y explicación teórica. Vídeo 41",
-        "h": "20190311184045"
+        "h": "20190311184045",
+        "l": null
     },
     {
         "i": 120,
         "j": "jwEhSKgJyvI",
         "b": "Curso C#. Unity IV. Creando el terreno. Vídeo 121",
-        "h": "20220118204614"
+        "h": "20220118204614",
+        "l": null
     },
     {
         "i": 47,
         "j": "K4JUqONrb8E",
         "b": "Curso C#. Interfaces I. Vídeo 48",
-        "h": "20190414210151"
+        "h": "20190414210151",
+        "l": null
     },
     {
         "i": 73,
         "j": "KB0kXS6_zYo",
         "b": "Curso C#. WPF Interfaces gráficas III. Vídeo 74",
-        "h": "20200117103100"
+        "h": "20200117103100",
+        "l": null
     },
     {
         "i": 27,
         "j": "kjEWZVglsnk",
         "b": "Curso C#. POO II. Creación de clases e instancias. Vídeo 28",
-        "h": "20181130111351"
+        "h": "20181130111351",
+        "l": null
     },
     {
         "i": 85,
         "j": "KJyllquTDPM",
         "b": "Curso C#. WPF. RadioButton I. Vídeo 86",
-        "h": "20200430184705"
+        "h": "20200430184705",
+        "l": null
     },
     {
         "i": 122,
         "j": "KvcxWkmYi0c",
         "b": "Curso C#. Unity VI. Creando personaje. Vídeo 123",
-        "h": "20220226093500"
+        "h": "20220226093500",
+        "l": null
     },
     {
         "i": 58,
         "j": "L-cQG9Ql_ew",
         "b": "Curso C#. Destructores. Vídeo 59",
-        "h": "20190711153944"
+        "h": "20190711153944",
+        "l": null
     },
     {
         "i": 33,
         "j": "lEjWuz7awzM",
         "b": "Curso C#. POO VIII. Variables y métodos static. Vídeo 34",
-        "h": "20190214123104"
+        "h": "20190214123104",
+        "l": null
     },
     {
         "i": 82,
         "j": "LiXli1RJt1M",
         "b": "Curso C#. WPF. ListBox III. Vídeo 83",
-        "h": "20200328105405"
+        "h": "20200328105405",
+        "l": null
     },
     {
         "i": 56,
         "j": "ljiWzVa-vA4",
         "b": "Curso C#. Struct. Vídeo 57",
-        "h": "20190619091948"
+        "h": "20190619091948",
+        "l": null
     },
     {
         "i": 64,
         "j": "lSvq-dAnceA",
         "b": "Curso C#. Colecciones III. Queue colas. Vídeo 65",
-        "h": "20190904115007"
+        "h": "20190904115007",
+        "l": null
     },
     {
         "i": 115,
         "j": "LwxTVdyUXdM",
         "b": "Curso C#. Clase Parallel. Vídeo 116",
-        "h": "20210712094917"
+        "h": "20210712094917",
+        "l": null
     },
     {
         "i": 46,
         "j": "LXwG84HWWmE",
         "b": "Curso C#. Herencia VII. Ejercicio guiado, solución. Vídeo 47",
-        "h": "20190408143838"
+        "h": "20190408143838",
+        "l": null
     },
     {
         "i": 54,
         "j": "MAMOyX59pNo",
         "b": "Curso C#. Properties (Propiedades) I. Vídeo 55",
-        "h": "20190604101438"
+        "h": "20190604101438",
+        "l": null
     },
     {
         "i": 68,
         "j": "mha1GbPT33o",
         "b": "Curso C#. Delegados predicados y lambdas III. Vídeo 69",
-        "h": "20191017201223"
+        "h": "20191017201223",
+        "l": null
     },
     {
         "i": 87,
         "j": "MVthTFtZiPQ",
         "b": "Curso C#. WPF. BBDD. Sql Server. Vídeo 88",
-        "h": "20200513163544"
+        "h": "20200513163544",
+        "l": null
     },
     {
         "i": 117,
         "j": "MXa5V25lbXI",
         "b": "Curso C#. Unity. Vídeo 118",
-        "h": "20211030180148"
+        "h": "20211030180148",
+        "l": null
     },
     {
         "i": 63,
         "j": "MYPtLPL0oCQ",
         "b": "Curso C#. Colecciones II  LinkedList. Vídeo 64",
-        "h": "20190829083311"
+        "h": "20190829083311",
+        "l": null
     },
     {
         "i": 76,
         "j": "mZU0EzjfaQk",
         "b": "Curso C#. WPF Dependency properties I. Vídeo 77",
-        "h": "20200215200941"
+        "h": "20200215200941",
+        "l": null
     },
     {
         "i": 92,
         "j": "mzUl71z0Jd8",
         "b": "Curso C#. BBDD. Sql Server. Mostrar datos relacionados. Vídeo 93",
-        "h": "20200628135847"
+        "h": "20200628135847",
+        "l": null
     },
     {
         "i": 9,
         "j": "N1OEk4gNFeQ",
         "b": "Curso C#. Métodos II. Vídeo 10",
-        "h": "20180722201137"
+        "h": "20180722201137",
+        "l": null
     },
     {
         "i": 66,
         "j": "NBZN0Ktv6AU",
         "b": "Curso C#. Delegados predicados y lambdas I. Vídeo 67",
-        "h": "20190923174738"
+        "h": "20190923174738",
+        "l": null
     },
     {
         "i": 93,
         "j": "Nhqy6jEb2Qo",
         "b": "Curso C#. BBDD. Sql Server. Mostrar todos los campos. Vídeo 94",
-        "h": "20200707212339"
+        "h": "20200707212339",
+        "l": null
     },
     {
         "i": 121,
         "j": "ny7Mpnwbf_8",
         "b": "Curso C#. Unity V. Nieve, árboles, hierba y viento. Vídeo 122",
-        "h": "20220214111715"
+        "h": "20220214111715",
+        "l": null
     },
     {
         "i": 67,
         "j": "OpmDpE_wjGs",
         "b": "Curso C#. Delegados predicados y lambdas II. Vídeo 68",
-        "h": "20191004151421"
+        "h": "20191004151421",
+        "l": null
     },
     {
         "i": 79,
         "j": "ov4Vusc3nXE",
         "b": "Curso C#. WPF INotifyPropertyChanged. Vídeo 80",
-        "h": "20200317121200"
+        "h": "20200317121200",
+        "l": null
     },
     {
         "i": 17,
         "j": "p-1xlu1uiO8",
         "b": "Curso C#. Condicional switch. Vídeo 18",
-        "h": "20180830194638"
+        "h": "20180830194638",
+        "l": null
     },
     {
         "i": 24,
         "j": "pdCIRc1Uieg",
         "b": "Curso C#. Excepciones IV. Lanzamiento de excepciones con throw. Vídeo 25",
-        "h": "20181104123430"
+        "h": "20181104123430",
+        "l": null
     },
     {
         "i": 59,
         "j": "Pg-GRgi5jtQ",
         "b": "Curso C#. Genéricos I. Vídeo 60",
-        "h": "20190720161439"
+        "h": "20190720161439",
+        "l": null
     },
     {
         "i": 102,
         "j": "pgJbDH_W5CI",
         "b": "Curso C#. LINQ IV. LINQ y SQL. Vídeo 103",
-        "h": "20201120164036"
+        "h": "20201120164036",
+        "l": null
     },
     {
         "i": 69,
         "j": "Pu78WYVILK4",
         "b": "Curso C#. Expresiones regulares I. Vídeo 70",
-        "h": "20191030114741"
+        "h": "20191030114741",
+        "l": null
     },
     {
         "i": 19,
         "j": "pVAbsQIAVqM",
         "b": "Curso C#. Bucle While II. Vídeo 20",
-        "h": "20180910092404"
+        "h": "20180910092404",
+        "l": null
     },
     {
         "i": 107,
         "j": "PwRCLkc2DMc",
         "b": "Curso C#. Threads. Vídeo 108",
-        "h": "20210302123027"
+        "h": "20210302123027",
+        "l": null
     },
     {
         "i": 70,
         "j": "R1HymOiV9To",
         "b": "Curso C#. Expresiones regulares II. Vídeo 71",
-        "h": "20191111121810"
+        "h": "20191111121810",
+        "l": null
     },
     {
         "i": 12,
         "j": "Rmnz3xUrrks",
         "b": "Curso C#. Métodos V. Parámetros opcionales. Vídeo 13",
-        "h": "20180810100738"
+        "h": "20180810100738",
+        "l": null
     },
     {
         "i": 22,
         "j": "rNlsa4DUU-s",
         "b": "Curso C#. Excepciones II. Captura de varias excepciones. Vídeo 23",
-        "h": "20181016171142"
+        "h": "20181016171142",
+        "l": null
     },
     {
         "i": 43,
         "j": "rXHjlBQgq7c",
         "b": "Curso C#. Herencia IV. Principio de sustitución. Vídeo 44",
-        "h": "20190321122652"
+        "h": "20190321122652",
+        "l": null
     },
     {
         "i": 65,
         "j": "SEOttevLWKA",
         "b": "Curso C#. Colecciones IV. Stacks y Dictionary. Vídeo 66",
-        "h": "20190911211903"
+        "h": "20190911211903",
+        "l": null
     },
     {
         "i": 125,
         "j": "SFVIlbQIJAM",
         "b": "Curso C#. Unity IX. El arma. Vídeo 126",
-        "h": "20220325101034"
+        "h": "20220325101034",
+        "l": null
     },
     {
         "i": 124,
         "j": "SjHQGBQ8FRo",
         "b": "Curso C#. Unity VIII. Codificando movimientos. Vídeo 125",
-        "h": "20220310122147"
+        "h": "20220310122147",
+        "l": null
     },
     {
         "i": 2,
         "j": "SRT6uq5UTbc",
         "b": "Curso C#. Sintaxis básica I. Vídeo 3",
-        "h": "20180616203021"
+        "h": "20180616203021",
+        "l": null
     },
     {
         "i": 61,
         "j": "TeemgJNGEvo",
         "b": "Curso C#. Genéricos III. Vídeo 62",
-        "h": "20190808182608"
+        "h": "20190808182608",
+        "l": null
     },
     {
         "i": 15,
         "j": "TuwFgCngEOY",
         "b": "Curso C#. Condicional IF III. Vídeo 16",
-        "h": "20180822095537"
+        "h": "20180822095537",
+        "l": null
     },
     {
         "i": 108,
         "j": "Ugy9hMjDCn8",
         "b": "Curso C#. ThreadsII. Sincronización y bloqueo. Vídeo 109",
-        "h": "20210316191916"
+        "h": "20210316191916",
+        "l": null
     },
     {
         "i": 77,
         "j": "uOiAj_HCQi8",
         "b": "Curso C#. WPF Dependency properties II. Vídeo 78",
-        "h": "20200302122510"
+        "h": "20200302122510",
+        "l": null
     },
     {
         "i": 14,
         "j": "UTjweDiyMyk",
         "b": "Curso C#. Condicional IF II. Vídeo 15",
-        "h": "20180821174921"
+        "h": "20180821174921",
+        "l": null
     },
     {
         "i": 112,
         "j": "v3yd_Ctl6PQ",
         "b": "Curso C#. TASK I. Vídeo 113",
-        "h": "20210517191711"
+        "h": "20210517191711",
+        "l": null
     },
     {
         "i": 10,
         "j": "vAKn9ZOGnjQ",
         "b": "Curso C#. Métodos III. Métodos return. Vídeo 11",
-        "h": "20180725115052"
+        "h": "20180725115052",
+        "l": null
     },
     {
         "i": 13,
         "j": "VBf3nEinpfA",
         "b": "Curso C#. Condicional IF I. Vídeo 14",
-        "h": "20180811182256"
+        "h": "20180811182256",
+        "l": null
     },
     {
         "i": 55,
         "j": "vShuuK41IwE",
         "b": "Curso C#. Properties (Propiedades) II. Vídeo 56",
-        "h": "20190613201537"
+        "h": "20190613201537",
+        "l": null
     },
     {
         "i": 23,
         "j": "vVRznsklCtI",
         "b": "Curso C#. Excepciones III. Conflictos varias excepciones, captura con filtros. V",
-        "h": "20181029131817"
+        "h": "20181029131817",
+        "l": null
     },
     {
         "i": 101,
         "j": "VXy9mTU_TgM",
         "b": "Curso C#. LINQ III. Más instrucciones LINQ. Vídeo 102",
-        "h": "20201102140238"
+        "h": "20201102140238",
+        "l": null
     },
     {
         "i": 21,
         "j": "VYuU-iAYlkk",
         "b": "Curso C#. Excepciones I. Vídeo 22",
-        "h": "20181005191728"
+        "h": "20181005191728",
+        "l": null
     },
     {
         "i": 83,
         "j": "W0Ff7oAO1aM",
         "b": "Curso C#. WPF. ComboBox y CheckBox I. Vídeo 84",
-        "h": "20200413112348"
+        "h": "20200413112348",
+        "l": null
     },
     {
         "i": 81,
         "j": "wIf-IWGxlLE",
         "b": "Curso C#. WPF. ListBox I. Vídeo 81",
-        "h": "20200327182119"
+        "h": "20200327182119",
+        "l": null
     },
     {
         "i": 105,
         "j": "WrW1ZEMbrds",
         "b": "Curso C#. LINQ VII. LINQ y SQL. Vídeo 106",
-        "h": "20210127192048"
+        "h": "20210127192048",
+        "l": null
     },
     {
         "i": 100,
         "j": "wypbAtv3FrI",
         "b": "Curso C#. LINQ II. Trabajo con objetos. Vídeo 101",
-        "h": "20201012181736"
+        "h": "20201012181736",
+        "l": null
     },
     {
         "i": 49,
         "j": "WzzRg9VekI4",
         "b": "Curso C#. Interfaces III. Vídeo 50",
-        "h": "20190429112603"
+        "h": "20190429112603",
+        "l": null
     },
     {
         "i": 113,
         "j": "x0gO4FoLJgg",
         "b": "Curso C#. TASK II. Vídeo 114",
-        "h": "20210603094432"
+        "h": "20210603094432",
+        "l": null
     },
     {
         "i": 60,
         "j": "xB8gqhrsrqw",
         "b": "Curso C#. Genéricos II. Vídeo 61",
-        "h": "20190720162803"
+        "h": "20190720162803",
+        "l": null
     },
     {
         "i": 32,
         "j": "xE0QQnQ8DFw",
         "b": "Curso C#.  POO VII. Llamadas y clase Math. Vídeo 33",
-        "h": "20190129213835"
+        "h": "20190129213835",
+        "l": null
     },
     {
         "i": 50,
         "j": "XJnwvSGJtC8",
         "b": "Curso C#. Interfaces IV. Vídeo 51",
-        "h": "20190502183108"
+        "h": "20190502183108",
+        "l": null
     },
     {
         "i": 109,
         "j": "XplEHgqBQhE",
         "b": "Curso C#. Threads III. Sincronización y bloqueo II. Vídeo 110",
-        "h": "20210316195040"
+        "h": "20210316195040",
+        "l": null
     },
     {
         "i": 25,
         "j": "XpwvcnSncco",
         "b": "Curso C#. Excepciones V. Bloque finally. Vídeo 26",
-        "h": "20181111191607"
+        "h": "20181111191607",
+        "l": null
     },
     {
         "i": 96,
         "j": "xuguKVOkKY8",
         "b": "Curso C#. BBDD. Sql Server. Actualizar registros I. Vídeo 97",
-        "h": "20200801113424"
+        "h": "20200801113424",
+        "l": null
     },
     {
         "i": 26,
         "j": "xz7gn9UXdrA",
         "b": "Curso C#. POO. ¿Qué es la POO? Vídeo 27",
-        "h": "20181119103413"
+        "h": "20181119103413",
+        "l": null
     },
     {
         "i": 44,
         "j": "XzKL94OMDV4",
         "b": "Curso C#. Herencia V. Polimorfismo. Vídeo 45",
-        "h": "20190325141313"
+        "h": "20190325141313",
+        "l": null
     },
     {
         "i": 72,
         "j": "Y0Y7EoIVKto",
         "b": "Curso C#. WPF Interfaces gráficas II. Vídeo 73",
-        "h": "20191206180529"
+        "h": "20191206180529",
+        "l": null
     },
     {
         "i": 20,
         "j": "yt05QtdO5Ek",
         "b": "Curso C#. Bucle do While. Vídeo 21",
-        "h": "20180920102725"
+        "h": "20180920102725",
+        "l": null
     },
     {
         "i": 6,
         "j": "ZheVmw7CCnw",
         "b": "Curso C#. Sintaxis básica V. Vídeo 7",
-        "h": "20180702112820"
+        "h": "20180702112820",
+        "l": null
     }
 ]

@@ -3,54 +3,63 @@
         "i": 1,
         "j": "7FptmAjBdsA",
         "b": "MVVM en ANDROID 📐 [2021] 📐- Model View ViewModel - Clean Architecture, Retrofit 2 y corrutinas (#2)",
-        "h": "20210527132314"
+        "h": "20210527132314",
+        "l": 1921
     },
     {
         "i": 5,
         "j": "EmUx8wgRxJw",
         "b": "MVVM con JETPACK COMPOSE desde CERO - TUTORIAL - Ejemplo Login con arquitectura MVVM en Android",
-        "h": "20220825122626"
+        "h": "20220825122626",
+        "l": 2331
     },
     {
         "i": 0,
         "j": "hhhSMXi0R3E",
         "b": "MVVM en ANDROID 📐 [2021] 📐- Arquitectura Model View ViewModel en Kotlin con LIVE DATA desde cero #1",
-        "h": "20210422184000"
+        "h": "20210422184000",
+        "l": 1311
     },
     {
         "i": 8,
         "j": "JYeYvEUq8Yw",
         "b": "TESTING para CI - Prepara tus pull request LIKE A BOSS",
-        "h": "20230119171652"
+        "h": "20230119171652",
+        "l": 937
     },
     {
         "i": 6,
         "j": "lE8Pu_VZDhM",
         "b": "JETPACK COMPOSE: Curso COMPLETO de 0 a PRO - MVVM, Testing, DI y MUCHO MÁS [PRESENTACIÓN]",
-        "h": "20220904171736"
+        "h": "20220904171736",
+        "l": 219
     },
     {
         "i": 3,
         "j": "lYBb4QedYH8",
         "b": "ROOM en Android con KOTLIN (Base de datos) 💾 - Tutorial Android Studio con MVVM (Hilt y corrutinas)",
-        "h": "20220120122105"
+        "h": "20220120122105",
+        "l": 1855
     },
     {
         "i": 2,
         "j": "t6ZuzSu2UHI",
         "b": "Dagger HILT en KOTLIN con MVVM 💉 - Tutorial android inyección de dependencias con Dagger Hilt",
-        "h": "20210729143815"
+        "h": "20210729143815",
+        "l": 1561
     },
     {
         "i": 4,
         "j": "xCjIJMydI3s",
         "b": "TESTING en ANDROID con KOTLIN desde Cero - [Test unitarios en Android Studio] - Pruebas unitarias",
-        "h": "20220218163158"
+        "h": "20220218163158",
+        "l": 2327
     },
     {
         "i": 7,
         "j": "Zfaev5IOBmI",
         "b": "CI/CD en ANDROID con GITHUB ACTIONS - TUTORIAL integración continua desde cero.",
-        "h": "20230112174335"
+        "h": "20230112174335",
+        "l": 1626
     }
 ]

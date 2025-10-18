@@ -3,144 +3,168 @@
         "i": 5,
         "j": "-7DiO35rbN8",
         "b": "Qué es un puerto y un socket. Curso de redes desde 0 | Cap 5 |",
-        "h": "20200527042738"
+        "h": "20200527042738",
+        "l": null
     },
     {
         "i": 13,
         "j": "4-ai8jlzcVo",
         "b": "Cómo funciona una conexión en internet. Curso de redes desde 0 | Cap 13 |",
-        "h": "20210606061421"
+        "h": "20210606061421",
+        "l": null
     },
     {
         "i": 10,
         "j": "6WLCutlgebA",
         "b": "Ejemplos prácticos del curso de redes (2ª parte ). Curso de redes desde 0 | Cap 10 |",
-        "h": "20200704150943"
+        "h": "20200704150943",
+        "l": null
     },
     {
         "i": 4,
         "j": "7XjJqUM0dvg",
         "b": "Qué es y para qué sirve un DNS. Curso de redes desde 0 | Cap 4 |",
-        "h": "20200516153607"
+        "h": "20200516153607",
+        "l": null
     },
     {
         "i": 7,
         "j": "8e2OY6ou3l0",
         "b": "Acceso exterior, DDNS, DMZ y CG-NAT. Curso de redes desde 0 | Cap 7 |",
-        "h": "20200607063151"
+        "h": "20200607063151",
+        "l": null
     },
     {
         "i": 18,
         "j": "a1NnnVORlO0",
         "b": "Transceptores, conectores y tipos de pulido de fibra ⚡️ Curso de redes desde 0 | Cap 18 |",
-        "h": "20221227061542"
+        "h": "20221227061542",
+        "l": null
     },
     {
         "i": 17,
         "j": "CdAl3cECvJI",
         "b": "Introducción a las redes de fibra óptica ⚡️ Curso de redes desde 0 | Cap 17 |",
-        "h": "20221225201423"
+        "h": "20221225201423",
+        "l": null
     },
     {
         "i": 16,
         "j": "ciqkfi95kTg",
         "b": "Seguridad y privacidad DNS. Curso de redes desde 0 | Cap 16 |",
-        "h": "20210727142110"
+        "h": "20210727142110",
+        "l": null
     },
     {
         "i": 1,
         "j": "gVUE2IDwWA0",
         "b": "Qué es la IP pública. Curso de redes desde 0 | Cap 1 |",
-        "h": "20200513042422"
+        "h": "20200513042422",
+        "l": null
     },
     {
         "i": 2,
         "j": "HeZWcZmrQUY",
         "b": "Qué es la IP privada, NAT y puerta de enlace. Curso de redes dede 0 | Cap 2 |",
-        "h": "20200514064544"
+        "h": "20200514064544",
+        "l": null
     },
     {
         "i": 6,
         "j": "hmGmeGDRUAU",
         "b": "Tipos de puertos: bien conocidos, asignados y efímeros. Curso de redes desde 0 | Cap 6 |",
-        "h": "20200605140156"
+        "h": "20200605140156",
+        "l": null
     },
     {
         "i": 12,
         "j": "iNh-62Mf0O4",
         "b": "Modelo de capas OSI y TCP/IP. Curso de redes desde 0 | Cap 12 |",
-        "h": "20210110161922"
+        "h": "20210110161922",
+        "l": null
     },
     {
         "i": 3,
         "j": "LQf1azzcG7s",
         "b": "Qué es IPv6. Curso de redes desde 0 | Cap 3 |",
-        "h": "20200515044515"
+        "h": "20200515044515",
+        "l": null
     },
     {
         "i": 9,
         "j": "LWlxZew1U6Q",
         "b": "Ejemplos prácticos del curso de redes (1ª parte ). Curso de redes desde 0 | Cap 9 |",
-        "h": "20200703082150"
+        "h": "20200703082150",
+        "l": null
     },
     {
         "i": 15,
         "j": "M-7HhMS6Hz0",
         "b": "Cómo mejorar el rendimiento del router. Curso de redes desde 0 | Cap 15 |",
-        "h": "20210617070823"
+        "h": "20210617070823",
+        "l": null
     },
     {
         "i": 11,
         "j": "Okol1psVOD8",
         "b": "Todo lo que necesitas saber sobre CG-NAT. Curso de redes desde 0 | Cap 11 |",
-        "h": "20200709085517"
+        "h": "20200709085517",
+        "l": null
     },
     {
         "i": 22,
         "j": "RZOqcwLdMqs",
         "b": "VLAN nativa, de acceso y trunk paso a paso con ejemplos reales | Cap 22 |",
-        "h": "20250913164753"
+        "h": "20250913164753",
+        "l": null
     },
     {
         "i": 8,
         "j": "tyfAsrS7KIs",
         "b": "Conexiones inversas y UPnP. Curso de redes desde 0 | Cap 8 |",
-        "h": "20200615042128"
+        "h": "20200615042128",
+        "l": null
     },
     {
         "i": 0,
         "j": "um41JAqO42g",
         "b": "Introducción y presentación del curso de redes desde 0 | Cap 0 |",
-        "h": "20200512154312"
+        "h": "20200512154312",
+        "l": null
     },
     {
         "i": 21,
         "j": "USmPUFzcTlE",
         "b": "VLAN para principiantes: Access vs Trunk con ejemplos reales | Cap 21 |",
-        "h": "20250830070150"
+        "h": "20250830070150",
+        "l": null
     },
     {
         "i": 23,
         "j": "vXshUKOahIA",
         "b": "Cómo configurar VLANs en Windows y Mac ⚡️ Cambio VLAN nativa para mayor seguridad | Cap 23 |",
-        "h": "20250920061831"
+        "h": "20250920061831",
+        "l": null
     },
     {
         "i": 19,
         "j": "vZWnpnj50K4",
         "b": "Unicast, multicast y broadcast. Curso de redes desde 0 | Cap 19 |",
-        "h": "20240219063608"
+        "h": "20240219063608",
+        "l": null
     },
     {
         "i": 20,
         "j": "vzY9DJuIe9U",
         "b": "Qué son las VLAN, para qué sirven y cómo funcionan. Curso de redes desde 0 | Cap 20 |",
-        "h": "20240225074716"
+        "h": "20240225074716",
+        "l": null
     },
     {
         "i": 14,
         "j": "w_CArT71qHc",
         "b": "Cómo funciona un switch y por qué debes usarlo. Curso de redes desde 0 | Cap 14 |",
-        "h": "20210613110747"
+        "h": "20210613110747",
+        "l": null
     }
 ]
