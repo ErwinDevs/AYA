@@ -418,5 +418,1535 @@
         "j": "b6tooq-_eaw",
         "b": "Fuente voltaje con transistores variable y limitación corriente (CLASE 97.1)",
         "h": "20231208164314"
+    },
+    {
+        "i": 153,
+        "j": "B7vkwEj9jYI",
+        "b": "SMPS 5v 12 y  -12V  Medidas y funcionamiento (Clase 107)",
+        "h": "20201011105706"
+    },
+    {
+        "i": 196,
+        "j": "bDjMwM7nD9g",
+        "b": "Como trabaja convertidor DC DC Boost (elevador)",
+        "h": "20211009101102"
+    },
+    {
+        "i": 27,
+        "j": "BhX8N6yhUSs",
+        "b": "Clase 16.1: Numeros complejos al fin entendí que son.",
+        "h": "20190316200046"
+    },
+    {
+        "i": 188,
+        "j": "bIUYd8MOpbI",
+        "b": "Como funciona este impresionante ampli audio 8002 clase AB (clase 85)",
+        "h": "20210711105021"
+    },
+    {
+        "i": 48,
+        "j": "bKXM8W-OaE0",
+        "b": "Potencia reactiva la entenderás muy facil (Clase 26.1)",
+        "h": "20190413212554"
+    },
+    {
+        "i": 280,
+        "j": "bLA78FZb4kU",
+        "b": "Circuito convertidor DC-DC SEPIC. Masterclass",
+        "h": "20241124203359"
+    },
+    {
+        "i": 112,
+        "j": "BPiTDtXN40c",
+        "b": "Como funciona circuito regulador tension con OPAMP para fuente tensión(Clase 67)",
+        "h": "20191027211401"
+    },
+    {
+        "i": 283,
+        "j": "bXRRWtJZJaM",
+        "b": "Comprueba cuanto sabes de electrónica con OPAMPs",
+        "h": "20241209135919"
+    },
+    {
+        "i": 76,
+        "j": "C0q4w_cuz_U",
+        "b": "RETO ELECTRONICO ¿Que avería tiene ésta Fuente de alimentación? (clase 38.1)",
+        "h": "20210331143327"
+    },
+    {
+        "i": 45,
+        "j": "cdR5rioDoKo",
+        "b": "Clase 24.1: Como medir autoinduccion y resistencia en una bobina",
+        "h": "20190412204222"
+    },
+    {
+        "i": 158,
+        "j": "cFoDNeqGEKU",
+        "b": "SMPS 200W en semipuente  Explicacion funcionamiento (Clase 112)",
+        "h": "20201125194028"
+    },
+    {
+        "i": 221,
+        "j": "cH-elCU1zTM",
+        "b": "Como funciona el Rectificador controlado media onda carga inductiva y resistiva (clase 138)",
+        "h": "20220429195357"
+    },
+    {
+        "i": 28,
+        "j": "cLHHyK1ik7M",
+        "b": "Clase 16.2: Como operar con números complejos",
+        "h": "20190427141436"
+    },
+    {
+        "i": 14,
+        "j": "cPCXT5OUwgM",
+        "b": "La magia de resolver circuito por Millman. (Clase 9 curso electronica basica)",
+        "h": "20181227152542"
+    },
+    {
+        "i": 315,
+        "j": "CRXVc9pLowA",
+        "b": "Cuando utilizar un IGBT o un  MOSFET",
+        "h": "20250830115826"
+    },
+    {
+        "i": 148,
+        "j": "cyoQUnASxQY",
+        "b": "SMPS. Como funcionan circuito Rectificador y filtro primarios (Clase 102)",
+        "h": "20200906092513"
+    },
+    {
+        "i": 182,
+        "j": "D2ersgIoHMs",
+        "b": "Reto electronico: ¿Donde está la avería Fuente tensión 5V  - 5A ?(Clase 90.3)",
+        "h": "20210406194723"
+    },
+    {
+        "i": 209,
+        "j": "D3-22_t0VDc",
+        "b": "Como diseñar y funciona temporizador con OPAMP (clase 82.2)",
+        "h": "20220107212322"
+    },
+    {
+        "i": 183,
+        "j": "DDdWJitgHrQ",
+        "b": "SOLUCION Reto electronico  Averia en Fuente tension 5V - 5A (Clase 90.3)",
+        "h": "20210409044906"
+    },
+    {
+        "i": 150,
+        "j": "dGyc4CjXVWU",
+        "b": "SMPS: Como funciona convertidor DC DC Flyback (Clase 104)",
+        "h": "20200919171816"
+    },
+    {
+        "i": 10,
+        "j": "Dm_fKNuoPP0",
+        "b": "Como convertir fuentes de corriente a tensión y viceversa (Clase 6  curso electronica)",
+        "h": "20181227151453"
+    },
+    {
+        "i": 286,
+        "j": "DN4cYgsIoYk",
+        "b": "Como trabaja convertidor resonante serie LC. Masterclass",
+        "h": "20241227181216"
+    },
+    {
+        "i": 143,
+        "j": "doTCNvxfgRo",
+        "b": "Como medir intensidad en una PCB sin abrir el circuito (Clase 95.1)",
+        "h": "20200403125151"
+    },
+    {
+        "i": 259,
+        "j": "dpkkVuA8Pc4",
+        "b": "Cuanto sabes de electricidad-electrónica?",
+        "h": "20230916174526"
+    },
+    {
+        "i": 319,
+        "j": "dt2jhWKQ9ks",
+        "b": "Buena Fuente Programable F-NIRSI IPS3608",
+        "h": "20250921111013"
+    },
+    {
+        "i": 185,
+        "j": "dTxQml90KYc",
+        "b": "Como funciona COMPARADOR con histéresis ajustable. Solucion RETO electronico (CLASE 74.4)",
+        "h": "20210416143354"
+    },
+    {
+        "i": 63,
+        "j": "DXmvj0qd0RI",
+        "b": "Como funciona Rectificador con dos diodos y onda completa. (Clase 32.1 curso electronica)",
+        "h": "20190427204802"
+    },
+    {
+        "i": 201,
+        "j": "dxuKWb5kw5c",
+        "b": "Como trabaja Red Snubber para semiconductores (Clase 104.1)",
+        "h": "20211107170429"
+    },
+    {
+        "i": 263,
+        "j": "E_TFUejP5BU",
+        "b": "Clase magistral. Aprende analizar circuito regulador voltaje variable 100V (clase 93.3)",
+        "h": "20231014211321"
+    },
+    {
+        "i": 155,
+        "j": "E6A1MUAsof0",
+        "b": "SMPS Cómo funciona cargador batería BARATO (Clase 109)",
+        "h": "20201025115525"
+    },
+    {
+        "i": 178,
+        "j": "E92FE0EXQCI",
+        "b": "Como trabaja OPAMP en corriente alterna. Solucion RETO (clase 84.1 parte II)",
+        "h": "20210321163018"
+    },
+    {
+        "i": 75,
+        "j": "eATKEOlqjkw",
+        "b": "fuente tension estabiliza con zener al detalle (Clase 38)",
+        "h": "20190630180149"
+    },
+    {
+        "i": 156,
+        "j": "eepIQyK0LoQ",
+        "b": "Como trabaja convertidor DCDC flyback (Clase 123)",
+        "h": "20201102220116"
+    },
+    {
+        "i": 203,
+        "j": "egTj4_9QS6c",
+        "b": "Como elegir los valores de un snubber RC (Clase 104.2)",
+        "h": "20211113191141"
+    },
+    {
+        "i": 232,
+        "j": "EjPM9l0aiwA",
+        "b": "Conexion correcta de MOSFET en paralelo (Clase 52.5)",
+        "h": "20220731095342"
+    },
+    {
+        "i": 11,
+        "j": "EjUwGgPhl_8",
+        "b": "Ejercicios resueltos por conversion fuentes (Clase 6.1 curso electronica)",
+        "h": "20181227151801"
+    },
+    {
+        "i": 265,
+        "j": "enBMErfrb1Q",
+        "b": "Te enseño a saber analizar circuito electrónico de control de potencia AC",
+        "h": "20231029154611"
+    },
+    {
+        "i": 171,
+        "j": "EocDym9uHM0",
+        "b": "Control volumen con JFET en preamplificador. JFET como resistor variable por tensión (Clase 69.1)",
+        "h": "20210227214052"
+    },
+    {
+        "i": 61,
+        "j": "Euj7xa4WoVE",
+        "b": "Diodo de proteccion para bobina en DC. (Clase 31 curso electronica",
+        "h": "20190418083023"
+    },
+    {
+        "i": 23,
+        "j": "f4PXdR_zdnY",
+        "b": "Clase 15 Método NUDOS o NODOS como no te han explicado",
+        "h": "20190109203633"
+    },
+    {
+        "i": 96,
+        "j": "FCMzV7k8WEM",
+        "b": "Control PWM para cargas de AC con MOSFET (Clase 52.3)",
+        "h": "20201014194330"
+    },
+    {
+        "i": 113,
+        "j": "fGp_8I1uuSQ",
+        "b": "Como elegir resistores para variar voltaje en fuente alimentacion (Clase 67.1 )",
+        "h": "20200718155130"
+    },
+    {
+        "i": 207,
+        "j": "fgquDSC3GXM",
+        "b": "Problema al conectar baterias en paralello y su solucion (clase 33.6)",
+        "h": "20211211222831"
+    },
+    {
+        "i": 57,
+        "j": "fHOQ986yyZ0",
+        "b": "Lo basico que debes saber del Transformador monofasico (Clase 29.1 curso electronica basica)",
+        "h": "20190406082729"
+    },
+    {
+        "i": 72,
+        "j": "fI9cBsGLV2M",
+        "b": "Clase 35.1: Circuito de examen con zener y condensador",
+        "h": "20190519211205"
+    },
+    {
+        "i": 268,
+        "j": "FJbG9v9yBT8",
+        "b": "¿Cuanto sabes de electricidad-electrónica? (Clase 15.5)",
+        "h": "20231203154221"
+    },
+    {
+        "i": 290,
+        "j": "fJSarYjPPkQ",
+        "b": "FA programable TPS3010 impresionante relación calidad-precio",
+        "h": "20250312205910"
+    },
+    {
+        "i": 294,
+        "j": "FkX9EQNalt4",
+        "b": "Espectacular herramienta: ANDONSTAR AD409 MAX ES con 4K a 60fps",
+        "h": "20250422081408"
+    },
+    {
+        "i": 276,
+        "j": "FOTnoS6ztJY",
+        "b": "MasterClass. Circuitos con indicación luminosa para fusible fundido",
+        "h": "20241026235457"
+    },
+    {
+        "i": 262,
+        "j": "FT9cPofyuy4",
+        "b": "Reto eléctrico. ¿Sabes la  Lectura de los aparatos de medida? CLASE 12.3",
+        "h": "20231007224447"
+    },
+    {
+        "i": 25,
+        "j": "FuyJhxB_0Vw",
+        "b": "Clase 15.2 Circuito examen resuelto por NUDOS",
+        "h": "20190113155300"
+    },
+    {
+        "i": 293,
+        "j": "FzOeeC5Sw_s",
+        "b": "Interesante Detector de Cables + Tuberías + Multímetro (3 e 1) ET838 TOOLTOP",
+        "h": "20250421210832"
+    },
+    {
+        "i": 69,
+        "j": "g4r5cfbkLD8",
+        "b": "Como proteger con diodos frente a una polaridad incorrecta (CLase 33.5)",
+        "h": "20190516144022"
+    },
+    {
+        "i": 285,
+        "j": "G8VPGo8jFXI",
+        "b": "Utilidades y Análisis Cámara térmica Thermal Master P2 Pro",
+        "h": "20241223000806"
+    },
+    {
+        "i": 101,
+        "j": "g9DEaqDQlnI",
+        "b": "Amplificador clase D. Como funciona (Clase 59)",
+        "h": "20201208132115"
+    },
+    {
+        "i": 59,
+        "j": "gB7ImT50VY0",
+        "b": "Como saber cuando conduce un diodo. (Clase 30.1 curso electronica basica)",
+        "h": "20190416174122"
+    },
+    {
+        "i": 180,
+        "j": "gChAnolMvXY",
+        "b": "¿Sabes que sucede cuando esta Sobrecargado un OPAMP? SOLUCION RETO (Clase 84.2)",
+        "h": "20210327201157"
+    },
+    {
+        "i": 278,
+        "j": "Gf4QOT3cdzo",
+        "b": "Circuito protección frente a sobrevoltajes en DC",
+        "h": "20241109204401"
+    },
+    {
+        "i": 92,
+        "j": "GGprFdtFbnU",
+        "b": "Como funciona transistor JFET y como resolver sus circuitos (Clase 51)",
+        "h": "20191024192348"
+    },
+    {
+        "i": 195,
+        "j": "GicYziNufwE",
+        "b": "Como hacer transformador para fuente conmutada SMPS (clase 110.1)",
+        "h": "20210921204332"
+    },
+    {
+        "i": 270,
+        "j": "GQY5--hTMPg",
+        "b": "Clase magistral:Circuito amplificador audio Clase D (Clase  78.3)",
+        "h": "20231221213422"
+    },
+    {
+        "i": 123,
+        "j": "gR9TYcK5nzY",
+        "b": "Circuito regulador PID control temperatura con OPAMPs (Clase 75)",
+        "h": "20191221092038"
+    },
+    {
+        "i": 144,
+        "j": "Gthqa-_txNc",
+        "b": "Curso Electronica. Limitador de corriente Foldback (CLase 96)",
+        "h": "20200418182237"
+    },
+    {
+        "i": 149,
+        "j": "guHy24mkRzM",
+        "b": "SMPS Como funciona circuito CFP (Corrector Factor Potencia) (Clase 103)",
+        "h": "20200912164833"
+    },
+    {
+        "i": 124,
+        "j": "h2pdPoLVuUQ",
+        "b": "Oscilador onda cuadrada con OPAMP. Funcionamiento y Aplicaciones (Clase 76)",
+        "h": "20191204185425"
+    },
+    {
+        "i": 272,
+        "j": "h8SlkaBcQ84",
+        "b": "Circuito electrónico de un Telerruptor (Clase 59.2)",
+        "h": "20240928211700"
+    },
+    {
+        "i": 93,
+        "j": "h8VcISK7y3w",
+        "b": "Como funciona MOSFET muy fácil y con detalle (Clase 52)",
+        "h": "20191117084335"
+    },
+    {
+        "i": 184,
+        "j": "Hd48Ui_X580",
+        "b": "RETO electronica: OPAMP Comparador con histeresis ajustable (CLASE 74.4)",
+        "h": "20210414162111"
+    },
+    {
+        "i": 313,
+        "j": "HzUHAPV6fnk",
+        "b": "Buenísimo Circuito Driver Bombilla LEDs",
+        "h": "20250803211431"
+    },
+    {
+        "i": 244,
+        "j": "hzxh3B3-Y-I",
+        "b": "Como diseñar tu Circuito de protección para batería (Clase 48.5)",
+        "h": "20230226174324"
+    },
+    {
+        "i": 89,
+        "j": "Ic3r9JxoKVg",
+        "b": "Como identificar terminales transistor NPN y PNP (Clase 47.2 )",
+        "h": "20200901213409"
+    },
+    {
+        "i": 173,
+        "j": "IcirLiVjpSo",
+        "b": "Facilisimo metodo para saber el voltaje de un diodo zener (clase 95.2)",
+        "h": "20210307142509"
+    },
+    {
+        "i": 264,
+        "j": "iCvUEJir3y4",
+        "b": "Aprende analizar circuitos con BJT, MOSFET, diodos y condensadores (Clase 52.8)",
+        "h": "20231022121005"
+    },
+    {
+        "i": 252,
+        "j": "IDfczbvcPqA",
+        "b": "Sabes Convertir fuente voltaje constante en Fuente corriente constante (clase 95.5)",
+        "h": "20230507225507"
+    },
+    {
+        "i": 200,
+        "j": "iG-Kr2umHbY",
+        "b": "Como trabaja el Amplificador potencia clase B y AB (Clase 57)",
+        "h": "20211104212012"
+    },
+    {
+        "i": 136,
+        "j": "IJOM-nXrgds",
+        "b": "Como trabajar con Amplificador Operacional real. Corrientes entrada (Clase 84)",
+        "h": "20201021231738"
+    },
+    {
+        "i": 227,
+        "j": "Io9SVtUwt50",
+        "b": "Facil Circuito fusible electrónico con ajuste de intensidad (clase 136.1)",
+        "h": "20220626133656"
+    },
+    {
+        "i": 74,
+        "j": "IrYY6pTdo9g",
+        "b": "Clase 37: Como calcular estabilizador basico con diodo zener",
+        "h": "20190626154637"
+    },
+    {
+        "i": 181,
+        "j": "IUCbZzhHMyw",
+        "b": "SOLUCION RETO: Como identificar avería en Fuente Alimentación (clase 38.1)",
+        "h": "20210402093552"
+    },
+    {
+        "i": 258,
+        "j": "j5TFHE7hT5c",
+        "b": "Interesante Carga electrónica (Clase 79.2)",
+        "h": "20230907063647"
+    },
+    {
+        "i": 271,
+        "j": "j8bdmgluvX0",
+        "b": "Todo sobre Baterías de litio BMS + cargadores + balanceadores",
+        "h": "20240613145116"
+    },
+    {
+        "i": 147,
+        "j": "J8EAuDA6k8I",
+        "b": "SMPS. Como funciona Circuito protección entrada y filtro EMI (clase 101)",
+        "h": "20200829173342"
+    },
+    {
+        "i": 78,
+        "j": "J8lNkVzukSM",
+        "b": "3 Errores de calculo al conectar LED en AC (clase 39.1)",
+        "h": "20210509094934"
+    },
+    {
+        "i": 175,
+        "j": "jbaIqgtxpDA",
+        "b": "Reto electronico: Saber intensidad Puente Wheatstone (clase 12.1)",
+        "h": "20210314120931"
+    },
+    {
+        "i": 29,
+        "j": "Jf14yyhVrAk",
+        "b": "Lo basico que debes saber del condensador o capacitor. (Clase 17 curso electronica)",
+        "h": "20190125193813"
+    },
+    {
+        "i": 4,
+        "j": "JFiDufguZbA",
+        "b": "Como resolver circuito por ley tensiones Kirchhoff y Ley de Ohm (Clase 3.1)",
+        "h": "20200621152407"
+    },
+    {
+        "i": 128,
+        "j": "JHtEhRjygls",
+        "b": "Interesante Circuito adaptador de rangos de tensiones (Clase 78)",
+        "h": "20191215095930"
+    },
+    {
+        "i": 18,
+        "j": "jiTbW6sleM4",
+        "b": "Como resolver circuito por thevenin y Millman (Curso electronica Clase 12.1)",
+        "h": "20200519101236"
+    },
+    {
+        "i": 2,
+        "j": "jli6YBkRt3U",
+        "b": "Todo sobre los Resistores en electrónica, (Clase 2)",
+        "h": "20181222233546"
+    },
+    {
+        "i": 191,
+        "j": "jMuQOf9E6Tw",
+        "b": "Impresionante circuito Driver bombilla LED con SMPS. Funcionamiento y reparación (clase 109.1)",
+        "h": "20210812085958"
+    },
+    {
+        "i": 228,
+        "j": "Jstpvj19vgc",
+        "b": "Conexion correcta en paralelo dos puentes rectificadores para aumentar intensidad (clase 32.3)",
+        "h": "20220703174541"
+    },
+    {
+        "i": 79,
+        "j": "JWCLKz6lt7Y",
+        "b": "Diseño circuito driver lampara LEDs en AC (Clase 39.2)",
+        "h": "20210516173424"
+    },
+    {
+        "i": 85,
+        "j": "K-3kEmexz44",
+        "b": "Como funciona y se calcula regulador tension con transistor y zener (Clase 45 curso electronica)",
+        "h": "20190722125830"
+    },
+    {
+        "i": 46,
+        "j": "k0Lgoss3Kdw",
+        "b": "Que hacen juntos condensador y resistencia en AC (Clase 25)",
+        "h": "20190324104453"
+    },
+    {
+        "i": 164,
+        "j": "K1epC5LEOoM",
+        "b": "Como funciona fuente ATX en un PC (clase 113)",
+        "h": "20210131234205"
+    },
+    {
+        "i": 67,
+        "j": "k2w1bMIf7mw",
+        "b": "Como funciona el Sujetador y doblador de tension con diodos. (Clase 33.1)",
+        "h": "20190419080215"
+    },
+    {
+        "i": 81,
+        "j": "k8v-ukhCc2g",
+        "b": "Como funciona transistor NPN con detalle (Clase 42)",
+        "h": "20190712092317"
+    },
+    {
+        "i": 32,
+        "j": "k9nVIFnkxIE",
+        "b": "Que hace un Condensador (capacitor) en DC Parte I. (Clase 18 curso electronica)",
+        "h": "20190208160202"
+    },
+    {
+        "i": 312,
+        "j": "kbUywl8nJfQ",
+        "b": "Impresionante Multimetro + Meger Profesional",
+        "h": "20250803083650"
+    },
+    {
+        "i": 211,
+        "j": "KdbS7cejTzA",
+        "b": "Como medir potencias en trifasica (Clase 131)",
+        "h": "20220205171047"
+    },
+    {
+        "i": 70,
+        "j": "KE3NoFTJeLQ",
+        "b": "Clase 34: Como calcular resistores circuito electronico",
+        "h": "20190625153649"
+    },
+    {
+        "i": 0,
+        "j": "KkoudrHOpGE",
+        "b": "Clase 0: Presentación Curso Electronica analógica",
+        "h": "20181221211208"
+    },
+    {
+        "i": 242,
+        "j": "klIHJ2BLNKw",
+        "b": "Interesante circuito convertidor de voltajes de control (Clase 78.1)",
+        "h": "20230129000158"
+    },
+    {
+        "i": 53,
+        "j": "KQvxdAlBj04",
+        "b": "Clase 27: Como analizar filtros pasivos paso bajo y paso alto",
+        "h": "20190331181049"
+    },
+    {
+        "i": 130,
+        "j": "kSF_YRUGvAo",
+        "b": "Como diseñar circuito convertidor 4 - 20mA  a  0  - 10V con amplificadores operacionales (clase 80)",
+        "h": "20191221084248"
+    },
+    {
+        "i": 47,
+        "j": "KwDjl2Y1xW0",
+        "b": "Que potencias hay en corriente alterna AC (Clase 26)",
+        "h": "20190328194644"
+    },
+    {
+        "i": 55,
+        "j": "KxDOmMMo6so",
+        "b": "Analisis Resonancia serie y paralelo. Parte I. (Clase 28 curso electronica)",
+        "h": "20190402204824"
+    },
+    {
+        "i": 310,
+        "j": "Kze5VFP_jzA",
+        "b": "Masterclass: Circuito RC serie con onda cuadrada AC",
+        "h": "20250726223955"
+    },
+    {
+        "i": 220,
+        "j": "L6XAV5rn6VA",
+        "b": "Como funcionan lo circuitos de control de potencia en AC MONOFASICA con tiristores SCR (clase 137)",
+        "h": "20220422222121"
+    },
+    {
+        "i": 298,
+        "j": "l7s6XKzKduY",
+        "b": "Circuito mezclador señales AC con OPAMP y fuente simple",
+        "h": "20250509135558"
+    },
+    {
+        "i": 273,
+        "j": "lD8IbCij_wk",
+        "b": "¿Cuanto sabes de electrónica? Comprueba tus conocimientos",
+        "h": "20241004210004"
+    },
+    {
+        "i": 282,
+        "j": "lEHjJRCjOgQ",
+        "b": "Impresionante Osciloscopio + Generador  señales + Comprobador componentes. Duro Test realizado",
+        "h": "20241207131839"
+    },
+    {
+        "i": 246,
+        "j": "LHSNA_BJS5Y",
+        "b": "¿Sabes estas utilidades de los condensadores? (Clase 92 )",
+        "h": "20230312082252"
+    },
+    {
+        "i": 229,
+        "j": "lJ8ZMiyJ2Kg",
+        "b": "Explicado circuito potencia maquina soldar ARC 200",
+        "h": "20220709102656"
+    },
+    {
+        "i": 157,
+        "j": "lkqfKvWP24M",
+        "b": "SMPS 12V-10 A explicacion con esquema y fuente conmutada (clase 111)",
+        "h": "20201114124354"
+    },
+    {
+        "i": 105,
+        "j": "lNbfvl_Pgyo",
+        "b": "Como saber la Impedancia entrada y salida de un amplificador inversor (Clase 62.1)",
+        "h": "20191010042553"
+    },
+    {
+        "i": 256,
+        "j": "Luvs4qAIrsw",
+        "b": "¿Sabes esto de los condensadores?",
+        "h": "20230618153446"
+    },
+    {
+        "i": 68,
+        "j": "LVrmY0woUEg",
+        "b": "CLase 33.2: Selector de Tensión mayor o tensión menor con diodos",
+        "h": "20190514052354"
+    },
+    {
+        "i": 38,
+        "j": "LXwFKTRQzVY",
+        "b": "Clase 19: Que son las Bobinas (Inductores)",
+        "h": "20190309072733"
+    },
+    {
+        "i": 321,
+        "j": "LyIgrWBsP8U",
+        "b": "Barato Osciloscopio + Multímetro + Generador  ET853 ToolTop",
+        "h": "20251003152647"
+    },
+    {
+        "i": 226,
+        "j": "m4wDAc2M4lA",
+        "b": "Explicado Circuito equipo soldar por arco INVERTER",
+        "h": "20220619102328"
+    },
+    {
+        "i": 5,
+        "j": "M8EtFN1_5ik",
+        "b": "Como utilizar leyes Kichhoff y Ohm para resolver este circuito (Clase 3.2)",
+        "h": "20200623150903"
+    },
+    {
+        "i": 219,
+        "j": "mDn5lnaK3tc",
+        "b": "Todo lo que debes saber del tiristor SCR (clase 136)",
+        "h": "20220415205451"
+    },
+    {
+        "i": 106,
+        "j": "mhaa4QElSOw",
+        "b": "Como saber la Impedancia entrada y salida amplificador no inversor (CLase 62.2)",
+        "h": "20191015180346"
+    },
+    {
+        "i": 260,
+        "j": "MI6byp5nOlw",
+        "b": "interesante Circuito carga electrónica de 1000W (clase 79.3)",
+        "h": "20230925163016"
+    },
+    {
+        "i": 296,
+        "j": "MJojwMsGd9c",
+        "b": "Clase Magistral: Fuente Regulable hasta 50V y 50 A (*)",
+        "h": "20250427192707"
+    },
+    {
+        "i": 299,
+        "j": "MKQPJt6KFSk",
+        "b": "Pinzas calientes + soldador para SMD. HT140 Sequre",
+        "h": "20250513202129"
+    },
+    {
+        "i": 177,
+        "j": "Mlrq7JxCQok",
+        "b": "Reto electronico con OPAMP real. Comprueba tu conocimiento (clase 84.1 parte I)",
+        "h": "20210320135453"
+    },
+    {
+        "i": 202,
+        "j": "MsS7A1tTZoI",
+        "b": "Como convertir fuente DC simple en SIMETRICA (Clase 67.2)",
+        "h": "20211111152524"
+    },
+    {
+        "i": 33,
+        "j": "N-RlEoNgIbM",
+        "b": "Que hace un Condensador o capacitor en DC. Parte II. (Clase 18 curso electronica)",
+        "h": "20190208212028"
+    },
+    {
+        "i": 287,
+        "j": "Ni8wKqanA9c",
+        "b": "Análisis de los cargadores USB de baterías. ¡Cuidado algunos son un timo!",
+        "h": "20250115214135"
+    },
+    {
+        "i": 193,
+        "j": "NOMbAwPOm18",
+        "b": "Interesante fuente conmutada (SMPS) para laptop EXPLICADA con detalle (Clase 107.1)",
+        "h": "20210824210822"
+    },
+    {
+        "i": 223,
+        "j": "NPlSiou6j7I",
+        "b": "Como funciona y se hace un CIRCUITO DISPARO PARA TIRISTORES (CLASE 142)",
+        "h": "20220528102834"
+    },
+    {
+        "i": 161,
+        "j": "nuEg6IDQo0M",
+        "b": "Circuito Inversor lineal 12v a 230 v onda senoidal. Funcionamiento. (Clase 118 )",
+        "h": "20210101132335"
+    },
+    {
+        "i": 297,
+        "j": "nvpD8U7Uwro",
+        "b": "Reparación fuente conmutada Phoenix Contact",
+        "h": "20250503192518"
+    },
+    {
+        "i": 251,
+        "j": "nX44JIh4t3U",
+        "b": "Como diseñar tu propia Fuente voltaje regulable de 1,3V a 15V y 1A con LM317 (Clase 93 .1)",
+        "h": "20230415235151"
+    },
+    {
+        "i": 37,
+        "j": "O4cV6k5Y98A",
+        "b": "Condensadores paralelo en DC. Clase 18.4)",
+        "h": "20190305130134"
+    },
+    {
+        "i": 114,
+        "j": "ocIYmhMPYJ0",
+        "b": "Como funciona circuito sumador no inversor y aplicaciones con OPAMP (Clase 68)",
+        "h": "20191030161921"
+    },
+    {
+        "i": 253,
+        "j": "OLEmxytLwnA",
+        "b": "SABES HACER FUENTE AC AJUSTABLE sin transformador (Clase 90.5)",
+        "h": "20230513204922"
+    },
+    {
+        "i": 163,
+        "j": "oNjMTK-OXOQ",
+        "b": "Prueba tu conocimiento de electronica: Condensadores serie en DC (Clase 18.3)",
+        "h": "20210125202400"
+    },
+    {
+        "i": 316,
+        "j": "OnskbRoCLUw",
+        "b": "¿Por qué se quema un MOSFET de 100A con 5A?",
+        "h": "20250907181355"
+    },
+    {
+        "i": 257,
+        "j": "OO0Wc0ncHRs",
+        "b": "Circuito para luz nocturna automática (clase 74.5)",
+        "h": "20230625203313"
+    },
+    {
+        "i": 248,
+        "j": "oqdnRVKvKzs",
+        "b": "Sabes como convertir de 0  - 50ºC a 0 - 10V (Clase 69.2)",
+        "h": "20230326093552"
+    },
+    {
+        "i": 16,
+        "j": "otYl_8qQTAk",
+        "b": "Entenderás el teorema de Norton muy fácil (Clase 11 curso electronica)",
+        "h": "20181227153108"
+    },
+    {
+        "i": 166,
+        "j": "oWf-Hub6_uU",
+        "b": "Cómo elegir resistores para ON OFF Rele con BJT (Clase 48.2)",
+        "h": "20210210060158"
+    },
+    {
+        "i": 31,
+        "j": "oZ8J9mgo69w",
+        "b": "Como leer condensadores o capacitores. (Clase 17.2 curso electronica)",
+        "h": "20190203185836"
+    },
+    {
+        "i": 289,
+        "j": "PaZbT-nEbkE",
+        "b": "TODO sobre carga rápida en teléfonos inteligentes",
+        "h": "20250308153339"
+    },
+    {
+        "i": 322,
+        "j": "PBQEonSTkgg",
+        "b": "Masterclass ¿Sabes esto de las fuentes de alimentación?",
+        "h": "20251005160227"
+    },
+    {
+        "i": 52,
+        "j": "PBU9dGh6vZo",
+        "b": "RETO: ¿Sabes que intensidad debes medir en este circuito AC? (Clase 26.4)",
+        "h": "20210626160732"
+    },
+    {
+        "i": 49,
+        "j": "pebkVPmUeVY",
+        "b": "Factor de potencia. Que es y cómo mejorarlo. (Clase 26.2)",
+        "h": "20190414123922"
+    },
+    {
+        "i": 292,
+        "j": "pf5SHXygjRQ",
+        "b": "Interesante MULTÍMETRO con CÁMARA TÉRMICA",
+        "h": "20250411172627"
+    },
+    {
+        "i": 15,
+        "j": "pFbEUhOmges",
+        "b": "Como usar Teorema de Superposicion para resolver circuitos. (Clase 10)",
+        "h": "20181227152828"
+    },
+    {
+        "i": 83,
+        "j": "pfVUD5FVoB0",
+        "b": "Como funcionan 4 Circuitos Polarización transistor NPN. (Clase 43 curso electronica basica)",
+        "h": "20190715092941"
+    },
+    {
+        "i": 97,
+        "j": "PlFjPAwaTNk",
+        "b": "Transistor IGBT funcionamiento y utilizacion (Clase 53)",
+        "h": "20201228223221"
+    },
+    {
+        "i": 62,
+        "j": "ptzroHimUGU",
+        "b": "Clase 32: Rectificador de media onda + aplicación",
+        "h": "20190426211509"
+    },
+    {
+        "i": 127,
+        "j": "pw1QjT7P9x4",
+        "b": "Circuito regulador PWM velocidad MOTOR DC (Multivibrador astable) (Clase 77)",
+        "h": "20191202211447"
+    },
+    {
+        "i": 152,
+        "j": "pxbrIFPLPF8",
+        "b": "SMPS. Como funciona adaptador AC-DC 5V - 2A con esquema (Clase 106)",
+        "h": "20201003114550"
+    },
+    {
+        "i": 314,
+        "j": "q_suxmrrFGE",
+        "b": "Brutal batería LiFePO4 280Ah 12V ¡Analizada!",
+        "h": "20250804165717"
+    },
+    {
+        "i": 134,
+        "j": "qB0mEncGsl4",
+        "b": "Circuito Temporizador con CI 555. monoestable (Clase 82.1 )",
+        "h": "20200811141933"
+    },
+    {
+        "i": 237,
+        "j": "Qc0aSVaMpAM",
+        "b": "Regulador PWM para lamparas LEDs o motores DC (Clase 77.2)",
+        "h": "20221124212333"
+    },
+    {
+        "i": 142,
+        "j": "QlyILqPFIXQ",
+        "b": "Buena fuente tension variable 0 a 30V 2A explicada con detalle (Clase 95)",
+        "h": "20200330184534"
+    },
+    {
+        "i": 44,
+        "j": "QoNeZS0Xc7Q",
+        "b": "Que hacen juntos Bobina con resistencia en AC (Clase 24 curso electronica)",
+        "h": "20190322184801"
+    },
+    {
+        "i": 216,
+        "j": "qRpvd3zFcTw",
+        "b": "Como funciona y se repara módulo electrónico protección térmica de motores trifásicos INT69 Kriwan",
+        "h": "20220402132427"
+    },
+    {
+        "i": 8,
+        "j": "QWwoDewT43A",
+        "b": "Como usar los divisores de tensión en la practica (Clase 4.3)",
+        "h": "20210620182502"
+    },
+    {
+        "i": 103,
+        "j": "r-YCiCZNA_U",
+        "b": "Amplificador Operacional como Inversor. Masa virtual bien explicada. (Clase 61)",
+        "h": "20191007191722"
+    },
+    {
+        "i": 170,
+        "j": "R0YkSqoNqzE",
+        "b": "Como conseguir resistencia variable controlada por tensión.Reto electronico (Clase 51.2 )",
+        "h": "20210224231049"
+    },
+    {
+        "i": 284,
+        "j": "R34OZf_INsU",
+        "b": "EL mas simple DIMMER de AC: Masterclass",
+        "h": "20241215155844"
+    },
+    {
+        "i": 304,
+        "j": "RB2pdC6f0-4",
+        "b": "¿Sabes esto del OPAMP?",
+        "h": "20250601175658"
+    },
+    {
+        "i": 160,
+        "j": "rCbhdW077Bc",
+        "b": "Como trabajar Inversor 12Vdc  230Vac - 600W proteccion bateria (clase 117)",
+        "h": "20201220203844"
+    },
+    {
+        "i": 303,
+        "j": "Ri_bnbNm1oM",
+        "b": "WAW!! Comprobador componentes + Osciloscopio + generador señales DSO TC4",
+        "h": "20250524205534"
+    },
+    {
+        "i": 174,
+        "j": "RIbF9iFGEKE",
+        "b": "Como saber el voltaje y corriente de un LED? Método práctico (Clase 95.3)",
+        "h": "20210310093008"
+    },
+    {
+        "i": 108,
+        "j": "riudPrSbeJs",
+        "b": "Aplicaciones del sumador inversor con OPAMP (Clase 64)",
+        "h": "20191011121906"
+    },
+    {
+        "i": 241,
+        "j": "rmabApq-7Y0",
+        "b": "Espectacular generador de coriente VARIABLE 4-20mA 0-20mA 0-5V  1-5V",
+        "h": "20230122002618"
+    },
+    {
+        "i": 266,
+        "j": "rp1uqw3hiZo",
+        "b": "Clase magistral OPAMPs. Como analizar circuitos con amplificadores operacionales",
+        "h": "20231118221756"
+    },
+    {
+        "i": 243,
+        "j": "RQlVny3ZRO4",
+        "b": "La mas simple Protección frente a cortocircuitos",
+        "h": "20230218162944"
+    },
+    {
+        "i": 213,
+        "j": "rrckquLOOGk",
+        "b": "Impresionante multimetro inteligente GVDA GD128. Análisis y funcionamiento (clase 41)",
+        "h": "20220212221801"
+    },
+    {
+        "i": 26,
+        "j": "rrr68mtgfCM",
+        "b": "Clase 16: Todos los parametros explicados de la corriente alterna",
+        "h": "20190117205906"
+    },
+    {
+        "i": 235,
+        "j": "RVnfodhenhs",
+        "b": "Como conectar en paralelo rectificadores para trifasica (clase 135.1)",
+        "h": "20220817200658"
+    },
+    {
+        "i": 197,
+        "j": "rWEZvM6amg0",
+        "b": "Como diseñar tu convertidor DC-DC Buck (reductor) muy fácil (Clase 126.1)",
+        "h": "20211019045341"
+    },
+    {
+        "i": 80,
+        "j": "sekdEc5wU6k",
+        "b": "Como calcular el valor promedio de señales DC mas utilizadas en electronica (Clase 40)",
+        "h": "20200215203300"
+    },
+    {
+        "i": 6,
+        "j": "Sfkp81yplPc",
+        "b": "Te explico como utilizar Divisores de intensidad y tensión + Ejemplos (Clase 4)",
+        "h": "20181222234322"
+    },
+    {
+        "i": 91,
+        "j": "slNPfrQaVlo",
+        "b": "Como activar con fototransistor un rele para arduino y raspberry (Clase 48.1)",
+        "h": "20191005065052"
+    },
+    {
+        "i": 320,
+        "j": "SlyDr2rvTK8",
+        "b": "SuperbaterÍa 12V y 314Ah Mini",
+        "h": "20250926210456"
+    },
+    {
+        "i": 7,
+        "j": "Sm2KjO_MBzE",
+        "b": "Como usar el divisor de tensión (Clase 4.1 Curso Electronica Analogica)",
+        "h": "20200707152256"
+    },
+    {
+        "i": 261,
+        "j": "smCovzvvDUI",
+        "b": "Clase magistral. Aprende analizar un circuito electrónico (Clase 48.7)",
+        "h": "20230930155251"
+    },
+    {
+        "i": 205,
+        "j": "SNumhdvC8Ks",
+        "b": "Preamplificador de alterna alimentado con tension simple y con OPAMP (CLASE 85.1)",
+        "h": "20211127223239"
+    },
+    {
+        "i": 107,
+        "j": "Ssglfo5JVwg",
+        "b": "Seguidor de tensión con OPAMP.  Adaptador de impedancias (Clase 63)",
+        "h": "20191010181135"
+    },
+    {
+        "i": 73,
+        "j": "ssxt0WRjs6M",
+        "b": "Clase 36: Como proteger circuitos con diodos zeners",
+        "h": "20190528182440"
+    },
+    {
+        "i": 43,
+        "j": "sUYxMDPnGWU",
+        "b": "Clase 23: Que hace la resistencia en AC",
+        "h": "20190318212931"
+    },
+    {
+        "i": 218,
+        "j": "SzJfTgFewQg",
+        "b": "Como trabaja este Espectacular Circuito fusible electronico DC con MOSFET (clase 52.4)",
+        "h": "20220410084840"
+    },
+    {
+        "i": 111,
+        "j": "T2Zjyv2E1GQ",
+        "b": "Circuito variar velocidad motor DC  (Clase 66.1 Curso electronica analogica)",
+        "h": "20200606071253"
+    },
+    {
+        "i": 249,
+        "j": "tCpoz2PlXro",
+        "b": "Sabes controlar con 1 pulsador una lampara con electrónica básica (Clase 52.7)",
+        "h": "20230402122809"
+    },
+    {
+        "i": 90,
+        "j": "TE_pQ8pyL80",
+        "b": "Como activar rele con transistor para arduino o raspberry (Clase 48)",
+        "h": "20191003180600"
+    },
+    {
+        "i": 186,
+        "j": "tiirlsWKNbQ",
+        "b": "Como elegir transformador y fusible en FA lineal (CLASE 90.4)",
+        "h": "20210502121326"
+    },
+    {
+        "i": 154,
+        "j": "tQspNkt9x38",
+        "b": "SMPS de 24V - 4A funcionamiento con esquema y fuente conmutada (clase 108)",
+        "h": "20201018161231"
+    },
+    {
+        "i": 12,
+        "j": "TQve3J-0510",
+        "b": "Clase 7: Puente Wheatstone. Convertir temperatura en tensión",
+        "h": "20181227152145"
+    },
+    {
+        "i": 139,
+        "j": "Ts09VScBMrs",
+        "b": "Como diseñar fuente de tensión simetrica 12 y  -12V con 3A (Clase 91)",
+        "h": "20200225212839"
+    },
+    {
+        "i": 230,
+        "j": "tv0kYWVD0sI",
+        "b": "Conexión correcta en paralelo transistores bipolares CLASE 48.4",
+        "h": "20220716233508"
+    },
+    {
+        "i": 64,
+        "j": "TVqnYJURm2o",
+        "b": "No hagas estos 2 Errores en el calculo de potencia (clase 33.4)",
+        "h": "20210523132255"
+    },
+    {
+        "i": 137,
+        "j": "tyuSi-jFrG0",
+        "b": "Como diseñar fuentes de tension con regulador 7805 (Clase 90)",
+        "h": "20191227230249"
+    },
+    {
+        "i": 245,
+        "j": "U5lKHP2epdQ",
+        "b": "Impresionante circuito Inversor básico con solo 3 componentes (clase 48.6)",
+        "h": "20230305160220"
+    },
+    {
+        "i": 94,
+        "j": "u6UeaLh8nUY",
+        "b": "Como hacer trabajar al MOSFET en conmutacion (Clase 52.1)",
+        "h": "20191122060344"
+    },
+    {
+        "i": 109,
+        "j": "UEDkt36-Q8I",
+        "b": "Como diseñar Mezclador de audio con OPAMPs (Clase 65)",
+        "h": "20191013083319"
+    },
+    {
+        "i": 231,
+        "j": "UGtHGPGKTeY",
+        "b": "Circuito de CONTROL maquina soldar inverter ARC 200",
+        "h": "20220723204147"
+    },
+    {
+        "i": 187,
+        "j": "UIlxSn_FhQY",
+        "b": "Averia fantasma en fuente conmutada SMPS (Clase 108.1)",
+        "h": "20210704110657"
+    },
+    {
+        "i": 279,
+        "j": "uKJ_gwJ00ek",
+        "b": "Private video",
+        "h": "20241117002632"
+    },
+    {
+        "i": 129,
+        "j": "UMdwPojY7JI",
+        "b": "Como diseñar un servomotor con amplificadores operacionales (Clase 79)",
+        "h": "20191221085113"
+    },
+    {
+        "i": 255,
+        "j": "urnPFMB6QLY",
+        "b": "Circuito de control de potencia en AC monofásica con PWM",
+        "h": "20230610215926"
+    },
+    {
+        "i": 145,
+        "j": "Utr-tJoum8o",
+        "b": "Como funciona esta impresionante fuente tension variable 5A (Clase 97)",
+        "h": "20200502161013"
+    },
+    {
+        "i": 135,
+        "j": "ux3NlcEUD3w",
+        "b": "Como rectificar tensiones menores de 0,2 V con OPAMPs (Clase 83 )",
+        "h": "20200930210303"
+    },
+    {
+        "i": 115,
+        "j": "v74e2LFSCGA",
+        "b": "Como funciona circuito amplificador de Instrumentacion y restador con OPAMP (Clase 69)",
+        "h": "20191031191740"
+    },
+    {
+        "i": 56,
+        "j": "vHFVBn3E3l4",
+        "b": "Analisis de Resonancia serie y paralelo. Parte 2. (Clase 28 curso electronica)",
+        "h": "20190403181349"
+    },
+    {
+        "i": 13,
+        "j": "VHNM40ookBw",
+        "b": "Conversion Delta-Estrella o triangulo-estrella+Ejercicio (Clase 8 curso electronica)",
+        "h": "20181227152300"
+    },
+    {
+        "i": 301,
+        "j": "VL2QU6tqz68",
+        "b": "Comprueba la salud de tus Baterías PBRM-1 Fiizreal",
+        "h": "20250519165630"
+    },
+    {
+        "i": 198,
+        "j": "VL5A_7bZfp8",
+        "b": "Como utilizar Ley Ohm y Divisores de V e I sin hacer operaciones matematicas (Clase 4.4)",
+        "h": "20211023184402"
+    },
+    {
+        "i": 199,
+        "j": "vsifku-in2g",
+        "b": "Como trabajan bobina y condensador juntos en DC(Clase 20.1)",
+        "h": "20211026195024"
+    },
+    {
+        "i": 132,
+        "j": "VyCq7cXjXK8",
+        "b": "Fuente con intensidad constante con OPAMP (Clase 81.1)",
+        "h": "20200604183547"
+    },
+    {
+        "i": 95,
+        "j": "Vyyi62GsjZ0",
+        "b": "Como comprobar MOSFET multimetro rápido y facil (CLASE 52.2)",
+        "h": "20200923183842"
+    },
+    {
+        "i": 118,
+        "j": "W_oSg9_AKEk",
+        "b": "Generador PWM con OPAMP power 0 a 5V (Clase 77.1)",
+        "h": "20200724090631"
+    },
+    {
+        "i": 176,
+        "j": "wbfCii4bT9c",
+        "b": "Circuito desfasador. SOLUCION al reto electrico-electronico. (Clase 25.1)",
+        "h": "20210316160425"
+    },
+    {
+        "i": 215,
+        "j": "WCHYwlIYvpI",
+        "b": "Todo sobre el Rectificador trifasico en estrella (Clase 134)",
+        "h": "20220325222531"
+    },
+    {
+        "i": 306,
+        "j": "wdqc-KvB8tY",
+        "b": "Espectacular driver para lampara LED",
+        "h": "20250615212508"
+    },
+    {
+        "i": 217,
+        "j": "wHeF_I1eCko",
+        "b": "Todo sobre el Circuito rectificador trifasico en puente (etapa Variador frecuencia) Clase 135",
+        "h": "20220405194906"
+    },
+    {
+        "i": 50,
+        "j": "Wlw6peR88-w",
+        "b": "RETO ¿Que intensidad debes medir en AC con lamparas fluorescentes y  LEDs? (Clase 26.3)",
+        "h": "20210420205244"
+    },
+    {
+        "i": 239,
+        "j": "WoPhBDul4Q0",
+        "b": "Espectacular driver Lampara LED corriente constante fuente conmutada",
+        "h": "20221219185857"
+    },
+    {
+        "i": 98,
+        "j": "x8nKy71afas",
+        "b": "Como evitar quemar los transistores.  Calculo y eleccion disipador calor (Clase 54)",
+        "h": "20200221100339"
+    },
+    {
+        "i": 65,
+        "j": "XIPhBgh3z_Y",
+        "b": "Rectificador en puente. Funcionamiento y comprobacion. (Clase 32.2 curso electronica)",
+        "h": "20190703050233"
+    },
+    {
+        "i": 3,
+        "j": "xl-eCmWCAzY",
+        "b": "Para que sirven y cómo utilizar Leyes de Kirchhoff (Clase 3)",
+        "h": "20181222233956"
+    },
+    {
+        "i": 99,
+        "j": "xMqHr51SMmk",
+        "b": "Montaje darlington/Darlington complementario (sziklai). Parte I (clase 55)",
+        "h": "20200820094522"
+    },
+    {
+        "i": 281,
+        "j": "XqOH9PGLzCk",
+        "b": "Explicado circuito analógico control cerradura eléctrica por IR. (Clase 52.10)",
+        "h": "20241130214148"
+    },
+    {
+        "i": 172,
+        "j": "y0995qTUPb0",
+        "b": "Como funciona Amplificador potencia Clase A Emisor comun (clase 56)",
+        "h": "20210304145304"
+    },
+    {
+        "i": 82,
+        "j": "yCPv7Je-D5E",
+        "b": "Como analizar funcionamiento circuito basico transistor NPN. (Clase 42.1 curso electronica)",
+        "h": "20190712101148"
+    },
+    {
+        "i": 140,
+        "j": "YdbpTqe9_zE",
+        "b": "Fuente de tensión variable de hasta 3A con LM350. Cómo diseñarla (Clase 93)",
+        "h": "20200301001050"
+    },
+    {
+        "i": 254,
+        "j": "YiJSkRR6BRU",
+        "b": "Sabes como regular intensidad corriente en LEDs alta potencia (Clase 95.4)",
+        "h": "20230521170326"
+    },
+    {
+        "i": 224,
+        "j": "Yn6FtUzzPwE",
+        "b": "Como resolver circuito sin hacer calculos matematicos (clase 12.2)",
+        "h": "20220605134651"
+    },
+    {
+        "i": 24,
+        "j": "yP7oQMhw8Eg",
+        "b": "Clase 15.1Circuito resuelto por Nudos con TRUCO",
+        "h": "20190110135827"
+    },
+    {
+        "i": 240,
+        "j": "YplUlR0cGG8",
+        "b": "Repara muy facil dos lamparas LED en 6 minutos CLASE 117 1",
+        "h": "20230115110801"
+    },
+    {
+        "i": 125,
+        "j": "ysdKp1p_FUo",
+        "b": "Como generar señal cuadrada y triangular con OPAMP. Parte 1 (Clase 76.1)",
+        "h": "20200613144923"
+    },
+    {
+        "i": 17,
+        "j": "yuHbKjSdEVA",
+        "b": "Como usar Thevenin para resolver circuitos (CLASE 12)",
+        "h": "20181227153446"
+    },
+    {
+        "i": 189,
+        "j": "YYz1g26S_Ow",
+        "b": "Cómo hacer comprobador cables universal (Clase 39.4)",
+        "h": "20210801162344"
+    },
+    {
+        "i": 131,
+        "j": "Z-CX5vyAzB0",
+        "b": "Diseño y analisis circuito convertidor 0-10V a 4 - 20 mA (Clase 81)",
+        "h": "20200122213728"
+    },
+    {
+        "i": 317,
+        "j": "z1O3UdzYiY0",
+        "b": "Osciloscopio portable de 5 canales ToolTop OS-5C",
+        "h": "20250910155204"
+    },
+    {
+        "i": 21,
+        "j": "z6f951TcIdk",
+        "b": "Clase 13: TRUCO para solucionar circuitos por Mallas",
+        "h": "20190103094906"
+    },
+    {
+        "i": 234,
+        "j": "ZaNC6L9392s",
+        "b": "Sencillo regulador luminosidad tira LED con MOSFET y 2 pulsadores (Clase 52.6 )",
+        "h": "20220813161329"
+    },
+    {
+        "i": 225,
+        "j": "ZBrCzYDiwTo",
+        "b": "Como hacer trabajar transistor NPN como interruptor (CLASE 46.1)",
+        "h": "20220610053718"
+    },
+    {
+        "i": 119,
+        "j": "ZCCHoljsRMg",
+        "b": "Como funciona buen regulador velocidad motor DC con OPAMP (Clase 72)",
+        "h": "20191113140154"
+    },
+    {
+        "i": 40,
+        "j": "ZcSSSi6go7c",
+        "b": "Que hace una bobina en DC. Parte II. (Clase 20 curso electronica)",
+        "h": "20190311120806"
+    },
+    {
+        "i": 141,
+        "j": "Zd1vMuEDedo",
+        "b": "Como funciona Fuente tension variable 12 a 24V - 2A con LM723 (Clase 94)",
+        "h": "20200318191517"
+    },
+    {
+        "i": 267,
+        "j": "zhO4dDdG9gM",
+        "b": "Circuito control cargas con un solo pulsador:Telerruptor (Clase 48.8)",
+        "h": "20231125224209"
+    },
+    {
+        "i": 66,
+        "j": "ZIA28QlQ5hg",
+        "b": "Como funcionan Limitadores o recortadores de tensión con diodos. (Clase 33 curso electronica)",
+        "h": "20190418145704"
+    },
+    {
+        "i": 302,
+        "j": "ZKAK9mZ-I0A",
+        "b": "INTERESANTE OSCILOSCOPIO + GENERADOR SEÑALES + MULTIMETRO FNIRSI DST-210",
+        "h": "20250519171750"
+    },
+    {
+        "i": 19,
+        "j": "ZKmfvq3rsks",
+        "b": "Clase 12.2: Ejercicio resuelto con fuente dependiente por thevenin",
+        "h": "20190228205749"
+    },
+    {
+        "i": 159,
+        "j": "zmaLLyM-H1U",
+        "b": "Circuito inversor basico 12V a 230 V  Como es su funcionamiento (clase 116)",
+        "h": "20201213205300"
+    },
+    {
+        "i": 247,
+        "j": "Zn_hPyNYbVA",
+        "b": "Sabes como aumentar el alcance de medida de amperímetro y voltímetro (Clase 4.5)",
+        "h": "20230319214316"
+    },
+    {
+        "i": 194,
+        "j": "ZUn-SCqzPZM",
+        "b": "Te explico como diseñar facil tu propia fuente conmutada SMPS (Clase 110)",
+        "h": "20210907144539"
     }
 ]
