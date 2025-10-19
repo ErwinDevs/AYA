@@ -1,121 +1,135 @@
 [
     {
-        "i": 12,
+        "i": 14,
         "j": "0g2v0babgt8",
         "b": "Cómo Empezar Con El Trading Desde Cero",
         "h": "20241124154433",
-        "l": null
-    },
-    {
-        "i": 8,
-        "j": "1v4ZCZD_CI4",
-        "b": "10 Años Haciendo Trading Resumidos En 90 Minutos",
-        "h": "20241124154433",
-        "l": null
-    },
-    {
-        "i": 0,
-        "j": "21ifvjZG23c",
-        "b": "Cómo Pasar De $100 A $1,000 Con El Trading De Criptomonedas",
-        "h": "20250929051937",
-        "l": null
-    },
-    {
-        "i": 5,
-        "j": "3NMdelx4IIE",
-        "b": "El Mejor Curso Gratis De Análisis Técnico",
-        "h": "20250425131548",
-        "l": null
+        "l": 876
     },
     {
         "i": 10,
-        "j": "7IgayunP4Mc",
-        "b": "Cómo Ganaría $1,000/Mes Haciendo Trading Si Empezara De Nuevo",
+        "j": "1v4ZCZD_CI4",
+        "b": "10 Años Haciendo Trading Resumidos En 90 Minutos",
         "h": "20241124154433",
-        "l": null
-    },
-    {
-        "i": 1,
-        "j": "CsrfQHF0gTM",
-        "b": "Con Esta Simple Estrategia He Ganado Un Concurso De Trading",
-        "h": "20250929051925",
-        "l": null
-    },
-    {
-        "i": 15,
-        "j": "FUi8VAczPvs",
-        "b": "Cómo Dedicarse Profesionalmente Al Trading | Plan De 90 Días",
-        "h": "20241124154523",
-        "l": null
+        "l": 5493
     },
     {
         "i": 2,
-        "j": "hyesHYn-vqQ",
-        "b": "Así Es Como GANÉ +14.77% En 9 Horas | Trading De Criptomonedas En DIRECTO",
-        "h": "20250929051909",
-        "l": null
-    },
-    {
-        "i": 14,
-        "j": "j73AliFXUCs",
-        "b": "Curso Gratis De Trading De Forex Para Principiantes",
-        "h": "20241124154433",
-        "l": null
-    },
-    {
-        "i": 4,
-        "j": "jE1ISWmlT3A",
-        "b": "Qué Es El Trading Y Cómo Funciona",
-        "h": "20250515162907",
-        "l": null
-    },
-    {
-        "i": 16,
-        "j": "pxPCdjDX7lQ",
-        "b": "Tutorial Completo de TradingView 2025",
-        "h": "20241124154433",
-        "l": null
-    },
-    {
-        "i": 9,
-        "j": "RqTkxclQ_bs",
-        "b": "Todas Las Estrategias De Trading Explicadas En 15 Minutos",
-        "h": "20241124154523",
-        "l": null
-    },
-    {
-        "i": 13,
-        "j": "rzJlQev38zo",
-        "b": "El Day Trading No Funcionaba Hasta Que Entendí Este Método",
-        "h": "20241124154433",
-        "l": null
-    },
-    {
-        "i": 3,
-        "j": "TdEbkTk40qQ",
-        "b": "El Mejor Curso Gratis De Trading",
-        "h": "20250603164214",
-        "l": null
-    },
-    {
-        "i": 6,
-        "j": "wL0bvogKdUw",
-        "b": "El Mejor Curso Gratis De Trading Con Criptomonedas",
-        "h": "20250425131607",
-        "l": null
-    },
-    {
-        "i": 11,
-        "j": "xSlSGR_0X6U",
-        "b": "Cómo Pasar De $100 A $10,000 Haciendo Trading De Criptomonedas En 2026",
-        "h": "20241124154433",
-        "l": null
+        "j": "21ifvjZG23c",
+        "b": "Cómo Pasar De $100 A $1,000 Con El Trading De Criptomonedas",
+        "h": "20250929051937",
+        "l": 2131
     },
     {
         "i": 7,
+        "j": "3NMdelx4IIE",
+        "b": "El Mejor Curso Gratis De Análisis Técnico",
+        "h": "20250425131548",
+        "l": 29874
+    },
+    {
+        "i": 12,
+        "j": "7IgayunP4Mc",
+        "b": "Cómo Ganaría $1,000/Mes Haciendo Trading Si Empezara De Nuevo",
+        "h": "20241124154433",
+        "l": 1352
+    },
+    {
+        "i": 3,
+        "j": "CsrfQHF0gTM",
+        "b": "Con Esta Simple Estrategia He Ganado Un Concurso De Trading",
+        "h": "20250929051925",
+        "l": 2207
+    },
+    {
+        "i": 0,
+        "j": "DTgS0MFuoRc",
+        "b": "Curso Gratis de Psicotrading (Psicología del Trading)",
+        "h": "20251018155906",
+        "l": 3068
+    },
+    {
+        "i": 17,
+        "j": "FUi8VAczPvs",
+        "b": "Cómo Dedicarse Profesionalmente Al Trading | Plan De 90 Días",
+        "h": "20241124154523",
+        "l": 1610
+    },
+    {
+        "i": 4,
+        "j": "hyesHYn-vqQ",
+        "b": "Así Es Como GANÉ +14.77% En 9 Horas | Trading De Criptomonedas En DIRECTO",
+        "h": "20250929051909",
+        "l": 3699
+    },
+    {
+        "i": 16,
+        "j": "j73AliFXUCs",
+        "b": "Curso Gratis De Trading De Forex Para Principiantes",
+        "h": "20241124154433",
+        "l": 12591
+    },
+    {
+        "i": 6,
+        "j": "jE1ISWmlT3A",
+        "b": "Qué Es El Trading Y Cómo Funciona",
+        "h": "20250515162907",
+        "l": 1170
+    },
+    {
+        "i": 18,
+        "j": "pxPCdjDX7lQ",
+        "b": "Tutorial Completo de TradingView 2025",
+        "h": "20241124154433",
+        "l": 4336
+    },
+    {
+        "i": 11,
+        "j": "RqTkxclQ_bs",
+        "b": "Todas Las Estrategias De Trading Explicadas En 15 Minutos",
+        "h": "20241124154523",
+        "l": 894
+    },
+    {
+        "i": 15,
+        "j": "rzJlQev38zo",
+        "b": "El Day Trading No Funcionaba Hasta Que Entendí Este Método",
+        "h": "20241124154433",
+        "l": 810
+    },
+    {
+        "i": 1,
+        "j": "T9q-veQzEY4",
+        "b": "El Mejor Curso Gratis De Trading Con Fibonacci",
+        "h": "20251014164324",
+        "l": 5318
+    },
+    {
+        "i": 5,
+        "j": "TdEbkTk40qQ",
+        "b": "El Mejor Curso Gratis De Trading",
+        "h": "20250603164214",
+        "l": 27562
+    },
+    {
+        "i": 8,
+        "j": "wL0bvogKdUw",
+        "b": "El Mejor Curso Gratis De Trading Con Criptomonedas",
+        "h": "20250425131607",
+        "l": 35493
+    },
+    {
+        "i": 13,
+        "j": "xSlSGR_0X6U",
+        "b": "Cómo Pasar De $100 A $10,000 Haciendo Trading De Criptomonedas En 2026",
+        "h": "20241124154433",
+        "l": 2549
+    },
+    {
+        "i": 9,
         "j": "yoOSfnmSbSk",
         "b": "Cómo Empezar A Hacer Trading Y Ganar Dinero Desde 0 En 2025",
         "h": "20250201165528",
-        "l": null
+        "l": 6447
     }
 ]
