@@ -1,0 +1,79 @@
+[
+    {
+        "i": 7,
+        "j": "07b8nKLS_PM",
+        "b": "🔴 ESP32 Sensores táctiles",
+        "h": "20221208004150",
+        "l": 852
+    },
+    {
+        "i": 8,
+        "j": "AKG-rljqaDE",
+        "b": "🔴 ESP32 CAM - Una cámara que nos ofrece mucho por muy poco  📷 😮",
+        "h": "20210901220331",
+        "l": 518
+    },
+    {
+        "i": 5,
+        "j": "azFFLbQvsRc",
+        "b": "🔴 ESP32 Salidas PWM",
+        "h": "20220125233008",
+        "l": 523
+    },
+    {
+        "i": 6,
+        "j": "crVZC4YcakQ",
+        "b": "🔴ESP32 Interrupciones externas (ISR)",
+        "h": "20220625123727",
+        "l": 655
+    },
+    {
+        "i": 2,
+        "j": "Ei-7oGo_NxE",
+        "b": "🔴 ESP32  Entradas y salidas digitales",
+        "h": "20211001162946",
+        "l": 730
+    },
+    {
+        "i": 10,
+        "j": "eMQknlf39ew",
+        "b": "🔵Este KIT de desarrollo cambia las reglas del juego... | MATOUCH ESP32 S3 4''",
+        "h": "20231221195643",
+        "l": 414
+    },
+    {
+        "i": 9,
+        "j": "J1pIeZx8MsI",
+        "b": "No Creerás lo que el ESP32 Puede Hacer! 🔥 KIT TERMINAL ESP32 - ELECROW",
+        "h": "20231221195643",
+        "l": 323
+    },
+    {
+        "i": 4,
+        "j": "L-mB_w24xIk",
+        "b": "🟢ESP32 salidas analógicas DAC",
+        "h": "20211218133207",
+        "l": 377
+    },
+    {
+        "i": 3,
+        "j": "mWSKQthFHH4",
+        "b": "🟣ESP32 Entradas analógicas",
+        "h": "20211114213514",
+        "l": 589
+    },
+    {
+        "i": 0,
+        "j": "pdgFqPbw64g",
+        "b": "🔴 Qué es el ESP32 y porque deberías tener esta placa",
+        "h": "20210901220337",
+        "l": 611
+    },
+    {
+        "i": 1,
+        "j": "xXIPs_iGv00",
+        "b": "🔴ESP32 puesta en marcha y consideraciones sobre sus pines ✔",
+        "h": "20210912160915",
+        "l": 529
+    }
+]

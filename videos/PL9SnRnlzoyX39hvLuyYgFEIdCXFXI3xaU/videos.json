@@ -1,0 +1,4132 @@
+[
+    {
+        "i": 164,
+        "j": "_26GweV2wdM",
+        "b": "113. Integral trigonométrica inversa, arc tan, tan^-1 (Integración por partes, ejemplo resuelto)",
+        "h": "20160331201324",
+        "l": 299
+    },
+    {
+        "i": 365,
+        "j": "_CnYfns8Nq8",
+        "b": "Integral de binomio por raíz cuadrada, mediante cambio de variable",
+        "h": "20161003053844",
+        "l": 422
+    },
+    {
+        "i": 14,
+        "j": "_jMI3uCECZU",
+        "b": "14. Integral de raiz quinta de 2x al cubo (Exponente fraccionario)",
+        "h": "20150811215005",
+        "l": 252
+    },
+    {
+        "i": 232,
+        "j": "_OHEX8gTIRw",
+        "b": "177. Integral de cotangente a la cuarta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170104071646",
+        "l": 353
+    },
+    {
+        "i": 46,
+        "j": "_okXPRSVKUQ",
+        "b": "Integral de una división de exponenciales. dv/v EJERCICIO RESUELTO",
+        "h": "20170128205720",
+        "l": 140
+    },
+    {
+        "i": 506,
+        "j": "_rvjYJjghm8",
+        "b": "Integral de raíz cuadrada de tangente, y de cotangente, truco trigonométrico",
+        "h": "20210729161106",
+        "l": 960
+    },
+    {
+        "i": 510,
+        "j": "_u2GU6-oQhM",
+        "b": "Integral impropia arcoseno de exponencial",
+        "h": "20210729161106",
+        "l": 459
+    },
+    {
+        "i": 251,
+        "j": "-2pIYlsqcsw",
+        "b": "196. Integral de sen 3x por cos 2x. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170106050229",
+        "l": 236
+    },
+    {
+        "i": 335,
+        "j": "-8P3sPqR62g",
+        "b": "273. Integral mediante fracciones parciales, haciendo primero la división",
+        "h": "20170724043741",
+        "l": 489
+    },
+    {
+        "i": 137,
+        "j": "-aWYWBEMDyo",
+        "b": "87. Integral de funciones trigonométricas (suma de cosecante y cotangente)",
+        "h": "20151015004224",
+        "l": 159
+    },
+    {
+        "i": 601,
+        "j": "-Fs42UUYhYs",
+        "b": "Integral con raíz cuadrada SIN USAR SUSTITUCIÓN TRIGONOMÉTRICA (Integral por partes)",
+        "h": "20240507182733",
+        "l": 473
+    },
+    {
+        "i": 353,
+        "j": "-kaxzfsY3d8",
+        "b": "291. Integral de x por raíz cuadrada de x-3, mediante cambio de variable",
+        "h": "20160325164818",
+        "l": 470
+    },
+    {
+        "i": 547,
+        "j": "-m775FVXoA8",
+        "b": "12. Integral definida trigonométrica, método de sustitución, cambio en límites de integración",
+        "h": "20210729161135",
+        "l": 314
+    },
+    {
+        "i": 29,
+        "j": "-U4uQaKH168",
+        "b": "Integral de una división de términos entre x, con raíz cuadrada",
+        "h": "20160915191144",
+        "l": 418
+    },
+    {
+        "i": 532,
+        "j": "-uDGrTHlPBc",
+        "b": "Integral impropia: seno de raíz cuadrada de exponencial",
+        "h": "20210729161106",
+        "l": 269
+    },
+    {
+        "i": 117,
+        "j": "-Z6LG5Fx2gQ",
+        "b": "71. Integral de una multiplicación de funciones exponenciales",
+        "h": "20151119080933",
+        "l": 281
+    },
+    {
+        "i": 37,
+        "j": "05bIlSbx2VI",
+        "b": "27. Integral de tangente, y de fracción algebraica (dv/v)",
+        "h": "20150815061913",
+        "l": 269
+    },
+    {
+        "i": 336,
+        "j": "08qGx5byuB4",
+        "b": "274. Integral mediante fracciones parciales, por división de polinomios",
+        "h": "20170725194859",
+        "l": 874
+    },
+    {
+        "i": 597,
+        "j": "0ALHu9oTP34",
+        "b": "Esta integral es más difícil de escribir que de resolver ¿puedes hacerla? #quiz #maths #calculus",
+        "h": "20240213231648",
+        "l": 56
+    },
+    {
+        "i": 151,
+        "j": "0bQD_w16IRc",
+        "b": "101. Integral de seno al cuadrado en el denominador (Trigonométrica)",
+        "h": "20160127072430",
+        "l": 206
+    },
+    {
+        "i": 375,
+        "j": "0FrmVFd2iSk",
+        "b": "308. Método Alemán para integrales de funciones irracionales",
+        "h": "20171020213011",
+        "l": 660
+    },
+    {
+        "i": 212,
+        "j": "0IEwG3yz3ac",
+        "b": "157. Integral de tangente a la cuarta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161215073236",
+        "l": 293
+    },
+    {
+        "i": 34,
+        "j": "0MJXiwyytTg",
+        "b": "25V.3 Integral mediante cambio de variable (forma dv/v)",
+        "h": "20160927205843",
+        "l": 299
+    },
+    {
+        "i": 171,
+        "j": "0NIiejwQz0Q",
+        "b": "Integral por partes, división de polinomios (función racional)",
+        "h": "20170801052213",
+        "l": 350
+    },
+    {
+        "i": 55,
+        "j": "0OCqNpiu6Zg",
+        "b": "34. Integral de raíz cuadrada de un polinomio (binomio) completando derivada",
+        "h": "20151013061659",
+        "l": 392
+    },
+    {
+        "i": 388,
+        "j": "0tBUlo5zQrc",
+        "b": "Integral trigonométrica, con exponentes fraccionarios",
+        "h": "20171231041630",
+        "l": 404
+    },
+    {
+        "i": 92,
+        "j": "0TK9ptgnw6o",
+        "b": "56. Integral de división, separando en suma de fracciones (truco algebraico)",
+        "h": "20151116071336",
+        "l": 214
+    },
+    {
+        "i": 310,
+        "j": "0V2Q_B1LvHs",
+        "b": "252. Integral de dx entre raíz cuadrada de 2x - x^2, completando trinomio cuadrado perfecto",
+        "h": "20170408054715",
+        "l": 429
+    },
+    {
+        "i": 66,
+        "j": "1CcjaRN0hds",
+        "b": "Integral de x entre raíz cuadrada de 1-4x^2, (exponente 1/2, fórmula v^n)",
+        "h": "20160327035640",
+        "l": 312
+    },
+    {
+        "i": 542,
+        "j": "1glYjHBhmXc",
+        "b": "07. Integral definida de una raíz cuadrada, cambio de variable, cambio en límites de integración",
+        "h": "20210729161135",
+        "l": 433
+    },
+    {
+        "i": 227,
+        "j": "1H9TFbV-2uU",
+        "b": "172. Integral de tangente cuadrada por secante. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170103184914",
+        "l": 200
+    },
+    {
+        "i": 61,
+        "j": "1iDFwiEo06k",
+        "b": "Integral de raíz quinta de polinomio, por cambio de variable",
+        "h": "20160911214031",
+        "l": 458
+    },
+    {
+        "i": 463,
+        "j": "1JNGDR5GNwM",
+        "b": "Integración por partes: x por arcotangente entre binomio cuadrado",
+        "h": "20200327062831",
+        "l": 507
+    },
+    {
+        "i": 424,
+        "j": "1MIKS85qGDg",
+        "b": "320. Integrales Racionales Trigonométricas, Sustitución Universal",
+        "h": "20180117200013",
+        "l": 512
+    },
+    {
+        "i": 119,
+        "j": "1rXJJ96txEY",
+        "b": "Integral de binomio al cuadrado con exponenciales y fracciones (paso a paso)",
+        "h": "20161018004433",
+        "l": 471
+    },
+    {
+        "i": 261,
+        "j": "1v5eWs-zYpE",
+        "b": "206. Integral dx entre x por raíz de x^2 - 1. SUSTITUCION TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20160401193913",
+        "l": 175
+    },
+    {
+        "i": 582,
+        "j": "1Wzxb04V3ac",
+        "b": "21. Integral doble (Iterada) en REGIÓN TRIANGULAR (2 FORMAS)",
+        "h": "20220407191108",
+        "l": 709
+    },
+    {
+        "i": 18,
+        "j": "1XRa5Rb5hWk",
+        "b": "Cómo calcular integrales indefinidas. Integral indefinida forma dv/v. Integral aplicando propiedades",
+        "h": "20160825212838",
+        "l": 271
+    },
+    {
+        "i": 109,
+        "j": "1YBh5upO3TM",
+        "b": "64. Integral de raíz cuadrada de una exponencial",
+        "h": "20151119080911",
+        "l": 200
+    },
+    {
+        "i": 412,
+        "j": "2BYq7Xr48Qc",
+        "b": "Integral de logaritmo natural de raíz cuadrada de x entre 3 (Integración por partes)",
+        "h": "20161102011743",
+        "l": 299
+    },
+    {
+        "i": 257,
+        "j": "2gU2VWy01BI",
+        "b": "202. Integral de x^3 entre raíz cuadrada de x^2 - 4. SUSTITUCION TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20170111062420",
+        "l": 755
+    },
+    {
+        "i": 446,
+        "j": "2tsN6uliFVA",
+        "b": "Integral de coseno al cuadrado, integral trigonométrica",
+        "h": "20190308070641",
+        "l": 214
+    },
+    {
+        "i": 543,
+        "j": "2U3n9pLtdYM",
+        "b": "08. Integral definida división con exponenciales, sustitución, cambio en límites de integración",
+        "h": "20210729161135",
+        "l": 405
+    },
+    {
+        "i": 295,
+        "j": "2VKmw6Fdzks",
+        "b": "238. Integral de x^2 entre 1 + x^6, aplicando fórmula",
+        "h": "20170405202243",
+        "l": 177
+    },
+    {
+        "i": 3,
+        "j": "34w3XsAonO8",
+        "b": "03. Integral de una constante (Fracción)",
+        "h": "20150811215005",
+        "l": 101
+    },
+    {
+        "i": 140,
+        "j": "350DUuphHjk",
+        "b": "90. Integral de funciones trigonométricas (coseno y cosecante cuadrada)",
+        "h": "20151015004224",
+        "l": 180
+    },
+    {
+        "i": 537,
+        "j": "39BPYsNApC0",
+        "b": "02. Integral definida, área bajo la curva, función cuadrática, ÁREA BAJO PARÁBOLA",
+        "h": "20210729161135",
+        "l": 515
+    },
+    {
+        "i": 72,
+        "j": "3BosvmiBRVo",
+        "b": "Integral de exponencial al cubo por exponencial, con fórmula v^n",
+        "h": "20160326171130",
+        "l": 145
+    },
+    {
+        "i": 329,
+        "j": "3iUzqCpd_0s",
+        "b": "Integral de división de polinomios, fracciones parciales (x^2 entre x^4+1)",
+        "h": "20160203224029",
+        "l": 1014
+    },
+    {
+        "i": 493,
+        "j": "3k6h1j3epSk",
+        "b": "22. Integral impropia usando propiedades de logaritmos",
+        "h": "20210729161106",
+        "l": 379
+    },
+    {
+        "i": 205,
+        "j": "3KSr0rbEBSk",
+        "b": "150. Integral de seno a la sexta por coseno al cubo. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161212060825",
+        "l": 241
+    },
+    {
+        "i": 4,
+        "j": "3mKzIB-UaXo",
+        "b": "04. Integral de una constante (Raíz cuadrada)",
+        "h": "20150811215005",
+        "l": 162
+    },
+    {
+        "i": 538,
+        "j": "3nerLpnZioc",
+        "b": "03. Integral definida, ÁREA NEGATIVA, explicación mediante gráfica",
+        "h": "20210729161135",
+        "l": 458
+    },
+    {
+        "i": 167,
+        "j": "3xetRiMdg8I",
+        "b": "116. Integral de cosecante inversa (Trigonométrica inversa) (Integración por partes)",
+        "h": "20160613072607",
+        "l": 280
+    },
+    {
+        "i": 607,
+        "j": "3zlyK4w9-qo",
+        "b": "💎 ¿Se puede integrar esta función? - Raíz cuadrada de seno",
+        "h": "20250826182359",
+        "l": 293
+    },
+    {
+        "i": 280,
+        "j": "4-wV_miwvn0",
+        "b": "223. Integral por sustitución trigonométrica tangente con raíz cuadrada (Demostración de fórmula)",
+        "h": "20160923063614",
+        "l": 728
+    },
+    {
+        "i": 298,
+        "j": "43MSUQx_AHM",
+        "b": "241. Integral de e^2x dx entre 25 - e^4x, aplicando fórmula",
+        "h": "20170405210251",
+        "l": 182
+    },
+    {
+        "i": 301,
+        "j": "46W5iFX3uIk",
+        "b": "244. Integral completando trinomio cuadrado perfecto, paso a paso",
+        "h": "20170406174916",
+        "l": 307
+    },
+    {
+        "i": 188,
+        "j": "4D-xLsH_11g",
+        "b": "133. Integrales Trigonométricas: senos y cosenos, casos.",
+        "h": "20161211063820",
+        "l": 643
+    },
+    {
+        "i": 546,
+        "j": "4EWowDe7pUc",
+        "b": "11. Integral definida método de sustitución, cambio en límites de integración",
+        "h": "20210729161135",
+        "l": 255
+    },
+    {
+        "i": 83,
+        "j": "4fLvo8Fx1iY",
+        "b": "52. Integral de logaritmo natural en el denominador de una fracción",
+        "h": "20151116070836",
+        "l": 276
+    },
+    {
+        "i": 513,
+        "j": "4l4AksDSDqw",
+        "b": "Integral impropia con raíz cuadrada de logaritmo natural",
+        "h": "20210729161106",
+        "l": 217
+    },
+    {
+        "i": 560,
+        "j": "4MfjxFfdMkM",
+        "b": "Derivada de una integral por Teorema Fundamental del Cálculo (TFC)",
+        "h": "20210729161135",
+        "l": 175
+    },
+    {
+        "i": 229,
+        "j": "4SsdgoQH6H0",
+        "b": "174. Integral de tangente cuarta por secante. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170103202835",
+        "l": 405
+    },
+    {
+        "i": 259,
+        "j": "4tEQDIsqWEs",
+        "b": "204. Integral de x^2 entre x^2+1 a la 3/2. SUSTITUCION TRIGONOMETRICA.",
+        "h": "20170112043848",
+        "l": 667
+    },
+    {
+        "i": 390,
+        "j": "4zCaX2dXhr4",
+        "b": "Integral de secante por tangente cuadrada",
+        "h": "20161005064949",
+        "l": 238
+    },
+    {
+        "i": 436,
+        "j": "5-oNJm7tYAQ",
+        "b": "331. Integrales mediante Fórmulas de reducción",
+        "h": "20180724080342",
+        "l": 660
+    },
+    {
+        "i": 64,
+        "j": "5CA4xfNVMp4",
+        "b": "Integral de x entre raíz cuadrada (Exponente fraccionario negativo, completando derivada)",
+        "h": "20160614054350",
+        "l": 339
+    },
+    {
+        "i": 492,
+        "j": "5gnfiG6SL5c",
+        "b": "21. Integral impropia usando sustitución trigonométrica",
+        "h": "20210729161106",
+        "l": 251
+    },
+    {
+        "i": 539,
+        "j": "5XJqvSq9H18",
+        "b": "04. Integral definida, área bajo curva trigonométrica ¿Qué significa área cero?",
+        "h": "20210729161135",
+        "l": 453
+    },
+    {
+        "i": 395,
+        "j": "60q9j3BSQn0",
+        "b": "Integral de tangente mas cotangente al cuadrado (binomio al cuadrado, identidades trigonométricas)",
+        "h": "20161031070711",
+        "l": 218
+    },
+    {
+        "i": 540,
+        "j": "630L_dvDaEU",
+        "b": "05. Integral definida de exponencial, cambio de variable y cambio en límites de integración",
+        "h": "20210729161135",
+        "l": 518
+    },
+    {
+        "i": 515,
+        "j": "6Bjky4XWJHc",
+        "b": "36. Integral usando truco de Feynman (regla de Leibniz)",
+        "h": "20210729161106",
+        "l": 384
+    },
+    {
+        "i": 403,
+        "j": "6GDVewDvyEc",
+        "b": "Integral de x entre 1 + cos x , mediante identidad trigonométrica de angulo mitad",
+        "h": "20160901231713",
+        "l": 223
+    },
+    {
+        "i": 175,
+        "j": "6hi-4F0g-i0",
+        "b": "120. Integración por partes, x^2 por exponencial (Algebraica por exponencial) (Ejemplo resuelto)",
+        "h": "20160613072643",
+        "l": 317
+    },
+    {
+        "i": 536,
+        "j": "6MIXICxq7GI",
+        "b": "01. Integral definida, área bajo UNA PARÁBOLA",
+        "h": "20210729161135",
+        "l": 341
+    },
+    {
+        "i": 27,
+        "j": "6qLsxmbRBD8",
+        "b": "23. Integral dv/v (du/u , dx/x) = logaritmo natural (ln)",
+        "h": "20150814005333",
+        "l": 173
+    },
+    {
+        "i": 104,
+        "j": "6qTCv98bY2o",
+        "b": "60. Integral de función exponencial, completando la derivada",
+        "h": "20151116071458",
+        "l": 161
+    },
+    {
+        "i": 290,
+        "j": "6qWW-ZS-2Ic",
+        "b": "233. Integral de dx entre x por raíz cuadrada de x^2 - 5, aplicando fórmula",
+        "h": "20170405193037",
+        "l": 150
+    },
+    {
+        "i": 488,
+        "j": "6TaUyHOHavk",
+        "b": "17. Integral resuelta mediante relación de recurrencia",
+        "h": "20210729161106",
+        "l": 975
+    },
+    {
+        "i": 378,
+        "j": "6TcPkBrjQWU",
+        "b": "311. Integral de funciones irracionales, mediante dos cambios de variable",
+        "h": "20171022050959",
+        "l": 793
+    },
+    {
+        "i": 8,
+        "j": "6UKWVLVZIog",
+        "b": "08. Integral de x con exponente en denominador (exp. negativo)",
+        "h": "20150811215005",
+        "l": 117
+    },
+    {
+        "i": 602,
+        "j": "6Za9OzGx2Vs",
+        "b": "Integral de Logaritmo con Raíz cuadrada ¿Cómo se resuelve? (Cálculo)",
+        "h": "20241110195007",
+        "l": 590
+    },
+    {
+        "i": 389,
+        "j": "727iyaE38fE",
+        "b": "Integral de tangente cuadrada de 8x por secante cuarta de 8x (Cambio de variable)",
+        "h": "20160926061252",
+        "l": 515
+    },
+    {
+        "i": 371,
+        "j": "7btWW_solkM",
+        "b": "Integral de raíz cuadrada de una división con función trigonométrica cotangente",
+        "h": "20151015004224",
+        "l": 547
+    },
+    {
+        "i": 144,
+        "j": "7P6P5C_JCMQ",
+        "b": "94. Integral de función trigonométrica tangente, completando derivada",
+        "h": "20151124064455",
+        "l": 211
+    },
+    {
+        "i": 47,
+        "j": "7sTxpAliuwc",
+        "b": "Integral de división de polinomios mediante cambio de variable",
+        "h": "20161010185609",
+        "l": 232
+    },
+    {
+        "i": 13,
+        "j": "80PrQE8KYnw",
+        "b": "13. Integral de raiz de 6x (separar raices)",
+        "h": "20150811215005",
+        "l": 221
+    },
+    {
+        "i": 299,
+        "j": "81GpkDSaHhQ",
+        "b": "242. Integral de seno entre 1 + cos^2 x, aplicando fórmula",
+        "h": "20170406172719",
+        "l": 204
+    },
+    {
+        "i": 595,
+        "j": "8CLJR-oPxSQ",
+        "b": "Ecuacion integral resuelta derivando y aplicando teorema fundamental del calculo",
+        "h": "20231111000628",
+        "l": 389
+    },
+    {
+        "i": 407,
+        "j": "8fplP2VKXvo",
+        "b": "Integral de una exponencial entre un binomio al cuadrado (Cambio de variable y por partes)",
+        "h": "20160119055601",
+        "l": 635
+    },
+    {
+        "i": 53,
+        "j": "8IcDR1M7QRE",
+        "b": "32. Integral de raíz cuadrada de un polinomio (binomio)",
+        "h": "20151013061659",
+        "l": 388
+    },
+    {
+        "i": 503,
+        "j": "8kVK7API-kI",
+        "b": "G3. Integral Gaussiana: Demostración usando derivación bajo signo integral (Truco de Feynman)",
+        "h": "20210729161106",
+        "l": 1171
+    },
+    {
+        "i": 384,
+        "j": "8nert9dCZrU",
+        "b": "317. Integrales binomias, método de Chebyshev, CASO 1",
+        "h": "20171118180012",
+        "l": 490
+    },
+    {
+        "i": 136,
+        "j": "8QcKi1b8S3o",
+        "b": "86. Integral de funciones trigonométricas (resta de tangente y secante)",
+        "h": "20151015004224",
+        "l": 151
+    },
+    {
+        "i": 459,
+        "j": "8Soa483rBxU",
+        "b": "Integral usando sustitución universal (Weierstrass)",
+        "h": "20200118083035",
+        "l": 492
+    },
+    {
+        "i": 434,
+        "j": "8tAY0JNo4gw",
+        "b": "329. Integral por método de Euler, CASO 2",
+        "h": "20180306220017",
+        "l": 511
+    },
+    {
+        "i": 269,
+        "j": "8W0eyd5Vhzg",
+        "b": "214. Integral con sustitución trigonométrica de tipo seno con raíz cuadrada. EJERCICIO RESUELTO.",
+        "h": "20151105052959",
+        "l": 792
+    },
+    {
+        "i": 583,
+        "j": "8Ya7-_j26cU",
+        "b": "22. Integral DOBLE (Iterada) Cambiando EL ORDEN de INTEGRACIÓN",
+        "h": "20220407203020",
+        "l": 464
+    },
+    {
+        "i": 606,
+        "j": "9aNYWVzUgKI",
+        "b": "¿Se puede integrar Cualquier Función? ¿Cómo saberlo? Teorema de Liouville y Chebyshev",
+        "h": "20250804223318",
+        "l": 3160
+    },
+    {
+        "i": 345,
+        "j": "9i-4v-zFvPw",
+        "b": "283. Integral mediante fracciones parciales: factor cuadrático repetido",
+        "h": "20170803042415",
+        "l": 791
+    },
+    {
+        "i": 65,
+        "j": "9JQIdZIBwQk",
+        "b": "Integral de x entre un binomio a la quinta (potencia en el denominador, exponente negativo)",
+        "h": "20160602191501",
+        "l": 260
+    },
+    {
+        "i": 288,
+        "j": "9KgpvwiUJwg",
+        "b": "231. Integral de raíz cuadrada de x^2 - 4 (Mediante el uso de una fórmula)",
+        "h": "20161013053435",
+        "l": 176
+    },
+    {
+        "i": 63,
+        "j": "9prAZ-7vp-M",
+        "b": "39. Integral de una raíz cúbica en el denominador (exponente fraccionario)",
+        "h": "20151026031547",
+        "l": 396
+    },
+    {
+        "i": 184,
+        "j": "9Vk_Y3DNHss",
+        "b": "129. Integral por método Tabular (Método DI) (Truco para integración por partes, ejemplo resuelto)",
+        "h": "20160913224009",
+        "l": 280
+    },
+    {
+        "i": 346,
+        "j": "9VOFH61Tvbg",
+        "b": "284. Integración por Fracciones parciales: EXPLICACION COMPLETA",
+        "h": "20170803055627",
+        "l": 931
+    },
+    {
+        "i": 512,
+        "j": "A4SzZ4ml41Q",
+        "b": "34. Integral usando truco de Feynman (regla de Leibniz)",
+        "h": "20210729161106",
+        "l": 243
+    },
+    {
+        "i": 93,
+        "j": "a8X24QaPx3g",
+        "b": "57. Integral de división, separando en suma de fracciones (truco algebraico)",
+        "h": "20151116071406",
+        "l": 249
+    },
+    {
+        "i": 185,
+        "j": "aagDqs80Sg0",
+        "b": "130. Integral por método Tabular (Método DI) (Truco para integración por partes, ejemplo resuelto)",
+        "h": "20160913233206",
+        "l": 320
+    },
+    {
+        "i": 304,
+        "j": "ABRg-C5YHRA",
+        "b": "Integral completando trinomio cuadrado perfecto",
+        "h": "20160620173507",
+        "l": 419
+    },
+    {
+        "i": 364,
+        "j": "acMJO8WhUWk",
+        "b": "302. Integral con suma de raíz cuadrada y raíz cuarta en el denominador",
+        "h": "20171019191549",
+        "l": 445
+    },
+    {
+        "i": 522,
+        "j": "AfgZTOaj_oI",
+        "b": "43. Integral impropia con logaritmo natural haciendo doble integración",
+        "h": "20210729161106",
+        "l": 413
+    },
+    {
+        "i": 89,
+        "j": "AgqF6tQ9lTE",
+        "b": "Integral de logaritmo natural en denominador, mediante cambio de variable",
+        "h": "20160910164101",
+        "l": 241
+    },
+    {
+        "i": 598,
+        "j": "AI2d5fPcSXM",
+        "b": "Integral con raíz de índice lnx ¿cómo se resuelve? #maths #calculo #quiz",
+        "h": "20240213231743",
+        "l": 43
+    },
+    {
+        "i": 39,
+        "j": "aj3xEocyzgQ",
+        "b": "27V.2 Integral de división de polinomios, por cambio de variable",
+        "h": "20161001182913",
+        "l": 306
+    },
+    {
+        "i": 204,
+        "j": "aJFGeLjGlM0",
+        "b": "149. Integral de seno al cubo por coseno al cubo. TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20161212055635",
+        "l": 237
+    },
+    {
+        "i": 242,
+        "j": "aNY0Eo5wclY",
+        "b": "187. Integral de cotangente a la sexta por cosecante a la cuarta. TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20170105083831",
+        "l": 275
+    },
+    {
+        "i": 414,
+        "j": "arZ0PABmuoY",
+        "b": "Integral de x por seno cuadrado de 2x, integración por partes EJERCICIO RESUELTO",
+        "h": "20161206074821",
+        "l": 434
+    },
+    {
+        "i": 393,
+        "j": "AUiAfA3eJSU",
+        "b": "Integral de secante menos tangente cuadrada",
+        "h": "20160911222210",
+        "l": 175
+    },
+    {
+        "i": 134,
+        "j": "Auup-oup6ic",
+        "b": "Integral de una exponencial en el denominador (7 elevado a exponente)",
+        "h": "20160602190320",
+        "l": 246
+    },
+    {
+        "i": 158,
+        "j": "av89iuoD5xM",
+        "b": "108. Integral por partes, regla LIATE (Explicada paso a paso)",
+        "h": "20160326183211",
+        "l": 744
+    },
+    {
+        "i": 160,
+        "j": "AVWpKnuivwE",
+        "b": "110. Integración por partes: x octava por logaritmo natural (Ejemplo resuelto)",
+        "h": "20151118010607",
+        "l": 256
+    },
+    {
+        "i": 415,
+        "j": "axJGipdk03U",
+        "b": "Integral mediante sustitución trigonométrica tipo seno, con triángulo (ejercicio resuelto)",
+        "h": "20161105064841",
+        "l": 1173
+    },
+    {
+        "i": 6,
+        "j": "AxyaXLOu7f4",
+        "b": "06. Integral de una potencia de x (x a la quinta)",
+        "h": "20150811215005",
+        "l": 66
+    },
+    {
+        "i": 48,
+        "j": "AZAiWW9eBPs",
+        "b": "Integral trigonométrica completando derivada (seno entre coseno)",
+        "h": "20160705043000",
+        "l": 251
+    },
+    {
+        "i": 150,
+        "j": "B5KEGY0SJWQ",
+        "b": "100. Integral de tangente de una raíz cuadrada, completando derivada",
+        "h": "20151124064745",
+        "l": 296
+    },
+    {
+        "i": 284,
+        "j": "B6sAhuXu3mY",
+        "b": "227. Integral de dx entre raíz cuadrada de 5 - x^2, aplicando fórmula",
+        "h": "20170405052756",
+        "l": 167
+    },
+    {
+        "i": 516,
+        "j": "b7A6BDXXRAw",
+        "b": "37. Integral por truco de Feynman (regla de Leibniz)",
+        "h": "20210729161106",
+        "l": 341
+    },
+    {
+        "i": 161,
+        "j": "bAo356dt_ks",
+        "b": "111. Integral trigonométrica inversa, arc sen (Integración por partes, ejemplo resuelto)",
+        "h": "20160331194035",
+        "l": 562
+    },
+    {
+        "i": 42,
+        "j": "bbMp0c11ZOc",
+        "b": "Integral trigonométrica completando derivada (secante cuadrada entre tangente)",
+        "h": "20160705045919",
+        "l": 245
+    },
+    {
+        "i": 75,
+        "j": "bDZFxy2Hm0A",
+        "b": "45. Integral de raíz cuadrada de x, elevada a un exponente",
+        "h": "20151030053825",
+        "l": 283
+    },
+    {
+        "i": 274,
+        "j": "beggVh7tE0E",
+        "b": "217. Integral por sustitución trigonométrica tipo secante (Demostración de fórmula)",
+        "h": "20160828045433",
+        "l": 1244
+    },
+    {
+        "i": 110,
+        "j": "BFvUSH-X9xg",
+        "b": "65. Integral de raíz cúbica de una exponencial",
+        "h": "20151119080916",
+        "l": 185
+    },
+    {
+        "i": 314,
+        "j": "bkzxkTnNaG8",
+        "b": "256. Integral de x dx entre x^4 + 4x^2 + 5, completando trinomio cuadrado perfecto y derivada",
+        "h": "20170408054834",
+        "l": 382
+    },
+    {
+        "i": 97,
+        "j": "blezR1Yv8-U",
+        "b": "Integral de x^3 entre x+1 (mediante división de polinomios)",
+        "h": "20161011231317",
+        "l": 517
+    },
+    {
+        "i": 347,
+        "j": "Bm0OUFiNrY0",
+        "b": "285. Integrales: Método de Hermite - Ostrogradski, EXPLICACION COMPLETA",
+        "h": "20171016180357",
+        "l": 1694
+    },
+    {
+        "i": 86,
+        "j": "BPI43GZkTAw",
+        "b": "Integral de secante cuadrada de raíz de x",
+        "h": "20160406174858",
+        "l": 297
+    },
+    {
+        "i": 409,
+        "j": "BWNXjdMNhwY",
+        "b": "Integral de x por secante cuadrada, mediante integración por partes",
+        "h": "20160901231509",
+        "l": 375
+    },
+    {
+        "i": 126,
+        "j": "c3CRP8Ve7vI",
+        "b": "78. Integral de la exponencial de una exponencial",
+        "h": "20151122062838",
+        "l": 229
+    },
+    {
+        "i": 275,
+        "j": "C4G-VhJCQ4E",
+        "b": "218. Integral por sustitución trigonométrica tipo seno (Demostración de fórmula)",
+        "h": "20160828052038",
+        "l": 659
+    },
+    {
+        "i": 348,
+        "j": "c4Jv-K9ojF8",
+        "b": "286. Integrales: Método de Hermite - Ostrogradski, MUY FÁCIL",
+        "h": "20171016195808",
+        "l": 571
+    },
+    {
+        "i": 226,
+        "j": "C8EvLKHtev8",
+        "b": "171. Integral de tangente quinta por secante cúbica. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170103092917",
+        "l": 470
+    },
+    {
+        "i": 386,
+        "j": "C9mS1kSxVxU",
+        "b": "Integral de coseno al cubo de 2x. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161211082524",
+        "l": 285
+    },
+    {
+        "i": 354,
+        "j": "cADa0lD4QB8",
+        "b": "292. Integración mediante cambio de variable (sustitución), raíz cuadrada denominador",
+        "h": "20171017220014",
+        "l": 373
+    },
+    {
+        "i": 338,
+        "j": "CbhSsA6zoXQ",
+        "b": "276. Integral mediante fracciones parciales, factorización ax^2+bx+c",
+        "h": "20170726050009",
+        "l": 539
+    },
+    {
+        "i": 192,
+        "j": "cCmRwxqhJg4",
+        "b": "137. Integral de coseno a la cuarta de x entre 2",
+        "h": "20161005052349",
+        "l": 734
+    },
+    {
+        "i": 256,
+        "j": "cCrkoJifMpk",
+        "b": "201. Integral de dx entre raíz cuadrada de 5 - x^2 al cubo. SUSTITUCION TRIGONOMETRICA",
+        "h": "20170106085610",
+        "l": 764
+    },
+    {
+        "i": 52,
+        "j": "cezj8G3_SVo",
+        "b": "31. Integral de un polinomio elevado a exponente en el denominador (potencia negativa)",
+        "h": "20151013061659",
+        "l": 315
+    },
+    {
+        "i": 420,
+        "j": "CfohoKGeJBQ",
+        "b": "Integral de dx entre e^x + e^-x, suma de exponenciales en el denominador",
+        "h": "20170505152954",
+        "l": 136
+    },
+    {
+        "i": 202,
+        "j": "CGDy7_K3P5U",
+        "b": "147. Integral de seno cuadrado por coseno cuadrado (usando identidad de angulo doble)",
+        "h": "20161023045954",
+        "l": 413
+    },
+    {
+        "i": 281,
+        "j": "CH2v25K_j44",
+        "b": "224. Integral por sustitución trigonométrica secante con raíz cuadrada (Demostración de fórmula)",
+        "h": "20160923072803",
+        "l": 859
+    },
+    {
+        "i": 165,
+        "j": "cH8kRK1krXo",
+        "b": "114. Integral trigonométrica inversa, arc cot, cot^-1 (Integración por partes, ejemplo resuelto)",
+        "h": "20160331214751",
+        "l": 279
+    },
+    {
+        "i": 333,
+        "j": "cHDeqhjYUzM",
+        "b": "271. Integral mediante fracciones parciales: TRUCO DE LA DERIVADA",
+        "h": "20170724020011",
+        "l": 736
+    },
+    {
+        "i": 548,
+        "j": "cIWjmJMSNeI",
+        "b": "13. Integral definida por sustitución, cambio en límites de integración",
+        "h": "20210729161135",
+        "l": 234
+    },
+    {
+        "i": 106,
+        "j": "CL4h3T-Pykk",
+        "b": "Integral de exponencial por polinomio, por cambio de variable, paso a paso",
+        "h": "20180424215131",
+        "l": 214
+    },
+    {
+        "i": 326,
+        "j": "Cm2Iat_vHW4",
+        "b": "267. Integral mediante fracciones parciales: factores lineales distintos",
+        "h": "20170722200012",
+        "l": 523
+    },
+    {
+        "i": 308,
+        "j": "CNgeJi1SpzA",
+        "b": "250. Integral de raíz cuadrada de trinomio, completando trinomio cuadrado perfecto",
+        "h": "20170406192025",
+        "l": 259
+    },
+    {
+        "i": 315,
+        "j": "CovvFzMUviM",
+        "b": "257. Integral de division de exponenciales, completando trinomio cuadrado perfecto",
+        "h": "20170408185225",
+        "l": 309
+    },
+    {
+        "i": 433,
+        "j": "CPPKOjJ6b8c",
+        "b": "328. Integral por método de Euler, CASO 1",
+        "h": "20180306160021",
+        "l": 1008
+    },
+    {
+        "i": 218,
+        "j": "CRAW2IV9Tgk",
+        "b": "163. Integral de secante a la sexta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161221212636",
+        "l": 311
+    },
+    {
+        "i": 30,
+        "j": "cSBz1nD0rvw",
+        "b": "Integral de binomio a la cuarta entre x, desarrollando y aplicando leyes de exponentes",
+        "h": "20160925220300",
+        "l": 510
+    },
+    {
+        "i": 235,
+        "j": "CSUzjArQo60",
+        "b": "180. Integral de cotangente a la quinta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170104084803",
+        "l": 333
+    },
+    {
+        "i": 361,
+        "j": "CWPMUneb2M4",
+        "b": "299. Integral mediante cambio de variable, con raíz cuadrada",
+        "h": "20171018193011",
+        "l": 355
+    },
+    {
+        "i": 545,
+        "j": "cY9zB_1v2_E",
+        "b": "10. Integral definida método de sustitución, cambio en límites de integración",
+        "h": "20210729161135",
+        "l": 260
+    },
+    {
+        "i": 319,
+        "j": "D__3JKXhG7w",
+        "b": "261. Integral de x^2 entre trinomio, completando TCP, haciendo sustitución trigonométrica",
+        "h": "20170412050209",
+        "l": 1054
+    },
+    {
+        "i": 430,
+        "j": "d1q8iZH4A8g",
+        "b": "Integral de raíz cuadrada de exponencial menos 9, mediante sustitución trigonométrica",
+        "h": "20170627053922",
+        "l": 275
+    },
+    {
+        "i": 332,
+        "j": "d61FyuWE82E",
+        "b": "270. Integral mediante Fracciones Parciales, MUY FÁCIL",
+        "h": "20170724010016",
+        "l": 761
+    },
+    {
+        "i": 36,
+        "j": "D8Jlwdmqgqg",
+        "b": "26V. Integral mediante cambio de variable (cotangente, dv/v)",
+        "h": "20160927213818",
+        "l": 317
+    },
+    {
+        "i": 113,
+        "j": "DgrMtvCqhnc",
+        "b": "68. Integral de una división de exponenciales (cociente, resta de exponentes)",
+        "h": "20151119080921",
+        "l": 117
+    },
+    {
+        "i": 596,
+        "j": "dj4KTj8pI6w",
+        "b": "¿Puedes calcular esta Integral definida rápidamente? #maths #quiz #calculus",
+        "h": "20240213231345",
+        "l": 46
+    },
+    {
+        "i": 198,
+        "j": "DklSXGZlBAA",
+        "b": "143. Integral de coseno a la séptima. Exponente impar. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161211075334",
+        "l": 443
+    },
+    {
+        "i": 174,
+        "j": "dkNWP49VgE4",
+        "b": "119. Integración por partes, x por exponencial (Algebraica por exponencial) (Ejemplo resuelto)",
+        "h": "20160613072628",
+        "l": 180
+    },
+    {
+        "i": 431,
+        "j": "dliqspyC_JI",
+        "b": "326. Integrales racionales de senos y cosenos (segunda sustitución de Weierstrass)",
+        "h": "20180223020008",
+        "l": 445
+    },
+    {
+        "i": 237,
+        "j": "dp1S768jKaw",
+        "b": "182. Integral de cosecante a la cuarta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170104191705",
+        "l": 268
+    },
+    {
+        "i": 57,
+        "j": "DQjwpVViKtE",
+        "b": "36. Integral de una raíz cuarta (exponente fraccionario)",
+        "h": "20151020053038",
+        "l": 420
+    },
+    {
+        "i": 193,
+        "j": "dSqp2SPVgMI",
+        "b": "138. Integral de seno al cubo (trigonométrica, exponente impar, EJERCICIO RESUELTO)",
+        "h": "20161115215340",
+        "l": 324
+    },
+    {
+        "i": 162,
+        "j": "dwn3b7-Jop4",
+        "b": "112. Integral trigonométrica inversa, arc cos, cos^-1 (Integración por partes, ejemplo resuelto)",
+        "h": "20160331195230",
+        "l": 491
+    },
+    {
+        "i": 383,
+        "j": "Dxupin6ihIY",
+        "b": "316. Integrales binomias, método de Chebyshev, CASO 1",
+        "h": "20171117180015",
+        "l": 456
+    },
+    {
+        "i": 592,
+        "j": "dZAjIM71PTk",
+        "b": "Integral con raíces cúbicas y cuadradas, CAMBIO DE VARIABLE",
+        "h": "20230803054555",
+        "l": 370
+    },
+    {
+        "i": 349,
+        "j": "DzMe1c9cTyc",
+        "b": "287. Integrales: Método de Hermite - Ostrogradski, MUY FÁCIL",
+        "h": "20171016230014",
+        "l": 1118
+    },
+    {
+        "i": 561,
+        "j": "E7Y1bu2-m4M",
+        "b": "Integral definida de 9^x entre 3^2x + 3^x (división de exponenciales) EJERCICIO RESUELTO",
+        "h": "20210729161135",
+        "l": 536
+    },
+    {
+        "i": 166,
+        "j": "EAvfs22dhgM",
+        "b": "115. Integral de secante inversa arcsec (Trigonométrica inversa) (Integración por partes)",
+        "h": "20160613072600",
+        "l": 248
+    },
+    {
+        "i": 211,
+        "j": "EBnqllIpcW0",
+        "b": "156. Integral de tangente cuadrada. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161215073214",
+        "l": 138
+    },
+    {
+        "i": 206,
+        "j": "eFuEBqpX_M4",
+        "b": "151. Integral de seno al cubo por coseno a la cuarta. TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20161212062916",
+        "l": 332
+    },
+    {
+        "i": 359,
+        "j": "ehnFIblL2Y0",
+        "b": "297. Integral de la raíz cuadrada de una raíz cuadrada (cambio de variable)",
+        "h": "20160406220357",
+        "l": 386
+    },
+    {
+        "i": 505,
+        "j": "EhtKRQFjqxA",
+        "b": "Integral de Dirichlet, demostración mediante doble integración",
+        "h": "20210729161106",
+        "l": 473
+    },
+    {
+        "i": 535,
+        "j": "ejFbiBQ0cFQ",
+        "b": "Integral impropia en 1 minuto",
+        "h": "20210729161106",
+        "l": 58
+    },
+    {
+        "i": 58,
+        "j": "EKpp46v2AMo",
+        "b": "Integral de raíz de x por 2 menos x raíz de x a la quinta (cambio de variable)",
+        "h": "20161005071329",
+        "l": 376
+    },
+    {
+        "i": 584,
+        "j": "ELs2dAXb8_M",
+        "b": "23. Integral DOBLE (Iterada) Cambiando EL ORDEN de INTEGRACIÓN",
+        "h": "20220407203643",
+        "l": 340
+    },
+    {
+        "i": 593,
+        "j": "Ep30W_-43rk",
+        "b": "¿Puedes Resolverla? Integral de Division de Exponenciales (Sustitución y Fracciones Parciales)",
+        "h": "20230803220726",
+        "l": 425
+    },
+    {
+        "i": 551,
+        "j": "epYOTx1nelE",
+        "b": "Integral definida de una función exponencial de raíz cuadrada de 2 a pi",
+        "h": "20210729161135",
+        "l": 132
+    },
+    {
+        "i": 494,
+        "j": "EqeCQgPQdd4",
+        "b": "23. Integral impropia de logaritmo natural entre trinomio",
+        "h": "20210729161106",
+        "l": 373
+    },
+    {
+        "i": 118,
+        "j": "erVOnT3Y10A",
+        "b": "72. Integral de un binomio al cuadrado de funciones exponenciales",
+        "h": "20151119080930",
+        "l": 235
+    },
+    {
+        "i": 130,
+        "j": "eTInsQyVF18",
+        "b": "81. Integral de función exponencial de base 5, con exponente x^3, completando derivada",
+        "h": "20151122062849",
+        "l": 227
+    },
+    {
+        "i": 258,
+        "j": "EuVhKjXHyd4",
+        "b": "203. Integral dx entre x por raíz cuadrada de x^2 +36 SUSTITUCION TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20170111072103",
+        "l": 666
+    },
+    {
+        "i": 398,
+        "j": "EwSm3WqEsjk",
+        "b": "Integral de funciones trigonométricas, usando identidades",
+        "h": "20160911192837",
+        "l": 499
+    },
+    {
+        "i": 147,
+        "j": "EyLV7Gh2VXs",
+        "b": "97. Integral de seno de función exponencial",
+        "h": "20151124064615",
+        "l": 282
+    },
+    {
+        "i": 196,
+        "j": "f19rtWChZm8",
+        "b": "141. Integral de coseno al cubo (coseno con exponente impar)",
+        "h": "20160603185238",
+        "l": 282
+    },
+    {
+        "i": 121,
+        "j": "f6Km72vvtEs",
+        "b": "74. Integral de exponencial de raíz cuadrada",
+        "h": "20151122062829",
+        "l": 180
+    },
+    {
+        "i": 131,
+        "j": "f7Tt6de-D9s",
+        "b": "82. Integral de un producto de exponenciales de distinta base",
+        "h": "20151122064215",
+        "l": 267
+    },
+    {
+        "i": 285,
+        "j": "f8liMUc83tA",
+        "b": "228. Integral de dx entre 4x^2 - 25, aplicando fórmula",
+        "h": "20170405054227",
+        "l": 226
+    },
+    {
+        "i": 586,
+        "j": "fcTsksRqgyA",
+        "b": "25. Calcular el ÁREA de una REGIÓN, usando INTEGRALES DOBLES",
+        "h": "20220411211053",
+        "l": 469
+    },
+    {
+        "i": 614,
+        "j": "fgMze4Kw7Os",
+        "b": "💎 ¿Se puede integrar esta función? - Arcoseno de x^2",
+        "h": "20250826182551",
+        "l": 140
+    },
+    {
+        "i": 287,
+        "j": "FilNMyQ36gg",
+        "b": "230. Integral de raíz cuadrada de 25 - 36x^2, aplicando fórmula",
+        "h": "20170405192942",
+        "l": 223
+    },
+    {
+        "i": 182,
+        "j": "fILSdGCcJjY",
+        "b": "127. Integral de exponencial por coseno (Fórmula general, integral cíclica, ejemplo resuelto)",
+        "h": "20160907050812",
+        "l": 961
+    },
+    {
+        "i": 599,
+        "j": "fjWtH1i5Zok",
+        "b": "Ecuacion integral usando teorema fundamental del cálculo",
+        "h": "20240307170405",
+        "l": 506
+    },
+    {
+        "i": 397,
+        "j": "FkSid6q8qT0",
+        "b": "Integral de sen 2x entre 1-cos^2 x , aplicando identidades trigonométricas",
+        "h": "20160910164107",
+        "l": 310
+    },
+    {
+        "i": 190,
+        "j": "FLBEtL491qs",
+        "b": "135. Integral de coseno al cuadrado de x (con identidad trigonométrica)",
+        "h": "20161004072316",
+        "l": 280
+    },
+    {
+        "i": 276,
+        "j": "flhs8GtA2gs",
+        "b": "219. Integral por sustitución trigonométrica tangente con raíz cuadrada (Demostración de fórmula)",
+        "h": "20160829071304",
+        "l": 791
+    },
+    {
+        "i": 323,
+        "j": "fSmigj6I5cQ",
+        "b": "264. Integral mediante fracciones parciales: factores lineales distintos",
+        "h": "20170721194006",
+        "l": 592
+    },
+    {
+        "i": 307,
+        "j": "Ftkhny43LNI",
+        "b": "249. Integral completando trinomio cuadrado perfecto, dentro de raíz cuadrada, paso a paso",
+        "h": "20170406191510",
+        "l": 300
+    },
+    {
+        "i": 350,
+        "j": "FUY909EcKXo",
+        "b": "288. Integrales: Método de Hermite - Ostrogradski, MUY FÁCIL",
+        "h": "20171017160812",
+        "l": 1076
+    },
+    {
+        "i": 279,
+        "j": "FWUhxr7h6aQ",
+        "b": "222. Integral por sustitución trigonométrica secante con raíz cuadrada (Demostración de fórmula)",
+        "h": "20160903052247",
+        "l": 361
+    },
+    {
+        "i": 303,
+        "j": "fy8nOcCTRwQ",
+        "b": "246. Integral completando trinomio cuadrado perfecto, paso a paso",
+        "h": "20170406175234",
+        "l": 298
+    },
+    {
+        "i": 514,
+        "j": "fyX5xwvPZ9A",
+        "b": "35. Integral de Dirichlet usando truco de Feynman (Regla de Leibniz)",
+        "h": "20210729161106",
+        "l": 613
+    },
+    {
+        "i": 355,
+        "j": "g_sKc-gS9XQ",
+        "b": "293. Integral por cambio de variable, con raíz cúbica",
+        "h": "20160901043542",
+        "l": 333
+    },
+    {
+        "i": 612,
+        "j": "g40472PFg1s",
+        "b": "💎 ¿Se puede integrar esta función? - Arcosecante cuadrada",
+        "h": "20250826182541",
+        "l": 521
+    },
+    {
+        "i": 45,
+        "j": "gAy1DaGRiZQ",
+        "b": "Integral de 1 + cos x entre x + sen x (forma dv/v, integral inmediata)",
+        "h": "20160705051711",
+        "l": 127
+    },
+    {
+        "i": 525,
+        "j": "Gb0NlXpYWCw",
+        "b": "Integral impropia usando Transformada de Laplace",
+        "h": "20210729161106",
+        "l": 259
+    },
+    {
+        "i": 405,
+        "j": "Gbll04g8xBE",
+        "b": "Integral de coseno por logaritmo de una division con seno y exponencial. EJERCICIO RESUELTO",
+        "h": "20161206062749",
+        "l": 414
+    },
+    {
+        "i": 233,
+        "j": "GgsbHyVWKfo",
+        "b": "178. Integral de cotangente a la sexta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170104075421",
+        "l": 328
+    },
+    {
+        "i": 172,
+        "j": "GiKoMCSd1co",
+        "b": "117. Integración por partes, x por seno (Algebraica por trigonométrica) (Ejemplo resuelto)",
+        "h": "20160613072614",
+        "l": 223
+    },
+    {
+        "i": 421,
+        "j": "GJmulHfYuoQ",
+        "b": "Integral mediante sustitución trigonométrica de tipo secante, con triángulo rectángulo",
+        "h": "20170627053201",
+        "l": 567
+    },
+    {
+        "i": 325,
+        "j": "Gr8S8uITdDw",
+        "b": "266. Integral mediante fracciones parciales: diferencia de cuadrados",
+        "h": "20170722190510",
+        "l": 421
+    },
+    {
+        "i": 268,
+        "j": "gRSg-f1OFH8",
+        "b": "213. Integral mediante sustitución trigonométrica (de tipo secante), con raíz cuadrada",
+        "h": "20151020053038",
+        "l": 405
+    },
+    {
+        "i": 305,
+        "j": "gRuY_Qhm3MU",
+        "b": "247. Integral completando el trinomio cuadrado perfecto",
+        "h": "20160913221314",
+        "l": 569
+    },
+    {
+        "i": 219,
+        "j": "gWu7UwQciuw",
+        "b": "164. Integral de secante cúbica mediante integración por partes. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20160903060359",
+        "l": 506
+    },
+    {
+        "i": 247,
+        "j": "Gxz1q0Y7FCw",
+        "b": "192. Integral de cotangente cuadrada por cosecante. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170105230615",
+        "l": 156
+    },
+    {
+        "i": 20,
+        "j": "gZr2Nwzpwwo",
+        "b": "18. Integral de un binomio al cuadrado",
+        "h": "20150811215005",
+        "l": 247
+    },
+    {
+        "i": 207,
+        "j": "H_8jvx8Ai1Q",
+        "b": "152. Integral de seno cuadrado por coseno a la cuarta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161212065701",
+        "l": 638
+    },
+    {
+        "i": 224,
+        "j": "h1fepbOlAPQ",
+        "b": "169. Integral de tangente por secante a la 7. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170103083018",
+        "l": 183
+    },
+    {
+        "i": 282,
+        "j": "h4XyxsmsiKE",
+        "b": "225. Integral por sustitución trigonométrica seno con raíz cuadrada (Demostración de fórmula)",
+        "h": "20160924052502",
+        "l": 808
+    },
+    {
+        "i": 553,
+        "j": "H7XiZjSgqwc",
+        "b": "Integral definida de raíz cuadrada de x en el denominador",
+        "h": "20210729161135",
+        "l": 333
+    },
+    {
+        "i": 286,
+        "j": "hdcEwjwNdI0",
+        "b": "229. Integral de dx entre raíz cuadrada de 2x^2 + 3, aplicando fórmula",
+        "h": "20170405055809",
+        "l": 262
+    },
+    {
+        "i": 100,
+        "j": "hfErEms_Msc",
+        "b": "Integral de division de polinomios mediante cambio de variable",
+        "h": "20161005075215",
+        "l": 267
+    },
+    {
+        "i": 425,
+        "j": "Hfm1q9q-t98",
+        "b": "321. Integrales Racionales Trigonométricas, sustitución de Weierstrass",
+        "h": "20180118200013",
+        "l": 597
+    },
+    {
+        "i": 98,
+        "j": "hguEtLtzS0A",
+        "b": "Integral de una división de polinomios (fracción algebraica) EXPLICADA PASO A PASO MUY FÁCIL",
+        "h": "20160405193539",
+        "l": 185
+    },
+    {
+        "i": 216,
+        "j": "hhZKiVG3H9I",
+        "b": "161. Integral de tangente a la 7. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170105193053",
+        "l": 249
+    },
+    {
+        "i": 487,
+        "j": "hiTR23zakcY",
+        "b": "16. Integral con coseno y exponencial, truco de función par e impar",
+        "h": "20210729161106",
+        "l": 607
+    },
+    {
+        "i": 32,
+        "j": "hkmi8mvvHdw",
+        "b": "25V. Integral mediante método de cambio de variable (de la forma dv/v)",
+        "h": "20160927203548",
+        "l": 355
+    },
+    {
+        "i": 480,
+        "j": "hMU9dnS1Xxg",
+        "b": "09. Integral definida con funciones trigonométricas",
+        "h": "20210729161106",
+        "l": 695
+    },
+    {
+        "i": 197,
+        "j": "HMxI-njyQP0",
+        "b": "142. Integral de coseno a la quinta (coseno con exponente impar)",
+        "h": "20160603192348",
+        "l": 384
+    },
+    {
+        "i": 23,
+        "j": "hnXdYgUfvy8",
+        "b": "20. Integral de radicales en el denominador (Potencia fraccionaria negativa)",
+        "h": "20150811215005",
+        "l": 261
+    },
+    {
+        "i": 416,
+        "j": "ho9n7akwF2I",
+        "b": "Integral de raíz cuadrada con logaritmo cuadrado en el denominador",
+        "h": "20160915193635",
+        "l": 252
+    },
+    {
+        "i": 81,
+        "j": "Hoxt03zlvPY",
+        "b": "50. Integral de logaritmo natural entre x",
+        "h": "20151104054706",
+        "l": 242
+    },
+    {
+        "i": 413,
+        "j": "HqqpnlZ7Edk",
+        "b": "Integral de potencia de x por exponencial, Integral por partes, dos veces. EJERCICIO RESUELTO",
+        "h": "20161206061149",
+        "l": 492
+    },
+    {
+        "i": 177,
+        "j": "Hthc-Ba_f_Q",
+        "b": "122. Integración por partes, x por seno inverso entre raíz cuadrada (Ejemplo resuelto)",
+        "h": "20160614054430",
+        "l": 292
+    },
+    {
+        "i": 318,
+        "j": "hy8kUxOHH4M",
+        "b": "260. Integral de polinomio entre raíz cuadrada (separando, completando trinomio cuadrado perfecto)",
+        "h": "20151022225433",
+        "l": 939
+    },
+    {
+        "i": 142,
+        "j": "I0_cqYzvFYU",
+        "b": "92. Integral de función trigonométrica seno, completando derivada",
+        "h": "20151124064411",
+        "l": 208
+    },
+    {
+        "i": 483,
+        "j": "I42U0ZTe3QI",
+        "b": "12. Integral impropia con coseno hiperbólico",
+        "h": "20210729161106",
+        "l": 855
+    },
+    {
+        "i": 368,
+        "j": "I67GyTvNZmI",
+        "b": "305. Integral con exponencial, usando cambio de variable",
+        "h": "20171020013011",
+        "l": 411
+    },
+    {
+        "i": 363,
+        "j": "IAtvpf8tAKI",
+        "b": "301. Integral con raíz cuadrada y raíz cuarta",
+        "h": "20171018230009",
+        "l": 576
+    },
+    {
+        "i": 456,
+        "j": "ibDbcnJnmFY",
+        "b": "Integral: Demostración de fórmula por inducción, exponencial por potencia",
+        "h": "20190704232357",
+        "l": 780
+    },
+    {
+        "i": 410,
+        "j": "iCSKOHA_6gI",
+        "b": "Integral de x entre seno cuadrado, Integral por partes (Ejercicio resuelto)",
+        "h": "20161107053402",
+        "l": 233
+    },
+    {
+        "i": 91,
+        "j": "IdDiplQQPlE",
+        "b": "55. Integral de división, separando en suma de fracciones (truco algebraico)",
+        "h": "20151116071031",
+        "l": 229
+    },
+    {
+        "i": 154,
+        "j": "IEe3u32LBlE",
+        "b": "104. Integración por partes, logaritmo natural de x al cuadrado (Ejemplo resuelto)",
+        "h": "20160127072429",
+        "l": 254
+    },
+    {
+        "i": 344,
+        "j": "iei5NgtVu7M",
+        "b": "282. Integral mediante fracciones parciales: factor cuadrático repetido",
+        "h": "20170731000649",
+        "l": 574
+    },
+    {
+        "i": 49,
+        "j": "IfUExaI6bkI",
+        "b": "29. Integral de binomio a la quinta (función elevada a exponente)",
+        "h": "20150815061913",
+        "l": 168
+    },
+    {
+        "i": 552,
+        "j": "Il0hPR7UTQc",
+        "b": "Cómo resolver integrales Definidas Muy Fácil!! - EXPLICADO PASO A PASO",
+        "h": "20210729161135",
+        "l": 161
+    },
+    {
+        "i": 507,
+        "j": "Il1J5T_FnO0",
+        "b": "30. Integral impropia, truco de Feynman (regla de Leibniz)",
+        "h": "20210729161106",
+        "l": 705
+    },
+    {
+        "i": 605,
+        "j": "ioJ7nt9PQZE",
+        "b": "💎 Integrales de Wallis: Ejercicios Resueltos",
+        "h": "20241213182411",
+        "l": 496
+    },
+    {
+        "i": 24,
+        "j": "iPRWXv_870s",
+        "b": "21. Integral de radicales en el denominador (Potencia fraccionaria negativa)",
+        "h": "20150811215005",
+        "l": 309
+    },
+    {
+        "i": 122,
+        "j": "ItjCJkeFRVY",
+        "b": "Integral de la exponencial de raíz cuadrada de ax entre raiz de x. EJERCICIO RESUELTO",
+        "h": "20170128211225",
+        "l": 331
+    },
+    {
+        "i": 208,
+        "j": "iyv85kVZGOA",
+        "b": "153. Integral de coseno al cubo entre seno a la cuarta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161221232024",
+        "l": 379
+    },
+    {
+        "i": 138,
+        "j": "j16fq7LNvbQ",
+        "b": "88. Integral de funciones trigonométricas (secante cuadrada, secante por tangente)",
+        "h": "20151015004224",
+        "l": 147
+    },
+    {
+        "i": 473,
+        "j": "j28XPbx-MZU",
+        "b": "02. Integral de logaritmo (impropia de tercera especie)",
+        "h": "20210729161106",
+        "l": 497
+    },
+    {
+        "i": 146,
+        "j": "jatBG3fdZeI",
+        "b": "96. Integral de función trigonométrica cosecante, completando derivada",
+        "h": "20151124064545",
+        "l": 253
+    },
+    {
+        "i": 296,
+        "j": "JbmW-s5YVT4",
+        "b": "239. Integral de x^3 entre x^8 + 5, aplicando fórmula",
+        "h": "20170405203504",
+        "l": 183
+    },
+    {
+        "i": 489,
+        "j": "jCgIrnXd864",
+        "b": "18. Integral impropia resuelta mediante reducción",
+        "h": "20210729161106",
+        "l": 795
+    },
+    {
+        "i": 498,
+        "j": "JCU70jHKW6A",
+        "b": "27. Integral impropia con logaritmo, integración por partes",
+        "h": "20210729161106",
+        "l": 478
+    },
+    {
+        "i": 572,
+        "j": "JD8PXXJ1-0s",
+        "b": "Integral del valor absoluto de 2x-4",
+        "h": "20210729161135",
+        "l": 445
+    },
+    {
+        "i": 148,
+        "j": "JdIrZFX0rxA",
+        "b": "98. Integral de coseno de una fracción, completando derivada",
+        "h": "20151124064646",
+        "l": 270
+    },
+    {
+        "i": 102,
+        "j": "jDmCpmao4Ng",
+        "b": "58. Integral de función exponencial, completando la derivada",
+        "h": "20151116071425",
+        "l": 156
+    },
+    {
+        "i": 497,
+        "j": "Je3srfr9PZ8",
+        "b": "26. Integral resuelta mediante relación de recurrencia",
+        "h": "20210729161106",
+        "l": 857
+    },
+    {
+        "i": 362,
+        "j": "JGOM6y1sAro",
+        "b": "300. Integral con suma de raíz cuadrada y cúbica",
+        "h": "20171018194027",
+        "l": 585
+    },
+    {
+        "i": 579,
+        "j": "jgUn7ifniwk",
+        "b": "Integral doble mediante CAMBIO EN ORDEN DE INTEGRACIÓN",
+        "h": "20211206215402",
+        "l": 494
+    },
+    {
+        "i": 124,
+        "j": "JH-fgPjYOhk",
+        "b": "76. Integral de exponencial de función trigonométrica tangente",
+        "h": "20151122062832",
+        "l": 150
+    },
+    {
+        "i": 60,
+        "j": "jhPNvVoK7QA",
+        "b": "38. Integral de una raíz cuadrada en el denominador (exponente fraccionario negativo)",
+        "h": "20151020053038",
+        "l": 322
+    },
+    {
+        "i": 76,
+        "j": "JKyxDelyOEA",
+        "b": "Integral trigonométrica con raíz cuadrada en denominador (forma v^n)",
+        "h": "20160705050411",
+        "l": 280
+    },
+    {
+        "i": 571,
+        "j": "jmFVsuvd6fo",
+        "b": "Integral de |x| (valor absoluto de x)",
+        "h": "20210729161135",
+        "l": 320
+    },
+    {
+        "i": 125,
+        "j": "jmmz_W0tNU4",
+        "b": "77. Integral de exponencial de función trigonométrica secante",
+        "h": "20151122062837",
+        "l": 193
+    },
+    {
+        "i": 588,
+        "j": "Jmn8gx3eziI",
+        "b": "DERIVADA de una INTEGRAL, explicación y EJEMPLOS",
+        "h": "20220621191611",
+        "l": 430
+    },
+    {
+        "i": 555,
+        "j": "jMpIL4dWxqg",
+        "b": "Integral definida con raíz cuadrada de x+1 en el denominador",
+        "h": "20210729161135",
+        "l": 323
+    },
+    {
+        "i": 70,
+        "j": "JmymqJR9f5c",
+        "b": "Integral de binomio al cuadrado sobre 2x",
+        "h": "20160401182347",
+        "l": 317
+    },
+    {
+        "i": 603,
+        "j": "JsImiQuo94c",
+        "b": "¿Fracciones Parciales? ¿Cómo resolverías esta integral?",
+        "h": "20241120230449",
+        "l": 418
+    },
+    {
+        "i": 580,
+        "j": "jutn2JxnmMA",
+        "b": "INTEGRAL SORPRENDENTE ¿La puedes DEMOSTRAR? Potencia de coseno, función GAMMA",
+        "h": "20211210210609",
+        "l": 947
+    },
+    {
+        "i": 255,
+        "j": "jxDgqXEnOak",
+        "b": "200. Integral de dx entre x^2+4 a la 3/2. SUSTITUCION TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20170106072230",
+        "l": 771
+    },
+    {
+        "i": 590,
+        "j": "jxZK5SkixZk",
+        "b": "(Integrales chidas) Integrales de Wallis: Demostración",
+        "h": "20230119173429",
+        "l": 1326
+    },
+    {
+        "i": 215,
+        "j": "jZvtYdBk2T8",
+        "b": "160. Integral de tangente a la quinta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161221204544",
+        "l": 229
+    },
+    {
+        "i": 267,
+        "j": "K0Y-hEam_KQ",
+        "b": "212. Integral de raíz cuadrada de 25-16x^2 entre x SUSTITUCION TRIGONOMETRICA SENO",
+        "h": "20170119230646",
+        "l": 879
+    },
+    {
+        "i": 437,
+        "j": "K4IaSFRr70w",
+        "b": "332. Integrales mediante Fórmulas de reducción",
+        "h": "20180724080342",
+        "l": 536
+    },
+    {
+        "i": 472,
+        "j": "K5ip2v7eRhQ",
+        "b": "01. Integral de logaritmo (impropia de tercera especie)",
+        "h": "20210729161106",
+        "l": 520
+    },
+    {
+        "i": 474,
+        "j": "K5r0Str0MwM",
+        "b": "03. Integral impropia de tercera especie",
+        "h": "20210729161106",
+        "l": 381
+    },
+    {
+        "i": 243,
+        "j": "K5UaFKPkB2U",
+        "b": "188. Integral de cotangente cuadrada por cosecante sexta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170105182130",
+        "l": 363
+    },
+    {
+        "i": 417,
+        "j": "kAYevOMTfWk",
+        "b": "Integral de 9^x entre 3^2x + 3^x (división de exponenciales) EJERCICIO RESUELTO",
+        "h": "20161206065156",
+        "l": 332
+    },
+    {
+        "i": 26,
+        "j": "KcoI_-fyd3o",
+        "b": "22. Integral de una multiplicación: polinomio por raíz",
+        "h": "20150814005333",
+        "l": 292
+    },
+    {
+        "i": 191,
+        "j": "KdDXfkjGFI8",
+        "b": "136. Integral de seno a la cuarta de x (separando un cuadrado)",
+        "h": "20161004081520",
+        "l": 732
+    },
+    {
+        "i": 214,
+        "j": "KhTAaCtuCII",
+        "b": "159. Integral de tangente al cubo. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161215074805",
+        "l": 235
+    },
+    {
+        "i": 101,
+        "j": "kHusAWeHTLc",
+        "b": "Integral de x+2 entre x^2+1",
+        "h": "20171003163610",
+        "l": 368
+    },
+    {
+        "i": 262,
+        "j": "kOGa21YZQsI",
+        "b": "207. Integral dx entre x^2 raiz de 1 - x^2. SUSTITUCION TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20160331221735",
+        "l": 408
+    },
+    {
+        "i": 351,
+        "j": "kPkycWXm148",
+        "b": "289. Integración mediante cambio de variable (sustitución), binomio a la décima",
+        "h": "20171017195548",
+        "l": 423
+    },
+    {
+        "i": 549,
+        "j": "KPuOt30naEo",
+        "b": "14. Integral definida trigonométrica, cambio de variable",
+        "h": "20210729161135",
+        "l": 303
+    },
+    {
+        "i": 253,
+        "j": "KQmWf5cu18g",
+        "b": "198. Integral de cos 2x por cos 4x. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170106054059",
+        "l": 254
+    },
+    {
+        "i": 79,
+        "j": "KtvGbmv-4Go",
+        "b": "48. Integral de funciones trigonométrica con exponente (seno, coseno)",
+        "h": "20151104054707",
+        "l": 205
+    },
+    {
+        "i": 331,
+        "j": "kVxcaRtlh40",
+        "b": "Integral mediante fracciones parciales de una división de polinomios",
+        "h": "20161017234825",
+        "l": 660
+    },
+    {
+        "i": 402,
+        "j": "kxHFFkfIoaU",
+        "b": "Integral de dx entre 1 - cos x (Trigonométrica, multiplicando por conjugado)",
+        "h": "20160705042041",
+        "l": 436
+    },
+    {
+        "i": 143,
+        "j": "L_Q_NbJ3yDc",
+        "b": "93. Integral de función trigonométrica coseno, completando derivada",
+        "h": "20151124064428",
+        "l": 167
+    },
+    {
+        "i": 168,
+        "j": "L1_nKZsh3UE",
+        "b": "Integral de coseno de logaritmo natural, integración por partes",
+        "h": "20171104203012",
+        "l": 342
+    },
+    {
+        "i": 558,
+        "j": "l147cWii6nQ",
+        "b": "Área limitada por una curva y el eje X (Mediante integral definida) ÁREA BAJO LA CURVA",
+        "h": "20210729161135",
+        "l": 493
+    },
+    {
+        "i": 464,
+        "j": "l4RIjRDr_bU",
+        "b": "Integral de arcsen de raíz cuadrada (seno inverso)",
+        "h": "20200405084719",
+        "l": 667
+    },
+    {
+        "i": 51,
+        "j": "L6VPKDAfuEg",
+        "b": "Integral de dx entre un binomio al cuadrado (exponente negativo, fórmula v^n)",
+        "h": "20160401195604",
+        "l": 223
+    },
+    {
+        "i": 523,
+        "j": "L78bMnjGR_0",
+        "b": "44. Integral impropia usando doble integración Gaussiana",
+        "h": "20210729161106",
+        "l": 621
+    },
+    {
+        "i": 611,
+        "j": "lAjOY59A0R8",
+        "b": "💎 ¿Se puede integrar esta función? - Exponencial por logaritmo",
+        "h": "20250826182537",
+        "l": 188
+    },
+    {
+        "i": 396,
+        "j": "lCNbItD4dHk",
+        "b": "Integral trigonométrica coseno entre seno, usando fórmula de resta de ángulos",
+        "h": "20160204215803",
+        "l": 258
+    },
+    {
+        "i": 486,
+        "j": "lhdRjVFxfM4",
+        "b": "15. Integrales impropias racionales resueltas muy fácilmente",
+        "h": "20210729161106",
+        "l": 313
+    },
+    {
+        "i": 511,
+        "j": "lLHl2zX7onA",
+        "b": "33. Integrales impropias trigonométricas",
+        "h": "20210729161106",
+        "l": 944
+    },
+    {
+        "i": 526,
+        "j": "llu0UaBKSbA",
+        "b": "Integral impropia usando Transformada de Laplace",
+        "h": "20210729161106",
+        "l": 799
+    },
+    {
+        "i": 67,
+        "j": "lMZKsG42cDI",
+        "b": "40. Integral de una raíz quinta en el denominador (exponente fraccionario negativo)",
+        "h": "20151027060540",
+        "l": 456
+    },
+    {
+        "i": 199,
+        "j": "LRhb1RX_DrA",
+        "b": "144. Integral de coseno a la sexta. Identidad de angulo mitad. EJERCICIO RESUELTO",
+        "h": "20161211205242",
+        "l": 601
+    },
+    {
+        "i": 306,
+        "j": "lrvz8bNOOFY",
+        "b": "248. Integral completando trinomio cuadrado perfecto (coeficiente raíz cuadrada)",
+        "h": "20160203224028",
+        "l": 361
+    },
+    {
+        "i": 200,
+        "j": "LST5rXK-HZE",
+        "b": "145. Integral de seno por coseno. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161212054233",
+        "l": 150
+    },
+    {
+        "i": 608,
+        "j": "LSvh6dknJaM",
+        "b": "💎 ¿Se puede integrar esta función? - Exponencial entre x",
+        "h": "20250826182522",
+        "l": 843
+    },
+    {
+        "i": 163,
+        "j": "LuKJCCDxciA",
+        "b": "Integral de arco coseno entre x^2, integral por partes",
+        "h": "20160110210425",
+        "l": 311
+    },
+    {
+        "i": 7,
+        "j": "LVqnBLQByLg",
+        "b": "07. Integral de una potencia de x (x a la octava)",
+        "h": "20150811215005",
+        "l": 84
+    },
+    {
+        "i": 252,
+        "j": "LXxUjIBXCW8",
+        "b": "197. Integral de sen 5x por cos x. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170106051953",
+        "l": 214
+    },
+    {
+        "i": 369,
+        "j": "Ly1YN19lbHI",
+        "b": "Integral de logaritmo natural por exponencial, con cambio de variable",
+        "h": "20160907040926",
+        "l": 224
+    },
+    {
+        "i": 103,
+        "j": "lyWe5ZzHbLE",
+        "b": "59. Integral de función exponencial, completando la derivada",
+        "h": "20151116071444",
+        "l": 199
+    },
+    {
+        "i": 508,
+        "j": "LzLyPos564w",
+        "b": "31. Integral impropia usando identidad trigonométrica",
+        "h": "20210729161106",
+        "l": 264
+    },
+    {
+        "i": 135,
+        "j": "lZSKlQA0g5A",
+        "b": "85. Integral de funciones trigonométricas (suma de seno y coseno)",
+        "h": "20151015004224",
+        "l": 173
+    },
+    {
+        "i": 372,
+        "j": "m2cYI29Lyoo",
+        "b": "Integral de raíz cuadrada de tangente de x (cambio de variable)",
+        "h": "20160203224029",
+        "l": 390
+    },
+    {
+        "i": 418,
+        "j": "MbXLZ_sd1tw",
+        "b": "Integral de coseno entre seno cuadrado menos 3",
+        "h": "20161003050305",
+        "l": 216
+    },
+    {
+        "i": 111,
+        "j": "mfFWaMPXG2E",
+        "b": "66. Integral de raíz cuadrada de función exponencial en el denominador",
+        "h": "20151119080916",
+        "l": 268
+    },
+    {
+        "i": 496,
+        "j": "mg-teRdUqOE",
+        "b": "25. Integral completando cuadrados y sustitución trigonométrica",
+        "h": "20210729161106",
+        "l": 452
+    },
+    {
+        "i": 25,
+        "j": "mIkyz11y2nY",
+        "b": "Integral de binomio al cuadrado con raíces, entre raíz de x",
+        "h": "20160918204634",
+        "l": 572
+    },
+    {
+        "i": 341,
+        "j": "MKczK90FDNI",
+        "b": "279. Integración mediante fracciones parciales (Funciones racionales)",
+        "h": "20170727010014",
+        "l": 972
+    },
+    {
+        "i": 380,
+        "j": "mq0HEMuvCy8",
+        "b": "313. Integrales binomias, método de Chebyshev, CASO 1",
+        "h": "20171116183655",
+        "l": 797
+    },
+    {
+        "i": 0,
+        "j": "msDiFIjvHks",
+        "b": "Formulario de Integrales (PDF, descarga gratis)",
+        "h": "20160328193214",
+        "l": 119
+    },
+    {
+        "i": 270,
+        "j": "mu3cxk-rWy0",
+        "b": "215. Integral de dx entre x por raíz cuadrada de 25-16x^2 SUSTITUCION TRIGONOMETRICA TANGENTE",
+        "h": "20170119230652",
+        "l": 793
+    },
+    {
+        "i": 321,
+        "j": "mUKcH_qk4Mk",
+        "b": "262. Integral de trinomio elevado al cuadrado en el denominador, sustitución trigonométrica",
+        "h": "20170413060934",
+        "l": 849
+    },
+    {
+        "i": 376,
+        "j": "MWWMMvXJVYs",
+        "b": "309. Método Alemán para integrales de funciones irracionales",
+        "h": "20171021003015",
+        "l": 581
+    },
+    {
+        "i": 392,
+        "j": "MxdnJV9qtYI",
+        "b": "Integral de 2 sen 2x sec x, usando identidades trigonométricas",
+        "h": "20161023201314",
+        "l": 160
+    },
+    {
+        "i": 59,
+        "j": "n_qqtMcM6Bk",
+        "b": "37. Integral de una raíz cuadrada en el denominador (exponente fraccionario negativo)",
+        "h": "20151020053038",
+        "l": 380
+    },
+    {
+        "i": 141,
+        "j": "N-Tmfcxfz3s",
+        "b": "91. Integral de funciones trigonométricas, usando identidad de coseno secante",
+        "h": "20151124064406",
+        "l": 267
+    },
+    {
+        "i": 541,
+        "j": "n1XZz5xvauk",
+        "b": "06. Integral definida de una potencia, cambio de variable, cambio en límites de integración",
+        "h": "20210729161135",
+        "l": 375
+    },
+    {
+        "i": 194,
+        "j": "N83GW6xSZes",
+        "b": "139. Integral de seno al cubo de una fracción (trigonométrica, exponente impar, EJERCICIO RESUELTO)",
+        "h": "20161115222741",
+        "l": 471
+    },
+    {
+        "i": 112,
+        "j": "NB3A0Km0tTw",
+        "b": "67. Integral de raíz cúbica de una función exponencial en el denominador",
+        "h": "20151119080922",
+        "l": 246
+    },
+    {
+        "i": 220,
+        "j": "nbPhHeXKgWU",
+        "b": "165. Integral de secante a la quinta (Integración por partes). TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161221215136",
+        "l": 480
+    },
+    {
+        "i": 120,
+        "j": "nCDQq1HGzIo",
+        "b": "73. Integral de binomio al cuadrado con exponenciales",
+        "h": "20151122062817",
+        "l": 298
+    },
+    {
+        "i": 181,
+        "j": "NcdQvAkky1I",
+        "b": "126. Integral de exponencial por seno (Fórmula general, integral cíclica, ejemplo resuelto)",
+        "h": "20160904073512",
+        "l": 884
+    },
+    {
+        "i": 520,
+        "j": "Nd1XT9m3znc",
+        "b": "41. Método de la doble integral para integrales impropias",
+        "h": "20210729161106",
+        "l": 708
+    },
+    {
+        "i": 568,
+        "j": "nFPHjtlj8h0",
+        "b": "Integral por el método de serie de potencias",
+        "h": "20210729161135",
+        "l": 548
+    },
+    {
+        "i": 377,
+        "j": "NHn1AoEhhco",
+        "b": "310. Integral mediante cambio de variable y método Alemán",
+        "h": "20171021170013",
+        "l": 1091
+    },
+    {
+        "i": 132,
+        "j": "nizVhtJdyyo",
+        "b": "83. Integral de multiplicación de exponenciales de diferente exponente",
+        "h": "20151124064250",
+        "l": 288
+    },
+    {
+        "i": 426,
+        "j": "nk0UwvbffdQ",
+        "b": "322. Integrales racionales trigonométricas, sustitución Universal o Weierstrass",
+        "h": "20180122200015",
+        "l": 1026
+    },
+    {
+        "i": 564,
+        "j": "Ns-C4-KRbfc",
+        "b": "Integral definida con raíz cuadrada de 4 - x^2 EJERCICIO RESUELTO",
+        "h": "20210729161135",
+        "l": 270
+    },
+    {
+        "i": 176,
+        "j": "ntH3pKXxsqM",
+        "b": "121. Integración por partes, x por tangente inversa (Ejemplo resuelto)",
+        "h": "20160614054347",
+        "l": 389
+    },
+    {
+        "i": 591,
+        "j": "nVbSdjeiSuM",
+        "b": "Integral de division de exponenciales, CAMBIO DE VARIABLE y Fracciones Parciales",
+        "h": "20230803043313",
+        "l": 337
+    },
+    {
+        "i": 339,
+        "j": "NvPjCPQO_Tw",
+        "b": "277. Integral mediante fracciones parciales, con factor cuadrático irreducible",
+        "h": "20170726190143",
+        "l": 495
+    },
+    {
+        "i": 360,
+        "j": "Ny1rITLTaJI",
+        "b": "298. Integral mediante cambio de variable, con raíz cuadrada",
+        "h": "20171018174031",
+        "l": 375
+    },
+    {
+        "i": 400,
+        "j": "NZeq0caDugY",
+        "b": "Integral de dx entre 1 + sen x (Trigonométrica, multiplicando por conjugado)",
+        "h": "20160705040401",
+        "l": 439
+    },
+    {
+        "i": 366,
+        "j": "nzU993S9ujk",
+        "b": "303. Integral con suma de raíz cuadrada, cúbica y cuarta en fracción",
+        "h": "20171019213011",
+        "l": 398
+    },
+    {
+        "i": 245,
+        "j": "o0jgSFDHTrI",
+        "b": "190. Integral de cotangente al cubo por cosecante quinta. TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20170105220812",
+        "l": 260
+    },
+    {
+        "i": 80,
+        "j": "O8AEgZ_i0WE",
+        "b": "49. Integral de función exponencial con exponentes",
+        "h": "20151104054708",
+        "l": 241
+    },
+    {
+        "i": 327,
+        "j": "oaCLsdpienE",
+        "b": "268. Integral mediante fracciones parciales: factor lineal repetido",
+        "h": "20170723231317",
+        "l": 596
+    },
+    {
+        "i": 254,
+        "j": "oBJOG81Zy6E",
+        "b": "199. Integral de cos 5x por cos 3x. TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20170106060134",
+        "l": 276
+    },
+    {
+        "i": 484,
+        "j": "ocRe54A55uI",
+        "b": "13. Integral impropia, truco de funciones PAR e IMPAR",
+        "h": "20210729161106",
+        "l": 1128
+    },
+    {
+        "i": 139,
+        "j": "ohdnJngL5FI",
+        "b": "89. Integral de funciones trigonométricas (1 menos cotangente por cosecante)",
+        "h": "20151015004224",
+        "l": 160
+    },
+    {
+        "i": 550,
+        "j": "oIdYYk0uTMI",
+        "b": "15. Integral definida trigonométrica, usando identidades trigonométricas",
+        "h": "20210729161135",
+        "l": 368
+    },
+    {
+        "i": 116,
+        "j": "olF3eymbv_U",
+        "b": "70. Integral de un producto de funciones exponenciales (suma de exponentes)",
+        "h": "20151119080926",
+        "l": 141
+    },
+    {
+        "i": 145,
+        "j": "olxI7a3_w1M",
+        "b": "95. Integral de secante por tangente, completando derivada",
+        "h": "20151124064550",
+        "l": 164
+    },
+    {
+        "i": 521,
+        "j": "Om0VHuG8lco",
+        "b": "42. Integral de exponenciales haciendo doble integración",
+        "h": "20210729161106",
+        "l": 732
+    },
+    {
+        "i": 530,
+        "j": "ONHcvRd7iz0",
+        "b": "Integral impropia por transformada de Fourier",
+        "h": "20210729161106",
+        "l": 251
+    },
+    {
+        "i": 292,
+        "j": "ONhjl6F45EA",
+        "b": "235. Integral de x dx entre x^4 - 16, aplicando fórmula",
+        "h": "20170405195928",
+        "l": 174
+    },
+    {
+        "i": 581,
+        "j": "OOgGcNvGUPU",
+        "b": "20. Integral doble (Iterada), CAMBIANDO EL ORDEN de integración (Región General)",
+        "h": "20220406184503",
+        "l": 843
+    },
+    {
+        "i": 250,
+        "j": "OqDD8FbzoP8",
+        "b": "195. Integral de sen 2x por sen x. TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20170106002918",
+        "l": 253
+    },
+    {
+        "i": 322,
+        "j": "oqT9T21QZeI",
+        "b": "263. Integral de x^2 entre raíz cuadrada de 2x - x^2, sustitución trigonométrica",
+        "h": "20170413070204",
+        "l": 883
+    },
+    {
+        "i": 330,
+        "j": "Or0EWnRhICE",
+        "b": "Integral mediante fracciones parciales (dx entre polinomio de tercer grado, factorizando)",
+        "h": "20160923053102",
+        "l": 789
+    },
+    {
+        "i": 587,
+        "j": "Ov9kpGAjMUI",
+        "b": "Valor PROMEDIO de una FUNCIÓN de DOS VARIABLES (Integral Doble)",
+        "h": "20220411215649",
+        "l": 305
+    },
+    {
+        "i": 114,
+        "j": "oZz_2XpypFo",
+        "b": "Integral de una multiplicación con exponenciales",
+        "h": "20160915191903",
+        "l": 151
+    },
+    {
+        "i": 490,
+        "j": "p2-i6B7wPbg",
+        "b": "19. Integral de logaritmo de seno y coseno",
+        "h": "20210729161106",
+        "l": 602
+    },
+    {
+        "i": 391,
+        "j": "p4kHACPrZww",
+        "b": "Integrales trigonométricas, usando cambio de variable",
+        "h": "20171120164105",
+        "l": 220
+    },
+    {
+        "i": 272,
+        "j": "p4r477cYSuA",
+        "b": "Integral por sustitución trigonométrica, binomio al cuadrado en denominador",
+        "h": "20170801051606",
+        "l": 581
+    },
+    {
+        "i": 404,
+        "j": "pc2h6b0Hk10",
+        "b": "Integral de x + sen x entre 1 + cos x",
+        "h": "20160901232158",
+        "l": 337
+    },
+    {
+        "i": 427,
+        "j": "PEhgn3DwS54",
+        "b": "323. Integrales racionales de seno y coseno, segunda sustitución Universal",
+        "h": "20180123200013",
+        "l": 563
+    },
+    {
+        "i": 600,
+        "j": "pFFHb0Wu2ko",
+        "b": "Integral Seno y Coseno con exponente Fraccionario ¿Cómo se resuelve?",
+        "h": "20240503232339",
+        "l": 302
+    },
+    {
+        "i": 382,
+        "j": "PHNEwt6iKWY",
+        "b": "315. Integrales binomias, método de Chebyshev, CASO 2",
+        "h": "20171116233013",
+        "l": 588
+    },
+    {
+        "i": 435,
+        "j": "pHt9tRY4oR8",
+        "b": "330. Integral por método de Euler, CASO 3",
+        "h": "20180307062302",
+        "l": 1059
+    },
+    {
+        "i": 419,
+        "j": "pJ28FffAdHg",
+        "b": "Integral con logaritmo natural al cuadrado y al cubo y raíz cuadrada",
+        "h": "20160925202222",
+        "l": 199
+    },
+    {
+        "i": 524,
+        "j": "pkdSyvyZHLg",
+        "b": "45. Integral usando truco de Feynman (derivada bajo signo integral)",
+        "h": "20210729161106",
+        "l": 575
+    },
+    {
+        "i": 246,
+        "j": "PkjUZf5eHHg",
+        "b": "191. Integral de cotangente quinta por cosecante al cubo. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170105224817",
+        "l": 359
+    },
+    {
+        "i": 567,
+        "j": "PoXLdVOn0q0",
+        "b": "07. Integral resuelta mediante truco de cambio de variable",
+        "h": "20210729161135",
+        "l": 571
+    },
+    {
+        "i": 399,
+        "j": "ppaf9nS1D3A",
+        "b": "Integral de 1 + tangente cuadrada, entre raíz de tangente",
+        "h": "20160915195156",
+        "l": 334
+    },
+    {
+        "i": 559,
+        "j": "PpLUgDPZ3Ow",
+        "b": "Integral definida, división de polinomios. EJERCICIO RESUELTO",
+        "h": "20210729161135",
+        "l": 545
+    },
+    {
+        "i": 62,
+        "j": "PqNxg2smCIo",
+        "b": "Integral de x entre raíz cuadrada de suma de cuadrados, mediante cambio de variable",
+        "h": "20160918203944",
+        "l": 398
+    },
+    {
+        "i": 107,
+        "j": "pv2pedTG5_0",
+        "b": "62. Integral de función exponencial en el denominador de una fracción, completando la derivada",
+        "h": "20151116071556",
+        "l": 251
+    },
+    {
+        "i": 19,
+        "j": "Q3AzvIg7p1E",
+        "b": "Integral de dx entre x por raiz de x",
+        "h": "20160825175349",
+        "l": 322
+    },
+    {
+        "i": 180,
+        "j": "Q6kH3XDDFNg",
+        "b": "125. Integración por partes, exponencial por coseno (Integral cíclica, ejemplo resuelto)",
+        "h": "20160705204114",
+        "l": 671
+    },
+    {
+        "i": 277,
+        "j": "q7SsqiWQ3pg",
+        "b": "220. Integral por sustitución trigonométrica secante con raíz cuadrada (Demostración de fórmula)",
+        "h": "20160830061808",
+        "l": 883
+    },
+    {
+        "i": 1,
+        "j": "Q9Qo9wNWYpI",
+        "b": "01. Integral de una constante",
+        "h": "20150811215005",
+        "l": 272
+    },
+    {
+        "i": 230,
+        "j": "qbv5ClhEMBk",
+        "b": "175. Integrales trigonométricas de cotangentes por cosecantes, CASOS EXPLICADOS.",
+        "h": "20170104064138",
+        "l": 656
+    },
+    {
+        "i": 370,
+        "j": "QC1tOEu2pIU",
+        "b": "Integral con suma de exponenciales en el denominador (cambio de variable, fracciones parciales)",
+        "h": "20160923054659",
+        "l": 466
+    },
+    {
+        "i": 173,
+        "j": "qcbrE4xMJDE",
+        "b": "118. Integración por partes, x por coseno (Algebraica por trigonométrica) (Ejemplo resuelto)",
+        "h": "20160613072617",
+        "l": 189
+    },
+    {
+        "i": 563,
+        "j": "Qf0UZA42EHw",
+        "b": "Integral definida de x por seno cuadrado de 2x, integración por partes EJERCICIO RESUELTO",
+        "h": "20210729161135",
+        "l": 800
+    },
+    {
+        "i": 358,
+        "j": "QgoQVvn96yM",
+        "b": "296. Integración mediante cambio de variable (sustitución), raíz cuadrada denominador",
+        "h": "20171018000013",
+        "l": 398
+    },
+    {
+        "i": 352,
+        "j": "qiVP9HUJRTM",
+        "b": "290. Integral mediante cambio de variable (binomio a la quinta)",
+        "h": "20160203193503",
+        "l": 253
+    },
+    {
+        "i": 9,
+        "j": "qKG7Yt03djE",
+        "b": "09. Integral de una fracción con potencia de x en denominador",
+        "h": "20150811215005",
+        "l": 147
+    },
+    {
+        "i": 5,
+        "j": "qkIxT_SdpJw",
+        "b": "05. Integral de una constante (Pi al cuadrado)",
+        "h": "20150811215005",
+        "l": 192
+    },
+    {
+        "i": 422,
+        "j": "qlT16sgcs74",
+        "b": "318. Integrales racionales trigonométricas, sustitución universal, De dónde salen las fórmulas",
+        "h": "20180111220013",
+        "l": 821
+    },
+    {
+        "i": 470,
+        "j": "QLw2nJ1UyRo",
+        "b": "Integral de coseno de raíz cuadrada",
+        "h": "20200926190642",
+        "l": 312
+    },
+    {
+        "i": 482,
+        "j": "qMU_WG96Yxk",
+        "b": "11. Integral impropia de logaritmo natural",
+        "h": "20210729161106",
+        "l": 392
+    },
+    {
+        "i": 266,
+        "j": "qMV3J246Djw",
+        "b": "211. Integral de x^3 entre raíz de x^2+4. SUSTITUCION TRIGONOMETRICA TANGENTE",
+        "h": "20170117204302",
+        "l": 922
+    },
+    {
+        "i": 43,
+        "j": "QOkyfD4TYAA",
+        "b": "Integral de 1 entre x+3 por logaritmo natural de x+3 (cambio de variable)",
+        "h": "20161005072742",
+        "l": 179
+    },
+    {
+        "i": 12,
+        "j": "qQr-dtLpoq0",
+        "b": "12. Integral de raiz de 3 por equis cuadrada",
+        "h": "20150811215005",
+        "l": 109
+    },
+    {
+        "i": 186,
+        "j": "qR9lbGx2Vyo",
+        "b": "131. Integral por método Tabular (Método DI) (Truco para integración por partes, ejemplo resuelto)",
+        "h": "20160914000117",
+        "l": 235
+    },
+    {
+        "i": 313,
+        "j": "QuCGxhKfask",
+        "b": "255. Integral completando trinomio cuadrado perfecto, con exponente fraccionario (x^3/2)",
+        "h": "20151020203905",
+        "l": 573
+    },
+    {
+        "i": 533,
+        "j": "qwKqYAfpUJY",
+        "b": "Integral impropia mediante transformada de Fourier",
+        "h": "20210729161106",
+        "l": 859
+    },
+    {
+        "i": 238,
+        "j": "qXW_8gnxnQo",
+        "b": "183. Integral de cosecante a la sexta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170105062005",
+        "l": 383
+    },
+    {
+        "i": 381,
+        "j": "QZugXRsFHC0",
+        "b": "314. Integrales binomias, método de Chebyshev, CASO 2",
+        "h": "20171116210005",
+        "l": 701
+    },
+    {
+        "i": 423,
+        "j": "r-64B11GZj0",
+        "b": "319. Integrales racionales trigonométricas, sustitución Universal o Weierstrass",
+        "h": "20180116200246",
+        "l": 423
+    },
+    {
+        "i": 260,
+        "j": "r56m6RJexXc",
+        "b": "205. Integral de dx entre x raiz de 1 - x^2. SUSTITUCION TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20160110210408",
+        "l": 528
+    },
+    {
+        "i": 328,
+        "j": "r5d5567rlf0",
+        "b": "269. Integral mediante fracciones parciales, factor lineal repetido",
+        "h": "20170724000014",
+        "l": 565
+    },
+    {
+        "i": 406,
+        "j": "RaWVUxIHZx8",
+        "b": "Integral de logaritmo con raíz cuadrada, sustitución trigonométrica y por partes",
+        "h": "20160331234325",
+        "l": 668
+    },
+    {
+        "i": 183,
+        "j": "RB1toH4UgtM",
+        "b": "128. Integral por método Tabular (Método DI) (Truco para integración por partes, ejemplo resuelto)",
+        "h": "20160913221801",
+        "l": 308
+    },
+    {
+        "i": 241,
+        "j": "RbbsiFAWZ0M",
+        "b": "186. Integral de cosecante a la séptima, integral por partes. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170105081249",
+        "l": 527
+    },
+    {
+        "i": 509,
+        "j": "rC1pz6JeISc",
+        "b": "32. Integral resuelta por TRUCO DE FEYNMAN",
+        "h": "20210729161106",
+        "l": 890
+    },
+    {
+        "i": 17,
+        "j": "REMEFbOcHc4",
+        "b": "17. Integral de potencias negativas de x (Fracciones)",
+        "h": "20150811215005",
+        "l": 259
+    },
+    {
+        "i": 21,
+        "j": "ritUUnwL8k4",
+        "b": "19. Integral de una división de polinomio entre monomio",
+        "h": "20150811215005",
+        "l": 220
+    },
+    {
+        "i": 387,
+        "j": "RjpndRSSE8U",
+        "b": "Integral de seno sobre raíz cúbica de coseno (Funciones trigonométricas)",
+        "h": "20170626050527",
+        "l": 564
+    },
+    {
+        "i": 273,
+        "j": "RjZZi2mcSxc",
+        "b": "216. Integral por sustitución trigonométrica tipo tangente (Demostración de fórmula)",
+        "h": "20160827051754",
+        "l": 580
+    },
+    {
+        "i": 408,
+        "j": "Ro0O9RD-y0g",
+        "b": "Integral de logaritmo, secante por tangente, integración por partes",
+        "h": "20160331225026",
+        "l": 223
+    },
+    {
+        "i": 613,
+        "j": "RSEqqgPGAuI",
+        "b": "💎 ¿Se puede integrar esta función? - Seno sobre x",
+        "h": "20250826182545",
+        "l": 285
+    },
+    {
+        "i": 357,
+        "j": "rTSOTuHOm6k",
+        "b": "295. Integral de x entre raíz sexta, por cambio de variable",
+        "h": "20160401191921",
+        "l": 360
+    },
+    {
+        "i": 40,
+        "j": "RUCn0Ve5Qek",
+        "b": "28. Integral de función exponencial y trigonométricas (dv/v)",
+        "h": "20150815061913",
+        "l": 192
+    },
+    {
+        "i": 469,
+        "j": "RUoLwCwlPzY",
+        "b": "Integral con raíz cuadrada en el denominador",
+        "h": "20200925010020",
+        "l": 330
+    },
+    {
+        "i": 94,
+        "j": "RUVPgRs36YA",
+        "b": "Integral de una división de binomios, mediante un truco algebraico",
+        "h": "20160623193152",
+        "l": 280
+    },
+    {
+        "i": 221,
+        "j": "rvYzfgj8fu0",
+        "b": "166. Integral de secante a la 7. TRIGONOMETRICA, POR PARTES. EJERCICIO RESUELTO",
+        "h": "20161224214934",
+        "l": 591
+    },
+    {
+        "i": 68,
+        "j": "Rw8ney9uvxk",
+        "b": "41. Integral de una potencia en el denominador (exponente negativo)",
+        "h": "20151027060541",
+        "l": 290
+    },
+    {
+        "i": 129,
+        "j": "RXMzavcNeBA",
+        "b": "80. Integral de función exponencial de base 2",
+        "h": "20151122062841",
+        "l": 175
+    },
+    {
+        "i": 499,
+        "j": "ryyswaX4xbo",
+        "b": "28. Integral mediante regla de Leibniz (Truco favorito de Feynman)",
+        "h": "20210729161106",
+        "l": 514
+    },
+    {
+        "i": 203,
+        "j": "S5HLx_n6YtI",
+        "b": "148. Integral de seno al cubo de 4x por cos 4x (Completando derivada, v^n dv) EJERCICIO RESUELTO",
+        "h": "20161115195144",
+        "l": 261
+    },
+    {
+        "i": 28,
+        "j": "s5LH9U1iXmQ",
+        "b": "24. Integral de una división (cociente) entre polinomios",
+        "h": "20150814005333",
+        "l": 337
+    },
+    {
+        "i": 77,
+        "j": "s8L9BppSfFE",
+        "b": "46. Integral de logaritmo natural elevado a un exponente",
+        "h": "20151030053825",
+        "l": 253
+    },
+    {
+        "i": 557,
+        "j": "SaYmStZdWUw",
+        "b": "Área limitada por una curva y el eje X (Mediante integral definida)",
+        "h": "20210729161135",
+        "l": 550
+    },
+    {
+        "i": 88,
+        "j": "SCQ1A4tUPME",
+        "b": "Integral de dx entre x por logaritmo natural a la cuarta de x (ln con exponente en el denominador)",
+        "h": "20160602193605",
+        "l": 262
+    },
+    {
+        "i": 577,
+        "j": "SGMrojoE_x4",
+        "b": "Área determinada por curva en coordenadas polares",
+        "h": "20210729161135",
+        "l": 676
+    },
+    {
+        "i": 244,
+        "j": "sgUjSO6LU1Y",
+        "b": "189. Integral de cotangente por cosecante a la 7. TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20170105193942",
+        "l": 165
+    },
+    {
+        "i": 35,
+        "j": "sHOoHnMrOW4",
+        "b": "26. Integral de cotangente, y de fracción algebraica (dv/v)",
+        "h": "20150815061913",
+        "l": 292
+    },
+    {
+        "i": 311,
+        "j": "slafcLnIfFA",
+        "b": "253. Integral completando el trinomio cuadrado perfecto paso a paso, ejercicio resuelto",
+        "h": "20151020053038",
+        "l": 569
+    },
+    {
+        "i": 461,
+        "j": "SNwx0ZsbFRs",
+        "b": "Integral de división con coseno, sustitución de Weierstrass",
+        "h": "20200312094341",
+        "l": 659
+    },
+    {
+        "i": 379,
+        "j": "SOenKttvndw",
+        "b": "312. Integrales binomias, método de Chebyshev, EXPLICACIÓN COMPLETA",
+        "h": "20171106193712",
+        "l": 887
+    },
+    {
+        "i": 495,
+        "j": "SOVc03le6Ww",
+        "b": "24. Integral impropia con logaritmo y trigonométrica",
+        "h": "20210729161106",
+        "l": 416
+    },
+    {
+        "i": 374,
+        "j": "sOzeSPmlAnI",
+        "b": "307. Integral de función irracional mediante cambio de variable - SUSTITUCIÓN RECÍPROCA",
+        "h": "20171020174635",
+        "l": 766
+    },
+    {
+        "i": 99,
+        "j": "SQEHIGU-FrQ",
+        "b": "Integral de una división de polinomios (paso a paso)",
+        "h": "20160913221320",
+        "l": 466
+    },
+    {
+        "i": 570,
+        "j": "SqkEWtK93wY",
+        "b": "Integral de función a trozos",
+        "h": "20210729161135",
+        "l": 837
+    },
+    {
+        "i": 157,
+        "j": "SQTIJGom7NE",
+        "b": "107. Integración por partes, logaritmo natural al cubo EXPLICADA PASO A PASO MUY FÁCIL",
+        "h": "20160326180131",
+        "l": 247
+    },
+    {
+        "i": 500,
+        "j": "SsHcR-kMHUg",
+        "b": "29. Integral mediante Truco de Feynman (Regla de Leibniz)",
+        "h": "20210729161106",
+        "l": 396
+    },
+    {
+        "i": 249,
+        "j": "ssjg4Bk7BIQ",
+        "b": "194. Integral de sen 5x por sen 3x. TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20170105235442",
+        "l": 206
+    },
+    {
+        "i": 195,
+        "j": "StoOWMCuzD8",
+        "b": "140. Integral de seno a la quinta (Trigonométrica, seno, exponente impar, identidad)",
+        "h": "20170325012552",
+        "l": 377
+    },
+    {
+        "i": 31,
+        "j": "stToYKSN9-I",
+        "b": "25. Integral completando la derivada (forma du/u , dv/v)",
+        "h": "20150814005333",
+        "l": 552
+    },
+    {
+        "i": 293,
+        "j": "SUT6G4kI25o",
+        "b": "236. Integral de x dx entre raíz cuadrada de 9 - x^4, aplicando fórmula",
+        "h": "20170405202041",
+        "l": 186
+    },
+    {
+        "i": 565,
+        "j": "SYd6dKmvKIw",
+        "b": "06. Integral definida resuelta mediante truco de cambio de variable",
+        "h": "20210729161135",
+        "l": 782
+    },
+    {
+        "i": 342,
+        "j": "t-xJwYqS6ng",
+        "b": "280. Integración por fracciones parciales",
+        "h": "20170727192158",
+        "l": 695
+    },
+    {
+        "i": 615,
+        "j": "T08U4n7H8V4",
+        "b": "Estas integrales son bellas a su modo... ¿Puedes resolverlas? (Método de Series de Potencias)",
+        "h": "20250829000110",
+        "l": 1266
+    },
+    {
+        "i": 153,
+        "j": "t1yGn2PodMc",
+        "b": "103. Integración por partes, logaritmo natural (Ejemplo resuelto)",
+        "h": "20160127072432",
+        "l": 252
+    },
+    {
+        "i": 589,
+        "j": "t34-1X6sZrc",
+        "b": "Integrales: Fórmulas de Reducción para potencias de seno, coseno, tangente, secante, etc",
+        "h": "20230119172006",
+        "l": 1157
+    },
+    {
+        "i": 504,
+        "j": "T3R2sCOLkf0",
+        "b": "Integral de Dirichlet, demostración mediante transformada de Laplace",
+        "h": "20210729161106",
+        "l": 279
+    },
+    {
+        "i": 222,
+        "j": "T5aQN30Qj0w",
+        "b": "167. Integral de tangente a la sexta por secante a la cuarta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170103071214",
+        "l": 241
+    },
+    {
+        "i": 22,
+        "j": "t6ikNoew1v8",
+        "b": "Integral de binomio al cuadrado con raíz",
+        "h": "20160426193425",
+        "l": 365
+    },
+    {
+        "i": 201,
+        "j": "t8OtVkjmQU4",
+        "b": "146. Integral de seno cuadrado por coseno cuadrado (usando identidad pitagórica)",
+        "h": "20161023043948",
+        "l": 301
+    },
+    {
+        "i": 170,
+        "j": "t8sEUVf-xqU",
+        "b": "Integración por partes: integral de x entre coseno al cuadrado",
+        "h": "20170902172358",
+        "l": 209
+    },
+    {
+        "i": 85,
+        "j": "t8UzxBEKoCY",
+        "b": "54. Integral de raíz cuadrada de cotangente, completando derivada (trigonométrica)",
+        "h": "20151116071000",
+        "l": 377
+    },
+    {
+        "i": 159,
+        "j": "tAUdKETo9C4",
+        "b": "109. Integración por partes, regla LIATE, x^2 por logaritmo natural (Ejemplo resuelto)",
+        "h": "20160328182305",
+        "l": 278
+    },
+    {
+        "i": 485,
+        "j": "tcoFjb8GAdM",
+        "b": "14. Integrales impropias racionales resueltas muy fácilmente",
+        "h": "20210729161106",
+        "l": 201
+    },
+    {
+        "i": 428,
+        "j": "tCVAo1Ds6GE",
+        "b": "324. Integrales racionales de senos y cosenos (segunda sustitución de Weierstrass)",
+        "h": "20180130160020",
+        "l": 913
+    },
+    {
+        "i": 432,
+        "j": "tdXgzOm9SlI",
+        "b": "327. Integrales por Método de Euler, EXPLICACIÓN COMPLETA",
+        "h": "20180228210021",
+        "l": 1263
+    },
+    {
+        "i": 429,
+        "j": "tEk7zDxe5ng",
+        "b": "325. Integrales racionales de senos y cosenos (segunda sustitución Universal)",
+        "h": "20180201160014",
+        "l": 567
+    },
+    {
+        "i": 554,
+        "j": "thspT-w8B48",
+        "b": "Integral definida de x por suma de raíz cúbica y raíz cuarta",
+        "h": "20210729161135",
+        "l": 546
+    },
+    {
+        "i": 44,
+        "j": "Ti9Kq6KarFU",
+        "b": "Integral de x entre x^2+1, completando derivada (forma dv/v)",
+        "h": "20160406171625",
+        "l": 253
+    },
+    {
+        "i": 291,
+        "j": "tn1VafbO_JU",
+        "b": "234. Integral de dx entre x por raíz cuadrada de 4x^2 - 9, aplicando fórmula",
+        "h": "20170405195707",
+        "l": 238
+    },
+    {
+        "i": 445,
+        "j": "TNrjbfhKaFw",
+        "b": "Integral de secante cuarta, integral trigonométrica",
+        "h": "20190308070640",
+        "l": 375
+    },
+    {
+        "i": 527,
+        "j": "TOYIkTSlgJc",
+        "b": "Demostración de propiedad de integrales definidas especiales",
+        "h": "20210729161106",
+        "l": 380
+    },
+    {
+        "i": 531,
+        "j": "TQB5GRZ-3Ro",
+        "b": "Integral de Dirichlet, demostración usando Fourier",
+        "h": "20210729161106",
+        "l": 242
+    },
+    {
+        "i": 465,
+        "j": "TrB9h1mH7aE",
+        "b": "Integral con raíz cuadrada de exponencial",
+        "h": "20200518231845",
+        "l": 368
+    },
+    {
+        "i": 209,
+        "j": "ts6eQ4Jq-eA",
+        "b": "154. Integral de raíz cuadrada de seno, por coseno al cubo. TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20161215070125",
+        "l": 373
+    },
+    {
+        "i": 585,
+        "j": "TSgnUIPpVQk",
+        "b": "24. Integral DOBLE (Iterada) Cambiando EL ORDEN de INTEGRACIÓN",
+        "h": "20220407204151",
+        "l": 430
+    },
+    {
+        "i": 223,
+        "j": "tUEz3XOHn6g",
+        "b": "168. Integral de tangente cuadrada por secante a la sexta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170103081825",
+        "l": 449
+    },
+    {
+        "i": 264,
+        "j": "TUF6ETGQN5c",
+        "b": "209. Integral de raíz cuadrada de 4-x^2 entre x^2. SUSTITUCION TRIGONOMETRICA SENO",
+        "h": "20170117074814",
+        "l": 824
+    },
+    {
+        "i": 491,
+        "j": "tugINcHhT6I",
+        "b": "20. Integrales impropias de logaritmo natural",
+        "h": "20210729161106",
+        "l": 384
+    },
+    {
+        "i": 534,
+        "j": "tV-WBwvJOc0",
+        "b": "Integral impropia mediante transformada de Fourier",
+        "h": "20210729161106",
+        "l": 1045
+    },
+    {
+        "i": 481,
+        "j": "tVM8jwTPzTE",
+        "b": "10. Integral impropia, sustitución trigonométrica",
+        "h": "20210729161106",
+        "l": 483
+    },
+    {
+        "i": 289,
+        "j": "u7wWknhDEM8",
+        "b": "232. Integral de raíz cuadrada de 148 - x^2",
+        "h": "20160925212334",
+        "l": 185
+    },
+    {
+        "i": 573,
+        "j": "ucBsHDTpICs",
+        "b": "Integrales de funciones impares, demostración de propiedad",
+        "h": "20210729161135",
+        "l": 641
+    },
+    {
+        "i": 78,
+        "j": "ucKGMxKzBaw",
+        "b": "47. Integral de una división de funciones trigonométricas (seno, coseno)",
+        "h": "20151104054707",
+        "l": 209
+    },
+    {
+        "i": 133,
+        "j": "ucoiT17dQWI",
+        "b": "84. Integral de división de funciones exponenciales",
+        "h": "20151124064314",
+        "l": 362
+    },
+    {
+        "i": 2,
+        "j": "UEo5GnLCdZw",
+        "b": "02. Integral de una constante",
+        "h": "20150811215005",
+        "l": 96
+    },
+    {
+        "i": 312,
+        "j": "uGSQifoBDx8",
+        "b": "254. Integral de raíz cuadrada de polinomio, completando trinomio cuadrado perfecto",
+        "h": "20160925224705",
+        "l": 648
+    },
+    {
+        "i": 217,
+        "j": "uiXcga1coFk",
+        "b": "162. Integral de secante cuarta de x. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20160925200748",
+        "l": 344
+    },
+    {
+        "i": 265,
+        "j": "ULAErLdxUk0",
+        "b": "210. Integral de x^3 por raíz cuadrada de 1-x^2 SUSTITUCION TRIGONOMETRICA SENO",
+        "h": "20170117174046",
+        "l": 867
+    },
+    {
+        "i": 604,
+        "j": "upjRNUE7dV8",
+        "b": "💎 Integrales por Fórmulas de Reducción: Ejercicios Resueltos",
+        "h": "20241213182346",
+        "l": 458
+    },
+    {
+        "i": 283,
+        "j": "USgv72dRsZM",
+        "b": "226. Integral de dx entre x^2 + 9, aplicando fórmula",
+        "h": "20170405051830",
+        "l": 196
+    },
+    {
+        "i": 82,
+        "j": "UsQ0WpGTh08",
+        "b": "51. Integral de logaritmo natural al cuadrado en el denominador",
+        "h": "20151116070808",
+        "l": 290
+    },
+    {
+        "i": 519,
+        "j": "utv4oBchrSg",
+        "b": "40. Integral de producto seno por coseno, usando integral de Dirichlet",
+        "h": "20210729161106",
+        "l": 894
+    },
+    {
+        "i": 518,
+        "j": "uu4s3n5IRUo",
+        "b": "39. Integral usando truco de Feynman (Regla de Leibniz)",
+        "h": "20210729161106",
+        "l": 628
+    },
+    {
+        "i": 476,
+        "j": "uUSkwkEZRts",
+        "b": "05. Integral impropia de primera especie",
+        "h": "20210729161106",
+        "l": 348
+    },
+    {
+        "i": 294,
+        "j": "Uv6u2Qcq9Sc",
+        "b": "237. Integral de división con raíz cuadrada (formula de arc sen)",
+        "h": "20160412184859",
+        "l": 272
+    },
+    {
+        "i": 84,
+        "j": "uVC8Zcng2kw",
+        "b": "53. Integral trigonométrica del coseno de seno, completando la derivada",
+        "h": "20151116070938",
+        "l": 276
+    },
+    {
+        "i": 544,
+        "j": "UxtEBJiLVjc",
+        "b": "09. Integral definida con logaritmo y raíz cuadrada, cambio en límites de integración",
+        "h": "20210729161135",
+        "l": 339
+    },
+    {
+        "i": 213,
+        "j": "v1lv0y4jb8A",
+        "b": "158. Integral de tangente a la sexta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161215074632",
+        "l": 258
+    },
+    {
+        "i": 343,
+        "j": "V4HYLdaNPXo",
+        "b": "281. Integral mediante separación de fracciones simples, TRUCO SENCILLO",
+        "h": "20170727220013",
+        "l": 735
+    },
+    {
+        "i": 228,
+        "j": "vALm5eQzUCQ",
+        "b": "173. Integral de tangente cuadrada por secante al cubo. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170103191233",
+        "l": 293
+    },
+    {
+        "i": 33,
+        "j": "VheIGXQyzDw",
+        "b": "25V.2. Integral mediante método de cambio de variable (forma dv/v)",
+        "h": "20160927204404",
+        "l": 263
+    },
+    {
+        "i": 11,
+        "j": "vIET71_KLQE",
+        "b": "11. Integral de raíz cúbica de x (potencia fraccionaria)",
+        "h": "20150811215005",
+        "l": 138
+    },
+    {
+        "i": 152,
+        "j": "ViQVu8ogSvA",
+        "b": "102. Integración por partes: ¿De dónde sale la fórmula?",
+        "h": "20160127072833",
+        "l": 233
+    },
+    {
+        "i": 95,
+        "j": "vp_hgKJlXlQ",
+        "b": "Integral de 2x+3 entre x+2 realizando la división de polinomios paso a paso",
+        "h": "20160906203914",
+        "l": 313
+    },
+    {
+        "i": 502,
+        "j": "vp5imGQtIS0",
+        "b": "G2. Integral Gaussiana: Demostración usando funciones beta y gamma",
+        "h": "20210729161106",
+        "l": 649
+    },
+    {
+        "i": 87,
+        "j": "VQwV_o7acC0",
+        "b": "Integral de tangente entre coseno",
+        "h": "20160412182547",
+        "l": 83
+    },
+    {
+        "i": 38,
+        "j": "vrziHnv5Rqc",
+        "b": "27V. Integral de tangente de x, mediante cambio de variable",
+        "h": "20160928225908",
+        "l": 290
+    },
+    {
+        "i": 127,
+        "j": "vWQp00F9SQU",
+        "b": "Integral de producto de exponenciales de raíz cuadrada, entre raíz cuadrada",
+        "h": "20160907051022",
+        "l": 368
+    },
+    {
+        "i": 302,
+        "j": "VXFBAmuXLu4",
+        "b": "245. Integral completando trinomio cuadrado perfecto dentro de raíz cuadrada EJERCICIO RESUELTO",
+        "h": "20161129182816",
+        "l": 392
+    },
+    {
+        "i": 155,
+        "j": "vzBHyhBtHPI",
+        "b": "105. Integración por partes, logaritmo natural de x a la n (Ejemplo resuelto)",
+        "h": "20160127072429",
+        "l": 297
+    },
+    {
+        "i": 169,
+        "j": "wa8ZnlKKJJU",
+        "b": "Integral de seno de logaritmo natural, integración por partes",
+        "h": "20171104180013",
+        "l": 406
+    },
+    {
+        "i": 594,
+        "j": "WbDtNeirMuM",
+        "b": "Integral impropia: Logaritmo Natural CON GRÁFICA (Integración por partes)",
+        "h": "20230803221108",
+        "l": 350
+    },
+    {
+        "i": 189,
+        "j": "WcY8X21to68",
+        "b": "134. Integral de seno al cuadrado de x (con identidad trigonométrica)",
+        "h": "20161004071109",
+        "l": 287
+    },
+    {
+        "i": 317,
+        "j": "wEGYiSXmPpc",
+        "b": "259. Integral de polinomio entre raíz cuadrada, completando derivada y trinomio cuadrado perfecto",
+        "h": "20161129183618",
+        "l": 639
+    },
+    {
+        "i": 16,
+        "j": "wf6QlafSTEk",
+        "b": "16. Integral de un polinomio",
+        "h": "20150811215005",
+        "l": 149
+    },
+    {
+        "i": 156,
+        "j": "WGe6qY60dOk",
+        "b": "106. Integral del logaritmo natural al cuadrado (Por partes)",
+        "h": "20160127072432",
+        "l": 275
+    },
+    {
+        "i": 231,
+        "j": "wk-37CQwu4g",
+        "b": "176. Integral de cotangente al cuadrado. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170104065140",
+        "l": 153
+    },
+    {
+        "i": 128,
+        "j": "WKFQJgYT-Ik",
+        "b": "79. Integral de la exponencial de una trigonométrica inversa (arco tangente)",
+        "h": "20151122062837",
+        "l": 243
+    },
+    {
+        "i": 149,
+        "j": "wn00tCFNfZk",
+        "b": "99. Integral de cosecante por cotangente, con fracción, completando derivada",
+        "h": "20151124064705",
+        "l": 294
+    },
+    {
+        "i": 439,
+        "j": "wPs3891Zj4E",
+        "b": "Integral con raíz cuadrada y división",
+        "h": "20190131221822",
+        "l": 362
+    },
+    {
+        "i": 324,
+        "j": "WuSokpI-4RQ",
+        "b": "265. Integral mediante fracciones parciales: factores lineales distintos",
+        "h": "20170721230012",
+        "l": 485
+    },
+    {
+        "i": 240,
+        "j": "WXXquWwlMrA",
+        "b": "185. Integral de cosecante a la quinta, integral por partes. TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20170105073141",
+        "l": 526
+    },
+    {
+        "i": 394,
+        "j": "wXzZ82D8eh4",
+        "b": "Integral de tangente mas secante al cuadrado",
+        "h": "20161006055752",
+        "l": 459
+    },
+    {
+        "i": 367,
+        "j": "WYsAHZCyDgU",
+        "b": "304. Integral de logaritmo entre raíz cuadrada",
+        "h": "20171019233014",
+        "l": 348
+    },
+    {
+        "i": 234,
+        "j": "x8fR0SBtkKI",
+        "b": "179. Integral de cotangente al cubo. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170104081725",
+        "l": 316
+    },
+    {
+        "i": 566,
+        "j": "Xa8yxP4ZVpU",
+        "b": "08. Integral resuelta mediante truco de cambio de variable",
+        "h": "20210729161135",
+        "l": 433
+    },
+    {
+        "i": 320,
+        "j": "xcaxn-6hkEg",
+        "b": "Integral completando trinomio cuadrado perfecto (coeficiente raíz cuadrada)",
+        "h": "20160203224030",
+        "l": 347
+    },
+    {
+        "i": 263,
+        "j": "XG1Ron_Fp74",
+        "b": "208. Integral de dx entre x^2 por raíz cuadrada de x^2+25 SUSTITUCION TRIGONOMETRICA TIPO TANGENTE.",
+        "h": "20170117065104",
+        "l": 895
+    },
+    {
+        "i": 501,
+        "j": "XIdM2oxPttQ",
+        "b": "G1. Integral gaussiana: demostración de Laplace (Integral doble, impropia, cambio de variable)",
+        "h": "20210729161106",
+        "l": 891
+    },
+    {
+        "i": 225,
+        "j": "xIe_c1WI1xk",
+        "b": "170. Integral de tangente al cubo por secante a la quinta. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170103085011",
+        "l": 232
+    },
+    {
+        "i": 115,
+        "j": "xILllzTM2qw",
+        "b": "69. Integral de una división de exponenciales (cociente, resta de exponentes)",
+        "h": "20151119080923",
+        "l": 175
+    },
+    {
+        "i": 50,
+        "j": "xIwB2ZvOXO4",
+        "b": "30. Integrales de un polinomio elevado a exponente (binomio a la décima)",
+        "h": "20150815061913",
+        "l": 322
+    },
+    {
+        "i": 356,
+        "j": "Xj7_I25stME",
+        "b": "294. Integral de x^2 por raíz cuadrada de x-1 mediante cambio de variable",
+        "h": "20160927222851",
+        "l": 433
+    },
+    {
+        "i": 236,
+        "j": "xJgQGgI80sI",
+        "b": "181. Integral de cotangente a la séptima. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170104090901",
+        "l": 342
+    },
+    {
+        "i": 475,
+        "j": "xjQm1QG7rb4",
+        "b": "04. Integral impropia mediante integración por partes",
+        "h": "20210729161106",
+        "l": 673
+    },
+    {
+        "i": 41,
+        "j": "xJvnQ3sAr-g",
+        "b": "Integral de sen x entre 1 + cos x , completando derivada, forma dv/v",
+        "h": "20160901231847",
+        "l": 124
+    },
+    {
+        "i": 248,
+        "j": "xkg_OF836AQ",
+        "b": "193. Integral de cotangente cuadrada por cosecante cubica. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20170105235308",
+        "l": 282
+    },
+    {
+        "i": 385,
+        "j": "XkOgn4cxGzc",
+        "b": "Integral de coseno cuadrado de 2x. TRIGONOMETRICA. EJERCICIO RESUELTO.",
+        "h": "20161211082301",
+        "l": 193
+    },
+    {
+        "i": 373,
+        "j": "XmbCFBOQBGo",
+        "b": "306. Integral de función irracional (con radicales) - SUSTITUCIÓN RECÍPROCA",
+        "h": "20171020053849",
+        "l": 439
+    },
+    {
+        "i": 179,
+        "j": "xRAa_Jart48",
+        "b": "124. Integración por partes, exponencial por seno (Integral cíclica, ejemplo resuelto)",
+        "h": "20160705192952",
+        "l": 525
+    },
+    {
+        "i": 610,
+        "j": "XRMZ3uERq94",
+        "b": "💎 ¿Se puede integrar esta función? - Exponencial de 1/x",
+        "h": "20250826182533",
+        "l": 226
+    },
+    {
+        "i": 74,
+        "j": "XRO8483qtyc",
+        "b": "Integral de funciones trigonométricas coseno y raíz cuadrada tangente en el denominador",
+        "h": "20160917193911",
+        "l": 445
+    },
+    {
+        "i": 460,
+        "j": "XsFalcHAuUs",
+        "b": "Integral resuelta mediante simplificación e integración por partes",
+        "h": "20200227093557",
+        "l": 447
+    },
+    {
+        "i": 309,
+        "j": "xTj6xfstYWA",
+        "b": "251. Integral de dx entre raíz cuadrada de trinomio, completando TCP, x^2 negativa,",
+        "h": "20170408054547",
+        "l": 519
+    },
+    {
+        "i": 578,
+        "j": "xUNe6xqmH30",
+        "b": "Área determinada por las curvas, con integrales",
+        "h": "20210729161135",
+        "l": 997
+    },
+    {
+        "i": 297,
+        "j": "XXwKWfnJIkY",
+        "b": "240. Integral de e^x entre e^2x - 9, aplicando fórmula",
+        "h": "20170405204038",
+        "l": 142
+    },
+    {
+        "i": 316,
+        "j": "xZrLfrc6PV0",
+        "b": "258. Integral de división de polinomios, grado 1 entre segundo grado, TCP",
+        "h": "20170413053212",
+        "l": 617
+    },
+    {
+        "i": 56,
+        "j": "Y1fgXp9PVqM",
+        "b": "35. Integral de raíz cúbica de un polinomio (binomio)",
+        "h": "20151013061659",
+        "l": 405
+    },
+    {
+        "i": 69,
+        "j": "y7icTojLHAs",
+        "b": "42. Integral de una potencia en el denominador, con a, b, m, n (constantes)",
+        "h": "20151027060547",
+        "l": 377
+    },
+    {
+        "i": 340,
+        "j": "yaa5qu3E--U",
+        "b": "278. Integral mediante fracciones parciales, con factor cuadrático irreducible",
+        "h": "20170726220014",
+        "l": 571
+    },
+    {
+        "i": 411,
+        "j": "yAx4WnNVGfk",
+        "b": "Integral de arco tangente de raíz cuadrada de x, integración por partes",
+        "h": "20180110220017",
+        "l": 518
+    },
+    {
+        "i": 187,
+        "j": "yCCq2ixVq7o",
+        "b": "132. Integral por método Tabular (Método DI) (Truco para integración por partes, ejemplo resuelto)",
+        "h": "20160914001942",
+        "l": 269
+    },
+    {
+        "i": 10,
+        "j": "YfB21i2Wh1M",
+        "b": "10. Integral de raíz cuadrada de x",
+        "h": "20150811215005",
+        "l": 263
+    },
+    {
+        "i": 574,
+        "j": "Yhi71vSjDng",
+        "b": "Integral de producto infinito de cosenos",
+        "h": "20210729161135",
+        "l": 564
+    },
+    {
+        "i": 178,
+        "j": "yJvwRzKnI0o",
+        "b": "123. Integración por partes, seno inverso al cuadrado (trigonométrica inversa)(Ejemplo resuelto)",
+        "h": "20160705183940",
+        "l": 316
+    },
+    {
+        "i": 337,
+        "j": "ykCpTahN96Q",
+        "b": "275. Integral mediante fracciones parciales, factorización ax^2+bx+c",
+        "h": "20170726041211",
+        "l": 622
+    },
+    {
+        "i": 517,
+        "j": "yP8C4EIwI94",
+        "b": "38. La integral de Frullani, truco de Feynman (regla de Leibniz)",
+        "h": "20210729161106",
+        "l": 886
+    },
+    {
+        "i": 90,
+        "j": "ypf2NL1YSqc",
+        "b": "Integral de dx entre x por logaritmo natural de raíz cuadrada de x (Cambio de variable)",
+        "h": "20160925185204",
+        "l": 312
+    },
+    {
+        "i": 271,
+        "j": "yPQSrK-gmXU",
+        "b": "Integral mediante sustitución trigonométrica de tipo secante (Con triángulo)",
+        "h": "20160925202159",
+        "l": 751
+    },
+    {
+        "i": 108,
+        "j": "yPUdLFyLQT4",
+        "b": "63. Integral de función exponencial de una fracción",
+        "h": "20151119080910",
+        "l": 153
+    },
+    {
+        "i": 556,
+        "j": "YrlfJZzhuDc",
+        "b": "Integral definida de x por raíz cuadrada",
+        "h": "20210729161135",
+        "l": 543
+    },
+    {
+        "i": 73,
+        "j": "yRoX3vBmZ6c",
+        "b": "44. Integral de una función trigonométrica elevada a exponente (completando derivada)",
+        "h": "20151027060538",
+        "l": 364
+    },
+    {
+        "i": 239,
+        "j": "ySDYKtLBSOk",
+        "b": "184. Integral de cosecante al cubo, integral por partes. TRIGONOMETRICA. EJERCICIO RESUELTO",
+        "h": "20170105064656",
+        "l": 422
+    },
+    {
+        "i": 54,
+        "j": "yStsL2p45zQ",
+        "b": "33. Integral de raíz cuadrada de un polinomio (binomio)",
+        "h": "20151013061659",
+        "l": 358
+    },
+    {
+        "i": 71,
+        "j": "YwPE8uhoohc",
+        "b": "43. Integral de exponencial elevada a exponente (completando derivada)",
+        "h": "20151027060538",
+        "l": 449
+    },
+    {
+        "i": 300,
+        "j": "yxL_poyRJ_w",
+        "b": "243. Integral de dx entre 1+x por raíz cuadrada, cambio de variable, fórmula",
+        "h": "20170406172734",
+        "l": 199
+    },
+    {
+        "i": 575,
+        "j": "YZLReNrc6Eg",
+        "b": "Truco 5. ¿Qué es una integral indefinida?",
+        "h": "20210729161135",
+        "l": 854
+    },
+    {
+        "i": 569,
+        "j": "z-aYtb8_WJg",
+        "b": "Área entre dos curvas, usando integral definida",
+        "h": "20210729161135",
+        "l": 755
+    },
+    {
+        "i": 468,
+        "j": "Z-MHfZKIm9I",
+        "b": "Integrales de seno y coseno con logaritmo natural",
+        "h": "20200923150024",
+        "l": 554
+    },
+    {
+        "i": 210,
+        "j": "Z1EELvQER3o",
+        "b": "155. Integrales trigonométricas con secante y tangente explicadas por CASOS.",
+        "h": "20161215073212",
+        "l": 624
+    },
+    {
+        "i": 334,
+        "j": "Z9ADoXw9JK0",
+        "b": "272. Integral de división de polinomios",
+        "h": "20170724030010",
+        "l": 335
+    },
+    {
+        "i": 15,
+        "j": "ZDgXLxRyePY",
+        "b": "15. Integral de raíz cuadrada en el denominador (Exponente negativo y fraccionario)",
+        "h": "20150811215005",
+        "l": 209
+    },
+    {
+        "i": 105,
+        "j": "zDomwBf9dsw",
+        "b": "61. Integral de función exponencial, completando la derivada",
+        "h": "20151116071512",
+        "l": 173
+    },
+    {
+        "i": 401,
+        "j": "ZepYdR310Sk",
+        "b": "Integral de dx entre 1 + cos x , multiplicando por conjugado y aplicando identidades",
+        "h": "20160911224657",
+        "l": 478
+    },
+    {
+        "i": 123,
+        "j": "zjVEKYihX3U",
+        "b": "75. Integral de exponencial de función trigonométrica seno",
+        "h": "20151122062829",
+        "l": 156
+    },
+    {
+        "i": 278,
+        "j": "Znh9Z_IjdgQ",
+        "b": "221. Integral por sustitución trigonométrica seno con raíz cuadrada (Demostración de fórmula)",
+        "h": "20160901043512",
+        "l": 371
+    },
+    {
+        "i": 609,
+        "j": "ZNYCkMfkaJI",
+        "b": "💎 ¿Se puede integrar esta función? - 1 entre logaritmo natural",
+        "h": "20250826182529",
+        "l": 196
+    },
+    {
+        "i": 576,
+        "j": "zOp_kbPhtqs",
+        "b": "Teorema Fundamental del Cálculo, ejercicio resuelto",
+        "h": "20210729161135",
+        "l": 510
+    },
+    {
+        "i": 96,
+        "j": "ZQ8QGP8FTYw",
+        "b": "Integral de división de polinomios, x^2 + 1 entre x + 1",
+        "h": "20160927220339",
+        "l": 449
+    },
+    {
+        "i": 562,
+        "j": "ZSjzuFpBoCo",
+        "b": "Suma de Riemann, paso a paso, MUY FÁCIL",
+        "h": "20210729161135",
+        "l": 926
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "i": 2,
+        "j": "4AYHwqatiGQ",
+        "b": "Barra de menús",
+        "h": "20110902093945",
+        "l": 134
+    },
+    {
+        "i": 4,
+        "j": "CFuhnHYDm_w",
+        "b": "Barras de Herramientas en la Pantalla de SAP",
+        "h": "20110902093944",
+        "l": 113
+    },
+    {
+        "i": 10,
+        "j": "ciU_oxn4IF0",
+        "b": "Sesion -como se ponen las claves",
+        "h": "20111102175900",
+        "l": 67
+    },
+    {
+        "i": 12,
+        "j": "FSW4weDSb30",
+        "b": "Entra en el Sistema SAP por el SAPGUI",
+        "h": "20180302150857",
+        "l": 189
+    },
+    {
+        "i": 5,
+        "j": "l_EHZ0TkIMU",
+        "b": "La barra de estado de SAP",
+        "h": "20110902093944",
+        "l": 85
+    },
+    {
+        "i": 8,
+        "j": "mbxHFjkxBVQ",
+        "b": "Ayudas a la entrada de datos F1 y F4",
+        "h": "20110921113855",
+        "l": 389
+    },
+    {
+        "i": 0,
+        "j": "npLawoNBlAE",
+        "b": "Entra en el sistema SAP por SAP GUI.",
+        "h": "20110902093945",
+        "l": 74
+    },
+    {
+        "i": 3,
+        "j": "OhZgrWAGk5U",
+        "b": "Barra de estado",
+        "h": "20110914101846",
+        "l": 284
+    },
+    {
+        "i": 7,
+        "j": "ppxrm_9DzKc",
+        "b": "Transacción en SAP",
+        "h": "20110915133021",
+        "l": 386
+    },
+    {
+        "i": 6,
+        "j": "rzcAxuBCPSA",
+        "b": "sapgui   clave en desplegables y titulos largos en las ventanas de SAP",
+        "h": "20110902093945",
+        "l": 153
+    },
+    {
+        "i": 11,
+        "j": "uU5BxtbBV-Q",
+        "b": "Copia texto en SAP con CTRL+Y CTRL+C CTRL+V",
+        "h": "20180302120024",
+        "l": 102
+    },
+    {
+        "i": 9,
+        "j": "xawE1IURvHw",
+        "b": "Muestra las claves en desplegables",
+        "h": "20111028115109",
+        "l": 77
+    },
+    {
+        "i": 1,
+        "j": "xNF2IYblmQk",
+        "b": "SAP - Árbol de menús",
+        "h": "20110902093944",
+        "l": 156
+    }
+]

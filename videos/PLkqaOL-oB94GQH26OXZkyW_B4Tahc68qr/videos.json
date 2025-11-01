@@ -1,0 +1,121 @@
+[
+    {
+        "i": 5,
+        "j": "01lYwFLud1A",
+        "b": "06-Curso de zure fundamentals (AZ-900)-Crear una red virtual",
+        "h": "20230719172636",
+        "l": 717
+    },
+    {
+        "i": 2,
+        "j": "4zmP_yZ_Eh0",
+        "b": "03-Curso de Azure Fundamentasl (AZ-900)- Regiones y Zonas de disponibilidad",
+        "h": "20230719172056",
+        "l": 362
+    },
+    {
+        "i": 13,
+        "j": "9Vfv8EIsnPk",
+        "b": "14-Curso de Azure Fundamentas (AZ-900)-Crear un Host Pool",
+        "h": "20230719174748",
+        "l": 673
+    },
+    {
+        "i": 15,
+        "j": "egX_KzmCDjw",
+        "b": "16-Curso de Azure Fundamentals (AZ-900)-Multifactor y Passwordless",
+        "h": "20230719175033",
+        "l": 705
+    },
+    {
+        "i": 16,
+        "j": "Er4HUG75XoQ",
+        "b": "17-Curso de Azure fundamentals (AZ-900)-Resumen gastos en Azure",
+        "h": "20230719175208",
+        "l": 717
+    },
+    {
+        "i": 11,
+        "j": "h37iz6HzOew",
+        "b": "12-Curso de Azure fundamentlas (AZ-900)-Crear una instancia de contenedor",
+        "h": "20230719174421",
+        "l": 674
+    },
+    {
+        "i": 0,
+        "j": "JLPD-9Ph_74",
+        "b": "01-Curso Azure Fundamentals (AZ-900)- Introduccion al curso",
+        "h": "20230719165350",
+        "l": 147
+    },
+    {
+        "i": 14,
+        "j": "koCfnSSZ3rQ",
+        "b": "15-Curso de Azure Fundamentals (AZ900)-Blob Storage",
+        "h": "20230719174914",
+        "l": 610
+    },
+    {
+        "i": 12,
+        "j": "MPJEU3AFLGA",
+        "b": "13-Curso de Azure Fundamentals (AZ-900)-Introduccion  a las Container Apps",
+        "h": "20230719174545",
+        "l": 183
+    },
+    {
+        "i": 6,
+        "j": "OcK0PoNMCPI",
+        "b": "07-Curso de Azure Fundamentals (AZ-900)- Laboratorio VPN Crea la subred Gateway",
+        "h": "20230719173400",
+        "l": 138
+    },
+    {
+        "i": 10,
+        "j": "PVw_Uwa9SUM",
+        "b": "11-Curso de Azure Fundamentals (AZ-900)- Introducción a las Logic Apps",
+        "h": "20230719174026",
+        "l": 407
+    },
+    {
+        "i": 7,
+        "j": "UGRAloct1PI",
+        "b": "08-Curso de Azure Fundamentals (AZ-900)- Crear Vuna máquina virtual Parte 1",
+        "h": "20230719173534",
+        "l": 528
+    },
+    {
+        "i": 8,
+        "j": "uk7xds84TOI",
+        "b": "09-Curso de Azure Fundamentalas (AZ-900) -Crear maquinas virtuales  Windows",
+        "h": "20230719173710",
+        "l": 452
+    },
+    {
+        "i": 1,
+        "j": "vBLfGGsCVj4",
+        "b": "02-Curso de Azure Fundamentals (AZ-900)- Modelos de Servicio Cloud",
+        "h": "20230719171907",
+        "l": 376
+    },
+    {
+        "i": 4,
+        "j": "VtP1hEU9cg0",
+        "b": "05-Curso de Azure Fundamentals (AZ-900)-Recursos y grupos de recursos",
+        "h": "20230719172401",
+        "l": 364
+    },
+    {
+        "i": 9,
+        "j": "vz8IZwIf73c",
+        "b": "10-Curso de Azure Fundamentals (AZ-900)- Crear un conjunto de escalado (vmss)",
+        "h": "20230719173900",
+        "l": 727
+    },
+    {
+        "i": 3,
+        "j": "y-Cb_tYT9nQ",
+        "b": "04-Curso de Azure Fundamentals (AZ-900) -Motivos para seleccionar una region",
+        "h": "20230719172224",
+        "l": 364
+    }
+]

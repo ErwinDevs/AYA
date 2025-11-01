@@ -1,0 +1,359 @@
+[
+    {
+        "i": 35,
+        "j": "_ABUg7SYjmg",
+        "b": "[S3/L17] Astro: framework para webs orientadas a contenido - Zero JavaScript | ViewTransitions",
+        "h": "20241008231306",
+        "l": 306
+    },
+    {
+        "i": 33,
+        "j": "-jsP7e6Fksk",
+        "b": "[S3/L15] Astro: framework para webs orientadas a contenido - Metadatos | Image y descripción",
+        "h": "20241008231133",
+        "l": 299
+    },
+    {
+        "i": 7,
+        "j": "1Mt6t1R0VXE",
+        "b": "[S2/L03] Astro: framework para webs orientadas a contenido - Estructura de un proyecto",
+        "h": "20240812135621",
+        "l": 713
+    },
+    {
+        "i": 30,
+        "j": "3bKsUQHCrkI",
+        "b": "[S3/L12] Astro: framework para webs orientadas a contenido - Controles de la paginación",
+        "h": "20241002010503",
+        "l": 316
+    },
+    {
+        "i": 25,
+        "j": "6bOPekd5HTk",
+        "b": "[S3/L07] Astro: framework para webs orientadas a contenido - Props dinámicos",
+        "h": "20240917232744",
+        "l": 487
+    },
+    {
+        "i": 0,
+        "j": "7kaT6IP8lbo",
+        "b": "Astro: El framework para sitios web orientados al contenido - Video promocional",
+        "h": "20240812132832",
+        "l": 127
+    },
+    {
+        "i": 5,
+        "j": "80z7oMXRuMA",
+        "b": "[S2/L01] Astro: framework para webs orientadas a contenido - Presentación sobre Astro",
+        "h": "20240812134832",
+        "l": 705
+    },
+    {
+        "i": 40,
+        "j": "8uqkKCBDBdQ",
+        "b": "[S4/L04] Astro: framework para webs orientadas a contenido - Astro Icon",
+        "h": "20241022211447",
+        "l": 444
+    },
+    {
+        "i": 22,
+        "j": "Ana2ftSdmsI",
+        "b": "[S3/L04] Astro: framework para webs orientadas a contenido - PeticionesHTTP - tiempo de construcción",
+        "h": "20240910235136",
+        "l": 585
+    },
+    {
+        "i": 46,
+        "j": "b3PZ9h8FcVY",
+        "b": "[S4/L10] Astro: framework para webs orientadas a contenido - Directivas del lado del cliente",
+        "h": "20241105181108",
+        "l": 618
+    },
+    {
+        "i": 24,
+        "j": "BkXTL5QLB4I",
+        "b": "[S3/L06] Astro: framework para webs orientadas a contenido - Páginas dinámicas | Argumentos por URL",
+        "h": "20240917232656",
+        "l": 419
+    },
+    {
+        "i": 23,
+        "j": "bveonVdrq6g",
+        "b": "[S3/L05] Astro: framework para webs orientadas a contenido - Componentes y Props",
+        "h": "20240910235208",
+        "l": 572
+    },
+    {
+        "i": 28,
+        "j": "cCfEebU-bP8",
+        "b": "[S3/L10] Astro: framework para webs orientadas a contenido - ViewTransition + Name Transition",
+        "h": "20240924174011",
+        "l": 182
+    },
+    {
+        "i": 44,
+        "j": "cFJPV0m2Xyo",
+        "b": "[S4/L08] Astro: framework para webs orientadas a contenido - Indicador si existe en el LocalStorage",
+        "h": "20241029201046",
+        "l": 494
+    },
+    {
+        "i": 8,
+        "j": "CRfmZZw32oY",
+        "b": "[S2/L04] Astro: framework para webs orientadas a contenido - Sintaxis y funcionamiento de archivos",
+        "h": "20240812135852",
+        "l": 661
+    },
+    {
+        "i": 17,
+        "j": "d2vvK74t2uk",
+        "b": "[S2/L13] Astro: framework para webs orientadas a contenido - Despliegue a Netlify",
+        "h": "20240826215044",
+        "l": 166
+    },
+    {
+        "i": 20,
+        "j": "Era7kMYTs7Y",
+        "b": "[S3/L02] Astro: framework para webs orientadas a contenido - Inicio de proyecto | PokemonStatic",
+        "h": "20240903191042",
+        "l": 348
+    },
+    {
+        "i": 29,
+        "j": "es3GMGEx1X0",
+        "b": "[S3/L11] Astro: framework para webs orientadas a contenido - Paginación estática",
+        "h": "20240924174049",
+        "l": 620
+    },
+    {
+        "i": 50,
+        "j": "ex9sKJBllcg",
+        "b": "[S4/L14] Astro: framework para webs orientadas a contenido - View Transition | Desde Isla",
+        "h": "20241111222953",
+        "l": 190
+    },
+    {
+        "i": 41,
+        "j": "fPk44L2awiw",
+        "b": "[S4/L05] Astro: framework para webs orientadas a contenido - Client Side Scripting",
+        "h": "20241022211516",
+        "l": 492
+    },
+    {
+        "i": 9,
+        "j": "gPWKxVtIKlc",
+        "b": "[S2/L05] Astro: framework para webs orientadas a contenido - Tarea | Actualizar momento actual",
+        "h": "20240813172634",
+        "l": 331
+    },
+    {
+        "i": 3,
+        "j": "h8N8cpr1L1g",
+        "b": "[S1/L03] Astro: framework para webs orientadas a contenido - Instalaciones recomendadas",
+        "h": "20240812134015",
+        "l": 578
+    },
+    {
+        "i": 13,
+        "j": "hFoK556RWMI",
+        "b": "[S2/L09] Astro: framework para webs orientadas a contenido - Estilos por componente y globales",
+        "h": "20240821061432",
+        "l": 677
+    },
+    {
+        "i": 14,
+        "j": "IMOgZELXXNs",
+        "b": "[S2/L10] Astro: framework para webs orientadas a contenido - Página 404",
+        "h": "20240821061508",
+        "l": 360
+    },
+    {
+        "i": 32,
+        "j": "jex8xx8HiEU",
+        "b": "[S3/L14] Astro: framework para webs orientadas a contenido - TypeScript | Path Alias",
+        "h": "20241002010524",
+        "l": 282
+    },
+    {
+        "i": 2,
+        "j": "jY1fgB0pj3U",
+        "b": "[S1/L02] Astro: framework para webs orientadas a contenido - ¿Cómo funciona el curso?",
+        "h": "20240812133939",
+        "l": 255
+    },
+    {
+        "i": 15,
+        "j": "Kp7E7HUUgW8",
+        "b": "[S2/L11] Astro: framework para webs orientadas a contenido - View Transitions",
+        "h": "20240826214927",
+        "l": 304
+    },
+    {
+        "i": 10,
+        "j": "l4S7Fd53VUE",
+        "b": "[S2/L06] Astro: framework para webs orientadas a contenido - Navegación entre páginas",
+        "h": "20240813172728",
+        "l": 271
+    },
+    {
+        "i": 37,
+        "j": "lIfNSrpb4RE",
+        "b": "[S4/L01] Astro: framework para webs orientadas a contenido - Demostración de la sección 4",
+        "h": "20241015231001",
+        "l": 147
+    },
+    {
+        "i": 43,
+        "j": "LOb-uvUJMAg",
+        "b": "[S4/L07] Astro: framework para webs orientadas a contenido - LocalStorage",
+        "h": "20241029201015",
+        "l": 620
+    },
+    {
+        "i": 26,
+        "j": "m36WP4NDO-8",
+        "b": "[S3/L08] Astro: framework para webs orientadas a contenido - Crear 151 páginas estáticas",
+        "h": "20240917232819",
+        "l": 440
+    },
+    {
+        "i": 18,
+        "j": "mDHgauSsX18",
+        "b": "[S3/L00] Astro: framework para webs orientadas a contenido - Introducción y temas de la sección 3",
+        "h": "20240903190936",
+        "l": 170
+    },
+    {
+        "i": 11,
+        "j": "mn1-ROkVrO8",
+        "b": "[S2/L07] Astro: framework para webs orientadas a contenido - Reutilización de componentes",
+        "h": "20240813173850",
+        "l": 311
+    },
+    {
+        "i": 48,
+        "j": "mwedwdEjoI4",
+        "b": "[S4/L12] Astro: framework para webs orientadas a contenido - Mostrar listado de favoritos",
+        "h": "20241111222827",
+        "l": 472
+    },
+    {
+        "i": 36,
+        "j": "O8ToFntZ-M4",
+        "b": "[S4/L00] Astro: framework para webs orientadas a contenido - Introducción y temas de la sección 4",
+        "h": "20241015230931",
+        "l": 278
+    },
+    {
+        "i": 45,
+        "j": "OaqpEi3qDDA",
+        "b": "[S4/L09] Astro: framework para webs orientadas a contenido - Astro Islands | Integración con SolidJS",
+        "h": "20241105181033",
+        "l": 598
+    },
+    {
+        "i": 4,
+        "j": "okbu_7hIWgU",
+        "b": "[S2/L00] Astro: framework para webs orientadas a contenido - Introducción y temas de la sección 2",
+        "h": "20240812134604",
+        "l": 272
+    },
+    {
+        "i": 27,
+        "j": "OQNjjimj8xk",
+        "b": "[S3/L09] Astro: framework para webs orientadas a contenido - Estilo condicional",
+        "h": "20240924173940",
+        "l": 469
+    },
+    {
+        "i": 39,
+        "j": "P3k8OQmLKnM",
+        "b": "[S4/L03] Astro: framework para webs orientadas a contenido - Indicador de ruta activa",
+        "h": "20241022211416",
+        "l": 677
+    },
+    {
+        "i": 12,
+        "j": "pDK_psuq3OU",
+        "b": "[S2/L08] Astro: framework para webs orientadas a contenido - Layouts y Props",
+        "h": "20240821061401",
+        "l": 452
+    },
+    {
+        "i": 47,
+        "j": "pF8cxV73dW8",
+        "b": "[S4/L11] Astro: framework para webs orientadas a contenido - Props y Componentes hacia las islas",
+        "h": "20241105181145",
+        "l": 564
+    },
+    {
+        "i": 31,
+        "j": "phwe1c_Xn9M",
+        "b": "[S3/L13] Astro: framework para webs orientadas a contenido - Tarea | Páginas por ID",
+        "h": "20241002010515",
+        "l": 383
+    },
+    {
+        "i": 34,
+        "j": "pktUK5PBR4o",
+        "b": "[S3/L16] Astro: framework para webs orientadas a contenido - Desplegar sitio y confirmar metadatos",
+        "h": "20241008231220",
+        "l": 167
+    },
+    {
+        "i": 49,
+        "j": "pzFIEjUq04U",
+        "b": "[S4/L13] Astro: framework para webs orientadas a contenido - Mostrar y remover favoritos",
+        "h": "20241111222905",
+        "l": 627
+    },
+    {
+        "i": 6,
+        "j": "QsKO3jefkFY",
+        "b": "[S2/L02] Astro: framework para webs orientadas a contenido - Nuestro primer sitio en Astro",
+        "h": "20240812135309",
+        "l": 348
+    },
+    {
+        "i": 42,
+        "j": "qVewtTADw1Y",
+        "b": "[S4/L06] Astro: framework para webs orientadas a contenido - Ciclo de vida del View Transition",
+        "h": "20241029200946",
+        "l": 497
+    },
+    {
+        "i": 16,
+        "j": "REjMpGYT0Hs",
+        "b": "[S2/L12] Astro: framework para webs orientadas a contenido - Recapitulación",
+        "h": "20240826215011",
+        "l": 376
+    },
+    {
+        "i": 19,
+        "j": "ROSauHyiyvE",
+        "b": "[S3/L01] Astro: framework para webs orientadas a contenido - demostración",
+        "h": "20240903191009",
+        "l": 92
+    },
+    {
+        "i": 38,
+        "j": "v14xcvC5qG8",
+        "b": "[S4/L02] Astro: framework para webs orientadas a contenido - Continuación del proyecto",
+        "h": "20241015231029",
+        "l": 399
+    },
+    {
+        "i": 21,
+        "j": "wEQF6Rc0IaU",
+        "b": "[S3/L03] Astro: framework para webs orientadas a contenido - Crear estructura y layouts",
+        "h": "20240910235008",
+        "l": 239
+    },
+    {
+        "i": 1,
+        "j": "yrFarJg7CyA",
+        "b": "[S1/L01] Astro: framework para webs orientadas a contenido - Introducción",
+        "h": "20240812133618",
+        "l": 95
+    }
+]

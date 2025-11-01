@@ -1,0 +1,317 @@
+[
+    {
+        "i": 6,
+        "j": "_hJEMFnGYLA",
+        "b": "Bloque 1.6: Metodo de la Burbuja",
+        "h": "20130919115139",
+        "l": 287
+    },
+    {
+        "i": 44,
+        "j": "1VjpPFybdtk",
+        "b": "Bloque Final!",
+        "h": "20140213204945",
+        "l": 302
+    },
+    {
+        "i": 25,
+        "j": "3rGgQKhHdYA",
+        "b": "Bloque 5.3: Vectores con punteros y Ejemplo",
+        "h": "20131026200828",
+        "l": 1105
+    },
+    {
+        "i": 15,
+        "j": "40LhZxbBjPg",
+        "b": "Bloque 3.4: Bucles Anidados y Ejercicio Cronometro.",
+        "h": "20130925151737",
+        "l": 1095
+    },
+    {
+        "i": 20,
+        "j": "7aodZE1F8ic",
+        "b": "Bloque 4.2: Ejemplos Funciones",
+        "h": "20130930123353",
+        "l": 1097
+    },
+    {
+        "i": 3,
+        "j": "8aGZr2ksme8",
+        "b": "Bloque 1.3: Variables",
+        "h": "20130916173134",
+        "l": 614
+    },
+    {
+        "i": 21,
+        "j": "96Lk9lw9y5w",
+        "b": "Bloque 4.3: Funciones de tipo Void y Factorial de un Numero con Funciones",
+        "h": "20131007112054",
+        "l": 478
+    },
+    {
+        "i": 0,
+        "j": "9idgIGmQvAQ",
+        "b": "Bloque 1.1: ¿Como empezar a Programar?",
+        "h": "20130915170031",
+        "l": 414
+    },
+    {
+        "i": 18,
+        "j": "bRAthoxbVyA",
+        "b": "Bloque 3.7: Rutas de Escape y Calcular numeros Primos",
+        "h": "20130930110618",
+        "l": 988
+    },
+    {
+        "i": 10,
+        "j": "bWmhKg_wNqM",
+        "b": "Bloque 2.3: Estructuras if/else anidadas y Switch",
+        "h": "20130923164800",
+        "l": 861
+    },
+    {
+        "i": 11,
+        "j": "CMY1TAiaVzo",
+        "b": "Bloque 2.4: Condiciones Multiples y Ejercicio",
+        "h": "20130923184232",
+        "l": 897
+    },
+    {
+        "i": 7,
+        "j": "DYdJVn_k9i8",
+        "b": "Bloque 1.7: Errores Comunes",
+        "h": "20150217145740",
+        "l": 1281
+    },
+    {
+        "i": 1,
+        "j": "E2sXLUoChME",
+        "b": "Bloque 1.1.1: Dudas Comunes",
+        "h": "20170212121006",
+        "l": 549
+    },
+    {
+        "i": 17,
+        "j": "E5ye-XPNKRA",
+        "b": "Bloque 3.6: Ejercicios Fibonacci y Comprobar si un numero es Primo",
+        "h": "20130927144422",
+        "l": 1318
+    },
+    {
+        "i": 5,
+        "j": "eQf-VHhfla8",
+        "b": "Bloque 1.5: Ampliando conocimientos sobre Asignación y Operaciones basicas.",
+        "h": "20130917123703",
+        "l": 608
+    },
+    {
+        "i": 33,
+        "j": "f6aK9QL-fdA",
+        "b": "Bloque 6.5: Punteros a Estructuras y Funciones con Estructuras",
+        "h": "20131208162239",
+        "l": 867
+    },
+    {
+        "i": 32,
+        "j": "fFjmbymw2Ug",
+        "b": "Bloque 6.4: Estructuras de Estructuras y Ejemplo de Gestion de varias Bibliotecas",
+        "h": "20131207201944",
+        "l": 2173
+    },
+    {
+        "i": 42,
+        "j": "hC2lrn81eco",
+        "b": "Bloque 8.2: Ejemplo Leer de fichero y meter datos en Estructura.",
+        "h": "20131228090251",
+        "l": 1265
+    },
+    {
+        "i": 4,
+        "j": "j4ns43ehdfM",
+        "b": "Bloque 1.4: Macros, Asignación de valores y Operaciones.",
+        "h": "20130916182249",
+        "l": 407
+    },
+    {
+        "i": 36,
+        "j": "JRUSPLudJks",
+        "b": "Bloque 7.3: Calloc y Free con Vector Dinamico",
+        "h": "20131222164208",
+        "l": 828
+    },
+    {
+        "i": 22,
+        "j": "jxHeXMPcD_c",
+        "b": "Bloque 4.4: Punteros y Paso por Referencia.",
+        "h": "20131007173729",
+        "l": 696
+    },
+    {
+        "i": 40,
+        "j": "K1V0LzvM_34",
+        "b": "Bloque 7.7: Estructuras Dinamicas y Ejemplo Sistema de Batallas",
+        "h": "20131226154754",
+        "l": 1706
+    },
+    {
+        "i": 37,
+        "j": "lzWNugchrD4",
+        "b": "Bloque 7.4: Strings Dinamicos y Funcion exit",
+        "h": "20131223204951",
+        "l": 1298
+    },
+    {
+        "i": 9,
+        "j": "mcHYnUBr59g",
+        "b": "Bloque 2.2: Ejemplos Ver si numero es par y Hallar maximo de 3 numeros",
+        "h": "20130919151552",
+        "l": 720
+    },
+    {
+        "i": 28,
+        "j": "mheMlU_OO-k",
+        "b": "Bloque 5.6: Strings y Ejemplo Como Acceder a un Caracter dentro de String",
+        "h": "20131103193103",
+        "l": 746
+    },
+    {
+        "i": 8,
+        "j": "mn554EZ_K-k",
+        "b": "Bloque 2.1: Estructuras Selectivas",
+        "h": "20130917145839",
+        "l": 608
+    },
+    {
+        "i": 16,
+        "j": "mp78PCF601Y",
+        "b": "Bloque 3.5: Ejercicio calcular Factorial y Como depurar en Dev C++",
+        "h": "20130926110418",
+        "l": 928
+    },
+    {
+        "i": 27,
+        "j": "nB_TrgNrFUc",
+        "b": "Bloque 5.5: ¿Que son los Strings? y Como Compararlos",
+        "h": "20131103144450",
+        "l": 943
+    },
+    {
+        "i": 38,
+        "j": "nrJS1cXyEKM",
+        "b": "Bloque 7.5: Matrices Dinamicas",
+        "h": "20131224133706",
+        "l": 962
+    },
+    {
+        "i": 35,
+        "j": "oD3_oPsd224",
+        "b": "Bloque 7.2: Malloc y Realloc con Vector Dinamico",
+        "h": "20131221193445",
+        "l": 1383
+    },
+    {
+        "i": 43,
+        "j": "QEhglzIGU6I",
+        "b": "Bloque 8.3: Escribir en Fichero de Texto con fprintf",
+        "h": "20131229130037",
+        "l": 738
+    },
+    {
+        "i": 12,
+        "j": "QwM_A2OZlP8",
+        "b": "Bloque 3.1: Estructuras Iterativas While y For",
+        "h": "20130924141139",
+        "l": 651
+    },
+    {
+        "i": 26,
+        "j": "RCVNMRcefUk",
+        "b": "Bloque 5.4: ¿Que es una Matriz? y Ejemplos",
+        "h": "20131029192928",
+        "l": 1191
+    },
+    {
+        "i": 14,
+        "j": "rVrNpZWMVh8",
+        "b": "Bloque 3.3: Bucle Do While, Ejemplo y Ejercicio.",
+        "h": "20130925120307",
+        "l": 955
+    },
+    {
+        "i": 31,
+        "j": "rXqZ4iWx96M",
+        "b": "Bloque 6.3: Vectores de Estructuras y Ejemplo de Traductor Ingles/Español",
+        "h": "20131201160829",
+        "l": 1753
+    },
+    {
+        "i": 39,
+        "j": "sg8KBTTqAIA",
+        "b": "Bloque 7.6: Funciones y Memoria Dinamica",
+        "h": "20131224174541",
+        "l": 837
+    },
+    {
+        "i": 29,
+        "j": "sKCtFFf6v7A",
+        "b": "Bloque 6.1: ¿Que son las Estructuras?",
+        "h": "20131110194452",
+        "l": 933
+    },
+    {
+        "i": 23,
+        "j": "SnwmweCMUTA",
+        "b": "Bloque 5.1: ¿Que son los Arrays/Vectores? y Ejemplo.",
+        "h": "20131007183531",
+        "l": 509
+    },
+    {
+        "i": 34,
+        "j": "SueBkvvvfm8",
+        "b": "Bloque 7.1: ¿Que es la Memoria Dinamica?",
+        "h": "20131221154031",
+        "l": 1076
+    },
+    {
+        "i": 19,
+        "j": "Vc37jP4hE1s",
+        "b": "Bloque 4.1: ¿Que es una Funcion? y Ejemplos",
+        "h": "20130930110144",
+        "l": 1092
+    },
+    {
+        "i": 30,
+        "j": "W9KIZxC48to",
+        "b": "Bloque 6.2: Formulario con Estructuras",
+        "h": "20131116155452",
+        "l": 745
+    },
+    {
+        "i": 2,
+        "j": "wgiBStujBCw",
+        "b": "Bloque 1.2: Primer Hola Mundo",
+        "h": "20130915182759",
+        "l": 439
+    },
+    {
+        "i": 13,
+        "j": "Y0HzcxZVPqc",
+        "b": "Bloque 3.2: Ejercicio de For y While",
+        "h": "20130924235104",
+        "l": 1040
+    },
+    {
+        "i": 41,
+        "j": "yshWOYZf6CY",
+        "b": "Bloque 8.1: Lectura de Ficheros de Texto con fgetc y fgets",
+        "h": "20131227130529",
+        "l": 981
+    },
+    {
+        "i": 24,
+        "j": "ZsCJudL6SbU",
+        "b": "Bloque 5.2: Vectores con Funciones y Ejemplo",
+        "h": "20131013143501",
+        "l": 742
+    }
+]

@@ -1,0 +1,625 @@
+[
+    {
+        "i": 42,
+        "j": "_QNUIiuW2N0",
+        "b": "Arduino desde cero en Español - Capítulo 43 - Matriz LED 8x8 con MAX7219 y LedControl",
+        "h": "20181125162724",
+        "l": 1970
+    },
+    {
+        "i": 43,
+        "j": "1-ZyM0dGCY8",
+        "b": "Arduino desde cero en Español - Capítulo 44 - NANO modelos FT232RL y CH340G 💯con enlaces a drivers",
+        "h": "20181221235329",
+        "l": 846
+    },
+    {
+        "i": 72,
+        "j": "185hqXcI3Sw",
+        "b": "Arduino desde cero en Español - Capítulo 71 - Actualizar el IDE a la última versión estable (Legacy)",
+        "h": "20220121221931",
+        "l": 278
+    },
+    {
+        "i": 29,
+        "j": "2-nVV9S7leM",
+        "b": "Arduino desde cero en Español - Capítulo 30 - Paso a Paso (unipolar) 28BYJ-48 con Driver ULN2003",
+        "h": "20171126181342",
+        "l": 1913
+    },
+    {
+        "i": 6,
+        "j": "2tdsg_K-oQQ",
+        "b": "Arduino desde cero en Español - Capítulo 7 - Temperatura y Humedad ambiente con DHT22 o DHT11 🌡️",
+        "h": "20170323172239",
+        "l": 787
+    },
+    {
+        "i": 31,
+        "j": "4b5IsQhQDQE",
+        "b": "Arduino desde cero en Español - Capítulo 32 - PRO MINI y conversores USB-TTL (PL2303 CH340G CP2102)",
+        "h": "20180109214920",
+        "l": 1258
+    },
+    {
+        "i": 22,
+        "j": "5l-o8pl0Y_4",
+        "b": "Arduino desde cero en Español - Capítulo 23 - LM35 Sensor analógico de temperatura + LCD 1602A",
+        "h": "20170723180720",
+        "l": 1125
+    },
+    {
+        "i": 23,
+        "j": "5SmKOUHhmWk",
+        "b": "Arduino desde cero en Español - Capítulo 24 - Bluetooth HC-05 Introducción y comandos AT",
+        "h": "20170806192124",
+        "l": 1585
+    },
+    {
+        "i": 18,
+        "j": "63aitq3KTaI",
+        "b": "Arduino desde cero en Español - Capítulo 19 - L298N Controlador de Motores DC (y velocidad PWM)",
+        "h": "20170618191501",
+        "l": 1445
+    },
+    {
+        "i": 5,
+        "j": "6bPVZg17vKc",
+        "b": "Arduino desde cero en Español - Capítulo 6 - Servomotor (conexión, modelos, ajustes para uso óptimo)",
+        "h": "20170315195406",
+        "l": 1184
+    },
+    {
+        "i": 14,
+        "j": "8tZvNRE4rn8",
+        "b": "Arduino desde cero en Español - Capítulo 15 - Sensor de Orientación (por interruptor de mercurio)",
+        "h": "20170521175513",
+        "l": 969
+    },
+    {
+        "i": 76,
+        "j": "8wRO1sng-ag",
+        "b": "Arduino desde cero en Español - Capítulo 74 - Experimentos con IMU ✈️ de Nano RP2040 Connect",
+        "h": "20220805212425",
+        "l": 1458
+    },
+    {
+        "i": 33,
+        "j": "8Wry8lwgGtA",
+        "b": "Arduino desde cero en Español - Capítulo 34 - Termistor NTC 🌡️ como Sensor de Temperatura (100K)",
+        "h": "20180218174318",
+        "l": 1179
+    },
+    {
+        "i": 8,
+        "j": "9ligsi5Bgv8",
+        "b": "Arduino desde cero en Español - Capítulo 9 - Teclado Keypad 4x4 y simple control de acceso con clave",
+        "h": "20170409204020",
+        "l": 1722
+    },
+    {
+        "i": 55,
+        "j": "9o_3I7us1yM",
+        "b": "Arduino desde cero en Español - Capítulo 56 - Pro Micro (ATmega 32u4) Introducción, Drivers, HID",
+        "h": "20200411171741",
+        "l": 758
+    },
+    {
+        "i": 84,
+        "j": "9ODtwKHHco0",
+        "b": "Arduino desde cero en Español - Capítulo 79 - Motor Paso a Paso ⚙️y Potenciómetro ❗❗",
+        "h": "20240126182040",
+        "l": 948
+    },
+    {
+        "i": 66,
+        "j": "9QwIPa8Anng",
+        "b": "Arduino desde cero en Español - Capítulo 67 - MT3608 Conversor DC-DC elevador (Step-up / Boost)",
+        "h": "20210702210117",
+        "l": 460
+    },
+    {
+        "i": 49,
+        "j": "9SKD_p9sFcI",
+        "b": "Arduino desde cero en Español - Capítulo 50 - Alimentación para proyectos 🔌baterias, fuentes, ATX PC",
+        "h": "20190914163756",
+        "l": 999
+    },
+    {
+        "i": 88,
+        "j": "9t5tOp-_a8I",
+        "b": "Arduino desde cero en Español - Capítulo 83 - Maker Uno compatible con UNO R3 (con esquemático)",
+        "h": "20250529123902",
+        "l": 913
+    },
+    {
+        "i": 59,
+        "j": "AoFsWAJ-pE0",
+        "b": "Arduino desde cero en Español - Capítulo 60 - BH1750 Sensor de luz digital ☀️(luxómetro) por bus I2C",
+        "h": "20200815143510",
+        "l": 830
+    },
+    {
+        "i": 3,
+        "j": "ArvU6pEiQdA",
+        "b": "Arduino desde cero en Español - Capítulo 4 - PWM con LED y  Potenciómetro para Brillo/Intensidad",
+        "h": "20170302211154",
+        "l": 1296
+    },
+    {
+        "i": 80,
+        "j": "bnIYKacMBew",
+        "b": "MOSFET ¿aún no sabes cómo funciona?",
+        "h": "20221113184102",
+        "l": 29
+    },
+    {
+        "i": 41,
+        "j": "bT8oCrGA7Lg",
+        "b": "Arduino desde cero en Español - Capítulo 42 - ESP8266 Servidor Web 🌐 con LED y DHT11 (comandos AT)",
+        "h": "20181028230129",
+        "l": 2088
+    },
+    {
+        "i": 2,
+        "j": "BWhup75svIk",
+        "b": "Arduino desde cero en Español - Capítulo 3 - Entradas/Salidas digitales con Pulsador y LED",
+        "h": "20170223182131",
+        "l": 1321
+    },
+    {
+        "i": 71,
+        "j": "Cdb3Jgw6ZCY",
+        "b": "Interfaz Serie I2C ¿aún no sabes cómo funciona?",
+        "h": "20220107201659",
+        "l": 60
+    },
+    {
+        "i": 57,
+        "j": "CDt1Wlc5rHw",
+        "b": "Arduino desde cero en Español - Capítulo 58 - TM1637 módulo 4 dígitos y 7 segmentos con dos puntos",
+        "h": "20200620160136",
+        "l": 1305
+    },
+    {
+        "i": 46,
+        "j": "cnrV3xJf4po",
+        "b": "Arduino desde cero en Español - Capítulo 47 - OLED 128x64 I2C bicolor basado en SSD1306 por bus I2C",
+        "h": "20190421163259",
+        "l": 1641
+    },
+    {
+        "i": 13,
+        "j": "d3zcjfjqFxE",
+        "b": "Arduino desde cero en Español - Capítulo 14 - Sensor Crepuscular por fotoresistencia (LDR) 🔆",
+        "h": "20170514174430",
+        "l": 1195
+    },
+    {
+        "i": 26,
+        "j": "dtdwIfRPdwg",
+        "b": "Arduino desde cero en Español - Capítulo 27 - Sensor de línea KY-033 (seguidor/detector de línea)",
+        "h": "20170922163455",
+        "l": 1056
+    },
+    {
+        "i": 0,
+        "j": "eBVvD85Ml2c",
+        "b": "Arduino desde cero en Español - Capítulo 1 - Introducción Arduino e inicio del Curso",
+        "h": "20170216214908",
+        "l": 320
+    },
+    {
+        "i": 10,
+        "j": "eFoa88s6yZY",
+        "b": "Arduino desde cero en Español - Capítulo 11 - PIR Sensor de Movimiento Infrarrojo Pasivo HC-SR501",
+        "h": "20170423214659",
+        "l": 610
+    },
+    {
+        "i": 38,
+        "j": "ewgXDRlQe8c",
+        "b": "Arduino desde cero en Español - Capítulo 39 - EEPROM memoria incorporada No Volátil teoría/ práctica",
+        "h": "20180721171116",
+        "l": 1228
+    },
+    {
+        "i": 53,
+        "j": "F4ZKMscBlIQ",
+        "b": "Arduino desde cero en Español - Capítulo 54 - Pantalla TFT ILI9341 bus SPI (320 x 240) color",
+        "h": "20200208133850",
+        "l": 1707
+    },
+    {
+        "i": 21,
+        "j": "fnDHQ6YcxTs",
+        "b": "Arduino desde cero en Español - Capítulo 22 - Codificador rotatorio KY-040 (rotary encoder)",
+        "h": "20170714185543",
+        "l": 1697
+    },
+    {
+        "i": 69,
+        "j": "fQzSiAAOCLA",
+        "b": "TOP 3 preguntas (y respuestas) Curso Arduino desde cero en Español",
+        "h": "20210928205751",
+        "l": 59
+    },
+    {
+        "i": 78,
+        "j": "Ga68C61PsRc",
+        "b": "Arduino desde cero en Español - Capítulo 76 - IDE 2.0 🛠️ Descarga, Instalación y Completo análisis",
+        "h": "20221021181550",
+        "l": 1367
+    },
+    {
+        "i": 48,
+        "j": "Gc77CG5-TWo",
+        "b": "Arduino desde cero en Español - Capítulo 49 - Display 7 segmentos con MAX7219 (incluye esquemático)",
+        "h": "20190803141924",
+        "l": 2135
+    },
+    {
+        "i": 60,
+        "j": "GjEEzKfXfik",
+        "b": "Arduino desde cero en Español - Capítulo 61 - TCS3200 Sensor de color RGB automatización 🔴🟢🔵",
+        "h": "20200911182830",
+        "l": 1267
+    },
+    {
+        "i": 25,
+        "j": "gPmsGyOuowI",
+        "b": "Arduino desde cero en Español - Capítulo 26 - Receptor Infrarrojo KY-022 + LED RGB (lector códigos)",
+        "h": "20170905170645",
+        "l": 1613
+    },
+    {
+        "i": 1,
+        "j": "GUuWgk3dXd0",
+        "b": "Arduino desde cero en Español - Capítulo 2 - Primer programa e Instalación del IDE de Arduino",
+        "h": "20170219195941",
+        "l": 936
+    },
+    {
+        "i": 77,
+        "j": "HVejqGK0Q9M",
+        "b": "Arduino desde cero en Español - Capítulo 75 - Nano 33 BLE Sense Introducción y Bluetooth LE 📱",
+        "h": "20220923201851",
+        "l": 1704
+    },
+    {
+        "i": 9,
+        "j": "JEZiHQY-JPI",
+        "b": "Arduino desde cero en Español - Capítulo 10 - Módulo LCD 1602A con librería LiquidCrystal",
+        "h": "20170416182027",
+        "l": 1470
+    },
+    {
+        "i": 15,
+        "j": "JF9Ksi7Zb20",
+        "b": "Arduino desde cero en Español - Capítulo 16 - Sensor de Vibración KY-002 (y aplicaciones prácticas)",
+        "h": "20170528182640",
+        "l": 555
+    },
+    {
+        "i": 40,
+        "j": "kaU52mCMk6M",
+        "b": "Arduino desde cero en Español - Capítulo 41 - ESP8266 WiFi con Wemos D1 Mini (mediante comandos AT)",
+        "h": "20180923140507",
+        "l": 2165
+    },
+    {
+        "i": 30,
+        "j": "KbSUcuWQBJI",
+        "b": "Arduino desde cero en Español - Capítulo 31 - Librería Stepper con 28BYJ-48 ⚙️PAP unipolar y ULN2003",
+        "h": "20171217160404",
+        "l": 1279
+    },
+    {
+        "i": 82,
+        "j": "kI-jT-y1SKQ",
+        "b": "Arduino desde cero en Español - Capítulo 77 - Timer Interrupts ⏰ (Temporizadores)",
+        "h": "20230519195255",
+        "l": 917
+    },
+    {
+        "i": 24,
+        "j": "kSl8SUb5L9A",
+        "b": "Arduino desde cero en Español - Capítulo 25 - Bluetooth HC-05 📱App en teléfono Android + LEDs + PWM",
+        "h": "20170820205240",
+        "l": 1508
+    },
+    {
+        "i": 34,
+        "j": "kuLgPLrg-cY",
+        "b": "Arduino desde cero en Español - Capítulo 35 - LCD I2C adaptador e instalación de librería específica",
+        "h": "20180317193538",
+        "l": 1883
+    },
+    {
+        "i": 70,
+        "j": "LFqIA3ZvZE8",
+        "b": "Arduino desde cero en Español - Capítulo 70 - 74HC595 Registro de desplazamiento (Shift register)",
+        "h": "20211105220842",
+        "l": 1522
+    },
+    {
+        "i": 35,
+        "j": "LtZ_b2WVMrU",
+        "b": "Arduino desde cero en Español - Capítulo 36 - BMP280 Presión atmosférica, 🌡️Temperatura, Altitud",
+        "h": "20180408175442",
+        "l": 1525
+    },
+    {
+        "i": 39,
+        "j": "LvRfxGTUEpE",
+        "b": "Arduino desde cero en Español - Capítulo 40 - RFID RC522 kit lector, tarjeta, llavero 13.56 Mhz",
+        "h": "20180818173554",
+        "l": 1983
+    },
+    {
+        "i": 28,
+        "j": "MeTmdw-FTPA",
+        "b": "Arduino desde cero en Español - Capítulo 29 - Neopixel LED RGB 🔴🟠🟡🟢🔵🟣 inteligente WS2812 (y tiras)",
+        "h": "20171101163726",
+        "l": 1785
+    },
+    {
+        "i": 4,
+        "j": "mlw3APOUt8U",
+        "b": "Arduino desde cero en Español - Capítulo 5 - HC-SR04 Sensor Ultrasónico (y uso del Monitor Serial)",
+        "h": "20170308180645",
+        "l": 811
+    },
+    {
+        "i": 73,
+        "j": "MMV-5k_33CI",
+        "b": "Arduino desde cero en Español - Capítulo 72 - Introducción a IoT Cloud servicio gratuito en la nube",
+        "h": "20220218191333",
+        "l": 1497
+    },
+    {
+        "i": 56,
+        "j": "NmOefV36RY0",
+        "b": "Arduino desde cero en Español - Capítulo 57 - HID con Pro Micro (emulación teclado, mouse, joystick)",
+        "h": "20200523164939",
+        "l": 1748
+    },
+    {
+        "i": 36,
+        "j": "nNDqRpfEy40",
+        "b": "Arduino desde cero en Español - Capítulo 37 - Lector tarjeta MicroSD bus SPI (y data-logger  DHT11)",
+        "h": "20180513173640",
+        "l": 1940
+    },
+    {
+        "i": 79,
+        "j": "Nzfp0xi6dHU",
+        "b": "Arduino IDE 2.0 ¡lo cambia todo! #arduinoide",
+        "h": "20221023200854",
+        "l": 36
+    },
+    {
+        "i": 87,
+        "j": "oeTYGsPzymk",
+        "b": "Arduino desde cero en Español - Capítulo 82 - RPM de Ventiladores 3 y 4 cables por PWM",
+        "h": "20241122192340",
+        "l": 1184
+    },
+    {
+        "i": 19,
+        "j": "OfJ-nl7PwYA",
+        "b": "Arduino desde cero en Español - Capítulo 20 - Módulo L298N dos motores DC (Rover 2WD)",
+        "h": "20170625184201",
+        "l": 1128
+    },
+    {
+        "i": 16,
+        "j": "okvUaG2BRBo",
+        "b": "Arduino desde cero en Español - Capítulo 17 - Módulo Joystick analógico KY-023 🕹️",
+        "h": "20170604185326",
+        "l": 1406
+    },
+    {
+        "i": 52,
+        "j": "pHmM7-4NKJQ",
+        "b": "Arduino desde cero en Español - Capítulo 53 - Sensor de agua 💦 (water sensor) con esquemático",
+        "h": "20200110213805",
+        "l": 639
+    },
+    {
+        "i": 47,
+        "j": "Q31mkKY1iM8",
+        "b": "Arduino desde cero en Español - Capítulo 48 - Magnetómetro 3 ejes 🧭 Brújula digital QMC5883L bus I2C",
+        "h": "20190601151204",
+        "l": 1679
+    },
+    {
+        "i": 7,
+        "j": "Q5UkNPgN9Ow",
+        "b": "Arduino desde cero en Español - Capítulo 8 - Módulo Relé con optoacoplador (relay electromecánico)",
+        "h": "20170330193748",
+        "l": 1393
+    },
+    {
+        "i": 17,
+        "j": "Q6f3VA2Vsic",
+        "b": "Arduino desde cero en Español - Capítulo 18 - Sensor de Campo Magnético modelos KY (por efecto Hall)",
+        "h": "20170611212338",
+        "l": 1295
+    },
+    {
+        "i": 86,
+        "j": "qUhhRjHKW4s",
+        "b": "Arduino desde cero en Español - Capítulo 81 - Audio MP3 fácil con DFPlayer Mini y tarjeta MicroSD 🎶",
+        "h": "20240913231836",
+        "l": 1504
+    },
+    {
+        "i": 81,
+        "j": "RpnPtMSti24",
+        "b": "SSR ¿sabes qué es y cómo funciona?",
+        "h": "20221204184120",
+        "l": 31
+    },
+    {
+        "i": 45,
+        "j": "RUwiEMcYQ9Y",
+        "b": "Arduino desde cero en Español - Capítulo 46 - Enlace RF 433 Mhz (entre dos Arduinos) con RadioHead.h",
+        "h": "20190317150023",
+        "l": 2024
+    },
+    {
+        "i": 65,
+        "j": "Ry-Xo6vW8sk",
+        "b": "Arduino desde cero en Español - Capítulo 66 - DAC MCP4725 Conversor Digital a Analógico de 12 bits",
+        "h": "20210501014338",
+        "l": 1154
+    },
+    {
+        "i": 50,
+        "j": "S4hNuRQiDcU",
+        "b": "Arduino desde cero en Español - Capítulo 51 - Enlace RF 2.4 Ghz con NRF24L01 (dos Arduinos y DHT11)📡",
+        "h": "20191104212644",
+        "l": 2226
+    },
+    {
+        "i": 44,
+        "j": "SliUieh2eVc",
+        "b": "Arduino desde cero en Español - Capítulo 45 - MOSFET IRF520N ⚡ módulo Transistor de Potencia (y PWM)",
+        "h": "20190126162202",
+        "l": 1343
+    },
+    {
+        "i": 85,
+        "j": "tdFsSo5LVhg",
+        "b": "Arduino desde cero en Español - Capítulo 80 - Código sin bloqueo y Librería TimeAlarms ⏰",
+        "h": "20240412181109",
+        "l": 1408
+    },
+    {
+        "i": 63,
+        "j": "tpZtv54kOqE",
+        "b": "Arduino desde cero en Español - Capítulo 64 - LM2596 Conversor DC-DC reductor de Salida Variable",
+        "h": "20210205201201",
+        "l": 629
+    },
+    {
+        "i": 64,
+        "j": "TwFZ4BJUX5c",
+        "b": "Arduino desde cero en Español - Capítulo 65 - MPU6050 acelerómetro y giróscopo 🛪 Teoría y Práctica",
+        "h": "20210312203023",
+        "l": 2285
+    },
+    {
+        "i": 61,
+        "j": "tznNsm4ep8k",
+        "b": "Arduino desde cero en Español - Capítulo 62 - Fuente de Protoboard Arduino y electrónica MB102",
+        "h": "20201017003812",
+        "l": 624
+    },
+    {
+        "i": 32,
+        "j": "u0SG681s8aA",
+        "b": "Arduino desde cero en Español - Capítulo 33 - Paso a paso bipolar y A4988 controlador (driver)",
+        "h": "20180203170931",
+        "l": 1783
+    },
+    {
+        "i": 67,
+        "j": "uKxnvFNm8Hw",
+        "b": "Arduino desde cero en Español - Capítulo 68 - TTP223 Sensor Táctil Capacitivo 👆🏻Digital Touch sensor",
+        "h": "20210806223145",
+        "l": 1083
+    },
+    {
+        "i": 20,
+        "j": "up-goNfJ_EY",
+        "b": "Arduino desde cero en Español - Capítulo 21 - Interrupciones externas ✋ (pruebas con KY-010)",
+        "h": "20170702231242",
+        "l": 1576
+    },
+    {
+        "i": 54,
+        "j": "UQsixwoX5EQ",
+        "b": "Arduino desde cero en Español - Capítulo 55 - Buzzers activo y pasivo (zumbadores) 🔊 tonos, melodías",
+        "h": "20200314171158",
+        "l": 1085
+    },
+    {
+        "i": 58,
+        "j": "VZl9YEIYvu8",
+        "b": "Arduino desde cero en Español - Capítulo 59 - Ritmo cardíaco (pulso)💓con KY-039 por infrarrojo",
+        "h": "20200718153407",
+        "l": 805
+    },
+    {
+        "i": 12,
+        "j": "wfiSH0CkInE",
+        "b": "Arduino desde cero en Español - Capítulo 13 - Sensor de Sonido KY-038 y KY-037 (modo digital)",
+        "h": "20170507174931",
+        "l": 806
+    },
+    {
+        "i": 51,
+        "j": "x2UW3JODcYU",
+        "b": "Arduino desde cero en Español - Capítulo 52 - Relé (Relay) de Estado Sólido [con esquemático] ⚠️",
+        "h": "20191214135304",
+        "l": 945
+    },
+    {
+        "i": 68,
+        "j": "xanpqt74nxY",
+        "b": "Arduino desde cero en Español - Capítulo 69 - Nano RP2040 Connect ¡Mucha Conectividad y Sensores!",
+        "h": "20210903192333",
+        "l": 1343
+    },
+    {
+        "i": 27,
+        "j": "xBMReV63d0Q",
+        "b": "Arduino desde cero en Español - Capítulo 28 - Sensor de gas natural MQ-5 (y combustibles)",
+        "h": "20171010175014",
+        "l": 874
+    },
+    {
+        "i": 75,
+        "j": "XRjbsPYXn60",
+        "b": "Arduino desde cero en Español - Capítulo 73 - Arduino IoT Cloud y BME280🌡️💧💨",
+        "h": "20220610194106",
+        "l": 1077
+    },
+    {
+        "i": 11,
+        "j": "xX8_QvwOJ6I",
+        "b": "Arduino desde cero en Español - Capítulo 12 - LED RGB 🔴🟢🔵 módulos KY-016 KY-009 (ánodo/cátodo común)",
+        "h": "20170501005458",
+        "l": 1671
+    },
+    {
+        "i": 62,
+        "j": "YAjAyDLwAeA",
+        "b": "Arduino desde cero en Español - Capítulo 63 - Niveles lógicos y Niveladores de señal 5 - 3,3 V 🚨❗",
+        "h": "20201211230412",
+        "l": 816
+    },
+    {
+        "i": 83,
+        "j": "Z01gjTLE5eE",
+        "b": "Arduino desde cero en Español - Capítulo 78 - Balanza con Celda de Carga y HX711",
+        "h": "20230728173009",
+        "l": 936
+    },
+    {
+        "i": 37,
+        "j": "ZOMXEYuQwwY",
+        "b": "Arduino desde cero en Español - Capítulo 38 - Reloj de Tiempo Real (RTC) DS3231 bus I2C",
+        "h": "20180609212210",
+        "l": 1758
+    },
+    {
+        "i": 74,
+        "j": "zyDcgyD2epU",
+        "b": "Fácil SOLUCIÓN de problemas al usar Arduino IoT Cloud ☁️ casos típicos analizados",
+        "h": "20220422201240",
+        "l": 287
+    }
+]
