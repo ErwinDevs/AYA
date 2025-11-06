@@ -49,6 +49,13 @@
         "l": 1777
     },
     {
+        "i": 326,
+        "j": "04GzcqGPxNc",
+        "b": "Convertidor 4-20mA a 0-10V con 1 OPAMP",
+        "h": "20251026195324",
+        "l": 1125
+    },
+    {
         "i": 84,
         "j": "0Bp0QL9fmA4",
         "b": "Como funciona circuito temporizador con Transistor NPN. (Clase 44 curso electronica)",
@@ -1969,7 +1976,7 @@
     {
         "i": 115,
         "j": "v74e2LFSCGA",
-        "b": "Como funciona circuito amplificador de Instrumentacion y restador con OPAMP (Clase 69)",
+        "b": "Circuito restador + amplificador con OPAMP (Clase 69)",
         "h": "20191031191740",
         "l": 1092
     },

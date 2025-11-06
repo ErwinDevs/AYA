@@ -1,0 +1,499 @@
+[
+    {
+        "i": 18,
+        "j": "_CuPcC7IrZ8",
+        "b": "Curso de Oracle PLSQL en español desde cero |  TRIGGERS BEFORE UPDATE video(19)",
+        "h": "20210201221735",
+        "l": 363
+    },
+    {
+        "i": 38,
+        "j": "_p0Khs5NHXg",
+        "b": "Curso de Oracle PLSQL en español desde cero | COMO LLENAR ARRAYS CON TABLAS (PARTE2) , (video 39)",
+        "h": "20230324215247",
+        "l": 695
+    },
+    {
+        "i": 58,
+        "j": "-sriNhdK8N4",
+        "b": "Curso de Oracle PLSQL en español desde cero | INTRODUCCION A JSON (video 59)",
+        "h": "20230508155412",
+        "l": 538
+    },
+    {
+        "i": 36,
+        "j": "-Yb-63mr3AE",
+        "b": "Curso de Oracle PLSQL en español desde cero | COLECCIONES: ARRAYS ASOCIATIVOS, (video 37)",
+        "h": "20220730230534",
+        "l": 1101
+    },
+    {
+        "i": 28,
+        "j": "0KCT_INmbkI",
+        "b": "Curso de Oracle PLSQL en español desde cero |  REF CURSORS, video(29)",
+        "h": "20210403230527",
+        "l": 620
+    },
+    {
+        "i": 45,
+        "j": "0KYUUorD_cM",
+        "b": "Curso de Oracle PLSQL en español desde cero | EXCEPCIONES, SQLCODE Y SQLERRM (video 46)",
+        "h": "20230330210249",
+        "l": 639
+    },
+    {
+        "i": 43,
+        "j": "32IjDztHuQY",
+        "b": "Curso de Oracle PLSQL en español desde cero | EXCEPCIONES, PARTE 2 (video 44)",
+        "h": "20230328230705",
+        "l": 667
+    },
+    {
+        "i": 6,
+        "j": "3WKIgsNUBB0",
+        "b": "Curso de Oracle PLSQL en español desde cero | bucle WHILE video(7)",
+        "h": "20201208223815",
+        "l": 570
+    },
+    {
+        "i": 69,
+        "j": "4u71oNqb3pA",
+        "b": "Curso de Oracle PLSQL en español desde cero | JSON_TRANSFORM [ SET, INSERT ] (video 70)",
+        "h": "20230525140027",
+        "l": 591
+    },
+    {
+        "i": 51,
+        "j": "55FwXxsfbrM",
+        "b": "Curso de Oracle PLSQL en español desde cero | POO, METODOS ESTATICOS  (video 52)",
+        "h": "20230403223705",
+        "l": 724
+    },
+    {
+        "i": 47,
+        "j": "57eX5g-0JWE",
+        "b": "Curso de Oracle PLSQL en español desde cero | EXECPCIONES - RAISE_APPLICATION_ERROR (video 48)",
+        "h": "20230331152720",
+        "l": 473
+    },
+    {
+        "i": 67,
+        "j": "62Pmo33LF1I",
+        "b": "Curso de Oracle PLSQL en español desde cero | JSON_TABLE(video 68)",
+        "h": "20230517222725",
+        "l": 491
+    },
+    {
+        "i": 24,
+        "j": "7IJaEoyGzPM",
+        "b": "Curso de Oracle PLSQL en español desde cero | CURSORES,  video(25)",
+        "h": "20210326232624",
+        "l": 645
+    },
+    {
+        "i": 46,
+        "j": "8wR_iZ3Hh6k",
+        "b": "Curso de Oracle PLSQL en español desde cero | USAR EXCEPCIONES COMO CONDICIONALES (video 47)",
+        "h": "20230330221946",
+        "l": 559
+    },
+    {
+        "i": 25,
+        "j": "a90VnXWNta4",
+        "b": "Curso de Oracle PLSQL en español desde cero |  CURSORES EXPLICITOS,   video(26)",
+        "h": "20210330003414",
+        "l": 728
+    },
+    {
+        "i": 70,
+        "j": "acWqeQOD9dg",
+        "b": "Curso de Oracle PLSQL en español desde cero | ARCHIVOS JSON CON PLSQL] (video 71)",
+        "h": "20230526003857",
+        "l": 496
+    },
+    {
+        "i": 20,
+        "j": "aZ2I3jAgpC0",
+        "b": "Curso de Oracle PLSQL en español desde cero | TRIGGERS :NEW :OLD  video(21)",
+        "h": "20210318010500",
+        "l": 979
+    },
+    {
+        "i": 68,
+        "j": "cs_UnvMTGS0",
+        "b": "Curso de Oracle PLSQL en español desde cero | JSON_MERGEPATH, JSON_TRANSFORM (video 69)",
+        "h": "20230524231745",
+        "l": 721
+    },
+    {
+        "i": 17,
+        "j": "cxxxXU3gkDE",
+        "b": "Curso de Oracle PLSQL en español desde cero |  TRIGGERS BEFORE DELETE video(18)",
+        "h": "20210119220240",
+        "l": 306
+    },
+    {
+        "i": 10,
+        "j": "Df-QuB-LXo8",
+        "b": "Curso de Oracle PLSQL en español desde cero | PROCEDIMIENTOS ALMACENADOS video(11)",
+        "h": "20201215000601",
+        "l": 699
+    },
+    {
+        "i": 34,
+        "j": "DitQnY-oyQ8",
+        "b": "Curso de Oracle PLSQL en español desde cero | DEPENDENCIAS Y VALIDACION DE OBJETOS, (video 35)",
+        "h": "20211016154122",
+        "l": 1165
+    },
+    {
+        "i": 12,
+        "j": "ecctUgF7c44",
+        "b": "Curso de Oracle PLSQL en español desde cero | PROCEDIMIENTOS ALMACENADOS (VARIABLES) video(13)",
+        "h": "20201220220728",
+        "l": 440
+    },
+    {
+        "i": 5,
+        "j": "f0jAj5ZEBSk",
+        "b": "Curso completo de Oracle PLSQL en español desde cero | STRINGS (video 6)",
+        "h": "20201207010637",
+        "l": 1136
+    },
+    {
+        "i": 33,
+        "j": "fOf2tCxMq4g",
+        "b": "Curso de Oracle PLSQL en español desde cero  | JOBS [parte1] ,(video 34)",
+        "h": "20210725001942",
+        "l": 780
+    },
+    {
+        "i": 60,
+        "j": "g0LHG-doCD4",
+        "b": "Curso de Oracle PLSQL en español desde cero | JSON , CREACION DE ARCHIVO (video 61)",
+        "h": "20230508230344",
+        "l": 579
+    },
+    {
+        "i": 13,
+        "j": "g8XMGycOTJ0",
+        "b": "Curso de Oracle PLSQL en español desde cero | FUNCIONES PLSQL video(14)",
+        "h": "20201229004048",
+        "l": 607
+    },
+    {
+        "i": 14,
+        "j": "gDj5bRrpHgQ",
+        "b": "Curso de Oracle PLSQL en español desde cero | condicional CASE, video(15)",
+        "h": "20210108164921",
+        "l": 840
+    },
+    {
+        "i": 56,
+        "j": "gYweynuCikQ",
+        "b": "Curso de Oracle PLSQL en español desde cero | POO, SOBREESCRITURA DE METODOS (video 57)",
+        "h": "20230505225537",
+        "l": 348
+    },
+    {
+        "i": 44,
+        "j": "h9m4T9j6kYI",
+        "b": "Curso de Oracle PLSQL en español desde cero | EXCEPCIONES NO P RE-DEFINIDAS (video 45)",
+        "h": "20230330175019",
+        "l": 825
+    },
+    {
+        "i": 1,
+        "j": "HfZk8Bu1Lf8",
+        "b": "Curso de Oracle PLSQL en español desde cero |  VARIABLES,  creación, configuración y uso (video 2)",
+        "h": "20201203024242",
+        "l": 1136
+    },
+    {
+        "i": 30,
+        "j": "Hoi2DVJiOG0",
+        "b": "Curso de Oracle PLSQL en español desde cero | PAQUETES,   (video 31)",
+        "h": "20210614225213",
+        "l": 1177
+    },
+    {
+        "i": 53,
+        "j": "iN-KjoWEDAk",
+        "b": "Curso de Oracle PLSQL en español desde cero | POO, EXPLORAR OBJETOS (video 54)",
+        "h": "20230503231258",
+        "l": 297
+    },
+    {
+        "i": 26,
+        "j": "IP-X6OKePqI",
+        "b": "Curso de Oracle PLSQL en español desde cero |  CURSORES: SELECT y  UPDATE  video(27)",
+        "h": "20210331000806",
+        "l": 658
+    },
+    {
+        "i": 55,
+        "j": "KAR1Z0W81K8",
+        "b": "Curso de Oracle PLSQL en español desde cero | POO, HERENCIA (video 56)",
+        "h": "20230505201048",
+        "l": 923
+    },
+    {
+        "i": 0,
+        "j": "l6wOghW_gNI",
+        "b": "Curso de Oracle PLSQL en español desde cero | BLOQUES DE PLSQL, configuración y uso (video 1)",
+        "h": "20201203024242",
+        "l": 329
+    },
+    {
+        "i": 29,
+        "j": "LdjEvpSkac4",
+        "b": "Curso de Oracle PLSQL en español desde cero | VARIABLES COMPUESTAS  (video 30)",
+        "h": "20210605233232",
+        "l": 911
+    },
+    {
+        "i": 42,
+        "j": "Lij8DYK_5S0",
+        "b": "Curso de Oracle PLSQL en español desde cero | EXCEPCIONES, PARTE 1 (video 43)",
+        "h": "20230328213204",
+        "l": 882
+    },
+    {
+        "i": 32,
+        "j": "LpgTMYY5oTo",
+        "b": "Curso de Oracle PLSQL en español desde cero | TRANSACCIONES,  (video 33)",
+        "h": "20210630230519",
+        "l": 549
+    },
+    {
+        "i": 15,
+        "j": "MfRjk5AKAiI",
+        "b": "Curso de Oracle PLSQL en español desde cero |  TRIGGERS, video(16)",
+        "h": "20210109000405",
+        "l": 577
+    },
+    {
+        "i": 27,
+        "j": "MsEthF78STM",
+        "b": "Curso de Oracle PLSQL en español desde cero |  CURSORES CON PARAMETROS, video(28)",
+        "h": "20210401234833",
+        "l": 605
+    },
+    {
+        "i": 39,
+        "j": "mSLJXdcnQbs",
+        "b": "Curso de Oracle PLSQL en español desde cero | COMO LLENAR ARRAYS CON TABLAS (PARTE 3) , (video 40)",
+        "h": "20230325133326",
+        "l": 588
+    },
+    {
+        "i": 54,
+        "j": "NVPz-hiF5Ok",
+        "b": "Curso de Oracle PLSQL en español desde cero | POO, SOBRECARGA DE METODOS (video 55)",
+        "h": "20230504205625",
+        "l": 469
+    },
+    {
+        "i": 11,
+        "j": "NzMkYNDkcEU",
+        "b": "Curso de Oracle PLSQL en español desde cero | PROCEDIMIENTOS ALMACENADOS (PARAMETROS) video(12)",
+        "h": "20201217195217",
+        "l": 818
+    },
+    {
+        "i": 64,
+        "j": "OqnmvSEjSlY",
+        "b": "Curso de Oracle PLSQL en español desde cero | JSON : IS JSON, IS NOT JSON (video 65)",
+        "h": "20230513213828",
+        "l": 563
+    },
+    {
+        "i": 37,
+        "j": "Pi3jt8LHcOk",
+        "b": "Curso de Oracle PLSQL en español desde cero | COLECCIONES: COMO LLENAR ARRAYS CON TABLAS (video 38)",
+        "h": "20220801224313",
+        "l": 960
+    },
+    {
+        "i": 40,
+        "j": "Po6-Lo-u3z8",
+        "b": "Curso de Oracle PLSQL en español desde cero | COLECCIONES , BULL COLLECT (video 41)",
+        "h": "20230325144621",
+        "l": 390
+    },
+    {
+        "i": 41,
+        "j": "PtYJgupJ7uE",
+        "b": "Curso de Oracle PLSQL en español desde cero | ORACLE SQL LIVE (video 42)",
+        "h": "20230327193846",
+        "l": 931
+    },
+    {
+        "i": 65,
+        "j": "Q-7hOJYPIfM",
+        "b": "Curso de Oracle PLSQL en español desde cero | JSON JSON_EXIST (video 66)",
+        "h": "20230515130817",
+        "l": 538
+    },
+    {
+        "i": 50,
+        "j": "q5tiiNi8-MQ",
+        "b": "Curso de Oracle PLSQL en español desde cero | POO, METODO SELF PARA ATRIBUTOS  (video 51)",
+        "h": "20230403212600",
+        "l": 655
+    },
+    {
+        "i": 61,
+        "j": "qIOzNmL2UMM",
+        "b": "Curso de Oracle PLSQL en español desde cero | JSON ,  INSTALAR ORACLE 21C  (video 62)",
+        "h": "20230511232634",
+        "l": 860
+    },
+    {
+        "i": 35,
+        "j": "qpAyBAmzNC0",
+        "b": "Curso de Oracle PLSQL en español desde cero | VALIDACION DE PAQUETES, (video 36)",
+        "h": "20211104151039",
+        "l": 409
+    },
+    {
+        "i": 8,
+        "j": "R2awAyXe33U",
+        "b": "Curso de Oracle PLSQL en español desde cero | BUCLES ANIDADOS en PLSQL video(9)",
+        "h": "20201211012533",
+        "l": 614
+    },
+    {
+        "i": 19,
+        "j": "sN40EpEJIgE",
+        "b": "Curso de Oracle PLSQL en español desde cero |  TRIGGERS MULTIPLES EVENTOS video(20)",
+        "h": "20210204222858",
+        "l": 578
+    },
+    {
+        "i": 22,
+        "j": "spQwEAqO5ng",
+        "b": "Curso de Oracle PLSQL en español desde cero |TRIGGERS, ENABLE, DISABLE,  video(23)",
+        "h": "20210407195029",
+        "l": 379
+    },
+    {
+        "i": 23,
+        "j": "StKUqb_x7io",
+        "b": "Curso de Oracle PLSQL en español desde cero | TRIGGERS, RAISE_APPLICATION_ERROR, video(24)",
+        "h": "20210325011010",
+        "l": 815
+    },
+    {
+        "i": 2,
+        "j": "T1Ppp_iBa5M",
+        "b": "Curso de Oracle PLSQL en español desde cero | CONSTANTES en PLSQL (video 3)",
+        "h": "20201203024242",
+        "l": 248
+    },
+    {
+        "i": 21,
+        "j": "tc1tNb3Mu-E",
+        "b": "Curso de Oracle PLSQL en español desde cero | TRIGGERS, WHEN / IF, video(22)",
+        "h": "20210322224521",
+        "l": 728
+    },
+    {
+        "i": 48,
+        "j": "tRNqtBj-_RM",
+        "b": "Curso de Oracle PLSQL en español desde cero | PROGRAMACION ORIENTADA A OBJETOS (video 49)",
+        "h": "20230331180140",
+        "l": 498
+    },
+    {
+        "i": 7,
+        "j": "uQr7AyxpnWc",
+        "b": "Curso de Oracle PLSQL en español desde cero | bucle FOR video(8)",
+        "h": "20201210004105",
+        "l": 697
+    },
+    {
+        "i": 59,
+        "j": "UZjYbmbJ4Mg",
+        "b": "Curso de Oracle PLSQL en español desde cero | JSON EN ORACLE PLSQL (video 60)",
+        "h": "20230508175414",
+        "l": 365
+    },
+    {
+        "i": 62,
+        "j": "VOyqBXCKHUc",
+        "b": "Curso de Oracle PLSQL en español desde cero | JSON ,  LEER ARCHIVOS, NOTACION POR PUNTO  (video 63)",
+        "h": "20230512125305",
+        "l": 994
+    },
+    {
+        "i": 52,
+        "j": "VscZvIHaehE",
+        "b": "Curso de Oracle PLSQL en español desde cero | POO, METODOS CONSTRUCTORES (video 53)",
+        "h": "20230503161720",
+        "l": 709
+    },
+    {
+        "i": 31,
+        "j": "VSVm2GuY1l0",
+        "b": "Curso de Oracle PLSQL en español desde cero | CONSULTAS JERARQUICAS,  (video 32)",
+        "h": "20210630131611",
+        "l": 608
+    },
+    {
+        "i": 63,
+        "j": "w8ZLqXdws9U",
+        "b": "Curso de Oracle PLSQL en español desde cero | JSON ,  ARRAYS  (video 63)",
+        "h": "20230513155433",
+        "l": 319
+    },
+    {
+        "i": 66,
+        "j": "xaQHv6iQStg",
+        "b": "Curso de Oracle PLSQL en español desde cero | JSON_VALUE, JSON_QUERY (video 67)",
+        "h": "20230516163242",
+        "l": 621
+    },
+    {
+        "i": 16,
+        "j": "xkhGEFEH_Ec",
+        "b": "Curso de Oracle PLSQL en español desde cero | TRIGGERS, FOR EACH ROW / BEFORE INSERT video(17)",
+        "h": "20210114235041",
+        "l": 383
+    },
+    {
+        "i": 4,
+        "j": "xLNXQhaqitk",
+        "b": "Curso completo de Oracle PLSQL en español desde cero | BUCLES | Introducción y BASIC LOOP (video 5)",
+        "h": "20201203024644",
+        "l": 695
+    },
+    {
+        "i": 3,
+        "j": "XSJ1L41LUxI",
+        "b": "Curso de Oracle PLSQL en español  desde cero | CONDICIONALES : IF - ELSE - ELSIF (video 4)",
+        "h": "20201203024242",
+        "l": 538
+    },
+    {
+        "i": 9,
+        "j": "xUXEbL4istA",
+        "b": "Curso de Oracle PLSQL en español desde cero | MATRICES video(10)",
+        "h": "20201212022527",
+        "l": 981
+    },
+    {
+        "i": 57,
+        "j": "YK3X5xOSPz4",
+        "b": "Curso de Oracle PLSQL en español desde cero | POO, USAR OBJETOS EN TABLAS (video 58)",
+        "h": "20230506164356",
+        "l": 450
+    },
+    {
+        "i": 49,
+        "j": "ZI-jhpLc7kY",
+        "b": "Curso de Oracle PLSQL en español desde cero | OBJETOS, ATRIBUTOS Y METODOS  (video 50)",
+        "h": "20230401162048",
+        "l": 1197
+    }
+]

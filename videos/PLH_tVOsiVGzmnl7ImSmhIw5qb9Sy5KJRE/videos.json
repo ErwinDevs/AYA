@@ -154,6 +154,13 @@
         "l": 641
     },
     {
+        "i": 184,
+        "j": "24_KucAH_KI",
+        "b": "🔥2 - ¿Cuál es la ESTRUCTURA de un PROYECTO con arquitectura o modelo MVC en PHP?",
+        "h": "20251029003331",
+        "l": 435
+    },
+    {
         "i": 138,
         "j": "2cvNYOVbo6o",
         "b": "🔥CRUD en PHP y MySQL POO MVC JS - 14 Como APLICAR un MODELO y CONTROLADOR (MVC) en PHP",
@@ -180,6 +187,13 @@
         "b": "🐬 CURSO de PHP y MySQL desde CERO - 13 FUNCION PHP para RENOMBRAR FOTOS",
         "h": "20220415173753",
         "l": 400
+    },
+    {
+        "i": 191,
+        "j": "3asjyrYEJgs",
+        "b": "🔥9 - URL amigables: ¿Cómo obtener y como pasar varios parámetros GET en una URL en PHP?",
+        "h": "20251103155717",
+        "l": 533
     },
     {
         "i": 116,
@@ -350,6 +364,13 @@
         "l": 615
     },
     {
+        "i": 188,
+        "j": "b8MZ6btpADU",
+        "b": "🔥6 - ¿Cómo crear una PLANTILLA base para un SISTEMA en PHP MySQL & MVC?",
+        "h": "20251029231432",
+        "l": 1389
+    },
+    {
         "i": 144,
         "j": "bby5syTL1p8",
         "b": "🔥CRUD en PHP y MySQL POO MVC JS - 20 MODELO para EVITAR INYECCION SQL en PHP (SQL Injection)",
@@ -383,6 +404,13 @@
         "b": "🐬 CURSO de PHP y MySQL desde CERO - 19 CRUD: Como GUARDAR DATOS en MySQL desde PHP (USUARIO Cap.3)",
         "h": "20220516234559",
         "l": 1755
+    },
+    {
+        "i": 185,
+        "j": "cGSwpuRWMBI",
+        "b": "🔥3 - ARCHIVO .htaccess: ¿Qué es el archivo .HTACCESS y para qué se UTILIZA?",
+        "h": "20251029004256",
+        "l": 571
     },
     {
         "i": 132,
@@ -504,6 +532,20 @@
         "l": 316
     },
     {
+        "i": 190,
+        "j": "GhMKNFh2nqk",
+        "b": "🔥8 - ¿Cómo se INICIA una sesión en PHP con session_start() & session_name()?",
+        "h": "20251101140510",
+        "l": 245
+    },
+    {
+        "i": 189,
+        "j": "GSCxPreLepM",
+        "b": "🔥7- ¿Qué es un FAVICON?: ¿Cómo PONER o COLOCAR el ICONO que aparece en la pestaña del navegador?",
+        "h": "20251031170334",
+        "l": 222
+    },
+    {
         "i": 111,
         "j": "h_PeqgLZJsI",
         "b": "🐘 CURSO POO con PHP desde CERO - 04 Que es el METODO CONSTRUCTOR y como se INVOCA o EJECUTA",
@@ -579,6 +621,13 @@
         "b": "🐘 CURSO de PHP desde CERO - 42 Como ENCRIPTAR una CONTRASEÑA o CLAVE en PHP (HASH en PHP)",
         "h": "20211203170949",
         "l": 1046
+    },
+    {
+        "i": 192,
+        "j": "k8VYo1Lo7AM",
+        "b": "🔥10 - ¿Qué es y como CREAR un AUTOLOAD en PHP con spl_autoload_register?",
+        "h": "20251103232424",
+        "l": 615
     },
     {
         "i": 78,
@@ -763,6 +812,13 @@
         "l": 245
     },
     {
+        "i": 183,
+        "j": "NUlbT7Fa-Aw",
+        "b": "🔥1 - ¿Cómo crear o desarrollar un SISTEMA de VENTAS en PHP y MySQL?",
+        "h": "20251029002547",
+        "l": 430
+    },
+    {
         "i": 87,
         "j": "NUuiTxzKyA0",
         "b": "🐬 CURSO de PHP y MySQL desde CERO - 36 Creando VISTAS del MODULO de CATEGORIAS",
@@ -929,6 +985,13 @@
         "b": "🔥CRUD en PHP y MySQL POO MVC JS - 38 Como CREAR o PROGRAMAR un INICIO de SESION [LOGIN] en PHP (p-1)",
         "h": "20230918143426",
         "l": 1045
+    },
+    {
+        "i": 186,
+        "j": "r1fnhToqAKQ",
+        "b": "🔥4 - ¿Cómo puedo IMPORTAR una BASE de DATOS MySQL en phpMyAdmin? (Archivo .sql)",
+        "h": "20251029005225",
+        "l": 163
     },
     {
         "i": 44,
@@ -1167,6 +1230,13 @@
         "b": "🐬 CURSO de PHP y MySQL desde CERO - 41 Como HACER un CRUD en PHP MySQL PDO: CARGAR DATOS FORMULARIO",
         "h": "20220926232002",
         "l": 702
+    },
+    {
+        "i": 187,
+        "j": "xyi5iyElfdI",
+        "b": "🔥5 - ¿Qué son los ARCHIVOS de configuración de una aplicación WEB en PHP MySQL & MVC?",
+        "h": "20251029145241",
+        "l": 822
     },
     {
         "i": 153,
