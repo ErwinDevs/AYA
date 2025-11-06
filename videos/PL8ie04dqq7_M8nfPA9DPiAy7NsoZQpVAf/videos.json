@@ -1,486 +1,10 @@
 [
     {
-        "i": 0,
-        "j": "vJapzH_46a8",
-        "b": "🚀 CURSO: ANDROID desde CERO con KOTLIN  -  TUTORIAL ANDROID STUDIO [2023] - PARTE 1",
-        "h": "20230302181048",
-        "l": 33689
-    },
-    {
-        "i": 1,
-        "j": "ndqIqh6joGA",
-        "b": "🚀 CURSO: ANDROID desde CERO con KOTLIN - TUTORIAL ANDROID STUDIO [2023] - PARTE 2",
-        "h": "20230302181048",
-        "l": 15070
-    },
-    {
-        "i": 2,
-        "j": "UaR7GSNACsM",
-        "b": "🚀 CURSO: ANDROID nivel INTERMEDIO con KOTLIN  -  TUTORIAL ANDROID STUDIO [2024]",
-        "h": "20230914073509",
-        "l": 30296
-    },
-    {
-        "i": 3,
-        "j": "-xRWR_TVa28",
-        "b": "(2020) Curso de Kotlin para Android: Variables - Capítulo 1",
-        "h": "20210130103523",
-        "l": 801
-    },
-    {
-        "i": 4,
-        "j": "mpKdXcWCesY",
-        "b": "(2020) Curso de Kotlin para Android: Trabajando con variables - Capítulo 2",
-        "h": "20210130103523",
-        "l": 514
-    },
-    {
-        "i": 5,
-        "j": "kLdHBxE9hVE",
-        "b": "(2020) Curso de Kotlin para Android: Funciones en Kotlin - Capítulo 3",
-        "h": "20210130103523",
-        "l": 858
-    },
-    {
-        "i": 6,
-        "j": "6VKwzUB58Ow",
-        "b": "(2020) Curso de Kotlin para Android: Sentencias if-else en Kotlin - Capítulo 4",
-        "h": "20210130103523",
-        "l": 768
-    },
-    {
-        "i": 7,
-        "j": "hrfeQ4WzjPI",
-        "b": "(2020) Curso de Kotlin para Android: Expresión When en Kotlin - Capítulo 5",
-        "h": "20210130103523",
-        "l": 880
-    },
-    {
-        "i": 8,
-        "j": "qfrMQozbBno",
-        "b": "(2020) Curso de Kotlin para Android: Arrays en Kotlin - Capítulo 6",
-        "h": "20210130103523",
-        "l": 647
-    },
-    {
-        "i": 9,
-        "j": "08yBlI2XT8I",
-        "b": "(2020) Curso de Kotlin para Android: Listas en Kotlin - Capítulo 7",
-        "h": "20210130103523",
-        "l": 997
-    },
-    {
-        "i": 10,
-        "j": "ak8GJJ9kbKs",
-        "b": "(2020) Curso de Kotlin para Android: Instalando Android Studio 4 y emulador Android - Capítulo 8",
-        "h": "20210130103523",
-        "l": 559
-    },
-    {
-        "i": 11,
-        "j": "yE2Y2q4iWpU",
-        "b": "View Binding - 🔄 CONECTA VISTAS en Android con Kotlin - Tutorial Android Studio en español",
-        "h": "20210130103644",
-        "l": 823
-    },
-    {
-        "i": 12,
-        "j": "j4j_jN-Bp7U",
-        "b": "(2020) Curso de Kotlin para Android: Creando nuestra primera app [Primera parte] - Capítulo 9",
-        "h": "20210130103523",
-        "l": 589
-    },
-    {
-        "i": 13,
-        "j": "Ql2JlSQJD28",
-        "b": "(2020) Curso de Kotlin para Android: Creando nuestra primera app [Segunda parte] - Capítulo 10",
-        "h": "20210130103523",
-        "l": 568
-    },
-    {
-        "i": 14,
-        "j": "xz7U_4Ob6Lg",
-        "b": "Diseño de Layouts - FrameLayout - Curso de Android en Kotlin",
-        "h": "20210130103549",
-        "l": 568
-    },
-    {
-        "i": 15,
-        "j": "2tvAPF7Kxs0",
-        "b": "Diseño de Layouts - LinearLayout - Curso de Android en Kotlin",
-        "h": "20210130103549",
-        "l": 759
-    },
-    {
-        "i": 16,
-        "j": "eO-Lg3Y6IzI",
-        "b": "⚠️ ¿Todavía no usas ConstraintLayout? [TUTORIAL] - Aprende a CREAR LAYOUTS para ANDROID ► 2021",
-        "h": "20210130103549",
-        "l": 1194
-    },
-    {
-        "i": 17,
-        "j": "k3zoVAMuW5w",
-        "b": "Tutorial RECYCLERVIEW DEFINITIVO en ANDROID 📱 con KOTLIN en español + GRID [Android en Kotlin 2022]",
-        "h": "20220113170102",
-        "l": 2705
-    },
-    {
-        "i": 18,
-        "j": "_HBdmrx1_hY",
-        "b": "Tutorial RECYCLERVIEW en ANDROIDX 📱 con KOTLIN en español #1- Curso Android en Kotlin 2020",
-        "h": "20210130103622",
-        "l": 607
-    },
-    {
-        "i": 19,
-        "j": "7Y0nLIQaBmA",
-        "b": "Tutorial RECYCLERVIEW en ANDROIDX 📱 con KOTLIN en español #2- Curso Android en Kotlin 2020",
-        "h": "20210130103622",
-        "l": 639
-    },
-    {
-        "i": 20,
-        "j": "OS0WRDkpod0",
-        "b": "Tutorial RECYCLERVIEW en ANDROIDX 📱 con KOTLIN en español #3- Curso Android en Kotlin 2020",
-        "h": "20210130103622",
-        "l": 692
-    },
-    {
-        "i": 21,
-        "j": "HGnHNd5Y_FE",
-        "b": "Como usar SharedPreferences 💾 en ANDROID [TUTORIAL Kotlin] | Español | Curso Android desde cero 2020",
-        "h": "20210130103622",
-        "l": 1580
-    },
-    {
-        "i": 22,
-        "j": "rdfjT0bQBgs",
-        "b": "🛑 TUTORIAL Permisos🚦 en ANDROID con KOTLIN",
-        "h": "20210130103622",
-        "l": 939
-    },
-    {
-        "i": 23,
-        "j": "GOYIat0QC6A",
-        "b": "📅 DatePicker en Kotlin (Selector fecha) - Tutorial Android Studio",
-        "h": "20210130103622",
-        "l": 1201
-    },
-    {
-        "i": 24,
-        "j": "OJrY8EU96t4",
-        "b": "⏱️ TimePicker en Kotlin (Selector de hora) - Tutorial Android Studio",
-        "h": "20210130103622",
-        "l": 567
-    },
-    {
-        "i": 25,
-        "j": "_dhFsvEeuCs",
-        "b": "Tutorial GOOGLE MAPS 📍 en ANDROID con KOTLIN - Android Studio",
-        "h": "20210130104246",
-        "l": 651
-    },
-    {
-        "i": 26,
-        "j": "L6B8LUGp2VA",
-        "b": "[Tutorial] Localización en TIEMPO REAL #2 📍 con GOOGLE MAPS 📍 en ANDROID con KOTLIN - Android Studio",
-        "h": "20210130104246",
-        "l": 1030
-    },
-    {
-        "i": 27,
-        "j": "Wdb5okugwmU",
-        "b": "📸 CREA tu lector de Códigos QR en ANDROID con ZXING con KOTLIN [TUTORIAL 2021] - Librerías ANDROID",
-        "h": "20210130103622",
-        "l": 1075
-    },
-    {
-        "i": 28,
-        "j": "aQP-mUGWh1U",
-        "b": "[Tutorial] RETROFIT 2 en KOTLIN con CORRUTINAS - Consumir API JSON en Android Studio en Español 2022",
-        "h": "20210218174352",
-        "l": 1980
-    },
-    {
-        "i": 29,
-        "j": "-FLevZYuUT0",
-        "b": "🤑 TUTORIAL ADMOB en Android con KOTLIN 💰- Implementar BANNER de ADMOB en Android Studio [2021]",
-        "h": "20210304163656",
-        "l": 904
-    },
-    {
-        "i": 30,
-        "j": "vJtQgzsE41s",
-        "b": "💰INTERSTITIAL ADMOB en Android con KOTLIN 💰- Implementar INTERSTITIAL ADMOB en Android Studio [2021]",
-        "h": "20210311171840",
-        "l": 870
-    },
-    {
-        "i": 31,
-        "j": "meX4tEOGpac",
-        "b": "📑 Añadir FUENTES en ANDROID [FontFamily] - ❇️ Fuentes personalizadas en Android Studio 2021",
-        "h": "20210328182842",
-        "l": 395
-    },
-    {
-        "i": 32,
-        "j": "LQRPuMucnu8",
-        "b": "⚠️¿Aún no lo haces? ⚠️Reduce el tamaño de tus aplicaciones 🤏- WebP en Android Studio - De PNG a WebP",
-        "h": "20210411141031",
-        "l": 391
-    },
-    {
-        "i": 33,
-        "j": "hhhSMXi0R3E",
-        "b": "MVVM en ANDROID 📐 [2021] 📐- Arquitectura Model View ViewModel en Kotlin con LIVE DATA desde cero #1",
-        "h": "20210422184000",
-        "l": 1311
-    },
-    {
-        "i": 34,
-        "j": "SooIgKIlwmE",
-        "b": "[¡5 ejemplos!] Funciones de EXTENSIÓN en KOTLIN + 5 ejemplos (el último es BRUTAL)",
-        "h": "20210506162559",
-        "l": 759
-    },
-    {
-        "i": 35,
-        "j": "eDWDlgo_3TM",
-        "b": "[Tutorial]📍 Añadir POLYLINES en GOOGLE MAPS con Kotlin para Android📍 - Android Studio",
-        "h": "20210513161815",
-        "l": 972
-    },
-    {
-        "i": 36,
-        "j": "7FptmAjBdsA",
-        "b": "MVVM en ANDROID 📐 [2021] 📐- Model View ViewModel - Clean Architecture, Retrofit 2 y corrutinas (#2)",
-        "h": "20210527132314",
-        "l": 1921
-    },
-    {
-        "i": 37,
-        "j": "JzQC7l1-s-A",
-        "b": "7 LIBRERÍAS 📚 para ANDROID que no conocías 😱 - Tutorial dependencias Android Studio",
-        "h": "20210603172323",
-        "l": 565
-    },
-    {
-        "i": 38,
-        "j": "60_Vao-oaKI",
-        "b": "⚠️ Splash en Android con KOTLIN correctamente  [2021] - ¡LO HACES MAL! - Cómo hacer bien un SPLASH",
-        "h": "20210620165054",
-        "l": 651
-    },
-    {
-        "i": 39,
-        "j": "n430edELpec",
-        "b": "Tutorial SCRCPY para Android - Adiós al emulador de Android Studio",
-        "h": "20210701163805",
-        "l": 530
-    },
-    {
-        "i": 40,
-        "j": "t6ZuzSu2UHI",
-        "b": "Dagger HILT en KOTLIN con MVVM 💉 - Tutorial android inyección de dependencias con Dagger Hilt",
-        "h": "20210729143815",
-        "l": 1561
-    },
-    {
-        "i": 41,
-        "j": "0UjtLmAO1SA",
-        "b": "Curso JETPACK COMPOSE desde CERO - CREA TU PRIMERA APP - Tutorial Android COMPOSE [2021]",
-        "h": "20210812134245",
-        "l": 635
-    },
-    {
-        "i": 42,
-        "j": "6Fi0fNDvWWE",
-        "b": "⚠️ ¿StartActivityForResult DEPRECADO? -  Recuperar valores de otras pantallas en Android con Kotlin",
-        "h": "20210909154008",
-        "l": 437
-    },
-    {
-        "i": 43,
-        "j": "3prswuGP1xU",
-        "b": "🍭 Cambiar DISEÑOS para ANDROID STUDIO (No volverás al original)",
-        "h": "20211014155328",
-        "l": 375
-    },
-    {
-        "i": 44,
-        "j": "AEmgxSTupoU",
-        "b": "CHIPS y CHIPGROUP - El componente que ya deberías estar usando [TUTORIAL ANDROID STUDIO]",
-        "h": "20211107154424",
-        "l": 625
-    },
-    {
-        "i": 45,
-        "j": "NlTjnJeM8no",
-        "b": "Sealed Class en Kotlin - Ejemplo real para Android",
-        "h": "20220109112056",
-        "l": 618
-    },
-    {
-        "i": 46,
-        "j": "lYBb4QedYH8",
-        "b": "ROOM en Android con KOTLIN (Base de datos) 💾 - Tutorial Android Studio con MVVM (Hilt y corrutinas)",
-        "h": "20220120122105",
-        "l": 1855
-    },
-    {
-        "i": 47,
-        "j": "HF-T6_tRDW4",
-        "b": "CONECTA tu MÓVIL/CELULAR a ANDROID STUDIO SIN CABLE  por WIFI [Android Studio Bumblebee] 2022",
-        "h": "20220203172135",
-        "l": 201
-    },
-    {
-        "i": 48,
-        "j": "xCjIJMydI3s",
-        "b": "TESTING en ANDROID con KOTLIN desde Cero - [Test unitarios en Android Studio] - Pruebas unitarias",
-        "h": "20220218163158",
-        "l": 2327
-    },
-    {
-        "i": 49,
-        "j": "L3pM5YuxYp4",
-        "b": "[TUTORIAL] RETROFIT 2 AVANZADO en KOTLIN - (POST,  GET, MULTIPART, HEADER...) - Android Studio 2022",
-        "h": "20220324155941",
-        "l": 1409
-    },
-    {
-        "i": 50,
-        "j": "4oCyUWOTBAo",
-        "b": "Flavors, Build Types y Build Variants - EXPRIME Android Studio (Variantes de compilación)",
-        "h": "20220407155713",
-        "l": 1063
-    },
-    {
-        "i": 51,
-        "j": "_ij640TqtMo",
-        "b": "[TUTORIAL] SHARESHEET - Pantalla de compartir en ANDROID con KOTLIN",
-        "h": "20220421155517",
-        "l": 484
-    },
-    {
-        "i": 52,
-        "j": "7ZtJLMFIk0s",
-        "b": "TUTORIAL Shimmer en Android con KOTLIN - Adiós Progress bar  [Librería Shimmer by Facebook]",
-        "h": "20220505160110",
-        "l": 1021
-    },
-    {
-        "i": 53,
-        "j": "f_bYdEATkzg",
-        "b": "Cómo crear y publicar tus propias LIBRERÍAS (dependencias) en Android Studio desde cero",
-        "h": "20220519151140",
-        "l": 545
-    },
-    {
-        "i": 54,
-        "j": "Rhejb7u97wA",
-        "b": "CONSUME y PUBLICA tus dependencias en Github desde AndroidStudio",
-        "h": "20220526163739",
-        "l": 538
-    },
-    {
-        "i": 55,
-        "j": "-q4uBF-vk4Q",
-        "b": "💾 GIT y GITHUB  - CURSO GRATIS desde CERO - GIT FLOW  y gestión desde ANDROID STUDIO",
-        "h": "20220603142154",
-        "l": 4214
-    },
-    {
-        "i": 56,
-        "j": "PG50AbO7In4",
-        "b": "[ROADMAP] Cómo empezar a desarrollar APPS en 2022 - Cómo convertirse en ANDROID DEVELOPER",
-        "h": "20220609155122",
-        "l": 977
-    },
-    {
-        "i": 57,
-        "j": "i4r0CJslH_c",
-        "b": "KTOR - CREA tu propio BACKEND en KOTLIN con @codingpizzablog",
-        "h": "20220623154347",
-        "l": 5177
-    },
-    {
-        "i": 58,
-        "j": "9x_FmyLkDZ8",
-        "b": "DATASTORE PREFERENCES en ANDROID 💾 con KOTLIN DESDE CERO - [ JETPACK en ANDROID STUDIO ]",
-        "h": "20220728123826",
-        "l": 1271
-    },
-    {
-        "i": 59,
-        "j": "vkWZIuB4RZA",
-        "b": "[TUTORIAL] SPLASH screen API en KOTLIN - Con ANIMACIONES en ANDROID 12 - DESDE CERO - ANDROID STUDIO",
-        "h": "20220804155149",
-        "l": 1007
-    },
-    {
-        "i": 60,
-        "j": "6O_goNNuXWk",
-        "b": "Gestión de DATOS en RECYCLERVIEW - AÑADIR, BORRAR Y ACTUALIZAR ITEMS - Android Studio tutorial",
-        "h": "20220811123552",
-        "l": 1036
-    },
-    {
-        "i": 61,
-        "j": "EmUx8wgRxJw",
-        "b": "MVVM con JETPACK COMPOSE desde CERO - TUTORIAL - Ejemplo Login con arquitectura MVVM en Android",
-        "h": "20220825122626",
-        "l": 2331
-    },
-    {
-        "i": 62,
-        "j": "lE8Pu_VZDhM",
-        "b": "JETPACK COMPOSE: Curso COMPLETO de 0 a PRO - MVVM, Testing, DI y MUCHO MÁS [PRESENTACIÓN]",
-        "h": "20220904171736",
-        "l": 219
-    },
-    {
-        "i": 63,
-        "j": "yMLeHs0aG4o",
-        "b": "🖐 5 PREGUNTAS de ENTREVISTAS para DESARROLLADORES ANDROID - Prueba técnica para programador ANDROID",
-        "h": "20220908150839",
-        "l": 488
-    },
-    {
-        "i": 64,
-        "j": "gt0V7uUT2w4",
-        "b": "[PARTE 2 - MID] 🖐5 PREGUNTAS de ENTREVISTAS para DESARROLLADORES ANDROID - Prueba técnica",
-        "h": "20220915113912",
-        "l": 506
-    },
-    {
-        "i": 65,
-        "j": "Br7CLi54RSY",
-        "b": "NOTIFICACIONES en ANDROID desde 0 - DOMINA las notificaciones PUSH en TODAS LAS VERSIONES",
-        "h": "20220929140128",
-        "l": 998
-    },
-    {
-        "i": 66,
-        "j": "b54GrON6jwM",
-        "b": "Crea tus propios SERVICIOS en JSON  [GET, POST, UPDATE, DELETE] ONLINE en 2 minutos para PRUEBAS",
-        "h": "20221006143337",
-        "l": 479
-    },
-    {
-        "i": 67,
-        "j": "FDs5739T-bs",
-        "b": "[TUTORIAL] FILTRAR en un RECYCLERVIEW con KOTLIN - Android Studio",
-        "h": "20221014122544",
-        "l": 706
-    },
-    {
-        "i": 68,
-        "j": "3ji2Eakg3Lk",
-        "b": "[TUTORIAL] SWIPE REFRESH LAYOUT - Desliza para actualizar - Pull to refresh",
-        "h": "20221020133350",
-        "l": 805
+        "i": 79,
+        "j": "_3wuMq9CKJs",
+        "b": "Domina los FLOWS - STATEFLOW, SHAREDFLOW y todo lo necesario para trabajar en Android con KOTLIN.",
+        "h": "20230504063134",
+        "l": 2038
     },
     {
         "i": 69,
@@ -490,319 +14,32 @@
         "l": 2957
     },
     {
-        "i": 70,
-        "j": "w_KegccmapU",
-        "b": "CONVIERTE diseños de FIGMA A JETPACK COMPOSE AUTOMATICAMENTE con RELAY - De figma a composable",
-        "h": "20221103145409",
-        "l": 843
+        "i": 25,
+        "j": "_dhFsvEeuCs",
+        "b": "Tutorial GOOGLE MAPS 📍 en ANDROID con KOTLIN - Android Studio",
+        "h": "20210130104246",
+        "l": 651
     },
     {
-        "i": 71,
-        "j": "KYD5oo96SPw",
-        "b": "[NUEVO] Seleccionador de IMÁGENES desde GALERIA | Image Picker - Desde Android Studio - Nueva API",
-        "h": "20221110150941",
-        "l": 677
+        "i": 18,
+        "j": "_HBdmrx1_hY",
+        "b": "Tutorial RECYCLERVIEW en ANDROIDX 📱 con KOTLIN en español #1- Curso Android en Kotlin 2020",
+        "h": "20210130103622",
+        "l": 607
     },
     {
-        "i": 72,
-        "j": "h_GEuFmxsS8",
-        "b": "FRAGMENTS en ANDROID con KOTLIN - Aprende a utilizar los FRAGMENTS en ANDROID STUDIO",
-        "h": "20221201172642",
-        "l": 1367
+        "i": 51,
+        "j": "_ij640TqtMo",
+        "b": "[TUTORIAL] SHARESHEET - Pantalla de compartir en ANDROID con KOTLIN",
+        "h": "20220421155517",
+        "l": 484
     },
     {
-        "i": 73,
-        "j": "yIIkqLq_3ww",
-        "b": "PRUEBO Android Architecture Starter Templates - NO vuelvas a crear proyectos desde CERO",
-        "h": "20221206152033",
-        "l": 779
-    },
-    {
-        "i": 74,
-        "j": "Zfaev5IOBmI",
-        "b": "CI/CD en ANDROID con GITHUB ACTIONS - TUTORIAL integración continua desde cero.",
-        "h": "20230112174335",
-        "l": 1626
-    },
-    {
-        "i": 75,
-        "j": "JYeYvEUq8Yw",
-        "b": "TESTING para CI - Prepara tus pull request LIKE A BOSS",
-        "h": "20230119171652",
-        "l": 937
-    },
-    {
-        "i": 76,
-        "j": "TEoe4JTQOEA",
-        "b": "NOTIFICACIONES PUSH programadas con ALARMMANAGER y BROADCASTRECEIVER",
-        "h": "20230202145559",
-        "l": 839
-    },
-    {
-        "i": 77,
-        "j": "X0Z5ZkLEUCY",
-        "b": "5 TRUCOS para ANDROID STUDIO ¿Los conocías?",
-        "h": "20230209171803",
-        "l": 351
-    },
-    {
-        "i": 78,
-        "j": "09eAzdGM10E",
-        "b": "Añade MODO OSCURO a tus APPS - TUTORIAL ANDROID DARK MODE con KOTLIN",
-        "h": "20230309163658",
-        "l": 865
-    },
-    {
-        "i": 79,
-        "j": "_3wuMq9CKJs",
-        "b": "Domina los FLOWS - STATEFLOW, SHAREDFLOW y todo lo necesario para trabajar en Android con KOTLIN.",
-        "h": "20230504063134",
-        "l": 2038
-    },
-    {
-        "i": 80,
-        "j": "vQ0w4zAe68A",
-        "b": "Domina las CORRUTINAS - Corrutinas para ANDROID con KOTLIN [TUTORIAL]",
-        "h": "20230518121612",
-        "l": 1240
-    },
-    {
-        "i": 81,
-        "j": "QcNx8XGZQWY",
-        "b": "[DETEKT] - Analizador de código para Android Studio 👀",
-        "h": "20230615133542",
-        "l": 809
-    },
-    {
-        "i": 82,
-        "j": "8_3m2Ijp76o",
-        "b": "DiffUtil para tu RECYCLERVIEW en Kotlin - Optimiza tus recyclerview en Android con Kotlin.",
-        "h": "20230622144719",
-        "l": 1617
-    },
-    {
-        "i": 83,
-        "j": "k_XaQAVua4A",
-        "b": "Cómo conseguir la LOCALIZACIÓN en TIEMPO REAL con LOCATION SERVICE en KOTLIN",
-        "h": "20230629134737",
-        "l": 1155
-    },
-    {
-        "i": 84,
-        "j": "6M-N2LR4fv8",
-        "b": "Situación actual del desarrollo en Android - ¿Java o Kotlin? ¿Xml o Compose? ¿Nativo?",
-        "h": "20230822092636",
-        "l": 625
-    },
-    {
-        "i": 85,
-        "j": "1N6xmCHZexo",
-        "b": "NAVIGATION COMPONENT - Navega en Android de forma eficiente - Activity - Fragment - Save args",
-        "h": "20230831140507",
-        "l": 1985
-    },
-    {
-        "i": 86,
-        "j": "XSWhr6ZgSd8",
-        "b": "Monetiza tu APP sin anuncios - Monedata",
-        "h": "20230921161028",
-        "l": 1632
-    },
-    {
-        "i": 87,
-        "j": "7bhIQK26Brw",
-        "b": "[TUTORIAL] - Publicar APP en GOOGLE PLAY - Subir apps a la play store [2024]",
-        "h": "20230928151317",
-        "l": 2115
-    },
-    {
-        "i": 88,
-        "j": "a9vpykOf7ck",
-        "b": "SINGLETON - Patrones de diseño [KOTLIN]",
-        "h": "20231013063928",
-        "l": 760
-    },
-    {
-        "i": 89,
-        "j": "WrttcY3x5eA",
-        "b": "Firebase para Android con Kotlin: Curso Definitivo desde 0 [Presentación]",
-        "h": "20231024133113",
-        "l": 96
-    },
-    {
-        "i": 90,
-        "j": "gPfYMvtgZFs",
-        "b": "BUILDER - Patrones de diseño [KOTLIN]",
-        "h": "20231102183226",
-        "l": 1306
-    },
-    {
-        "i": 91,
-        "j": "smAhUwEQ1d8",
-        "b": "KOTLIN MULTIPLATFORM desde CERO #1 📱 | Preparación del entorno y Hello World [CURSO KMP]",
-        "h": "20231123134117",
-        "l": 1475
-    },
-    {
-        "i": 92,
-        "j": "kaMl2l7wjS8",
-        "b": "KOTLIN MULTIPLATFORM desde CERO #2 📱 | Navegación básica con Voyager",
-        "h": "20231129123215",
-        "l": 1252
-    },
-    {
-        "i": 93,
-        "j": "VIPCCytIIzg",
-        "b": "KOTLIN MULTIPLATFORM desde CERO #3 📱 | Navegación con Bottom Bar con Voyager",
-        "h": "20231206132311",
-        "l": 1175
-    },
-    {
-        "i": 94,
-        "j": "bdkPh76DVMw",
-        "b": "KOTLIN MULTIPLATFORM desde CERO #4 📱 | Persistencia de datos",
-        "h": "20231220173602",
-        "l": 1555
-    },
-    {
-        "i": 95,
-        "j": "LpKXQ78qlZk",
-        "b": "Cómo ser DESARROLLADOR ANDROID - Ruta de aprendizaje [ROADMAP]",
-        "h": "20240104174634",
-        "l": 885
-    },
-    {
-        "i": 96,
-        "j": "BZ13y8t11tY",
-        "b": "[TUTORIAL] GEMINI en Android - Añade la IA de GOOGLE a tus APPS",
-        "h": "20240111165100",
-        "l": 874
-    },
-    {
-        "i": 97,
-        "j": "Y6rLAFbmZLU",
-        "b": "JETPACK COMPOSE: Creando la MAYOR base de datos de habla hispana",
-        "h": "20240118150306",
-        "l": 761
-    },
-    {
-        "i": 98,
-        "j": "LNKgPyYYlRw",
-        "b": "¿Por qué las personas fallan al aprender a programar? NO vas a aprender si haces esto.",
-        "h": "20240125174442",
-        "l": 936
-    },
-    {
-        "i": 99,
-        "j": "Ah0RupJYNtg",
-        "b": "3 inteligencias artificiales (IA) para PROGRAMAR más rápido [NO es ChatGPT]",
-        "h": "20240201154534",
-        "l": 1066
-    },
-    {
-        "i": 100,
-        "j": "M0fMzgBcACY",
-        "b": "Proguard y R8 - Ofusca y optimiza tus apps",
-        "h": "20240208150122",
-        "l": 1157
-    },
-    {
-        "i": 101,
-        "j": "xtAzuxw9QU4",
-        "b": "Añade JETPACK COMPOSE en tu app con XML (Android Views)",
-        "h": "20240222173833",
-        "l": 771
-    },
-    {
-        "i": 102,
-        "j": "Yn3ylxsI2yA",
-        "b": "Debug y Logs - Cómo buscar errores correctamente en tus Apps con Android Studio",
-        "h": "20240229144008",
-        "l": 1189
-    },
-    {
-        "i": 103,
-        "j": "9mq15FwrqXI",
-        "b": "¿Por qué no se están contratando desarrolladores JUNIORS? - Situación actual programadores.",
-        "h": "20240314155542",
-        "l": 755
-    },
-    {
-        "i": 104,
-        "j": "hCXArZ0PSWQ",
-        "b": "Cuanto DINERO han generado mis APPS en 2024",
-        "h": "20240328143607",
-        "l": 910
-    },
-    {
-        "i": 105,
-        "j": "WTKiwXDh8Aw",
-        "b": "Programo una web completamente en KOTLIN - KOTLIN WEB WASM",
-        "h": "20240404083612",
-        "l": 870
-    },
-    {
-        "i": 106,
-        "j": "5tnX0z6q44Q",
-        "b": "KOTLIN MULTIPLATFORM desde CERO #5 📱 | EXPECT y ACTUAL para las implementaciones por entorno",
-        "h": "20240417183630",
-        "l": 787
-    },
-    {
-        "i": 107,
-        "j": "c6ZFfu8f5oE",
-        "b": "¿El final de Flutter?",
-        "h": "20240429161842",
-        "l": 495
-    },
-    {
-        "i": 108,
-        "j": "dyR1oGIzxQY",
-        "b": "Desplegar KOTLIN WASM (WEB) en GITHUB PAGES",
-        "h": "20240509150101",
-        "l": 575
-    },
-    {
-        "i": 109,
-        "j": "NAi22dJM58k",
-        "b": "Por qué NO deberías comprar o vender cuentas de DESARROLLADOR de GOOGLE a TERCEROS",
-        "h": "20240516151406",
-        "l": 612
-    },
-    {
-        "i": 110,
-        "j": "cf0lnsL2Myg",
-        "b": "[TUTORIAL] KTOR con KOTLIN MULTIPLATFORM - Consumir APIS - Curso KMP desde CERO #6 📱",
-        "h": "20240613132517",
-        "l": 1962
-    },
-    {
-        "i": 111,
-        "j": "4iJ2C9A0-Gk",
-        "b": "Paging 3 en Jetpack Compose - [GUÍA COMPLETA] - Proyecto Completo MVVM",
-        "h": "20240711114547",
-        "l": 3816
-    },
-    {
-        "i": 112,
-        "j": "Bu_FKblTFds",
-        "b": "Configurando FIREBASE y CRASHLYTICS - Curso FIREBASE en KOTLIN con JETPACK COMPOSE",
-        "h": "20240718133948",
-        "l": 954
-    },
-    {
-        "i": 113,
-        "j": "slWOC40-wPI",
-        "b": "Configurando Firebase AUTH 🔥 - Curso FIREBASE en KOTLIN con JETPACK COMPOSE - Capítulo 2",
-        "h": "20240801123701",
-        "l": 3060
-    },
-    {
-        "i": 114,
-        "j": "BZHsxB-bWZg",
-        "b": "FIRESTORE database en ANDROID 🔥 - Curso FIREBASE en KOTLIN con JETPACK COMPOSE - Capítulo 3",
-        "h": "20240815131555",
-        "l": 2871
+        "i": 29,
+        "j": "-FLevZYuUT0",
+        "b": "🤑 TUTORIAL ADMOB en Android con KOTLIN 💰- Implementar BANNER de ADMOB en Android Studio [2021]",
+        "h": "20210304163656",
+        "l": 904
     },
     {
         "i": 115,
@@ -812,18 +49,46 @@
         "l": 2035
     },
     {
-        "i": 116,
-        "j": "BNWByEs3JcA",
-        "b": "Crea un FORZADO de VERSIÓN en ANDROID con REMOTE CONFIG 🔥 - Curso FIREBASE en KOTLIN - Capítulo 5",
-        "h": "20240920093933",
-        "l": 1722
+        "i": 55,
+        "j": "-q4uBF-vk4Q",
+        "b": "💾 GIT y GITHUB  - CURSO GRATIS desde CERO - GIT FLOW  y gestión desde ANDROID STUDIO",
+        "h": "20220603142154",
+        "l": 4214
     },
     {
-        "i": 117,
-        "j": "LxABxtwhrDE",
-        "b": "FIREBASE desde CERO en ANDROID con KOTLIN y JETPACK COMPOSE - CURSO COMPLETO en Android Studio",
-        "h": "20241003115638",
-        "l": 10614
+        "i": 3,
+        "j": "-xRWR_TVa28",
+        "b": "(2020) Curso de Kotlin para Android: Variables - Capítulo 1",
+        "h": "20210130103523",
+        "l": 801
+    },
+    {
+        "i": 9,
+        "j": "08yBlI2XT8I",
+        "b": "(2020) Curso de Kotlin para Android: Listas en Kotlin - Capítulo 7",
+        "h": "20210130103523",
+        "l": 997
+    },
+    {
+        "i": 78,
+        "j": "09eAzdGM10E",
+        "b": "Añade MODO OSCURO a tus APPS - TUTORIAL ANDROID DARK MODE con KOTLIN",
+        "h": "20230309163658",
+        "l": 865
+    },
+    {
+        "i": 41,
+        "j": "0UjtLmAO1SA",
+        "b": "Curso JETPACK COMPOSE desde CERO - CREA TU PRIMERA APP - Tutorial Android COMPOSE [2021]",
+        "h": "20210812134245",
+        "l": 635
+    },
+    {
+        "i": 85,
+        "j": "1N6xmCHZexo",
+        "b": "NAVIGATION COMPONENT - Navega en Android de forma eficiente - Activity - Fragment - Save args",
+        "h": "20230831140507",
+        "l": 1985
     },
     {
         "i": 118,
@@ -833,11 +98,123 @@
         "l": 2527
     },
     {
+        "i": 15,
+        "j": "2tvAPF7Kxs0",
+        "b": "Diseño de Layouts - LinearLayout - Curso de Android en Kotlin",
+        "h": "20210130103549",
+        "l": 759
+    },
+    {
+        "i": 68,
+        "j": "3ji2Eakg3Lk",
+        "b": "[TUTORIAL] SWIPE REFRESH LAYOUT - Desliza para actualizar - Pull to refresh",
+        "h": "20221020133350",
+        "l": 805
+    },
+    {
+        "i": 43,
+        "j": "3prswuGP1xU",
+        "b": "🍭 Cambiar DISEÑOS para ANDROID STUDIO (No volverás al original)",
+        "h": "20211014155328",
+        "l": 375
+    },
+    {
+        "i": 111,
+        "j": "4iJ2C9A0-Gk",
+        "b": "Paging 3 en Jetpack Compose - [GUÍA COMPLETA] - Proyecto Completo MVVM",
+        "h": "20240711114547",
+        "l": 3816
+    },
+    {
+        "i": 50,
+        "j": "4oCyUWOTBAo",
+        "b": "Flavors, Build Types y Build Variants - EXPRIME Android Studio (Variantes de compilación)",
+        "h": "20220407155713",
+        "l": 1063
+    },
+    {
         "i": 119,
         "j": "4rsl1hAHGPY",
         "b": "DEEPLINK en JETPACK COMPOSE - TODO lo que necesitas saber sobre deeplinking",
         "h": "20241024143035",
         "l": 1194
+    },
+    {
+        "i": 106,
+        "j": "5tnX0z6q44Q",
+        "b": "KOTLIN MULTIPLATFORM desde CERO #5 📱 | EXPECT y ACTUAL para las implementaciones por entorno",
+        "h": "20240417183630",
+        "l": 787
+    },
+    {
+        "i": 38,
+        "j": "60_Vao-oaKI",
+        "b": "⚠️ Splash en Android con KOTLIN correctamente  [2021] - ¡LO HACES MAL! - Cómo hacer bien un SPLASH",
+        "h": "20210620165054",
+        "l": 651
+    },
+    {
+        "i": 42,
+        "j": "6Fi0fNDvWWE",
+        "b": "⚠️ ¿StartActivityForResult DEPRECADO? -  Recuperar valores de otras pantallas en Android con Kotlin",
+        "h": "20210909154008",
+        "l": 437
+    },
+    {
+        "i": 84,
+        "j": "6M-N2LR4fv8",
+        "b": "Situación actual del desarrollo en Android - ¿Java o Kotlin? ¿Xml o Compose? ¿Nativo?",
+        "h": "20230822092636",
+        "l": 625
+    },
+    {
+        "i": 60,
+        "j": "6O_goNNuXWk",
+        "b": "Gestión de DATOS en RECYCLERVIEW - AÑADIR, BORRAR Y ACTUALIZAR ITEMS - Android Studio tutorial",
+        "h": "20220811123552",
+        "l": 1036
+    },
+    {
+        "i": 6,
+        "j": "6VKwzUB58Ow",
+        "b": "(2020) Curso de Kotlin para Android: Sentencias if-else en Kotlin - Capítulo 4",
+        "h": "20210130103523",
+        "l": 768
+    },
+    {
+        "i": 87,
+        "j": "7bhIQK26Brw",
+        "b": "[TUTORIAL] - Publicar APP en GOOGLE PLAY - Subir apps a la play store [2024]",
+        "h": "20230928151317",
+        "l": 2115
+    },
+    {
+        "i": 36,
+        "j": "7FptmAjBdsA",
+        "b": "MVVM en ANDROID 📐 [2021] 📐- Model View ViewModel - Clean Architecture, Retrofit 2 y corrutinas (#2)",
+        "h": "20210527132314",
+        "l": 1921
+    },
+    {
+        "i": 19,
+        "j": "7Y0nLIQaBmA",
+        "b": "Tutorial RECYCLERVIEW en ANDROIDX 📱 con KOTLIN en español #2- Curso Android en Kotlin 2020",
+        "h": "20210130103622",
+        "l": 639
+    },
+    {
+        "i": 52,
+        "j": "7ZtJLMFIk0s",
+        "b": "TUTORIAL Shimmer en Android con KOTLIN - Adiós Progress bar  [Librería Shimmer by Facebook]",
+        "h": "20220505160110",
+        "l": 1021
+    },
+    {
+        "i": 82,
+        "j": "8_3m2Ijp76o",
+        "b": "DiffUtil para tu RECYCLERVIEW en Kotlin - Optimiza tus recyclerview en Android con Kotlin.",
+        "h": "20230622144719",
+        "l": 1617
     },
     {
         "i": 120,
@@ -847,32 +224,123 @@
         "l": 909
     },
     {
-        "i": 121,
-        "j": "iSmvjyeU2wI",
-        "b": "[2025] Ruta de aprendizaje - Cómo ser DESARROLLADOR ANDROID (developer) - ROADMAP de junior a Senior",
-        "h": "20250109151126",
-        "l": 1116
+        "i": 103,
+        "j": "9mq15FwrqXI",
+        "b": "¿Por qué no se están contratando desarrolladores JUNIORS? - Situación actual programadores.",
+        "h": "20240314155542",
+        "l": 755
     },
     {
-        "i": 122,
-        "j": "dYpYjVmHlxM",
-        "b": "Crea IMÁGENES 3D en Android desde CERO 👓 - Efecto ANAGLIFO [Android Avanzado]",
-        "h": "20250116153835",
-        "l": 1211
+        "i": 58,
+        "j": "9x_FmyLkDZ8",
+        "b": "DATASTORE PREFERENCES en ANDROID 💾 con KOTLIN DESDE CERO - [ JETPACK en ANDROID STUDIO ]",
+        "h": "20220728123826",
+        "l": 1271
     },
     {
-        "i": 123,
-        "j": "jXhGN9Q7u7Y",
-        "b": "3 CONSEJOS para MEJORAR la SEGURIDAD de tus APPS Android",
-        "h": "20250123153119",
-        "l": 1203
+        "i": 88,
+        "j": "a9vpykOf7ck",
+        "b": "SINGLETON - Patrones de diseño [KOTLIN]",
+        "h": "20231013063928",
+        "l": 760
     },
     {
-        "i": 124,
-        "j": "IcTGQ8PQLPY",
-        "b": "DeepSeek: ¿Por qué está revolucionando todo? ¿Vale la pena para programadores y en el día a día?",
-        "h": "20250130154634",
-        "l": 484
+        "i": 44,
+        "j": "AEmgxSTupoU",
+        "b": "CHIPS y CHIPGROUP - El componente que ya deberías estar usando [TUTORIAL ANDROID STUDIO]",
+        "h": "20211107154424",
+        "l": 625
+    },
+    {
+        "i": 99,
+        "j": "Ah0RupJYNtg",
+        "b": "3 inteligencias artificiales (IA) para PROGRAMAR más rápido [NO es ChatGPT]",
+        "h": "20240201154534",
+        "l": 1066
+    },
+    {
+        "i": 10,
+        "j": "ak8GJJ9kbKs",
+        "b": "(2020) Curso de Kotlin para Android: Instalando Android Studio 4 y emulador Android - Capítulo 8",
+        "h": "20210130103523",
+        "l": 559
+    },
+    {
+        "i": 28,
+        "j": "aQP-mUGWh1U",
+        "b": "[Tutorial] RETROFIT 2 en KOTLIN con CORRUTINAS - Consumir API JSON en Android Studio en Español 2022",
+        "h": "20210218174352",
+        "l": 1980
+    },
+    {
+        "i": 66,
+        "j": "b54GrON6jwM",
+        "b": "Crea tus propios SERVICIOS en JSON  [GET, POST, UPDATE, DELETE] ONLINE en 2 minutos para PRUEBAS",
+        "h": "20221006143337",
+        "l": 479
+    },
+    {
+        "i": 94,
+        "j": "bdkPh76DVMw",
+        "b": "KOTLIN MULTIPLATFORM desde CERO #4 📱 | Persistencia de datos",
+        "h": "20231220173602",
+        "l": 1555
+    },
+    {
+        "i": 116,
+        "j": "BNWByEs3JcA",
+        "b": "Crea un FORZADO de VERSIÓN en ANDROID con REMOTE CONFIG 🔥 - Curso FIREBASE en KOTLIN - Capítulo 5",
+        "h": "20240920093933",
+        "l": 1722
+    },
+    {
+        "i": 65,
+        "j": "Br7CLi54RSY",
+        "b": "NOTIFICACIONES en ANDROID desde 0 - DOMINA las notificaciones PUSH en TODAS LAS VERSIONES",
+        "h": "20220929140128",
+        "l": 998
+    },
+    {
+        "i": 112,
+        "j": "Bu_FKblTFds",
+        "b": "Configurando FIREBASE y CRASHLYTICS - Curso FIREBASE en KOTLIN con JETPACK COMPOSE",
+        "h": "20240718134011",
+        "l": 954
+    },
+    {
+        "i": 96,
+        "j": "BZ13y8t11tY",
+        "b": "[TUTORIAL] GEMINI en Android - Añade la IA de GOOGLE a tus APPS",
+        "h": "20240111165100",
+        "l": 874
+    },
+    {
+        "i": 114,
+        "j": "BZHsxB-bWZg",
+        "b": "FIRESTORE database en ANDROID 🔥 - Curso FIREBASE en KOTLIN con JETPACK COMPOSE - Capítulo 3",
+        "h": "20240815131555",
+        "l": 2871
+    },
+    {
+        "i": 107,
+        "j": "c6ZFfu8f5oE",
+        "b": "¿El final de Flutter?",
+        "h": "20240429161842",
+        "l": 495
+    },
+    {
+        "i": 110,
+        "j": "cf0lnsL2Myg",
+        "b": "[TUTORIAL] KTOR con KOTLIN MULTIPLATFORM - Consumir APIS - Curso KMP desde CERO #6 📱",
+        "h": "20240613132517",
+        "l": 1962
+    },
+    {
+        "i": 127,
+        "j": "Drcq34050pY",
+        "b": "Firebase AUTH en Kotlin Multiplatform con Compose 🔥 (Tutorial desde 0)",
+        "h": "20250819164647",
+        "l": 4661
     },
     {
         "i": 125,
@@ -882,6 +350,384 @@
         "l": 1088
     },
     {
+        "i": 122,
+        "j": "dYpYjVmHlxM",
+        "b": "Crea IMÁGENES 3D en Android desde CERO 👓 - Efecto ANAGLIFO [Android Avanzado]",
+        "h": "20250116153835",
+        "l": 1211
+    },
+    {
+        "i": 108,
+        "j": "dyR1oGIzxQY",
+        "b": "Desplegar KOTLIN WASM (WEB) en GITHUB PAGES",
+        "h": "20240509150101",
+        "l": 575
+    },
+    {
+        "i": 35,
+        "j": "eDWDlgo_3TM",
+        "b": "[Tutorial]📍 Añadir POLYLINES en GOOGLE MAPS con Kotlin para Android📍 - Android Studio",
+        "h": "20210513161815",
+        "l": 972
+    },
+    {
+        "i": 61,
+        "j": "EmUx8wgRxJw",
+        "b": "MVVM con JETPACK COMPOSE desde CERO - TUTORIAL - Ejemplo Login con arquitectura MVVM en Android",
+        "h": "20220825122626",
+        "l": 2331
+    },
+    {
+        "i": 16,
+        "j": "eO-Lg3Y6IzI",
+        "b": "⚠️ ¿Todavía no usas ConstraintLayout? [TUTORIAL] - Aprende a CREAR LAYOUTS para ANDROID ► 2021",
+        "h": "20210130103549",
+        "l": 1194
+    },
+    {
+        "i": 53,
+        "j": "f_bYdEATkzg",
+        "b": "Cómo crear y publicar tus propias LIBRERÍAS (dependencias) en Android Studio desde cero",
+        "h": "20220519151140",
+        "l": 545
+    },
+    {
+        "i": 67,
+        "j": "FDs5739T-bs",
+        "b": "[TUTORIAL] FILTRAR en un RECYCLERVIEW con KOTLIN - Android Studio",
+        "h": "20221014122544",
+        "l": 706
+    },
+    {
+        "i": 23,
+        "j": "GOYIat0QC6A",
+        "b": "📅 DatePicker en Kotlin (Selector fecha) - Tutorial Android Studio",
+        "h": "20210130103622",
+        "l": 1201
+    },
+    {
+        "i": 90,
+        "j": "gPfYMvtgZFs",
+        "b": "BUILDER - Patrones de diseño [KOTLIN]",
+        "h": "20231102183226",
+        "l": 1306
+    },
+    {
+        "i": 64,
+        "j": "gt0V7uUT2w4",
+        "b": "[PARTE 2 - MID] 🖐5 PREGUNTAS de ENTREVISTAS para DESARROLLADORES ANDROID - Prueba técnica",
+        "h": "20220915113912",
+        "l": 506
+    },
+    {
+        "i": 72,
+        "j": "h_GEuFmxsS8",
+        "b": "FRAGMENTS en ANDROID con KOTLIN - Aprende a utilizar los FRAGMENTS en ANDROID STUDIO",
+        "h": "20221201172642",
+        "l": 1367
+    },
+    {
+        "i": 104,
+        "j": "hCXArZ0PSWQ",
+        "b": "Cuanto DINERO han generado mis APPS en 2024",
+        "h": "20240328143607",
+        "l": 910
+    },
+    {
+        "i": 47,
+        "j": "HF-T6_tRDW4",
+        "b": "CONECTA tu MÓVIL/CELULAR a ANDROID STUDIO SIN CABLE  por WIFI [Android Studio Bumblebee] 2022",
+        "h": "20220203172135",
+        "l": 201
+    },
+    {
+        "i": 21,
+        "j": "HGnHNd5Y_FE",
+        "b": "Como usar SharedPreferences 💾 en ANDROID [TUTORIAL Kotlin] | Español | Curso Android desde cero 2020",
+        "h": "20210130103622",
+        "l": 1580
+    },
+    {
+        "i": 33,
+        "j": "hhhSMXi0R3E",
+        "b": "MVVM en ANDROID 📐 [2021] 📐- Arquitectura Model View ViewModel en Kotlin con LIVE DATA desde cero #1",
+        "h": "20210422184000",
+        "l": 1311
+    },
+    {
+        "i": 7,
+        "j": "hrfeQ4WzjPI",
+        "b": "(2020) Curso de Kotlin para Android: Expresión When en Kotlin - Capítulo 5",
+        "h": "20210130103523",
+        "l": 880
+    },
+    {
+        "i": 57,
+        "j": "i4r0CJslH_c",
+        "b": "KTOR - CREA tu propio BACKEND en KOTLIN con @codingpizzablog",
+        "h": "20220623154347",
+        "l": 5177
+    },
+    {
+        "i": 124,
+        "j": "IcTGQ8PQLPY",
+        "b": "DeepSeek: ¿Por qué está revolucionando todo? ¿Vale la pena para programadores y en el día a día?",
+        "h": "20250130154634",
+        "l": 484
+    },
+    {
+        "i": 121,
+        "j": "iSmvjyeU2wI",
+        "b": "[2025] Ruta de aprendizaje - Cómo ser DESARROLLADOR ANDROID (developer) - ROADMAP de junior a Senior",
+        "h": "20250109151126",
+        "l": 1116
+    },
+    {
+        "i": 12,
+        "j": "j4j_jN-Bp7U",
+        "b": "(2020) Curso de Kotlin para Android: Creando nuestra primera app [Primera parte] - Capítulo 9",
+        "h": "20210130103523",
+        "l": 589
+    },
+    {
+        "i": 123,
+        "j": "jXhGN9Q7u7Y",
+        "b": "3 CONSEJOS para MEJORAR la SEGURIDAD de tus APPS Android",
+        "h": "20250123153119",
+        "l": 1203
+    },
+    {
+        "i": 75,
+        "j": "JYeYvEUq8Yw",
+        "b": "TESTING para CI - Prepara tus pull request LIKE A BOSS",
+        "h": "20230119171652",
+        "l": 937
+    },
+    {
+        "i": 37,
+        "j": "JzQC7l1-s-A",
+        "b": "7 LIBRERÍAS 📚 para ANDROID que no conocías 😱 - Tutorial dependencias Android Studio",
+        "h": "20210603172323",
+        "l": 565
+    },
+    {
+        "i": 83,
+        "j": "k_XaQAVua4A",
+        "b": "Cómo conseguir la LOCALIZACIÓN en TIEMPO REAL con LOCATION SERVICE en KOTLIN",
+        "h": "20230629134737",
+        "l": 1155
+    },
+    {
+        "i": 17,
+        "j": "k3zoVAMuW5w",
+        "b": "Tutorial RECYCLERVIEW DEFINITIVO en ANDROID 📱 con KOTLIN en español + GRID [Android en Kotlin 2022]",
+        "h": "20220113170102",
+        "l": 2705
+    },
+    {
+        "i": 92,
+        "j": "kaMl2l7wjS8",
+        "b": "KOTLIN MULTIPLATFORM desde CERO #2 📱 | Navegación básica con Voyager",
+        "h": "20231129123215",
+        "l": 1252
+    },
+    {
+        "i": 5,
+        "j": "kLdHBxE9hVE",
+        "b": "(2020) Curso de Kotlin para Android: Funciones en Kotlin - Capítulo 3",
+        "h": "20210130103523",
+        "l": 858
+    },
+    {
+        "i": 71,
+        "j": "KYD5oo96SPw",
+        "b": "[NUEVO] Seleccionador de IMÁGENES desde GALERIA | Image Picker - Desde Android Studio - Nueva API",
+        "h": "20221110150941",
+        "l": 677
+    },
+    {
+        "i": 49,
+        "j": "L3pM5YuxYp4",
+        "b": "[TUTORIAL] RETROFIT 2 AVANZADO en KOTLIN - (POST,  GET, MULTIPART, HEADER...) - Android Studio 2022",
+        "h": "20220324155941",
+        "l": 1409
+    },
+    {
+        "i": 26,
+        "j": "L6B8LUGp2VA",
+        "b": "[Tutorial] Localización en TIEMPO REAL #2 📍 con GOOGLE MAPS 📍 en ANDROID con KOTLIN - Android Studio",
+        "h": "20210130104246",
+        "l": 1030
+    },
+    {
+        "i": 62,
+        "j": "lE8Pu_VZDhM",
+        "b": "JETPACK COMPOSE: Curso COMPLETO de 0 a PRO - MVVM, Testing, DI y MUCHO MÁS [PRESENTACIÓN]",
+        "h": "20220904171736",
+        "l": 219
+    },
+    {
+        "i": 98,
+        "j": "LNKgPyYYlRw",
+        "b": "¿Por qué las personas fallan al aprender a programar? NO vas a aprender si haces esto.",
+        "h": "20240125174442",
+        "l": 936
+    },
+    {
+        "i": 95,
+        "j": "LpKXQ78qlZk",
+        "b": "Cómo ser DESARROLLADOR ANDROID - Ruta de aprendizaje [ROADMAP]",
+        "h": "20240104174634",
+        "l": 885
+    },
+    {
+        "i": 32,
+        "j": "LQRPuMucnu8",
+        "b": "⚠️¿Aún no lo haces? ⚠️Reduce el tamaño de tus aplicaciones 🤏- WebP en Android Studio - De PNG a WebP",
+        "h": "20210411141031",
+        "l": 391
+    },
+    {
+        "i": 117,
+        "j": "LxABxtwhrDE",
+        "b": "FIREBASE desde CERO en ANDROID con KOTLIN y JETPACK COMPOSE - CURSO COMPLETO en Android Studio",
+        "h": "20241003115638",
+        "l": 10614
+    },
+    {
+        "i": 46,
+        "j": "lYBb4QedYH8",
+        "b": "ROOM en Android con KOTLIN (Base de datos) 💾 - Tutorial Android Studio con MVVM (Hilt y corrutinas)",
+        "h": "20220120122105",
+        "l": 1855
+    },
+    {
+        "i": 100,
+        "j": "M0fMzgBcACY",
+        "b": "Proguard y R8 - Ofusca y optimiza tus apps",
+        "h": "20240208150122",
+        "l": 1157
+    },
+    {
+        "i": 31,
+        "j": "meX4tEOGpac",
+        "b": "📑 Añadir FUENTES en ANDROID [FontFamily] - ❇️ Fuentes personalizadas en Android Studio 2021",
+        "h": "20210328182842",
+        "l": 395
+    },
+    {
+        "i": 4,
+        "j": "mpKdXcWCesY",
+        "b": "(2020) Curso de Kotlin para Android: Trabajando con variables - Capítulo 2",
+        "h": "20210130103523",
+        "l": 514
+    },
+    {
+        "i": 39,
+        "j": "n430edELpec",
+        "b": "Tutorial SCRCPY para Android - Adiós al emulador de Android Studio",
+        "h": "20210701163805",
+        "l": 530
+    },
+    {
+        "i": 109,
+        "j": "NAi22dJM58k",
+        "b": "Por qué NO deberías comprar o vender cuentas de DESARROLLADOR de GOOGLE a TERCEROS",
+        "h": "20240516151406",
+        "l": 612
+    },
+    {
+        "i": 1,
+        "j": "ndqIqh6joGA",
+        "b": "🚀 CURSO: ANDROID desde CERO con KOTLIN - TUTORIAL ANDROID STUDIO [2023] - PARTE 2",
+        "h": "20230302181048",
+        "l": 15070
+    },
+    {
+        "i": 45,
+        "j": "NlTjnJeM8no",
+        "b": "Sealed Class en Kotlin - Ejemplo real para Android",
+        "h": "20220109112056",
+        "l": 618
+    },
+    {
+        "i": 24,
+        "j": "OJrY8EU96t4",
+        "b": "⏱️ TimePicker en Kotlin (Selector de hora) - Tutorial Android Studio",
+        "h": "20210130103622",
+        "l": 567
+    },
+    {
+        "i": 20,
+        "j": "OS0WRDkpod0",
+        "b": "Tutorial RECYCLERVIEW en ANDROIDX 📱 con KOTLIN en español #3- Curso Android en Kotlin 2020",
+        "h": "20210130103622",
+        "l": 692
+    },
+    {
+        "i": 56,
+        "j": "PG50AbO7In4",
+        "b": "[ROADMAP] Cómo empezar a desarrollar APPS en 2022 - Cómo convertirse en ANDROID DEVELOPER",
+        "h": "20220609155122",
+        "l": 977
+    },
+    {
+        "i": 81,
+        "j": "QcNx8XGZQWY",
+        "b": "[DETEKT] - Analizador de código para Android Studio 👀",
+        "h": "20230615133542",
+        "l": 809
+    },
+    {
+        "i": 8,
+        "j": "qfrMQozbBno",
+        "b": "(2020) Curso de Kotlin para Android: Arrays en Kotlin - Capítulo 6",
+        "h": "20210130103523",
+        "l": 647
+    },
+    {
+        "i": 13,
+        "j": "Ql2JlSQJD28",
+        "b": "(2020) Curso de Kotlin para Android: Creando nuestra primera app [Segunda parte] - Capítulo 10",
+        "h": "20210130103523",
+        "l": 568
+    },
+    {
+        "i": 22,
+        "j": "rdfjT0bQBgs",
+        "b": "🛑 TUTORIAL Permisos🚦 en ANDROID con KOTLIN",
+        "h": "20210130103622",
+        "l": 939
+    },
+    {
+        "i": 54,
+        "j": "Rhejb7u97wA",
+        "b": "CONSUME y PUBLICA tus dependencias en Github desde AndroidStudio",
+        "h": "20220526163739",
+        "l": 538
+    },
+    {
+        "i": 113,
+        "j": "slWOC40-wPI",
+        "b": "Configurando Firebase AUTH 🔥 - Curso FIREBASE en KOTLIN con JETPACK COMPOSE - Capítulo 2",
+        "h": "20240801123701",
+        "l": 3060
+    },
+    {
+        "i": 91,
+        "j": "smAhUwEQ1d8",
+        "b": "KOTLIN MULTIPLATFORM desde CERO #1 📱 | Preparación del entorno y Hello World [CURSO KMP]",
+        "h": "20231123134117",
+        "l": 1475
+    },
+    {
+        "i": 34,
+        "j": "SooIgKIlwmE",
+        "b": "[¡5 ejemplos!] Funciones de EXTENSIÓN en KOTLIN + 5 ejemplos (el último es BRUTAL)",
+        "h": "20210506162559",
+        "l": 759
+    },
+    {
         "i": 126,
         "j": "T-R1-4qJB-I",
         "b": "Aprende a Crear Widgets en Android con GLANCE 🔥 Curso Completo desde Cero",
@@ -889,10 +735,164 @@
         "l": 7034
     },
     {
-        "i": 127,
-        "j": "Drcq34050pY",
-        "b": "Firebase AUTH en Kotlin Multiplatform con Compose 🔥 (Tutorial desde 0)",
-        "h": "20250819164647",
-        "l": 4661
+        "i": 40,
+        "j": "t6ZuzSu2UHI",
+        "b": "Dagger HILT en KOTLIN con MVVM 💉 - Tutorial android inyección de dependencias con Dagger Hilt",
+        "h": "20210729143815",
+        "l": 1561
+    },
+    {
+        "i": 76,
+        "j": "TEoe4JTQOEA",
+        "b": "NOTIFICACIONES PUSH programadas con ALARMMANAGER y BROADCASTRECEIVER",
+        "h": "20230202145559",
+        "l": 839
+    },
+    {
+        "i": 2,
+        "j": "UaR7GSNACsM",
+        "b": "🚀 CURSO: ANDROID nivel INTERMEDIO con KOTLIN  -  TUTORIAL ANDROID STUDIO [2024]",
+        "h": "20230914073509",
+        "l": 30296
+    },
+    {
+        "i": 93,
+        "j": "VIPCCytIIzg",
+        "b": "KOTLIN MULTIPLATFORM desde CERO #3 📱 | Navegación con Bottom Bar con Voyager",
+        "h": "20231206132311",
+        "l": 1175
+    },
+    {
+        "i": 0,
+        "j": "vJapzH_46a8",
+        "b": "🚀 CURSO: ANDROID desde CERO con KOTLIN  -  TUTORIAL ANDROID STUDIO [2023] - PARTE 1",
+        "h": "20230302181048",
+        "l": 33689
+    },
+    {
+        "i": 30,
+        "j": "vJtQgzsE41s",
+        "b": "💰INTERSTITIAL ADMOB en Android con KOTLIN 💰- Implementar INTERSTITIAL ADMOB en Android Studio [2021]",
+        "h": "20210311171858",
+        "l": 870
+    },
+    {
+        "i": 59,
+        "j": "vkWZIuB4RZA",
+        "b": "[TUTORIAL] SPLASH screen API en KOTLIN - Con ANIMACIONES en ANDROID 12 - DESDE CERO - ANDROID STUDIO",
+        "h": "20220804155149",
+        "l": 1007
+    },
+    {
+        "i": 80,
+        "j": "vQ0w4zAe68A",
+        "b": "Domina las CORRUTINAS - Corrutinas para ANDROID con KOTLIN [TUTORIAL]",
+        "h": "20230518121612",
+        "l": 1240
+    },
+    {
+        "i": 70,
+        "j": "w_KegccmapU",
+        "b": "CONVIERTE diseños de FIGMA A JETPACK COMPOSE AUTOMATICAMENTE con RELAY - De figma a composable",
+        "h": "20221103145409",
+        "l": 843
+    },
+    {
+        "i": 27,
+        "j": "Wdb5okugwmU",
+        "b": "📸 CREA tu lector de Códigos QR en ANDROID con ZXING con KOTLIN [TUTORIAL 2021] - Librerías ANDROID",
+        "h": "20210130103622",
+        "l": 1075
+    },
+    {
+        "i": 89,
+        "j": "WrttcY3x5eA",
+        "b": "Firebase para Android con Kotlin: Curso Definitivo desde 0 [Presentación]",
+        "h": "20231024133113",
+        "l": 96
+    },
+    {
+        "i": 105,
+        "j": "WTKiwXDh8Aw",
+        "b": "Programo una web completamente en KOTLIN - KOTLIN WEB WASM",
+        "h": "20240404083612",
+        "l": 870
+    },
+    {
+        "i": 77,
+        "j": "X0Z5ZkLEUCY",
+        "b": "5 TRUCOS para ANDROID STUDIO ¿Los conocías?",
+        "h": "20230209171803",
+        "l": 351
+    },
+    {
+        "i": 48,
+        "j": "xCjIJMydI3s",
+        "b": "TESTING en ANDROID con KOTLIN desde Cero - [Test unitarios en Android Studio] - Pruebas unitarias",
+        "h": "20220218163158",
+        "l": 2327
+    },
+    {
+        "i": 86,
+        "j": "XSWhr6ZgSd8",
+        "b": "Monetiza tu APP sin anuncios - Monedata",
+        "h": "20230921161028",
+        "l": 1632
+    },
+    {
+        "i": 101,
+        "j": "xtAzuxw9QU4",
+        "b": "Añade JETPACK COMPOSE en tu app con XML (Android Views)",
+        "h": "20240222173833",
+        "l": 771
+    },
+    {
+        "i": 14,
+        "j": "xz7U_4Ob6Lg",
+        "b": "Diseño de Layouts - FrameLayout - Curso de Android en Kotlin",
+        "h": "20210130103549",
+        "l": 568
+    },
+    {
+        "i": 97,
+        "j": "Y6rLAFbmZLU",
+        "b": "JETPACK COMPOSE: Creando la MAYOR base de datos de habla hispana",
+        "h": "20240118150306",
+        "l": 761
+    },
+    {
+        "i": 11,
+        "j": "yE2Y2q4iWpU",
+        "b": "View Binding - 🔄 CONECTA VISTAS en Android con Kotlin - Tutorial Android Studio en español",
+        "h": "20210130103644",
+        "l": 823
+    },
+    {
+        "i": 73,
+        "j": "yIIkqLq_3ww",
+        "b": "PRUEBO Android Architecture Starter Templates - NO vuelvas a crear proyectos desde CERO",
+        "h": "20221206152033",
+        "l": 779
+    },
+    {
+        "i": 63,
+        "j": "yMLeHs0aG4o",
+        "b": "🖐 5 PREGUNTAS de ENTREVISTAS para DESARROLLADORES ANDROID - Prueba técnica para programador ANDROID",
+        "h": "20220908150839",
+        "l": 488
+    },
+    {
+        "i": 102,
+        "j": "Yn3ylxsI2yA",
+        "b": "Debug y Logs - Cómo buscar errores correctamente en tus Apps con Android Studio",
+        "h": "20240229144008",
+        "l": 1189
+    },
+    {
+        "i": 74,
+        "j": "Zfaev5IOBmI",
+        "b": "CI/CD en ANDROID con GITHUB ACTIONS - TUTORIAL integración continua desde cero.",
+        "h": "20230112174335",
+        "l": 1626
     }
 ]
