@@ -1,6 +1,6 @@
 [
     {
-        "i": 65,
+        "i": 66,
         "j": "_hLAz3thTUU",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, FUNCIONES DE TIPO TABLA  (video 66)",
         "h": "20230721163641",
@@ -21,21 +21,21 @@
         "l": 442
     },
     {
-        "i": 82,
+        "i": 83,
         "j": "09Zn05i7E0I",
         "b": "Curso de SQL Server 2021 desde cero | USUSARIOS - MODO SCRIPT (video 83 )",
         "h": "20230822002120",
         "l": 962
     },
     {
-        "i": 75,
+        "i": 76,
         "j": "2_8wv9e_QTM",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, WHILE - CONTINUE (video 76 )",
         "h": "20230810183651",
         "l": 486
     },
     {
-        "i": 79,
+        "i": 80,
         "j": "2jaC4We9yjw",
         "b": "Curso de SQL Server 2021 desde cero | CURSORES TIPO TABLA (video 80 )",
         "h": "20230816211326",
@@ -56,7 +56,7 @@
         "l": 501
     },
     {
-        "i": 67,
+        "i": 68,
         "j": "3XGOrLFonYE",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, TRIGGERS (INSERT, UPDATE, DELETE) (video 68)",
         "h": "20230726235247",
@@ -70,21 +70,21 @@
         "l": 351
     },
     {
-        "i": 59,
+        "i": 60,
         "j": "4uSUd51ZESA",
         "b": "Curso de SQL Server 2021 desde cero | PROCEDIMIENTOS ALMACENADOS [BORRAR, ACTUALIZAR] (video 60)",
         "h": "20230715113636",
         "l": 366
     },
     {
-        "i": 78,
+        "i": 79,
         "j": "53I3v9f8p6I",
         "b": "Curso de SQL Server 2021 desde cero | CURSORES (Introducción) (video 79 )",
         "h": "20230816175121",
         "l": 947
     },
     {
-        "i": 86,
+        "i": 87,
         "j": "5jFE0LeM3Os",
         "b": "Curso de SQL Server 2021 desde cero | PARTITION BY (video 87 )",
         "h": "20240224164809",
@@ -105,7 +105,7 @@
         "l": 1051
     },
     {
-        "i": 61,
+        "i": 62,
         "j": "6kaR9OaEESg",
         "b": "Curso de SQL Server 2021 desde cero | PROCEDIMIENTOS ALMACENADOS [PAMETROS DE SALIDA] (video 62)",
         "h": "20230718173325",
@@ -140,21 +140,21 @@
         "l": 558
     },
     {
-        "i": 84,
+        "i": 85,
         "j": "8Pbr1NSUMiQ",
         "b": "Curso de SQL Server 2021 desde cero | BACKUPS DE LA BASE (video 85 )",
         "h": "20230823182233",
         "l": 801
     },
     {
-        "i": 58,
+        "i": 59,
         "j": "8sCrjt5e2Yk",
         "b": "Curso de SQL Server 2021 desde cero |  T-SQL, PROCEDIMIENTOS ALMACENADOS  (video 59)",
         "h": "20230714232239",
         "l": 948
     },
     {
-        "i": 85,
+        "i": 86,
         "j": "8T9iH2lBgJ0",
         "b": "Curso de SQL Server 2021 desde cero | OVER() (video 86 )",
         "h": "20240224151344",
@@ -182,9 +182,9 @@
         "l": 766
     },
     {
-        "i": 53,
+        "i": 54,
         "j": "a0DLfgTb310",
-        "b": "Curso de SQL Server 2021 desde cero | TRANSACT-SQL, FIRST_VALUE() PARTE II (video 54)",
+        "b": "Curso de SQL Server 2021 desde cero | TRANSACT-SQL, FIRST_VALUE() (video 54)",
         "h": "20230707224309",
         "l": 830
     },
@@ -203,7 +203,7 @@
         "l": 1495
     },
     {
-        "i": 62,
+        "i": 63,
         "j": "cDoSUE68sNw",
         "b": "Curso de SQL Server 2021 desde cero | PROCEDIMIENTOS ALMACENADOS [ENCRIPTACION] (video 63)",
         "h": "20230718210831",
@@ -215,6 +215,13 @@
         "b": "Curso de SQL Server 2021 desde cero | TRANSACT-SQL, BULK INSERT ESTATICO  (video 53)",
         "h": "20230706232211",
         "l": 737
+    },
+    {
+        "i": 53,
+        "j": "dlyXKEZKq48",
+        "b": "Curso de SQL Server 2021 desde cero | TRANSACT-SQL, ROW_NUMBER(), RANK() Y DENSE RANK() (video 53-2)",
+        "h": "20251120211959",
+        "l": 599
     },
     {
         "i": 42,
@@ -308,14 +315,14 @@
         "l": 319
     },
     {
-        "i": 73,
+        "i": 74,
         "j": "IJKqwWouePs",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, LOOPS (video 74 )",
         "h": "20230807220654",
         "l": 868
     },
     {
-        "i": 81,
+        "i": 82,
         "j": "iRVa5-z--Zw",
         "b": "Curso de SQL Server 2021 desde cero | USUSARIOS - MODO GRAFICO  (video 82 )",
         "h": "20230820203416",
@@ -350,21 +357,21 @@
         "l": 410
     },
     {
-        "i": 56,
+        "i": 57,
         "j": "k5_2r2nLXzo",
         "b": "Curso de SQL Server 2021 desde cero |  T-SQL, VARIABLES (video 57)",
         "h": "20230713173802",
         "l": 1204
     },
     {
-        "i": 60,
+        "i": 61,
         "j": "KTzJxJfe8ao",
         "b": "Curso de SQL Server 2021 desde cero | PROCEDIMIENTOS ALMACENADOS [PAMETROS DE ENTRADA] (video 61)",
         "h": "20230715211833",
         "l": 586
     },
     {
-        "i": 74,
+        "i": 75,
         "j": "LcjLAQB32Qo",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, WHILE- BREAK (video 75 )",
         "h": "20230807232524",
@@ -378,35 +385,35 @@
         "l": 1211
     },
     {
-        "i": 76,
+        "i": 77,
         "j": "LYSAdzwm-QU",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, LOOPS ANIDADOS (video 77 )",
         "h": "20230811221209",
         "l": 422
     },
     {
-        "i": 90,
+        "i": 91,
         "j": "m-VztZYm1jE",
         "b": "Curso de SQL Server 2021 desde cero | BEGIN TRANSACTION, COMMIT - ROLLBACK (video 91 )",
         "h": "20240301221503",
         "l": 568
     },
     {
-        "i": 69,
+        "i": 70,
         "j": "M0j5TdWCAkw",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, TRIGGERS (ENABLE, DISABLE) (video 70)",
         "h": "20230727201802",
         "l": 264
     },
     {
-        "i": 80,
+        "i": 81,
         "j": "mfhQt0ZE82Y",
         "b": "Curso de SQL Server 2021 desde cero | CURSORES - ACTUALIZAR DATOS (video 81 )",
         "h": "20230818212302",
         "l": 592
     },
     {
-        "i": 64,
+        "i": 65,
         "j": "nnT-ZUcTNPY",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, FUNCIONES  (video 65)",
         "h": "20230720212535",
@@ -427,21 +434,21 @@
         "l": 458
     },
     {
-        "i": 55,
+        "i": 56,
         "j": "q8twUy6aveg",
         "b": "Curso de SQL Server 2021 desde cero |  T-SQL, IF EXIST() - ELSE  (video 56)",
         "h": "20230709000521",
         "l": 919
     },
     {
-        "i": 66,
+        "i": 67,
         "j": "QCS_DY7CYtU",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, TRIGGERS (INTRODUCCION) (video 67)",
         "h": "20230725130515",
         "l": 992
     },
     {
-        "i": 89,
+        "i": 90,
         "j": "QOFSgXti2XY",
         "b": "Curso de SQL Server 2021 desde cero | EJERCICIO CONSULTA CRUZADA (video 90 )",
         "h": "20240226150351",
@@ -462,21 +469,21 @@
         "l": 590
     },
     {
-        "i": 83,
+        "i": 84,
         "j": "Sey9nsrWcAo",
         "b": "Curso de SQL Server 2021 desde cero | JOBS EN SQL SERVER  (video 84 )",
         "h": "20230822231409",
         "l": 777
     },
     {
-        "i": 68,
+        "i": 69,
         "j": "Sn5sINjDbt4",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, TRIGGERS (INSTEAD OF) (video 69)",
         "h": "20230727182914",
         "l": 1109
     },
     {
-        "i": 87,
+        "i": 88,
         "j": "sVeUpPTEB3g",
         "b": "Curso de SQL Server 2021 desde cero | RANK() (video 88 )",
         "h": "20240224171936",
@@ -504,7 +511,7 @@
         "l": 264
     },
     {
-        "i": 77,
+        "i": 78,
         "j": "tzbba5KffkE",
         "b": "Curso de SQL Server 2021 desde cero | MANEJO DE REGISTROS CON BUCLE WHILE (video 78 )",
         "h": "20230812214223",
@@ -518,28 +525,28 @@
         "l": 505
     },
     {
-        "i": 63,
+        "i": 64,
         "j": "uyzoZn_Txfk",
         "b": "Curso de SQL Server 2021 desde cero | TABLAS TEMPORALES (video 64)",
         "h": "20230718233955",
         "l": 398
     },
     {
-        "i": 88,
+        "i": 89,
         "j": "V2PTKQiY3bo",
         "b": "Curso de SQL Server 2021 desde cero | USO DE LA CLAUSULA WITH (video 89 )",
         "h": "20240224211917",
         "l": 425
     },
     {
-        "i": 71,
+        "i": 72,
         "j": "vz-QFxkM6qc",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, BULK INSERT DINAMICO, (video 72)",
         "h": "20230730204132",
         "l": 718
     },
     {
-        "i": 72,
+        "i": 73,
         "j": "W1anf4vxta0",
         "b": "Curso de SQL Server 2021 desde cero | VARIABLES DE SISTEMA (video 73 )",
         "h": "20230804225252",
@@ -574,7 +581,7 @@
         "l": 434
     },
     {
-        "i": 70,
+        "i": 71,
         "j": "xPvSn9UAJg0",
         "b": "Curso de SQL Server 2021 desde cero | T-SQL, TRIGGERS (RAISERROR) (video 71)",
         "h": "20230728212855",
@@ -602,7 +609,7 @@
         "l": 474
     },
     {
-        "i": 57,
+        "i": 58,
         "j": "Z8__Yt6v6mw",
         "b": "Curso de SQL Server 2021 desde cero |  T-SQL, VARIABLES TIPO TABLA (video 58)",
         "h": "20230713213602",
@@ -616,7 +623,7 @@
         "l": 388
     },
     {
-        "i": 54,
+        "i": 55,
         "j": "zPBIYe7cOt8",
         "b": "Curso de SQL Server 2021 desde cero |  BLOQUES, INTRODUCCION (video 55)",
         "h": "20230708222232",

@@ -266,6 +266,13 @@
         "l": 656
     },
     {
+        "i": 196,
+        "j": "6IQqS6M1CO4",
+        "b": "🔥14 - ¿Cómo se crea un modelo principal mainModel en el patrón de arquitectura MVC?",
+        "h": "20251118145830",
+        "l": 414
+    },
+    {
         "i": 51,
         "j": "6Y-5FNr-KQs",
         "b": "🐘 CURSO de PHP desde CERO - 52 EXPRESIONES REGULARES: VALIDAR FORMULARIOS con PHP [preg_match]",
@@ -530,6 +537,13 @@
         "b": "🔥CRUD en PHP y MySQL POO MVC JS - 04 Como CREAR una BASE de DATOS en MySQL con PHPMyadmin",
         "h": "20230720172745",
         "l": 316
+    },
+    {
+        "i": 197,
+        "j": "GBrDsI_aiR4",
+        "b": "🔥15 - ¿Qué es PDO y como crear una conexión PDO a BASE de DATOS MySQL con PHP y MVC?",
+        "h": "20251118213222",
+        "l": 435
     },
     {
         "i": 190,
@@ -814,7 +828,7 @@
     {
         "i": 183,
         "j": "NUlbT7Fa-Aw",
-        "b": "🔥1 - ¿Cómo crear o desarrollar un SISTEMA de VENTAS en PHP y MySQL?",
+        "b": "🔥1 - ¿Cómo crear o desarrollar un SISTEMA de VENTAS en PHP y MySQL MVC?",
         "h": "20251029002547",
         "l": 430
     },
@@ -1008,6 +1022,13 @@
         "l": 609
     },
     {
+        "i": 198,
+        "j": "RlAQ3oAqwP8",
+        "b": "🔥16 - ¿Cómo se EJECUTAN las CONSULTAS PREPARADAS a una BASE de DATOS MySQL con PDO y MVC?",
+        "h": "20251119221849",
+        "l": 304
+    },
+    {
         "i": 39,
         "j": "rlxqbzqL-e0",
         "b": "🐘 CURSO de PHP desde CERO - 40 Como OBTENER la HORA y FECHA ACTUAL en PHP",
@@ -1099,6 +1120,13 @@
         "l": 538
     },
     {
+        "i": 193,
+        "j": "URQm8VDWVa8",
+        "b": "🔥11 - ¿Cómo agrego un modelo al patrón de arquitectura MVC en PHP?",
+        "h": "20251109143323",
+        "l": 832
+    },
+    {
         "i": 108,
         "j": "UyNZxmrouso",
         "b": "🐘 CURSO POO con PHP desde CERO - 01 ¿Que es la PROGRAMACION ORIENTADA a OBJETOS en PHP?",
@@ -1132,6 +1160,13 @@
         "b": "🐬 CURSO de PHP y MySQL desde CERO - 40 Como HACER un CRUD en PHP MySQL PDO: ELIMINAR DATOS",
         "h": "20220924172304",
         "l": 783
+    },
+    {
+        "i": 199,
+        "j": "vYwDIhAvaeY",
+        "b": "🔥17 - ¿Cómo PREVENIR o EVITAR un ataque de inyección SQL en PHP y MVC?",
+        "h": "20251120161202",
+        "l": 666
     },
     {
         "i": 30,
@@ -1204,6 +1239,13 @@
         "l": 744
     },
     {
+        "i": 194,
+        "j": "XfTTZuLKNN0",
+        "b": "🔥12 - ¿Cómo creo un controlador para el patrón de arquitectura MVC en PHP?",
+        "h": "20251110172918",
+        "l": 484
+    },
+    {
         "i": 156,
         "j": "xoTcpWumDbA",
         "b": "🔥CRUD en PHP y MySQL POO MVC JS - 32 Como CREAR y NOMBRAR un CONTROLADOR para USUARIOS",
@@ -1239,6 +1281,13 @@
         "l": 822
     },
     {
+        "i": 200,
+        "j": "XZm3jjF-Wd0",
+        "b": "🔥18 - ¿Cómo usar o validar EXPRESIONES REGULARES en PHP y MVC con preg_match()?",
+        "h": "20251121223259",
+        "l": 441
+    },
+    {
         "i": 153,
         "j": "Y2GNqh2iD10",
         "b": "🔥CRUD en PHP y MySQL POO MVC JS - 29 Como ENVIAR FORMULARIOS con API FETCH AJAX y PHP (part2)",
@@ -1265,6 +1314,13 @@
         "b": "🐘 CURSO POO con PHP desde CERO - 12 Que es y que HACE un GETTER y SETTER en POO [EJEMPLO]",
         "h": "20221216003642",
         "l": 758
+    },
+    {
+        "i": 195,
+        "j": "yEiSHpGh3uU",
+        "b": "🔥13 - ¿Cómo pasar el controlador a la vista en el patrón de arquitectura MVC?",
+        "h": "20251111161856",
+        "l": 676
     },
     {
         "i": 49,

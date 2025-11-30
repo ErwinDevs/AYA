@@ -380,9 +380,9 @@
     {
         "i": 327,
         "j": "8x4Z4IVk9ik",
-        "b": "Private video",
+        "b": "Impresionante Turboventilador Fiireal X50 Pro",
         "h": "20251110140522",
-        "l": 0
+        "l": 449
     },
     {
         "i": 222,
@@ -565,6 +565,13 @@
         "b": "Como funciona circuito regulador tension con OPAMP para fuente tensión(Clase 67)",
         "h": "20191027211401",
         "l": 1924
+    },
+    {
+        "i": 329,
+        "j": "BXa-Tjy9dhY",
+        "b": "Manejo y analisis Camara Termica Hikmicro B10S",
+        "h": "20251116142935",
+        "l": 1216
     },
     {
         "i": 283,
@@ -1148,6 +1155,13 @@
         "l": 785
     },
     {
+        "i": 332,
+        "j": "jpr0HCtkfeg",
+        "b": "Medidor Aislamiento MRT1050 FNIRSI",
+        "h": "20251122215206",
+        "l": 980
+    },
+    {
         "i": 228,
         "j": "Jstpvj19vgc",
         "b": "Conexion correcta en paralelo dos puentes rectificadores para aumentar intensidad (clase 32.3)",
@@ -1274,6 +1288,13 @@
         "l": 1487
     },
     {
+        "i": 330,
+        "j": "l_eG3QOajT0",
+        "b": "Camaras termica GH340 y GW340 Goyojo",
+        "h": "20251117192058",
+        "l": 1255
+    },
+    {
         "i": 220,
         "j": "L6XAV5rn6VA",
         "b": "Como funcionan lo circuitos de control de potencia en AC MONOFASICA con tiristores SCR (clase 137)",
@@ -1321,6 +1342,13 @@
         "b": "SMPS 12V-10 A explicacion con esquema y fuente conmutada (clase 111)",
         "h": "20201114124354",
         "l": 1606
+    },
+    {
+        "i": 333,
+        "j": "lmB4JFoFAvs",
+        "b": "Mi experiencia con ESTACION ENERGIA J1000 Plus de FLASHFISH",
+        "h": "20251126145601",
+        "l": 325
     },
     {
         "i": 105,
@@ -1776,6 +1804,13 @@
         "b": "Como calcular el valor promedio de señales DC mas utilizadas en electronica (Clase 40)",
         "h": "20200215203300",
         "l": 1448
+    },
+    {
+        "i": 331,
+        "j": "SFAG2r5crwY",
+        "b": "Camara Termica Thermal Master P1",
+        "h": "20251121210724",
+        "l": 738
     },
     {
         "i": 6,
