@@ -1,0 +1,765 @@
+[
+    {
+        "i": 18,
+        "j": "-AeyDbTlkro",
+        "b": "M02-02-01 Microsoft Azure Administrator | AZ104 | Crear grupos de administracion Azure",
+        "h": "20220725211755",
+        "l": 114
+    },
+    {
+        "i": 29,
+        "j": "-QV3kAVWOv4",
+        "b": "M04-01-02 Microsoft Azure Administrator | AZ104 | Crear subredes Azure",
+        "h": "20220804001707",
+        "l": 197
+    },
+    {
+        "i": 67,
+        "j": "-v9AnBoBNwo",
+        "b": "M08-02-02 Microsoft Azure Administrator | AZ104 | Conjuntos de disponibilidad/Availability Set Azure",
+        "h": "20220813214846",
+        "l": 240
+    },
+    {
+        "i": 74,
+        "j": "0-6l3P1FXGM",
+        "b": "M08-03-02 Microsoft Azure Administrator | AZ104 | Implementar custom script extension Azure",
+        "h": "20220813214001",
+        "l": 107
+    },
+    {
+        "i": 46,
+        "j": "06QhbDQsDzw",
+        "b": "M07-00-00 Microsoft Azure Administrator | AZ104 | Azure storage Intro",
+        "h": "20220805190803",
+        "l": 61
+    },
+    {
+        "i": 12,
+        "j": "0jWjDqH37pU",
+        "b": "M02-01-05 Microsoft Azure Administrator | AZ104 | Crear grupos de recursos de Azure",
+        "h": "20220725210913",
+        "l": 281
+    },
+    {
+        "i": 25,
+        "j": "0L5ALyoaubA",
+        "b": "Lab03a Microsoft Azure Administrator | AZ104 | Administrar recursos usando Azure Portal",
+        "h": "20220725212656",
+        "l": 449
+    },
+    {
+        "i": 36,
+        "j": "0Y6AbpxhQVQ",
+        "b": "M05-01-02 Microsoft Azure Administrator | AZ104 | Requisitos tránsito y connectividad Azure",
+        "h": "20220804003110",
+        "l": 87
+    },
+    {
+        "i": 107,
+        "j": "11uehcQeMnk",
+        "b": "M010 lab010 Microsoft Azure Administrator | AZ104 | Implementar protección de datos Azure",
+        "h": "20220821154419",
+        "l": 1595
+    },
+    {
+        "i": 24,
+        "j": "1ehzQLov70M",
+        "b": "M03-02-01 Microsoft Azure Administrator | AZ104 | Ventajas plantillas Azure Resource Manager",
+        "h": "20220725212524",
+        "l": 277
+    },
+    {
+        "i": 44,
+        "j": "2Nevz69QCJY",
+        "b": "M06-01-05 Microsoft Azure Administrator | AZ104 | Determinar servicios de endpoints Azure",
+        "h": "20220804004159",
+        "l": 22
+    },
+    {
+        "i": 23,
+        "j": "2tbdmRN3JSM",
+        "b": "M03-02-00 Microsoft Azure Administrator | AZ104 | Configurar recursos de Azure con plantillas ARM",
+        "h": "20220725212421",
+        "l": 40
+    },
+    {
+        "i": 11,
+        "j": "3bYFrtCzSgE",
+        "b": "M02-01-04 Microsoft Azure Administrator | AZ104 |  Obtener una suscripción de Azure",
+        "h": "20220725210755",
+        "l": 89
+    },
+    {
+        "i": 57,
+        "j": "45mTjDhguKc",
+        "b": "M07-02-04  Microsoft Azure Administrator | AZ104 | Añadir reglas de ciclo de vida Azure blob storage",
+        "h": "20220805192426",
+        "l": 139
+    },
+    {
+        "i": 108,
+        "j": "48_9_g0hlDc",
+        "b": "M011 lab011 Microsoft Azure Administrator | AZ104 | implementar soluciones de Monitoreo Azure",
+        "h": "20220904160530",
+        "l": 1304
+    },
+    {
+        "i": 3,
+        "j": "4sOC3OYBW9Y",
+        "b": "M01-01-02 Microsoft Azure Administrator | AZ104 | Azure Active Directory Beneficios-Caracteristicas",
+        "h": "20220725195735",
+        "l": 200
+    },
+    {
+        "i": 93,
+        "j": "4weHsLVYyA8",
+        "b": "M010-01-01 Microsoft Azure Administrator | AZ104 |  Beneficios de Azure backup",
+        "h": "20220821152803",
+        "l": 129
+    },
+    {
+        "i": 7,
+        "j": "4XKfD2bNpbk",
+        "b": "Lab 01 Microsoft Azure Administrator | AZ104 | Administrar identidades Azure Active Directory",
+        "h": "20220725200550",
+        "l": 782
+    },
+    {
+        "i": 54,
+        "j": "6CwLUjekdHM",
+        "b": "M07-02-01 Microsoft Azure Administrator | AZ104 | Implementar Azure blob storage",
+        "h": "20220805191932",
+        "l": 62
+    },
+    {
+        "i": 4,
+        "j": "6suT9R0KyiE",
+        "b": "M01-01-03 Microsoft Azure Administrator | AZ104 | Azure Active Directory Conceptos",
+        "h": "20220725195941",
+        "l": 141
+    },
+    {
+        "i": 51,
+        "j": "7a5lJfYnrrw",
+        "b": "M07-01-05 Microsoft Azure Administrator | AZ104 | Acceso cuenta almacenamiento Azure",
+        "h": "20220805191537",
+        "l": 104
+    },
+    {
+        "i": 63,
+        "j": "7md5pB9Va_8",
+        "b": "M08-01-04 Microsoft Azure Administrator | AZ104 | Determinar almacenamiento máquina virtual Azure",
+        "h": "20220813215353",
+        "l": 330
+    },
+    {
+        "i": 6,
+        "j": "7N7J_XHF7_Y",
+        "b": "M01-01-05 Microsoft Azure Administrator | AZ104 | Ediciones Azure Active Directory",
+        "h": "20220725200331",
+        "l": 205
+    },
+    {
+        "i": 43,
+        "j": "8n0emhFGlZ0",
+        "b": "M06-01-04 Microsoft Azure Administrator | AZ104 | Usos de Azure service endpoints",
+        "h": "20220804004037",
+        "l": 129
+    },
+    {
+        "i": 86,
+        "j": "8T4vjNryL5g",
+        "b": "M09-02-06 Microsoft Azure Administrator | AZ104 | Nombre de dominio personalizado Azure app service",
+        "h": "20220815224656",
+        "l": 146
+    },
+    {
+        "i": 22,
+        "j": "9qIIZYUUfPQ",
+        "b": "M03-01-01 Microsoft Azure Administrator | AZ104 | Herramientas de administracion Azure",
+        "h": "20220725212301",
+        "l": 211
+    },
+    {
+        "i": 53,
+        "j": "a-mtS-ec_pI",
+        "b": "M07-02-00 Microsoft Azure Administrator | AZ104 | Configurar Azure blob storage",
+        "h": "20220805191759",
+        "l": 59
+    },
+    {
+        "i": 31,
+        "j": "a6Stm8eXhVg",
+        "b": "M04-01-04 Microsoft Azure Administrator | AZ104 | Planificar direccionamiento IP Azure",
+        "h": "20220804002227",
+        "l": 109
+    },
+    {
+        "i": 56,
+        "j": "AcvbH_JYyV8",
+        "b": "M07-02-03 Microsoft Azure Administrator | AZ104 | Niveles de acceso Azure blob storage",
+        "h": "20220805192158",
+        "l": 96
+    },
+    {
+        "i": 26,
+        "j": "aeZFlMgJRfQ",
+        "b": "Lab03b Microsoft Azure Administrator | AZ104 | Administrar recursos de Azure con plantillas ARM",
+        "h": "20220804001152",
+        "l": 332
+    },
+    {
+        "i": 68,
+        "j": "ba4n_cl5aoI",
+        "b": "M08-02-03 Microsoft Azure Administrator | AZ104 | Zonas de disponibilidad Azure",
+        "h": "20220813214704",
+        "l": 153
+    },
+    {
+        "i": 2,
+        "j": "buB1u8Hg6zs",
+        "b": "M00-00-02 Microsoft Azure Administrator | AZ 104 | Módulos del curso",
+        "h": "20220725195321",
+        "l": 58
+    },
+    {
+        "i": 69,
+        "j": "bucTtT2olhc",
+        "b": "M08-02-04 Microsoft Azure Administrator | AZ104 | Escalado vertical y escalado horizontal en Azure",
+        "h": "20220813214613",
+        "l": 103
+    },
+    {
+        "i": 84,
+        "j": "C3B1dG6H8sA",
+        "b": "M09-02-04 Microsoft Azure Administrator | AZ104 | Azure deployment slots",
+        "h": "20220815224511",
+        "l": 129
+    },
+    {
+        "i": 106,
+        "j": "cEcxnEXOc-s",
+        "b": "M010-02-08 Microsoft Azure Administrator | AZ104 | Implementar Azure site recovery",
+        "h": "20220821154156",
+        "l": 130
+    },
+    {
+        "i": 59,
+        "j": "EkhlxjLulhY",
+        "b": "M07 Lab07 Microsoft Azure Administrator | AZ104 | Administrar azure storage",
+        "h": "20220805192844",
+        "l": 1158
+    },
+    {
+        "i": 92,
+        "j": "F_ZLiXvuDps",
+        "b": "M010-01-00 Microsoft Azure Administrator | AZ104 | Configurar Azure backup",
+        "h": "20220821152656",
+        "l": 39
+    },
+    {
+        "i": 58,
+        "j": "fJF1VY2-bp0",
+        "b": "M07-02-05 Microsoft Azure Administrator | AZ104 | Determinar replicacion Azure blob storage",
+        "h": "20220805192541",
+        "l": 116
+    },
+    {
+        "i": 95,
+        "j": "fxsv73mJqmY",
+        "b": "M010-01-03 Microsoft Azure Administrator | AZ104 | Configurar backup Azure recovery services vault",
+        "h": "20220821152957",
+        "l": 63
+    },
+    {
+        "i": 5,
+        "j": "FyITq59hmLc",
+        "b": "M01-01-04 Microsoft Azure Administrator | AZ104 | Comparando Azure AD y AD DS",
+        "h": "20220725200119",
+        "l": 194
+    },
+    {
+        "i": 82,
+        "j": "G1tL3avpC58",
+        "b": "M09-02-03 Microsoft Azure Administrator | AZ104 | CI/CD Azure app service",
+        "h": "20220815224307",
+        "l": 85
+    },
+    {
+        "i": 35,
+        "j": "HgGmYVPuz-8",
+        "b": "M05-01-01 Microsoft Azure Administrator | AZ104 |  Determinar usos Vnet Peering Azure",
+        "h": "20220804002859",
+        "l": 145
+    },
+    {
+        "i": 83,
+        "j": "HO6es4K25vM",
+        "b": "M09-02-02 Microsoft Azure Administrator | AZ104 | Crear Azure app service",
+        "h": "20220815224401",
+        "l": 75
+    },
+    {
+        "i": 77,
+        "j": "HT_oJce9Vqk",
+        "b": "M09-01-02 Microsoft Azure Administrator | AZ104 | Determinar precio de Azure app service plan",
+        "h": "20220815223742",
+        "l": 179
+    },
+    {
+        "i": 55,
+        "j": "HTAiLMRSHE0",
+        "b": "M07-02-02 Microsoft Azure Administrator | AZ104 | Crear Azure blob container",
+        "h": "20220805192106",
+        "l": 84
+    },
+    {
+        "i": 62,
+        "j": "Ibq0jtCHk3w",
+        "b": "M08-01-03 Microsoft Azure Administrator | AZ104 | Determinar tamaño máquina virtual Azure",
+        "h": "20220813215454",
+        "l": 104
+    },
+    {
+        "i": 15,
+        "j": "IlEmkrV1aAE",
+        "b": "M02-01-08 Microsoft Azure Administrator | AZ104 | Aplicar etiquetas de recursos Azure",
+        "h": "20220725211324",
+        "l": 102
+    },
+    {
+        "i": 37,
+        "j": "JBmFbZdKLcE",
+        "b": "M05-01-03 Microsoft Azure Administrator | AZ104 | Crear vnet peering Azure",
+        "h": "20220804003220",
+        "l": 55
+    },
+    {
+        "i": 61,
+        "j": "Jji7GVBD-Sc",
+        "b": "M08-01-02  Microsoft Azure Administrator | AZ104 | Planificar máquinas virtuales Azure",
+        "h": "20220813213810",
+        "l": 341
+    },
+    {
+        "i": 91,
+        "j": "jM1rGySQ1rM",
+        "b": "M09 lab09c Microsoft Azure Administrator | AZ104 |  Implementar Azure kubernetes service",
+        "h": "20220815225318",
+        "l": 741
+    },
+    {
+        "i": 41,
+        "j": "jO9VRcuHE0w",
+        "b": "M06-01-02 Microsoft Azure Administrator | AZ104 |  Rutas definidas por usuario Azure",
+        "h": "20220804003831",
+        "l": 73
+    },
+    {
+        "i": 10,
+        "j": "k1sAEwuHsew",
+        "b": "M02-01-03 Microsoft Azure Administrator | AZ104 | Identificar uso de suscripción de Azure",
+        "h": "20220725210645",
+        "l": 159
+    },
+    {
+        "i": 8,
+        "j": "kC7cFFTOIKs",
+        "b": "M02-01-01 Microsoft Azure Administrator | AZ104 | Identificar regiones Azure",
+        "h": "20220725210312",
+        "l": 210
+    },
+    {
+        "i": 70,
+        "j": "kx89vhfiZ4E",
+        "b": "M08-02-05 Microsoft Azure Administrator | AZ104 | Azure scale sets",
+        "h": "20220813214324",
+        "l": 158
+    },
+    {
+        "i": 75,
+        "j": "LA0eMgLI9aU",
+        "b": "M08 Lab08 Microsoft Azure Administrator | AZ104 | Administrar máquinas virtuales Azure",
+        "h": "20220813215639",
+        "l": 2650
+    },
+    {
+        "i": 66,
+        "j": "LdBKj2Bc0cE",
+        "b": "M08-02-01 Microsoft Azure Administrator | AZ104 | Plan de manteminiento, tiempo de inactividad Azure",
+        "h": "20220813214957",
+        "l": 176
+    },
+    {
+        "i": 79,
+        "j": "lpZsfHxNZV0",
+        "b": "M09-01-04 Microsoft Azure Administrator | AZ104 | Configurar escalado Azure app service plan",
+        "h": "20220815223925",
+        "l": 162
+    },
+    {
+        "i": 81,
+        "j": "MDvQLQ7h6vM",
+        "b": "M09-02-01 Microsoft Azure Administrator | AZ104 | Implementar Azure app services",
+        "h": "20220815224121",
+        "l": 105
+    },
+    {
+        "i": 97,
+        "j": "MFAlgslBoqA",
+        "b": "M010-01-05 Microsoft Azure Administrator | AZ104 | Administrar el agente Azure recovery services",
+        "h": "20220821153219",
+        "l": 49
+    },
+    {
+        "i": 13,
+        "j": "mhojLdH8pN8",
+        "b": "M02-01-06 Microsoft Azure Administrator | AZ104 | Determinar límites recursos Azure",
+        "h": "20220725211031",
+        "l": 63
+    },
+    {
+        "i": 94,
+        "j": "n_PNP0YswjA",
+        "b": "M010-01-02 Microsoft Azure Administrator | AZ104 |  Azure backup center",
+        "h": "20220821152914",
+        "l": 143
+    },
+    {
+        "i": 76,
+        "j": "N4QGuA3RuHU",
+        "b": "M09-01-00 Microsoft Azure Administrator | AZ104 | Configurar Azure app service plan",
+        "h": "20220815223638",
+        "l": 55
+    },
+    {
+        "i": 88,
+        "j": "NicRqGesDGo",
+        "b": "M09-02-08 Microsoft Azure Administrator | AZ104 | Azure application insights",
+        "h": "20220815224854",
+        "l": 98
+    },
+    {
+        "i": 20,
+        "j": "niNV6QhA_EU",
+        "b": "Lab 02a Microsoft Azure Administrator | AZ104 | Administrar suscripciones y RBAC",
+        "h": "20220725212007",
+        "l": 814
+    },
+    {
+        "i": 96,
+        "j": "nqhjOToYW2I",
+        "b": "M010-01-04 Microsoft Azure Administrator | AZ104 | Bbackup de archivos y carpetas locales Azure",
+        "h": "20220821153112",
+        "l": 98
+    },
+    {
+        "i": 73,
+        "j": "nSYtfvfkhFY",
+        "b": "M08-03-01 Microsoft Azure Administrator | AZ104 | Implementar extensiones máquina virtual Azure",
+        "h": "20220813214138",
+        "l": 98
+    },
+    {
+        "i": 21,
+        "j": "ObhFOay4a98",
+        "b": "M03-01-00 Microsoft Azure Administrator | AZ104 | administrar recursos Azure Introducción",
+        "h": "20220725212132",
+        "l": 65
+    },
+    {
+        "i": 50,
+        "j": "ocQ2tCTfhCE",
+        "b": "M07-01-04 Microsoft Azure Administrator | AZ104 | Estrategias replicacion almacenamiento azure",
+        "h": "20220805191404",
+        "l": 342
+    },
+    {
+        "i": 9,
+        "j": "oDOCR9QcAYo",
+        "b": "M02-01-02 Microsoft Azure Administrator | AZ104 | Implementar suscripciones azure",
+        "h": "20220725210505",
+        "l": 71
+    },
+    {
+        "i": 102,
+        "j": "ohgWX2rDKys",
+        "b": "M010-02-04  Microsoft Azure Administrator | AZ104 | Backup máquinas virtuales Azure",
+        "h": "20220821153925",
+        "l": 95
+    },
+    {
+        "i": 19,
+        "j": "ONFvfqMx6Qc",
+        "b": "M02-02-02 Microsoft Azure Administrator | AZ104 | Implementar Azure policy",
+        "h": "20220725211853",
+        "l": 188
+    },
+    {
+        "i": 52,
+        "j": "OSND0v_elAo",
+        "b": "M07-01-06 Microsoft Azure Administrator | AZ104 | Asegurar cuentas de almacenamiento Azure",
+        "h": "20220805191638",
+        "l": 76
+    },
+    {
+        "i": 80,
+        "j": "pHSDa6tpGbQ",
+        "b": "M09-02-00 Microsoft Azure Administrator | AZ104 | Configurar Azure app service",
+        "h": "20220815224029",
+        "l": 72
+    },
+    {
+        "i": 64,
+        "j": "PxQ82zjfFH8",
+        "b": "M08-01-05 Microsoft Azure Administrator | AZ104 | Conectarse a máquinas virtuales Azure",
+        "h": "20220813215228",
+        "l": 119
+    },
+    {
+        "i": 87,
+        "j": "Q5uuvmOWhXg",
+        "b": "M09-02-07 Microsoft Azure Administrator | AZ104 | backups Azure app service",
+        "h": "20220815224806",
+        "l": 164
+    },
+    {
+        "i": 78,
+        "j": "QRYy_1osvUc",
+        "b": "M09-01-03 Microsoft Azure Administrator | AZ104  Escalar Azure app service plan",
+        "h": "20220815223828",
+        "l": 147
+    },
+    {
+        "i": 28,
+        "j": "RJj-h6qNJ2w",
+        "b": "M04-01-01 Microsoft Azure Administrator | AZ104 | Planificar redes virtuales Azure",
+        "h": "20220804001533",
+        "l": 127
+    },
+    {
+        "i": 99,
+        "j": "RSy1bof-SLw",
+        "b": "M010-02-01 Microsoft Azure Administrator | AZ104 | Proteger datos de máquinas virtuales Azure",
+        "h": "20220821153256",
+        "l": 245
+    },
+    {
+        "i": 48,
+        "j": "sfvC_mFzptk",
+        "b": "M07-01-02 Microsoft Azure Administrator | AZ104 | Explora los servicios de almacenamiento de Azure",
+        "h": "20220805191053",
+        "l": 230
+    },
+    {
+        "i": 103,
+        "j": "SwwSrtmiMfk",
+        "b": "M010-02-05 Microsoft Azure Administrator | AZ104 | Implementar azure backup server",
+        "h": "20220821153811",
+        "l": 118
+    },
+    {
+        "i": 71,
+        "j": "T7cGwpPudRw",
+        "b": "M08-02-06 Microsoft Azure Administrator | AZ104 | Configurar autoescalado Azure",
+        "h": "20220813214435",
+        "l": 65
+    },
+    {
+        "i": 40,
+        "j": "TeVf3psPbDs",
+        "b": "M06-01-01 Microsoft Azure Administrator | AZ104 | Revisar rutas de sistema Azure",
+        "h": "20220804003650",
+        "l": 90
+    },
+    {
+        "i": 42,
+        "j": "Tr2t8CzuvkE",
+        "b": "M06-01-03 Microsoft Azure Administrator | AZ104 | Examinar ejemplo de enrutamiento Azure",
+        "h": "20220804003927",
+        "l": 118
+    },
+    {
+        "i": 72,
+        "j": "TvPENCz_Rkk",
+        "b": "M08-03-00 Microsoft Azure Administrator | AZ104 | Extensiones de máquinas virtuales Azure",
+        "h": "20220813214226",
+        "l": 43
+    },
+    {
+        "i": 34,
+        "j": "U26JfXVDDsw",
+        "b": "M05-01-00 Microsoft Azure Administrator | AZ104 | Administrar conectividad entre sitios Azure- Intro",
+        "h": "20220804002753",
+        "l": 67
+    },
+    {
+        "i": 32,
+        "j": "U7fTBIZnFN4",
+        "b": "M04-01-05 Microsoft Azure Administrator | AZ104 | Crear direcciones IP públicas Azure",
+        "h": "20220804002420",
+        "l": 165
+    },
+    {
+        "i": 98,
+        "j": "UCsXL2iEA_g",
+        "b": "M010-02-00  Microsoft Azure Administrator | AZ104 | Configurar backups máquinas virtuales Azure",
+        "h": "20220821153431",
+        "l": 57
+    },
+    {
+        "i": 45,
+        "j": "UqtxrUiCvOQ",
+        "b": "Lab06 Microsoft Azure Administrator | AZ104 | Administrar trafico de red Azure",
+        "h": "20220804004336",
+        "l": 2274
+    },
+    {
+        "i": 100,
+        "j": "UWc_nINRftQ",
+        "b": "M010-02-02 Microsoft Azure Administrator | AZ104 | Crear snapshots de máquinas virtuales Azure",
+        "h": "20220821153528",
+        "l": 109
+    },
+    {
+        "i": 60,
+        "j": "uz7fGbWy6gw",
+        "b": "M08-01-00  Microsoft Azure Administrator | AZ104 | Configurar máquinas virtuales Azure",
+        "h": "20220813213716",
+        "l": 71
+    },
+    {
+        "i": 101,
+        "j": "VgEc-o53qtI",
+        "b": "M010-02-03 Microsoft Azure Administrator | AZ104 | Cconfigurar vm backup recovery services vault",
+        "h": "20220821153643",
+        "l": 53
+    },
+    {
+        "i": 105,
+        "j": "vJHk-tSd2w8",
+        "b": "M010-02-07 Microsoft Azure Administrator | AZ104 | Administrar soft delete Azure backup",
+        "h": "20220821154204",
+        "l": 158
+    },
+    {
+        "i": 38,
+        "j": "VoyTPfPQGOs",
+        "b": "M05-01-04 Microsoft Azure Administrator | AZ104 | usos del encadenamiento de servicios Azure",
+        "h": "20220804003346",
+        "l": 166
+    },
+    {
+        "i": 30,
+        "j": "VvTv6Njy0fQ",
+        "b": "M04-01-03 Microsoft Azure Administrator | AZ104 | Crear redes virtuales Azure",
+        "h": "20220804002014",
+        "l": 60
+    },
+    {
+        "i": 27,
+        "j": "WnEkEsG_IOs",
+        "b": "M04-01-00 Microsoft Azure Administrator | AZ104 | Administrar redes en Azure Introducción",
+        "h": "20220804001412",
+        "l": 74
+    },
+    {
+        "i": 65,
+        "j": "wXddOJ9YawU",
+        "b": "M08-02-00 Microsoft Azure Administrator | AZ104 | Configurar disponibilidad máquinas virtuales Azure",
+        "h": "20220813215133",
+        "l": 97
+    },
+    {
+        "i": 89,
+        "j": "X9wPa0r-Ge8",
+        "b": "M09 lab09a Microsoft Azure Administrator | AZ104 | Implementar webapps Azure",
+        "h": "20220815225136",
+        "l": 977
+    },
+    {
+        "i": 104,
+        "j": "xIgTmud-cFU",
+        "b": "M010-02-06  Microsoft Azure Administrator | AZ104 | Comparar opciones de backup Azure",
+        "h": "20220821154020",
+        "l": 53
+    },
+    {
+        "i": 0,
+        "j": "xnRmdDRlriA",
+        "b": "Microsoft Azure Administrator | AZ104 | Introducción",
+        "h": "20220725194732",
+        "l": 66
+    },
+    {
+        "i": 90,
+        "j": "Xw0sAYe_pIw",
+        "b": "M09 lab09b Microsoft Azure Administrator | AZ104 | Implementar Azure container instances",
+        "h": "20220815225243",
+        "l": 302
+    },
+    {
+        "i": 33,
+        "j": "yfVqeVaomUI",
+        "b": "Lab04  Microsoft Azure Administrator | AZ104 | Implementar redes virtuales Azure",
+        "h": "20220804002623",
+        "l": 1069
+    },
+    {
+        "i": 16,
+        "j": "YFyOUVtsE1Q",
+        "b": "M02-01-09 Microsoft Azure Administrator | AZ104 | Administrar costos Azure cost management",
+        "h": "20220725211457",
+        "l": 196
+    },
+    {
+        "i": 49,
+        "j": "Ynk9D4GfLVw",
+        "b": "M07-01-03 Microsoft Azure Administrator | AZ104 | Determinar tipos de cuentas de almacenamiento",
+        "h": "20220805191230",
+        "l": 36
+    },
+    {
+        "i": 85,
+        "j": "yPibElNpl5A",
+        "b": "M09-02-05 Microsoft Azure Administrator | AZ104 | Proteger Azure app service",
+        "h": "20220815224605",
+        "l": 180
+    },
+    {
+        "i": 39,
+        "j": "YqXE6YH0Cm8",
+        "b": "M06-01-00 Microsoft Azure Administrator | AZ104 | Configurar enrutamiento y endpoints Azure",
+        "h": "20220804003602",
+        "l": 60
+    },
+    {
+        "i": 17,
+        "j": "yvaW59QUV6U",
+        "b": "M02-02-00 Microsoft Azure Administrator | AZ104 | Azure policy introducción",
+        "h": "20220725211614",
+        "l": 52
+    },
+    {
+        "i": 47,
+        "j": "z6TOFVqCkws",
+        "b": "M07-01-01 Microsoft Azure Administrator | AZ104 | Implementar almacenamiento azure",
+        "h": "20220805190950",
+        "l": 223
+    },
+    {
+        "i": 14,
+        "j": "Zun2FFkmI3g",
+        "b": "M02-01-07 Microsoft Azure Administrator | AZ104 | Crear jerarquía de suscripciones en Azure",
+        "h": "20220725211157",
+        "l": 190
+    },
+    {
+        "i": 1,
+        "j": "zvISYDsOuzc",
+        "b": "M00-00-01 Microsoft Azure Administrator | AZ 104 | Áreas de estudio",
+        "h": "20220725195025",
+        "l": 30
+    }
+]

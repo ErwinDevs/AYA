@@ -1,0 +1,373 @@
+[
+    {
+        "i": 17,
+        "j": "091a3T2AnGo",
+        "b": "#17 Curso de VUE 3 - Profesional: Episodio 17 - Auth contra AZURE AD",
+        "h": "20221114000334",
+        "l": 5209
+    },
+    {
+        "i": 25,
+        "j": "0WMj5t7Twos",
+        "b": "#25 Curso de VUE 3 - Profesional: Episodio 25 - COMPONENTES DINÁMICOS",
+        "h": "20230123153336",
+        "l": 3271
+    },
+    {
+        "i": 18,
+        "j": "1sV7SpyDbwE",
+        "b": "#18 Curso de VUE 3 - Profesional: Episodio 18 - VUEX",
+        "h": "20221118193516",
+        "l": 5050
+    },
+    {
+        "i": 5,
+        "j": "4mNKZD3Kr6k",
+        "b": "Curso Profesional De VUE 3: Episodio 5 - Comunicación Vertical Y Ciclo De Vida | GOGODEV",
+        "h": "20220822002359",
+        "l": 4965
+    },
+    {
+        "i": 46,
+        "j": "54U5_o6IJ4U",
+        "b": "#46 Curso de VUE 3 - Profesional: Episodio 46 - NUXT: INTRODUCCIÓN Y ENRUTADO",
+        "h": "20230613135228",
+        "l": 3576
+    },
+    {
+        "i": 7,
+        "j": "8bUqKjDnBwY",
+        "b": "Curso Profesional De VUE 3: Episodio 7 - Directivas Personalizadas | GOGODEV",
+        "h": "20220905180456",
+        "l": 3402
+    },
+    {
+        "i": 36,
+        "j": "8V0a6vkqUwM",
+        "b": "#36 Curso de VUE 3 - Profesional: Episodio 36 - Ejercicio testing E2E con Cypress",
+        "h": "20230314161003",
+        "l": 5636
+    },
+    {
+        "i": 29,
+        "j": "9Ec9Axdp5CY",
+        "b": "#29 Curso de VUE 3 - Profesional: Episodio 29 - GRAPHQL APOLLO CLI",
+        "h": "20230220180655",
+        "l": 3540
+    },
+    {
+        "i": 51,
+        "j": "aCfilVAChTQ",
+        "b": "#51 Curso de VUE 3 - Profesional: Episodio 51 - PATRONES DE DISEÑO",
+        "h": "20230930210600",
+        "l": 3497
+    },
+    {
+        "i": 19,
+        "j": "AhNEM_k6uok",
+        "b": "#19 Curso de VUE 3 - Profesional: Episodio 19 - PINIA",
+        "h": "20221128154741",
+        "l": 1914
+    },
+    {
+        "i": 34,
+        "j": "aqqFBawF-yg",
+        "b": "#34 Curso de VUE 3 - Profesional: Episodio 34 - Signal, Reactive, Plugin y Global.",
+        "h": "20230308130142",
+        "l": 3121
+    },
+    {
+        "i": 33,
+        "j": "bhgtjgHlHaU",
+        "b": "#33 Curso de VUE 3 - Profesional: Episodio 33 - i18n",
+        "h": "20230306122139",
+        "l": 2727
+    },
+    {
+        "i": 21,
+        "j": "blTAbR-SAjY",
+        "b": "#21 Curso de VUE 3 - Profesional: Episodio 21 - PETICIONES AUTENTICADAS Y PROTECCIÓN DE RUTAS",
+        "h": "20221212193425",
+        "l": 2173
+    },
+    {
+        "i": 47,
+        "j": "BsxbAMTOZ5g",
+        "b": "#47 Curso de VUE 3 - Profesional: Episodio 47 - NUXT: AUTOIMPORT, SSR, SPA Y HYBRID",
+        "h": "20230814122738",
+        "l": 1899
+    },
+    {
+        "i": 40,
+        "j": "CJ1LG0r7BuE",
+        "b": "#40 Curso de VUE 3 - Profesional: Episodio 40 - Deploy",
+        "h": "20230411170745",
+        "l": 3190
+    },
+    {
+        "i": 41,
+        "j": "CVfAQGcXwGI",
+        "b": "#41 Curso de VUE 3 - Profesional: Episodio 41 - Vite y Yarn",
+        "h": "20230412111803",
+        "l": 2115
+    },
+    {
+        "i": 28,
+        "j": "DotKZP2yOgc",
+        "b": "#28 Curso de VUE 3 - Profesional: Episodio 28 - CONTROL DELEGADO POR REFERENCIA, V-LAZY Y WEBCHUNK",
+        "h": "20230213140245",
+        "l": 5258
+    },
+    {
+        "i": 42,
+        "j": "EQWLCTyK3tg",
+        "b": "#42 Curso de VUE 3 - Profesional: Episodio 42 - Vitest",
+        "h": "20230418212412",
+        "l": 1714
+    },
+    {
+        "i": 43,
+        "j": "FFD4rydcwF0",
+        "b": "#43 Curso de VUE 3 - Profesional: Episodio 43 - Introducción a Ionic",
+        "h": "20230425091603",
+        "l": 3097
+    },
+    {
+        "i": 26,
+        "j": "GyG_qTywUU8",
+        "b": "#26 Curso de VUE 3 - Profesional: Episodio 26 - ANIMACIONES E ICONOS",
+        "h": "20230130122436",
+        "l": 2893
+    },
+    {
+        "i": 27,
+        "j": "Huf2kwQY1F8",
+        "b": "#27 Curso de VUE 3 - Profesional: Episodio 27 - PERSISTENCIA Y WATCHERS",
+        "h": "20230206104958",
+        "l": 2809
+    },
+    {
+        "i": 12,
+        "j": "i0PZWFdQaWI",
+        "b": "#12 Curso de VUE 3 - Profesional: Episodio 12 - Estructuras de autenticación",
+        "h": "20221009174239",
+        "l": 2415
+    },
+    {
+        "i": 9,
+        "j": "IK1tLS8xc5I",
+        "b": "#9 Curso de VUE 3 - Profesional: Episodio 9 - Estilos",
+        "h": "20220916132112",
+        "l": 3459
+    },
+    {
+        "i": 14,
+        "j": "jtvTreNZV18",
+        "b": "#14 Curso de VUE 3 - Profesional: Episodio 14 - Auth contra firebase",
+        "h": "20221024161438",
+        "l": 2123
+    },
+    {
+        "i": 52,
+        "j": "kAwJYqcDZXM",
+        "b": "#52 Curso de VUE 3 - Profesional: Episodio 52 - CIERRE",
+        "h": "20231001165645",
+        "l": 224
+    },
+    {
+        "i": 2,
+        "j": "khz2s6H4XWY",
+        "b": "Curso Profesional de VUE 3: Episodio 2 - Componentes | GOGODEV",
+        "h": "20220725082827",
+        "l": 3504
+    },
+    {
+        "i": 0,
+        "j": "LAozf_wDejU",
+        "b": "Curso de VUE 3 - Profesional.",
+        "h": "20230208131315",
+        "l": 10
+    },
+    {
+        "i": 13,
+        "j": "lGN6PO_K5Fo",
+        "b": "#13 Curso de VUE 3 - Profesional: Episodio 13 - Auth contra backend",
+        "h": "20221017142804",
+        "l": 3422
+    },
+    {
+        "i": 3,
+        "j": "Ln1SN43jtG8",
+        "b": "Curso Profesional de VUE 3: Episodio 3 - Aprendiendo Directivas | GOGODEV",
+        "h": "20220808111653",
+        "l": 4807
+    },
+    {
+        "i": 11,
+        "j": "MsrgZva2Gyc",
+        "b": "#11 Curso de VUE 3 - Profesional: Episodio 11 - Enrutado con servicios",
+        "h": "20221002172036",
+        "l": 3833
+    },
+    {
+        "i": 10,
+        "j": "nb6jwkNlUF4",
+        "b": "#10 Curso de VUE 3 - Profesional: Episodio 10 - Enrutado",
+        "h": "20220928223218",
+        "l": 4113
+    },
+    {
+        "i": 39,
+        "j": "p06QBkPR4nc",
+        "b": "#39 Curso de VUE 3 - Profesional: Episodio 39 - Testing Jest de comunicación vertical",
+        "h": "20230410100619",
+        "l": 2171
+    },
+    {
+        "i": 48,
+        "j": "QeqLtovgCEE",
+        "b": "#48 Curso de VUE 3 - Profesional: Episodio 48 - NUXT: FULLSTACK con MongoDB / Mongoose",
+        "h": "20230820234705",
+        "l": 3730
+    },
+    {
+        "i": 15,
+        "j": "R1_-x4WB3Iw",
+        "b": "#15 Curso de VUE 3 - Profesional: Episodio 15 - Social Login (google, facebook, twitter, github)",
+        "h": "20221028204627",
+        "l": 3256
+    },
+    {
+        "i": 4,
+        "j": "snHa8kRPjH8",
+        "b": "Curso Profesional de VUE 3: Episodio 4 - Formularios | GOGODEV",
+        "h": "20220815150244",
+        "l": 5617
+    },
+    {
+        "i": 32,
+        "j": "SoFNqLmrBqQ",
+        "b": "#32 Curso de VUE 3 - Profesional: Episodio 32 - PWA",
+        "h": "20230227135621",
+        "l": 3153
+    },
+    {
+        "i": 6,
+        "j": "sXkX60PhZTk",
+        "b": "Curso Profesional De VUE 3: Episodio 6 - Datos Computados | GOGODEV",
+        "h": "20220829180024",
+        "l": 3151
+    },
+    {
+        "i": 45,
+        "j": "t78GTVbL4Us",
+        "b": "#45 Curso de VUE 3 - Profesional: Episodio 45 - CAPACITOR Y DEPLOY EN IONIC",
+        "h": "20230515133413",
+        "l": 2636
+    },
+    {
+        "i": 35,
+        "j": "tCP5XwsmzDE",
+        "b": "#35 Curso de VUE 3 - Profesional: Episodio 35 - Introducción al testing E2E con Cypress",
+        "h": "20230313125927",
+        "l": 3655
+    },
+    {
+        "i": 20,
+        "j": "tKO_if4M8XA",
+        "b": "#20 Curso de VUE 3 - Profesional: Episodio 20 - COOKIES y SESIONES",
+        "h": "20221201124731",
+        "l": 1831
+    },
+    {
+        "i": 23,
+        "j": "TqfrKULUuYY",
+        "b": "#23 Curso de VUE 3 - Profesional: Episodio 23 - SOLUCIÓN EJERCICIO AUTH",
+        "h": "20230109145620",
+        "l": 4058
+    },
+    {
+        "i": 44,
+        "j": "TRXjX1Ax_38",
+        "b": "#44 Curso de VUE 3 - Profesional: Episodio 44 - ESTRUCTURA Y LAYOUT EN IONIC",
+        "h": "20230509103023",
+        "l": 4311
+    },
+    {
+        "i": 8,
+        "j": "tTRICbkGHoU",
+        "b": "#8 Curso de VUE 3 - Profesional: Episodio 8 - Servicios",
+        "h": "20220912094755",
+        "l": 4247
+    },
+    {
+        "i": 16,
+        "j": "txlgPDQWiko",
+        "b": "#16 Curso de VUE 3 - Profesional: Episodio 16 - Auth contra AWS",
+        "h": "20221108130129",
+        "l": 2751
+    },
+    {
+        "i": 38,
+        "j": "v8o-ahwYNVw",
+        "b": "#38 Curso de VUE 3 - Profesional: Episodio 38 - Testing unitario con Jest",
+        "h": "20230327145101",
+        "l": 3714
+    },
+    {
+        "i": 37,
+        "j": "vixhsnCXOJ8",
+        "b": "#37 Curso de VUE 3 - Profesional: Episodio 37 - Cypress: Comandos personalizados y actualización",
+        "h": "20230320100846",
+        "l": 2491
+    },
+    {
+        "i": 1,
+        "j": "vOdj_e3Z4jY",
+        "b": "Curso Profesional de VUE 3: Episodio 1 - Fundamentos | GOGODEV",
+        "h": "20220722082609",
+        "l": 4316
+    },
+    {
+        "i": 30,
+        "j": "W75gdEXIEsI",
+        "b": "#30 Curso de VUE 3 - Profesional: Episodio 30 - APOLLO COMPOSABLE",
+        "h": "20230221182946",
+        "l": 5874
+    },
+    {
+        "i": 31,
+        "j": "WV9pAwf6AB4",
+        "b": "#31 Curso de VUE 3 - Profesional: Episodio 31 - APOLLO OPTION",
+        "h": "20230222133643",
+        "l": 2818
+    },
+    {
+        "i": 24,
+        "j": "x996MvWwvlE",
+        "b": "#24 Curso de VUE 3 - Profesional: Episodio 24 - LAYOUTS, SLOTS Y COMPOSABLES",
+        "h": "20230116124856",
+        "l": 2798
+    },
+    {
+        "i": 22,
+        "j": "XkRi9_MS3ns",
+        "b": "#22 Curso de VUE 3 - Profesional: Episodio 22 - EJERCICIO DE AUTENTICACIÓN",
+        "h": "20221219193023",
+        "l": 1472
+    },
+    {
+        "i": 49,
+        "j": "XnGjbRijGzw",
+        "b": "#49 Curso de VUE 3 - Profesional: Episodio 49 - VUETIFY",
+        "h": "20230901120912",
+        "l": 2196
+    },
+    {
+        "i": 50,
+        "j": "YdcCxLtYvRk",
+        "b": "#50 Curso de VUE 3 - Profesional: Episodio 50 - QUASAR",
+        "h": "20230929171754",
+        "l": 3162
+    }
+]

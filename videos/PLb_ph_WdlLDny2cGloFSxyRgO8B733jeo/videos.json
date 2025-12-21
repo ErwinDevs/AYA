@@ -1974,6 +1974,13 @@
         "l": 369
     },
     {
+        "i": 334,
+        "j": "Ugo3HtaCgoc",
+        "b": "Osciloscopio & Multimetro 2C53T FNIRSI",
+        "h": "20251201171533",
+        "l": 3181
+    },
+    {
         "i": 231,
         "j": "UGtHGPGKTeY",
         "b": "Circuito de CONTROL maquina soldar inverter ARC 200",
@@ -2056,6 +2063,13 @@
         "b": "Como utilizar Ley Ohm y Divisores de V e I sin hacer operaciones matematicas (Clase 4.4)",
         "h": "20211023184402",
         "l": 1004
+    },
+    {
+        "i": 336,
+        "j": "vp6Z41hzfNE",
+        "b": "Impresionante estación de energia portatil con batería de SODIO Bluetti",
+        "h": "20251216181800",
+        "l": 1845
     },
     {
         "i": 199,
@@ -2336,5 +2350,12 @@
         "b": "Te explico como diseñar facil tu propia fuente conmutada SMPS (Clase 110)",
         "h": "20210907144539",
         "l": 622
+    },
+    {
+        "i": 335,
+        "j": "zy1E5XgS9rU",
+        "b": "CIRCUITO ENTRADA FUENTE 115/230Vac",
+        "h": "20251206203134",
+        "l": 1166
     }
 ]
