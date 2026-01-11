@@ -371,6 +371,13 @@
         "l": 705
     },
     {
+        "i": 337,
+        "j": "8sTVAApAGMU",
+        "b": "¡¡¡No cometas este error!!! El Factor de Potencia NO es el cos fi.",
+        "h": "20251222114008",
+        "l": 1194
+    },
+    {
         "i": 117,
         "j": "8WGA53vPO_Y",
         "b": "Circuito Integrador inversor OPAMP.  Convierte onda cuadrada en triangular.  (Clase 71)",
@@ -607,6 +614,13 @@
         "b": "Como funciona el Rectificador controlado media onda carga inductiva y resistiva (clase 138)",
         "h": "20220429195357",
         "l": 771
+    },
+    {
+        "i": 339,
+        "j": "CHBzW1gT47Y",
+        "b": "Soldador por puntos AwithZ UK1",
+        "h": "20251230212847",
+        "l": 502
     },
     {
         "i": 28,
@@ -1323,6 +1337,13 @@
         "l": 2582
     },
     {
+        "i": 341,
+        "j": "lhBJf1JSna4",
+        "b": "SUPER UTIL: Fuente de corriente Howland. Circuito MUY ingenioso",
+        "h": "20260104143244",
+        "l": 1556
+    },
+    {
         "i": 246,
         "j": "LHSNA_BJS5Y",
         "b": "¿Sabes estas utilidades de los condensadores? (Clase 92 )",
@@ -1342,6 +1363,13 @@
         "b": "SMPS 12V-10 A explicacion con esquema y fuente conmutada (clase 111)",
         "h": "20201114124354",
         "l": 1606
+    },
+    {
+        "i": 340,
+        "j": "LM2QHUAB7xI",
+        "b": "¿Factor de Potencia NO siempre es igual que cos(fi)? RESPUESTA A PREGUNTAS",
+        "h": "20251231124341",
+        "l": 1042
     },
     {
         "i": 333,
@@ -2067,7 +2095,7 @@
     {
         "i": 336,
         "j": "vp6Z41hzfNE",
-        "b": "Impresionante estación de energia portatil con batería de SODIO Bluetti",
+        "b": "SODIO vs LITIO: Brutal Estación de Energia Portatil con batería de SODIO Bluetti",
         "h": "20251216181800",
         "l": 1845
     },
@@ -2091,6 +2119,13 @@
         "b": "Como comprobar MOSFET multimetro rápido y facil (CLASE 52.2)",
         "h": "20200923183842",
         "l": 228
+    },
+    {
+        "i": 338,
+        "j": "VZN3bk0cBF8",
+        "b": "COMPROBADOR BATERIA AUTO BT100 TOPDON",
+        "h": "20251228161828",
+        "l": 402
     },
     {
         "i": 118,
@@ -2354,7 +2389,7 @@
     {
         "i": 335,
         "j": "zy1E5XgS9rU",
-        "b": "CIRCUITO ENTRADA FUENTE 115/230Vac",
+        "b": "Masterclass: CIRCUITO ENTRADA FUENTE 115/230Vac",
         "h": "20251206203134",
         "l": 1166
     }

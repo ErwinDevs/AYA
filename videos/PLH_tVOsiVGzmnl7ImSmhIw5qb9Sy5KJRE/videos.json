@@ -273,6 +273,13 @@
         "l": 414
     },
     {
+        "i": 205,
+        "j": "6WqRC41pSpU",
+        "b": "🔥23 - ¿Cómo ELIMINAR un REGISTRO en una tabla MySQL con PHP, MVC y TRANSACCIONES?",
+        "h": "20260102183452",
+        "l": 376
+    },
+    {
         "i": 51,
         "j": "6Y-5FNr-KQs",
         "b": "🐘 CURSO de PHP desde CERO - 52 EXPRESIONES REGULARES: VALIDAR FORMULARIOS con PHP [preg_match]",
@@ -299,6 +306,13 @@
         "b": "🐘 CURSO de PHP desde CERO - 37 Como CONVERTIR un STRING en ARREGLO (ARRAY) en PHP",
         "h": "20211124013210",
         "l": 589
+    },
+    {
+        "i": 206,
+        "j": "8DQM4CtVVl0",
+        "b": "🔥24 - ¿Cómo CREAR una paginación de tablas en PHP y MySQL MVC?",
+        "h": "20260110021345",
+        "l": 1286
     },
     {
         "i": 122,
@@ -483,6 +497,13 @@
         "l": 1146
     },
     {
+        "i": 202,
+        "j": "do1_VfS2Gto",
+        "b": "🔥20 - ¿Cómo INSERTAR o GUARDAR datos en una tabla MySQL con PHP, MVC y TRANSACCIONES?",
+        "h": "20251226185059",
+        "l": 1170
+    },
+    {
         "i": 178,
         "j": "dpH3laCYskk",
         "b": "🔥CRUD en PHP y MySQL POO MVC JS - 54 Creando CONTROLADOR para HACER un BUSCADOR con MVC PHP y MySQL",
@@ -623,6 +644,13 @@
         "l": 807
     },
     {
+        "i": 207,
+        "j": "iQv-crzePo0",
+        "b": "🔥25 - ¿Cómo LLENAR un SELECT de DATOS de una TABLA MySQL con PHP y MVC?",
+        "h": "20260110195552",
+        "l": 779
+    },
+    {
         "i": 158,
         "j": "Jr_G9m-GAVg",
         "b": "🔥CRUD en PHP y MySQL POO MVC JS - 34 CONTROLADOR REGISTRAR USUARIOS (p-1): Recibir DATOS POST",
@@ -698,6 +726,13 @@
         "b": "🐬 CURSO de PHP y MySQL desde CERO - 21 Como DESTRUIR o CERRAR una SESION con PHP",
         "h": "20220520213050",
         "l": 332
+    },
+    {
+        "i": 204,
+        "j": "l3HgYxuYhT8",
+        "b": "🔥22 - ¿Cómo ACTUALIZAR DATOS en una tabla MySQL con PHP, MVC y TRANSACCIONES?",
+        "h": "20251229182755",
+        "l": 618
     },
     {
         "i": 0,
@@ -1125,6 +1160,13 @@
         "b": "🔥11 - ¿Cómo agrego un modelo al patrón de arquitectura MVC en PHP?",
         "h": "20251109143323",
         "l": 832
+    },
+    {
+        "i": 203,
+        "j": "USnaTp4Ywv4",
+        "b": "🔥21 - ¿Cómo SELECCIONAR DATOS de una tabla MySQL con PHP y MVC?",
+        "h": "20251228235841",
+        "l": 742
     },
     {
         "i": 108,
