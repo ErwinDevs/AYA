@@ -1,0 +1,387 @@
+[
+    {
+        "i": 41,
+        "j": "-FUXozaMqLM",
+        "b": "09 - Insertar Datos de Prueba para Posts | Curso Blog desde Cero con Laravel 12",
+        "h": "20250312163542",
+        "l": 557
+    },
+    {
+        "i": 34,
+        "j": "4Sitcb4D1JQ",
+        "b": "02 - Como crear nuevos archivos de ruta | Curso Blog desde Cero con Laravel 12 🚀",
+        "h": "20250303223221",
+        "l": 488
+    },
+    {
+        "i": 17,
+        "j": "58xHjS4fmpM",
+        "b": "16 - Rutas con nombre en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240521184346",
+        "l": 665
+    },
+    {
+        "i": 5,
+        "j": "5j_gtxKfnXw",
+        "b": "04 - Vistas en Laravel 12 - Curso Laravel 12 desde cero",
+        "h": "20240319005201",
+        "l": 932
+    },
+    {
+        "i": 28,
+        "j": "5P6GgymP0Vg",
+        "b": "27 - Relación Muchos a Muchos (Many to Many) - Curso Laravel 12 desde cero",
+        "h": "20250131000417",
+        "l": 1198
+    },
+    {
+        "i": 32,
+        "j": "7AkFdoFkwyc",
+        "b": "Private video",
+        "h": "20250212040717",
+        "l": 0
+    },
+    {
+        "i": 45,
+        "j": "7PkLl63qd9k",
+        "b": "13 - Editar Posts | Curso Blog desde Cero con Laravel 12",
+        "h": "20250318162200",
+        "l": 1075
+    },
+    {
+        "i": 25,
+        "j": "87HowzourJM",
+        "b": "24 - Cómo Utilizar Markdown en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240611122558",
+        "l": 709
+    },
+    {
+        "i": 11,
+        "j": "AxrxIT87iNk",
+        "b": "10 - Mutadores y accesores - Curso Laravel 12 desde cero",
+        "h": "20240401232111",
+        "l": 449
+    },
+    {
+        "i": 50,
+        "j": "bDS-eoITO6g",
+        "b": "18 - Editor de Texto enriquecido con Quill JS | Curso Blog desde Cero con Laravel 12",
+        "h": "20250401200534",
+        "l": 678
+    },
+    {
+        "i": 22,
+        "j": "CnsaIC9JR4Q",
+        "b": "21 - Form Request en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240528222923",
+        "l": 679
+    },
+    {
+        "i": 19,
+        "j": "dQ_TWK7K2CM",
+        "b": "18 - Route Model Binding en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240524232019",
+        "l": 863
+    },
+    {
+        "i": 14,
+        "j": "DQdSSrwgTQw",
+        "b": "13 - Factories en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240519182038",
+        "l": 824
+    },
+    {
+        "i": 40,
+        "j": "e-cpHX-B1Wg",
+        "b": "08 - Confirmar Eliminación con SweetAlert 2 | Curso Blog desde Cero con Laravel 12",
+        "h": "20250311202827",
+        "l": 444
+    },
+    {
+        "i": 53,
+        "j": "F_W7rPBtVhc",
+        "b": "21 - Crear plantilla publica | Curso Blog desde Cero con Laravel 12",
+        "h": "20250410000049",
+        "l": 1138
+    },
+    {
+        "i": 13,
+        "j": "fFMKjtlsz5k",
+        "b": "12 - Seeders en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240517222932",
+        "l": 831
+    },
+    {
+        "i": 42,
+        "j": "Fg6S-vB41ao",
+        "b": "10 - Listar Posts | Curso Blog desde Cero con Laravel 12",
+        "h": "20250314005436",
+        "l": 496
+    },
+    {
+        "i": 0,
+        "j": "FMsXJ84SRr4",
+        "b": "Actualizacion del curso a Laravel 12",
+        "h": "20250225194748",
+        "l": 216
+    },
+    {
+        "i": 43,
+        "j": "FSSgSd2qgSg",
+        "b": "11 - Crear Nuevos Posts | Curso Blog desde Cero con Laravel 12",
+        "h": "20250315181633",
+        "l": 825
+    },
+    {
+        "i": 26,
+        "j": "G1wRzlmKrKc",
+        "b": "25 - Relación Uno a Uno (One to One) - Curso Laravel 12 desde cero",
+        "h": "20240615235036",
+        "l": 1673
+    },
+    {
+        "i": 39,
+        "j": "gC92mQaeMgM",
+        "b": "07 - Eliminar Categorías | Curso Blog desde Cero con Laravel 12",
+        "h": "20250310191816",
+        "l": 325
+    },
+    {
+        "i": 4,
+        "j": "ggIemaYN1Z0",
+        "b": "03 - Controladores en Laravel 12 - Curso Laravel 12 desde cero",
+        "h": "20240317221834",
+        "l": 809
+    },
+    {
+        "i": 52,
+        "j": "gjNdq_3-vkw",
+        "b": "20 - Agregar Fecha de Publicación a Posts | Curso Blog desde Cero con Laravel 12",
+        "h": "20250405235632",
+        "l": 735
+    },
+    {
+        "i": 6,
+        "j": "H0tBkWLBK2w",
+        "b": "05 - Componentes de Blade - Curso Laravel 12 desde cero",
+        "h": "20240319232525",
+        "l": 1633
+    },
+    {
+        "i": 21,
+        "j": "hafioSprmGs",
+        "b": "20 - Validaciones en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240527202202",
+        "l": 1533
+    },
+    {
+        "i": 35,
+        "j": "HdFmNtKFNkE",
+        "b": "03 - Cómo listar Categorías en Laravel 12 | Curso Blog desde Cero con Laravel 12",
+        "h": "20250305001527",
+        "l": 1792
+    },
+    {
+        "i": 24,
+        "j": "iFsLHr6Bf-8",
+        "b": "23 - Cómo Enviar emails en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240606001247",
+        "l": 1090
+    },
+    {
+        "i": 10,
+        "j": "iJFKwSZeqxQ",
+        "b": "09 - Eloquent - Curso Laravel 12 desde cero",
+        "h": "20240328002416",
+        "l": 1361
+    },
+    {
+        "i": 54,
+        "j": "IuIYusX6XwE",
+        "b": "22 - Mostrar listado de posts publicados | Curso Blog desde Cero con Laravel 12",
+        "h": "20250413014618",
+        "l": 1195
+    },
+    {
+        "i": 46,
+        "j": "j8TcO3Sbi3w",
+        "b": "14 - Subir Imágenes | Curso Blog desde Cero con Laravel 12",
+        "h": "20250321013447",
+        "l": 1298
+    },
+    {
+        "i": 18,
+        "j": "jr6f1JqHfew",
+        "b": "17 - Route Resource en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240524004253",
+        "l": 576
+    },
+    {
+        "i": 9,
+        "j": "KaOGyvHK_rc",
+        "b": "08 - Migraciones - Curso Laravel 12 desde cero",
+        "h": "20240326210658",
+        "l": 2050
+    },
+    {
+        "i": 7,
+        "j": "LawiwA-SlJ8",
+        "b": "06 - Plantillas - Curso Laravel 12 desde cero",
+        "h": "20240321005217",
+        "l": 748
+    },
+    {
+        "i": 1,
+        "j": "laXc22YPGhg",
+        "b": "01 - Instalar y crear un nuevo proyecto en Laravel 12 - Curso Laravel 12 desde cero",
+        "h": "20240315151134",
+        "l": 1662
+    },
+    {
+        "i": 27,
+        "j": "m4wZygOk520",
+        "b": "26 - Relación Uno a Muchos (One to Many) - Curso Laravel 12 desde cero",
+        "h": "20240617224334",
+        "l": 901
+    },
+    {
+        "i": 23,
+        "j": "M8vmzaOBaVc",
+        "b": "22 - Localización en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240531233608",
+        "l": 932
+    },
+    {
+        "i": 49,
+        "j": "MaofJn62F5A",
+        "b": "17 - Asignar Etiquetas a Posts | Curso Blog desde Cero con Laravel 12",
+        "h": "20250328012531",
+        "l": 989
+    },
+    {
+        "i": 30,
+        "j": "mbIn2qFf9rg",
+        "b": "29 - Relación Uno a Muchos polimorfica - Curso Laravel 12 desde cero",
+        "h": "20250201162759",
+        "l": 346
+    },
+    {
+        "i": 2,
+        "j": "NdsFC4FnzXQ",
+        "b": "Mejores extensiones de VSCode para Laravel",
+        "h": "20240315151220",
+        "l": 387
+    },
+    {
+        "i": 44,
+        "j": "oukaArpFUrU",
+        "b": "12 - Crear Slug Automático | Curso Blog desde Cero con Laravel 12",
+        "h": "20250317183642",
+        "l": 554
+    },
+    {
+        "i": 33,
+        "j": "pz4OtrrDes4",
+        "b": "01 - Nuevo proyecto con kits de inicio de Laravel 12 | Curso Blog desde Cero con Laravel 12",
+        "h": "20250304012625",
+        "l": 1643
+    },
+    {
+        "i": 29,
+        "j": "qai__reMAUY",
+        "b": "28 - Relación Uno a Uno polimorfica - Curso Laravel 12 desde cero",
+        "h": "20250131134617",
+        "l": 801
+    },
+    {
+        "i": 20,
+        "j": "qwqWILA_C8c",
+        "b": "19 - Asignación masiva - Curso Laravel 12 desde cero",
+        "h": "20240525212319",
+        "l": 691
+    },
+    {
+        "i": 38,
+        "j": "r0nSp0nETyc",
+        "b": "06 - Editar Categorías en | Curso Blog desde Cero con Laravel 12",
+        "h": "20250309223011",
+        "l": 407
+    },
+    {
+        "i": 37,
+        "j": "r5NzcBnnJ6U",
+        "b": "05 - Mostrar Alertas con SweetAlert 2 | Curso Blog desde Cero con Laravel 12",
+        "h": "20250306004500",
+        "l": 453
+    },
+    {
+        "i": 31,
+        "j": "sdGVkrZhDyw",
+        "b": "30 - Relación Muchos a Muchos polimorfica - Curso Laravel 11 desde cero",
+        "h": "20250202235646",
+        "l": 682
+    },
+    {
+        "i": 36,
+        "j": "sP6qCm5ncNw",
+        "b": "04 - Crear Nueva Categoría en Laravel 12 | Curso Blog desde Cero con Laravel 12",
+        "h": "20250305215859",
+        "l": 1064
+    },
+    {
+        "i": 15,
+        "j": "TQi4XMRgzEc",
+        "b": "14 - Cómo Crear un CRUD en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240521030801",
+        "l": 2744
+    },
+    {
+        "i": 3,
+        "j": "UjxxKI4Kuys",
+        "b": "02 - Rutas en Laravel 12 - Curso Laravel 12 desde cero",
+        "h": "20240315205550",
+        "l": 1058
+    },
+    {
+        "i": 47,
+        "j": "wJlKEyNVDoI",
+        "b": "15 - Vista Previa de Imágenes antes de Subir | Curso Blog desde Cero con Laravel 12",
+        "h": "20250324213527",
+        "l": 349
+    },
+    {
+        "i": 12,
+        "j": "X0eOjNT6yQY",
+        "b": "11 - Casting - Curso Laravel 12 desde cero",
+        "h": "20240404154323",
+        "l": 755
+    },
+    {
+        "i": 51,
+        "j": "xhdHQkuV9ao",
+        "b": "19 - Eliminar Posts (Con Confirmación) | Curso Blog desde Cero con Laravel 12",
+        "h": "20250402231607",
+        "l": 303
+    },
+    {
+        "i": 8,
+        "j": "xx8mLgWkCIY",
+        "b": "07 - Conexión a una Base de Datos MySQL - Curso Laravel 12 desde cero",
+        "h": "20240322012055",
+        "l": 516
+    },
+    {
+        "i": 16,
+        "j": "YmbzmhSZYTA",
+        "b": "15 - Paginación en Laravel - Curso Laravel 12 desde cero",
+        "h": "20240521182737",
+        "l": 521
+    },
+    {
+        "i": 48,
+        "j": "ZgZtSVC2AZk",
+        "b": "16 - CRUD Completo de Etiquetas | Curso Blog desde Cero con Laravel 12",
+        "h": "20250326225413",
+        "l": 928
+    }
+]

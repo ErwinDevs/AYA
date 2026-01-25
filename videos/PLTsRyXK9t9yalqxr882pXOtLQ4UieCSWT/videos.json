@@ -1,0 +1,674 @@
+[
+    {
+        "i": 28,
+        "j": "_vHER4jpjws",
+        "b": "29: Curso de CCNP ENCOR (350-401): OSPF LSA Types",
+        "h": "20220907170007",
+        "l": 2766
+    },
+    {
+        "i": 81,
+        "j": "--tmUZqhhd4",
+        "b": "82: Curso de CCNP ENCOR (350-401): Gateway Redundancy",
+        "h": "20251029033923",
+        "l": 1093
+    },
+    {
+        "i": 21,
+        "j": "-up2bssMDDk",
+        "b": "22: Curso de CCNP ENCOR (350-401): EIGRP Static Default Route",
+        "h": "20220829230831",
+        "l": 1675
+    },
+    {
+        "i": 67,
+        "j": "09OiD6VxAzc",
+        "b": "68: Curso de CCNP ENCOR (350-401): Two-tier design (collapsed core)",
+        "h": "20240207193107",
+        "l": 1502
+    },
+    {
+        "i": 50,
+        "j": "0IpmqE2o00s",
+        "b": "51: Curso de CCNP ENCOR (350-401): BGP AS Path Prepending Attribute",
+        "h": "20221128171617",
+        "l": 1591
+    },
+    {
+        "i": 42,
+        "j": "0Mr1cywNbco",
+        "b": "43: Curso de CCNP ENCOR (350-401): Internal BGP Verification",
+        "h": "20221018025457",
+        "l": 2286
+    },
+    {
+        "i": 82,
+        "j": "1vwZ2l7Mu_8",
+        "b": "83: Curso de CCNP ENCOR (350-401): HSRP (Hot Standby Routing Protocol) Configuration and Preemption",
+        "h": "20240326004712",
+        "l": 2763
+    },
+    {
+        "i": 7,
+        "j": "2fxjvAP04hc",
+        "b": "08: Curso de CCNP ENCOR (350-401): Spanning Tree Protocol (Configuracion)",
+        "h": "20220818015955",
+        "l": 2886
+    },
+    {
+        "i": 66,
+        "j": "2owSNiK8p6w",
+        "b": "67: Curso de CCNP ENCOR (350-401): Hierarchical LAN Design Model",
+        "h": "20240206063727",
+        "l": 2591
+    },
+    {
+        "i": 2,
+        "j": "2YS3q79FUTA",
+        "b": "03: Curso de CCNP ENCOR (350-401): Network Device Communication",
+        "h": "20220817153507",
+        "l": 5864
+    },
+    {
+        "i": 77,
+        "j": "3FgRDiriCog",
+        "b": "78: Curso de CCNP ENCOR (350-401): Traceroute",
+        "h": "20240312000137",
+        "l": 1445
+    },
+    {
+        "i": 89,
+        "j": "43GpaThfR3g",
+        "b": "90: CCNP ENCOR Course (350-401): GRE Tunnel on Cisco Router",
+        "h": "20251108043226",
+        "l": 2662
+    },
+    {
+        "i": 59,
+        "j": "5i4WrijyQEc",
+        "b": "60: Curso de CCNP ENCOR (350-401): IGMPv3",
+        "h": "20240111052349",
+        "l": 1668
+    },
+    {
+        "i": 73,
+        "j": "6EZYZNTFKqc",
+        "b": "74: Curso de CCNP ENCOR (350-401): SD-WAN (Software Defined WAN)",
+        "h": "20240220044944",
+        "l": 803
+    },
+    {
+        "i": 84,
+        "j": "7qqSWewkZPE",
+        "b": "85: Curso de CCNP ENCOR (350-401): VRRP (Virtual Router Redundancy Protocol)",
+        "h": "20240328163040",
+        "l": 861
+    },
+    {
+        "i": 3,
+        "j": "8iBjrQMs-9Q",
+        "b": "04: Curso de CCNP ENCOR (350-401): Switched Virtual Interface (SVI)",
+        "h": "20220816234041",
+        "l": 1530
+    },
+    {
+        "i": 74,
+        "j": "8rsC5qchwVk",
+        "b": "75: Curso de CCNP ENCOR (350-401): SysLog Server",
+        "h": "20240229034015",
+        "l": 4560
+    },
+    {
+        "i": 88,
+        "j": "8waX6llt5G8",
+        "b": "89: CCNP ENCOR Course (350-401): Generic Routing Encapsulation (GRE) Tunnels",
+        "h": "20251028183815",
+        "l": 1635
+    },
+    {
+        "i": 48,
+        "j": "AhUmGn_rP8w",
+        "b": "49: Curso de CCNP ENCOR (350-401): BGP Local Preference Attribute",
+        "h": "20221111203457",
+        "l": 3140
+    },
+    {
+        "i": 27,
+        "j": "amMuADz4vPk",
+        "b": "28: Curso de CCNP ENCOR (350-401): OSPF Network Types",
+        "h": "20220906230321",
+        "l": 1612
+    },
+    {
+        "i": 45,
+        "j": "asLgW0OUZJQ",
+        "b": "46: Curso de CCNP ENCOR (350-401): BGP Neighbor Adjacency States",
+        "h": "20221108000718",
+        "l": 1523
+    },
+    {
+        "i": 38,
+        "j": "AUuZsXbLQ7Q",
+        "b": "39: Curso de CCNP ENCOR (350-401): Show ip bgp",
+        "h": "20221006012239",
+        "l": 3025
+    },
+    {
+        "i": 49,
+        "j": "AWpCcCJPGJU",
+        "b": "50: Curso de CCNP ENCOR (350-401): BGP Originate Attribute",
+        "h": "20221112045851",
+        "l": 1217
+    },
+    {
+        "i": 41,
+        "j": "B0uIJ3YVyx4",
+        "b": "42: Curso de CCNP ENCOR (350-401): Internal BGP",
+        "h": "20221014214349",
+        "l": 2416
+    },
+    {
+        "i": 53,
+        "j": "bA-lAr_HfmY",
+        "b": "54: Curso de CCNP ENCOR (350-401): Multicast Introduction",
+        "h": "20221207195203",
+        "l": 1551
+    },
+    {
+        "i": 14,
+        "j": "BBLvgkjcjgo",
+        "b": "15: Curso de CCNP ENCOR (350-401): EIGRP Explicacion",
+        "h": "20220825033613",
+        "l": 3863
+    },
+    {
+        "i": 37,
+        "j": "BcaluuoOKVo",
+        "b": "38: Curso de CCNP ENCOR (350-401): eBGP Multihop",
+        "h": "20221005040700",
+        "l": 1912
+    },
+    {
+        "i": 35,
+        "j": "C6XuPLShiXQ",
+        "b": "36: Curso de CCNP ENCOR (350-401): BGP Path Vector Protocol",
+        "h": "20220930022049",
+        "l": 1298
+    },
+    {
+        "i": 34,
+        "j": "Ccoz7y1RXzc",
+        "b": "35: Curso de CCNP ENCOR (350-401): BGP Overview",
+        "h": "20220929000527",
+        "l": 3050
+    },
+    {
+        "i": 10,
+        "j": "CrePvs-QTg0",
+        "b": "11: Curso de CCNP ENCOR (350-401): Multiple Spanning Tree Protocol (MST)",
+        "h": "20220823045122",
+        "l": 2153
+    },
+    {
+        "i": 63,
+        "j": "cTQlch14NCM",
+        "b": "64: Curso de CCNP ENCOR (350-401): Quality of Services (Introduction)",
+        "h": "20240116033340",
+        "l": 2269
+    },
+    {
+        "i": 75,
+        "j": "D1mEYxiBPr0",
+        "b": "76: Curso de CCNP ENCOR (350-401): Configuration Change Notification and Logging",
+        "h": "20240303070659",
+        "l": 1670
+    },
+    {
+        "i": 12,
+        "j": "E38JW97t22w",
+        "b": "13: Curso de CCNP ENCOR (350-401): Dynamic Trunking Protocol (DTP)",
+        "h": "20220824000636",
+        "l": 813
+    },
+    {
+        "i": 80,
+        "j": "estfEKSvsgQ",
+        "b": "81: Curso de CCNP ENCOR (350-401): NetFlow",
+        "h": "20240323161224",
+        "l": 1400
+    },
+    {
+        "i": 93,
+        "j": "Et8KPi29lhw",
+        "b": "94: CCNP ENCOR Course (350-401): Configure SSH on Cisco IOS",
+        "h": "20251214172937",
+        "l": 1156
+    },
+    {
+        "i": 92,
+        "j": "FdiREDH1EjM",
+        "b": "93: CCNP ENCOR Course (350-401): Cisco IOS Telnet Server and Client",
+        "h": "20251214062908",
+        "l": 1868
+    },
+    {
+        "i": 79,
+        "j": "fuL4fmlIJ3o",
+        "b": "80: Curso de CCNP ENCOR (350-401): Remote Switch Port Analyzer (RSPAN)",
+        "h": "20240315011906",
+        "l": 1225
+    },
+    {
+        "i": 25,
+        "j": "fvKI22tbj5M",
+        "b": "26: Curso de CCNP ENCOR (350-401): OSPF Cost",
+        "h": "20220902224356",
+        "l": 1913
+    },
+    {
+        "i": 47,
+        "j": "g0oAlHH_Ack",
+        "b": "48: Curso de CCNP ENCOR (350-401): BGP Weight Attribute",
+        "h": "20221111012710",
+        "l": 1203
+    },
+    {
+        "i": 64,
+        "j": "GtzeXtJeXjI",
+        "b": "65: Curso de CCNP ENCOR (350-401): Quality of Services (Classification and Marking)",
+        "h": "20240131054303",
+        "l": 1884
+    },
+    {
+        "i": 94,
+        "j": "gxsA7iKIru4",
+        "b": "95: CCNP ENCOR Course (350-401): AAA and 802.1X Authentication",
+        "h": "20251225014805",
+        "l": 1698
+    },
+    {
+        "i": 71,
+        "j": "h98CKwJ4FcE",
+        "b": "72: Curso de CCNP ENCOR (350-401): Simplified Campus Design",
+        "h": "20240213200429",
+        "l": 1134
+    },
+    {
+        "i": 70,
+        "j": "hkDgHJAwhgI",
+        "b": "71: Curso de CCNP ENCOR (350-401): Layer 3 Access Layer (Routed Access)",
+        "h": "20240210040928",
+        "l": 779
+    },
+    {
+        "i": 86,
+        "j": "iMMGlMDk5xE",
+        "b": "87: Curso de CCNP ENCOR (350-401): NAT (Static and Dynamic) y PAT",
+        "h": "20250415180147",
+        "l": 1518
+    },
+    {
+        "i": 33,
+        "j": "IYo6q1RjMDw",
+        "b": "34: Curso de CCNP ENCOR (350-401): OSPFv3 Configuration",
+        "h": "20220923010449",
+        "l": 2371
+    },
+    {
+        "i": 9,
+        "j": "J-KvGPox7gU",
+        "b": "10: Curso de CCNP ENCOR (350-401): PortFast, BPDU Guard, BPDU Filter, Root Guard",
+        "h": "20220822055642",
+        "l": 3667
+    },
+    {
+        "i": 11,
+        "j": "jeGXxTxuOqg",
+        "b": "12: Curso de CCNP ENCOR (350-401): Virtual Trunking Protocol (VTP)",
+        "h": "20220823223218",
+        "l": 3258
+    },
+    {
+        "i": 23,
+        "j": "jnb3x_Rk9N8",
+        "b": "24: Curso de CCNP ENCOR (350-401): OSPF Adjacency",
+        "h": "20220901043319",
+        "l": 1723
+    },
+    {
+        "i": 16,
+        "j": "kLjLOc0ihgY",
+        "b": "17: Curso de CCNP ENCOR (350-401): EIGRP Implementacion",
+        "h": "20220826214522",
+        "l": 2589
+    },
+    {
+        "i": 44,
+        "j": "KnFTPLJojdc",
+        "b": "45: Curso de CCNP ENCOR (350-401): Internal BGP Split Horizon",
+        "h": "20221026011601",
+        "l": 1753
+    },
+    {
+        "i": 56,
+        "j": "kQSf50bVktc",
+        "b": "57: Curso de CCNP ENCOR (350-401): Protocol Independent Multicast (PIM)",
+        "h": "20230103181536",
+        "l": 1391
+    },
+    {
+        "i": 69,
+        "j": "kv9qRPP2GyM",
+        "b": "70: Curso de CCNP ENCOR (350-401): Layer 2 Access Layer (STP Based)",
+        "h": "20240210001340",
+        "l": 852
+    },
+    {
+        "i": 22,
+        "j": "LpJIo6r0d6U",
+        "b": "23: Curso de CCNP ENCOR (350-401): OSPF Fundamentals",
+        "h": "20220831035751",
+        "l": 3072
+    },
+    {
+        "i": 60,
+        "j": "lQHett0fTQ0",
+        "b": "61: Curso de CCNP ENCOR (350-401): IGMP Snooping",
+        "h": "20240113182748",
+        "l": 755
+    },
+    {
+        "i": 68,
+        "j": "LsyYayYjCYM",
+        "b": "69: Curso de CCNP ENCOR (350-401): Three-tier design",
+        "h": "20240209021222",
+        "l": 710
+    },
+    {
+        "i": 87,
+        "j": "Lzw8myhUFtE",
+        "b": "88: CCNP ENCOR Course (350-401): Static NAT (Lab) Demostracion",
+        "h": "20250429161655",
+        "l": 1242
+    },
+    {
+        "i": 1,
+        "j": "M2rv4tOVf1A",
+        "b": "02: Curso de CCNP ENCOR (350-401): GNS3 Adding IOS Image",
+        "h": "20220815171247",
+        "l": 1975
+    },
+    {
+        "i": 36,
+        "j": "Mh8DyGx3TCQ",
+        "b": "37: Curso de CCNP ENCOR (350-401): BGP Simple Configuracion",
+        "h": "20221001003650",
+        "l": 2229
+    },
+    {
+        "i": 31,
+        "j": "MLfUzG8LB4U",
+        "b": "32: Curso de CCNP ENCOR (350-401): OSPF Summarization",
+        "h": "20220909044121",
+        "l": 1975
+    },
+    {
+        "i": 76,
+        "j": "MNQMxesuBwY",
+        "b": "77: Curso de CCNP ENCOR (350-401): Conditional Debug on Cisco Routers",
+        "h": "20240305193425",
+        "l": 1051
+    },
+    {
+        "i": 72,
+        "j": "N0BrUuVlL5o",
+        "b": "73: Curso de CCNP ENCOR (350-401): Software Defined Networking (SDN)",
+        "h": "20240216061239",
+        "l": 1563
+    },
+    {
+        "i": 78,
+        "j": "nr6DbfBHLAQ",
+        "b": "79: Curso de CCNP ENCOR (350-401): Switch Port Analyzer (SPAN)",
+        "h": "20240314014118",
+        "l": 2433
+    },
+    {
+        "i": 29,
+        "j": "Nt52Wsj_CSc",
+        "b": "30: Curso de CCNP ENCOR (350-401): OSPF Area Types",
+        "h": "20220908002854",
+        "l": 2640
+    },
+    {
+        "i": 95,
+        "j": "nVFeCqPHxWY",
+        "b": "96: CCNP ENCOR Course (350-401): Router Security Policy",
+        "h": "20251229013906",
+        "l": 2558
+    },
+    {
+        "i": 17,
+        "j": "oM6wcdnEJGQ",
+        "b": "18: Curso de CCNP ENCOR (350-401): EIGRP: Topology Table, Routing Table",
+        "h": "20220826230527",
+        "l": 1710
+    },
+    {
+        "i": 26,
+        "j": "OvDENVhPmQ0",
+        "b": "27: Curso de CCNP ENCOR (350-401): OSPF Multiaccess Segments",
+        "h": "20220905031901",
+        "l": 3143
+    },
+    {
+        "i": 83,
+        "j": "p1jXwu80dSE",
+        "b": "84: Curso de CCNP ENCOR (350-401): HSRP (Hot Standby Routing Protocol) Authentication and Timers",
+        "h": "20240327003159",
+        "l": 1546
+    },
+    {
+        "i": 57,
+        "j": "pewcS_Osc6o",
+        "b": "58: Curso de CCNP ENCOR (350-401): IGMPv1",
+        "h": "20240107040515",
+        "l": 1906
+    },
+    {
+        "i": 32,
+        "j": "ppGeGH5KlcM",
+        "b": "33: Curso de CCNP ENCOR (350-401): OSPFv3 Overview",
+        "h": "20220920214403",
+        "l": 1816
+    },
+    {
+        "i": 30,
+        "j": "q-iofOMQBA4",
+        "b": "31: Curso de CCNP ENCOR (350-401): Show IP OSPF Database",
+        "h": "20220909010530",
+        "l": 2435
+    },
+    {
+        "i": 24,
+        "j": "qLSC96211oM",
+        "b": "25: Curso de CCNP ENCOR (350-401): OSPF Multiarea",
+        "h": "20220901235703",
+        "l": 3857
+    },
+    {
+        "i": 39,
+        "j": "qMnOx64IEcg",
+        "b": "40: Curso de CCNP ENCOR (350-401): Advertise networks in BGP",
+        "h": "20221011185202",
+        "l": 2032
+    },
+    {
+        "i": 46,
+        "j": "qtAgNf4Tv2A",
+        "b": "47: Curso de CCNP ENCOR (350-401): BGP Best Path Selection",
+        "h": "20221109052952",
+        "l": 2059
+    },
+    {
+        "i": 18,
+        "j": "QW-n66V0wGM",
+        "b": "19: Curso de CCNP ENCOR (350-401): EIGRP: Variance",
+        "h": "20220827220822",
+        "l": 2525
+    },
+    {
+        "i": 6,
+        "j": "RsW8T9PzJxU",
+        "b": "07: Curso de CCNP ENCOR (350-401): Spanning Tree Protocol (Conceptos)",
+        "h": "20220817223648",
+        "l": 3083
+    },
+    {
+        "i": 13,
+        "j": "S2OvDoVEK3s",
+        "b": "14: Curso de CCNP ENCOR (350-401): EtherChannel",
+        "h": "20220824040313",
+        "l": 1438
+    },
+    {
+        "i": 5,
+        "j": "sf8OV2hh6Y8",
+        "b": "06: Curso de CCNP ENCOR (350-401): Spanning Tree Protocol (Explicacion)",
+        "h": "20220817171741",
+        "l": 2371
+    },
+    {
+        "i": 55,
+        "j": "SjORxG2oMjQ",
+        "b": "56: Curso de CCNP ENCOR (350-401): Internet Group Management Protocol (IGMP)",
+        "h": "20230102180325",
+        "l": 1206
+    },
+    {
+        "i": 65,
+        "j": "sOvOuX0o0CY",
+        "b": "66: Curso de CCNP ENCOR (350-401): Virtual Routing and Forwarding",
+        "h": "20240204040520",
+        "l": 2739
+    },
+    {
+        "i": 91,
+        "j": "U-S0FUsBSj4",
+        "b": "92: CCNP ENCOR Course (350-401): Configure PAT on Cisco IOS Router",
+        "h": "20251111200219",
+        "l": 556
+    },
+    {
+        "i": 0,
+        "j": "VaktiZ6FVV0",
+        "b": "01: Curso de CCNP ENCOR (350-401): GNS3 Installation",
+        "h": "20220813230440",
+        "l": 2607
+    },
+    {
+        "i": 85,
+        "j": "vrKT3D7Z0Bs",
+        "b": "86: Curso de CCNP ENCOR (350-401): GLBP (Gateway Load Balancing Protocol)",
+        "h": "20240329012953",
+        "l": 1343
+    },
+    {
+        "i": 90,
+        "j": "W4jUgRrLAYc",
+        "b": "91: CCNP ENCOR Course (350-401): Cisco IOS Dynamic NAT Configuration",
+        "h": "20251111162643",
+        "l": 2561
+    },
+    {
+        "i": 58,
+        "j": "wPghMg7jWiY",
+        "b": "59: Curso de CCNP ENCOR (350-401): IGMPv2",
+        "h": "20240108025633",
+        "l": 2663
+    },
+    {
+        "i": 51,
+        "j": "wvcEReUWqw0",
+        "b": "52: Curso de CCNP ENCOR (350-401): BGP Origin Code Attribute",
+        "h": "20221128184236",
+        "l": 492
+    },
+    {
+        "i": 62,
+        "j": "x92bALzjoF4",
+        "b": "63: Curso de CCNP ENCOR (350-401): Multicast Routing (Sparse Mode)",
+        "h": "20240115194458",
+        "l": 777
+    },
+    {
+        "i": 43,
+        "j": "xBRqYxQh3-A",
+        "b": "44: Curso de CCNP ENCOR (350-401): Internal BGP Verification and Troubleshooting",
+        "h": "20221020211519",
+        "l": 3301
+    },
+    {
+        "i": 4,
+        "j": "XKcNVT12fw0",
+        "b": "05: Curso de CCNP ENCOR (350-401): Cisco Express Forwarding (CEF)",
+        "h": "20220817063604",
+        "l": 1348
+    },
+    {
+        "i": 54,
+        "j": "Ya5jlfCNi9I",
+        "b": "55: Curso de CCNP ENCOR (350-401): Layer 2 Multicast Addresses",
+        "h": "20221214180201",
+        "l": 1348
+    },
+    {
+        "i": 8,
+        "j": "yEVoO6nzi8g",
+        "b": "09: Curso de CCNP ENCOR (350-401): Rapid Spanning Tree Protocol",
+        "h": "20220818235731",
+        "l": 2461
+    },
+    {
+        "i": 52,
+        "j": "yGz4wx73XOE",
+        "b": "53: Curso de CCNP ENCOR (350-401): BGP MED Attribute",
+        "h": "20221129041226",
+        "l": 1159
+    },
+    {
+        "i": 19,
+        "j": "yuLEFvdIfk4",
+        "b": "20: Curso de CCNP ENCOR (350-401): EIGRP Auto-Summarization",
+        "h": "20220828051848",
+        "l": 2156
+    },
+    {
+        "i": 40,
+        "j": "yXSeaASEaSo",
+        "b": "41: Curso de CCNP ENCOR (350-401): BGP Auto-Summary",
+        "h": "20221012213418",
+        "l": 942
+    },
+    {
+        "i": 20,
+        "j": "z3qVWt4rcas",
+        "b": "21: Curso de CCNP ENCOR (350-401): EIGRP Passive Interface",
+        "h": "20220829183031",
+        "l": 1646
+    },
+    {
+        "i": 15,
+        "j": "zBTvjjooaOA",
+        "b": "16: Curso de CCNP ENCOR (350-401): EIGRP Preliminar",
+        "h": "20220825221107",
+        "l": 2457
+    },
+    {
+        "i": 61,
+        "j": "zJ9waarO1lY",
+        "b": "62: Curso de CCNP ENCOR (350-401): Multicast Routing (Dense Mode)",
+        "h": "20240115173524",
+        "l": 1969
+    }
+]

@@ -14,7 +14,7 @@
         "l": 846
     },
     {
-        "i": 72,
+        "i": 70,
         "j": "185hqXcI3Sw",
         "b": "Arduino desde cero en Español - Capítulo 71 - Actualizar el IDE a la última versión estable (Legacy)",
         "h": "20220121221931",
@@ -77,7 +77,7 @@
         "l": 969
     },
     {
-        "i": 76,
+        "i": 73,
         "j": "8wRO1sng-ag",
         "b": "Arduino desde cero en Español - Capítulo 74 - Experimentos con IMU ✈️ de Nano RP2040 Connect",
         "h": "20220805212425",
@@ -105,7 +105,7 @@
         "l": 758
     },
     {
-        "i": 84,
+        "i": 78,
         "j": "9ODtwKHHco0",
         "b": "Arduino desde cero en Español - Capítulo 79 - Motor Paso a Paso ⚙️y Potenciómetro ❗❗",
         "h": "20240126182040",
@@ -126,7 +126,7 @@
         "l": 999
     },
     {
-        "i": 88,
+        "i": 82,
         "j": "9t5tOp-_a8I",
         "b": "Arduino desde cero en Español - Capítulo 83 - Maker Uno compatible con UNO R3 (con esquemático)",
         "h": "20250529123902",
@@ -161,7 +161,7 @@
         "l": 2088
     },
     {
-        "i": 89,
+        "i": 83,
         "j": "buXbRC7hgLY",
         "b": "Arduino desde cero en Español - Capítulo 84 - USB-C Power Delivery para tus proyectos",
         "h": "20251114202848",
@@ -252,7 +252,7 @@
         "l": 59
     },
     {
-        "i": 78,
+        "i": 75,
         "j": "Ga68C61PsRc",
         "b": "Arduino desde cero en Español - Capítulo 76 - IDE 2.0 🛠️ Descarga, Instalación y Completo análisis",
         "h": "20221021181550",
@@ -287,7 +287,7 @@
         "l": 936
     },
     {
-        "i": 77,
+        "i": 74,
         "j": "HVejqGK0Q9M",
         "b": "Arduino desde cero en Español - Capítulo 75 - Nano 33 BLE Sense Introducción y Bluetooth LE 📱",
         "h": "20220923201851",
@@ -322,7 +322,7 @@
         "l": 1279
     },
     {
-        "i": 82,
+        "i": 76,
         "j": "kI-jT-y1SKQ",
         "b": "Arduino desde cero en Español - Capítulo 77 - Timer Interrupts ⏰ (Temporizadores)",
         "h": "20230519195255",
@@ -343,7 +343,7 @@
         "l": 1883
     },
     {
-        "i": 70,
+        "i": 69,
         "j": "LFqIA3ZvZE8",
         "b": "Arduino desde cero en Español - Capítulo 70 - 74HC595 Registro de desplazamiento (Shift register)",
         "h": "20211105220842",
@@ -378,7 +378,7 @@
         "l": 811
     },
     {
-        "i": 73,
+        "i": 71,
         "j": "MMV-5k_33CI",
         "b": "Arduino desde cero en Español - Capítulo 72 - Introducción a IoT Cloud servicio gratuito en la nube",
         "h": "20220218191333",
@@ -406,7 +406,7 @@
         "l": 36
     },
     {
-        "i": 87,
+        "i": 81,
         "j": "oeTYGsPzymk",
         "b": "Arduino desde cero en Español - Capítulo 82 - RPM de Ventiladores 3 y 4 cables por PWM",
         "h": "20241122192340",
@@ -434,7 +434,7 @@
         "l": 639
     },
     {
-        "i": 90,
+        "i": 84,
         "j": "pvetokUpfzQ",
         "b": "Arduino desde cero en Español - Capítulo 85 - Pull-up y Pull-down ¿cuándo y por qué usar?",
         "h": "20251212220730",
@@ -462,7 +462,7 @@
         "l": 1295
     },
     {
-        "i": 86,
+        "i": 80,
         "j": "qUhhRjHKW4s",
         "b": "Arduino desde cero en Español - Capítulo 81 - Audio MP3 fácil con DFPlayer Mini y tarjeta MicroSD 🎶",
         "h": "20240913231836",
@@ -504,7 +504,7 @@
         "l": 1343
     },
     {
-        "i": 85,
+        "i": 79,
         "j": "tdFsSo5LVhg",
         "b": "Arduino desde cero en Español - Capítulo 80 - Código sin bloqueo y Librería TimeAlarms ⏰",
         "h": "20240412181109",
@@ -595,7 +595,7 @@
         "l": 874
     },
     {
-        "i": 75,
+        "i": 72,
         "j": "XRjbsPYXn60",
         "b": "Arduino desde cero en Español - Capítulo 73 - Arduino IoT Cloud y BME280🌡️💧💨",
         "h": "20220610194106",
@@ -616,7 +616,7 @@
         "l": 816
     },
     {
-        "i": 83,
+        "i": 77,
         "j": "Z01gjTLE5eE",
         "b": "Arduino desde cero en Español - Capítulo 78 - Balanza con Celda de Carga y HX711",
         "h": "20230728173009",

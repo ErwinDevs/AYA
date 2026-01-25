@@ -882,6 +882,13 @@
         "l": 1314
     },
     {
+        "i": 343,
+        "j": "fR4nMpz7nZg",
+        "b": "Estación energia portable T200 Flashfish",
+        "h": "20260120194203",
+        "l": 853
+    },
+    {
         "i": 262,
         "j": "FT9cPofyuy4",
         "b": "Reto eléctrico. ¿Sabes la  Lectura de los aparatos de medida? CLASE 12.3",
@@ -1605,7 +1612,7 @@
     {
         "i": 322,
         "j": "PBQEonSTkgg",
-        "b": "Masterclass ¿Sabes esto de las fuentes de alimentación?",
+        "b": "Sabes convertir tu fuente tensión en una fuente corriente constante?",
         "h": "20251005160227",
         "l": 2697
     },
@@ -1846,6 +1853,13 @@
         "b": "Te explico como utilizar Divisores de intensidad y tensión + Ejemplos (Clase 4)",
         "h": "20181222234322",
         "l": 762
+    },
+    {
+        "i": 342,
+        "j": "siB1f1QqV_8",
+        "b": "Analizamos Camara Termica Tooltop T7 Pro",
+        "h": "20260113203514",
+        "l": 812
     },
     {
         "i": 91,
