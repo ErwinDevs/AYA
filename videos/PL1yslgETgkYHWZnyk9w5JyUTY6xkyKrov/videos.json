@@ -49,6 +49,13 @@
         "l": 261
     },
     {
+        "i": 147,
+        "j": "1rQyXMKyQ1A",
+        "b": "Errores por Nombre de Columna y Columnas Ausentes en Power Query",
+        "h": "20260218022222",
+        "l": 667
+    },
+    {
         "i": 9,
         "j": "20YiiTmCmvE",
         "b": "Como ver dos pantallas de Excel al mismo tiempo",
@@ -161,11 +168,25 @@
         "l": 2167
     },
     {
+        "i": 143,
+        "j": "891uwynPgLk",
+        "b": "Mi primera automatización con Power Query + Descarga de Ejercicio",
+        "h": "20260212211748",
+        "l": 779
+    },
+    {
         "i": 88,
         "j": "89ptUUEXyvo",
         "b": "Cómo Sumar Celdas por Colores en Excel (Suma según el color de celda) 🎨",
         "h": "20251105142925",
         "l": 326
+    },
+    {
+        "i": 141,
+        "j": "8FLSC9dpc4k",
+        "b": "Columna de Números en Power Query: Estadística, Trigonometría y Formato Científico con Redondeo",
+        "h": "20260211171127",
+        "l": 666
     },
     {
         "i": 90,
@@ -224,6 +245,13 @@
         "l": 305
     },
     {
+        "i": 136,
+        "j": "bKExiZbplT0",
+        "b": "Cómo activar Power Query y Power Pivot en Excel",
+        "h": "20260205222539",
+        "l": 472
+    },
+    {
         "i": 39,
         "j": "BlJNPepSZP8",
         "b": "Curso de Excel: Validar Datos de Tipo Fecha",
@@ -243,6 +271,13 @@
         "b": "Tipos de Datos en Excel: Geografía, Monedas, Países y Datos Inteligentes",
         "h": "20260109155306",
         "l": 199
+    },
+    {
+        "i": 146,
+        "j": "CHVcb0LHjAs",
+        "b": "Power Query: Corrigiendo Errores de Tipo de Dato en Excel Paso a Paso",
+        "h": "20260217204909",
+        "l": 888
     },
     {
         "i": 46,
@@ -292,6 +327,20 @@
         "b": "BLOQUEAR Celdas y OCULTAR Fórmulas en Excel 🔏 | Super Protección",
         "h": "20250908055345",
         "l": 233
+    },
+    {
+        "i": 137,
+        "j": "dsUxlMJW2PU",
+        "b": "Ingresando al Editor de Power Query: Empiezas a Transformar Datos",
+        "h": "20260207185028",
+        "l": 834
+    },
+    {
+        "i": 138,
+        "j": "dZdrUL_pO2o",
+        "b": "Cargando Datos al Editor de Power Query: TXT, Tablas, CSV y Archivos Excel",
+        "h": "20260207194719",
+        "l": 994
     },
     {
         "i": 15,
@@ -427,6 +476,13 @@
         "l": 489
     },
     {
+        "i": 149,
+        "j": "Jo1vkjgJ2_A",
+        "b": "Transponer datos con Power Query: Ordena tus tablas en segundos",
+        "h": "20260220003418",
+        "l": 277
+    },
+    {
         "i": 48,
         "j": "Jote4NWYvrk",
         "b": "Función SI, Y y O en Excel | Ejemplos Prácticos y Casos Reales",
@@ -439,6 +495,13 @@
         "b": "20 Ejercicios con la Función SI (Y-O) en Excel | Para Descargar y Practicar 📊",
         "h": "20250814145210",
         "l": 1566
+    },
+    {
+        "i": 148,
+        "j": "KDGYVXVRAIY",
+        "b": "Anular dinamización en Power Query: De columnas a filas y viceversa",
+        "h": "20260219193738",
+        "l": 533
     },
     {
         "i": 94,
@@ -481,6 +544,13 @@
         "b": "🚀 10 Funciones de Texto MÁS IMPORTANTES en Excel | Domina MAYUSC, CONCAT, EXTRAER y más",
         "h": "20250716174424",
         "l": 720
+    },
+    {
+        "i": 145,
+        "j": "Lcy0XeomdkU",
+        "b": "Corrigiendo errores en filas y columnas con Power Query | Limpieza profesional de datos en Excel",
+        "h": "20260217160452",
+        "l": 798
     },
     {
         "i": 113,
@@ -546,6 +616,13 @@
         "l": 221
     },
     {
+        "i": 139,
+        "j": "NHDcSTItqE0",
+        "b": "La opción Formato de Power Query: limpia y transforma tus datos fácil",
+        "h": "20260210152412",
+        "l": 688
+    },
+    {
         "i": 124,
         "j": "NlOTsRFC8Sg",
         "b": "POCOS las usan 😱 | FUNCIONES DE BASE DE DATOS en Excel",
@@ -567,6 +644,13 @@
         "l": 741
     },
     {
+        "i": 140,
+        "j": "Nx19q5OEM00",
+        "b": "Dividir Columnas y Extraer Textos en Power Query",
+        "h": "20260210232007",
+        "l": 760
+    },
+    {
         "i": 30,
         "j": "O7ta1U_TuBU",
         "b": "Curso Excel: CONTAR, CONTARA, CONTAR.SI Y CONTAR.SI.CONJUNTO en Excel",
@@ -579,6 +663,13 @@
         "b": "Gráfico de Cascada y Embudo en Excel (Análisis Visual Paso a Paso) 📊🔽",
         "h": "20251010222729",
         "l": 309
+    },
+    {
+        "i": 144,
+        "j": "OBzFBo1U10E",
+        "b": "TABLA ORIGINAL vs TABLA CONSULTA en Power Query | Diferencias y Comportamientos",
+        "h": "20260213213714",
+        "l": 905
     },
     {
         "i": 84,
@@ -607,6 +698,13 @@
         "b": "Curso Excel: Funciones de Fechas que deberías Saber este 2025",
         "h": "20250719075741",
         "l": 1116
+    },
+    {
+        "i": 134,
+        "j": "PlFerHbt9lA",
+        "b": "¿Qué es Power Query y Para Qué Sirve? | Ahorra HORAS de Trabajo 🤯",
+        "h": "20260204161854",
+        "l": 1033
     },
     {
         "i": 85,
@@ -672,6 +770,20 @@
         "l": 395
     },
     {
+        "i": 153,
+        "j": "RKcbBosaUu4",
+        "b": "Power Query: Cómo Combinar Consultas Correctamente",
+        "h": "20260223225355",
+        "l": 1238
+    },
+    {
+        "i": 133,
+        "j": "RnjIng-mHkU",
+        "b": "CURSO DE EXCEL AVANZADO COMPLETO Y GRATIS 🤯",
+        "h": "20260202221827",
+        "l": 94
+    },
+    {
         "i": 91,
         "j": "sCiksvRUinc",
         "b": "Cómo hacer una SUMA ACUMULADA en Excel (Fácil y Rápido)",
@@ -705,6 +817,13 @@
         "b": "Como Inmovilizar Columnas y Filas en Excel al mismo tiempo 🔒",
         "h": "20250626221034",
         "l": 290
+    },
+    {
+        "i": 135,
+        "j": "T94Ur34vb5A",
+        "b": "Cómo se Conectan Excel, Power Query y Power Pivot: El Trío Poderoso",
+        "h": "20260204231647",
+        "l": 799
     },
     {
         "i": 79,
@@ -819,6 +938,13 @@
         "l": 324
     },
     {
+        "i": 142,
+        "j": "W2DEs30Uxxc",
+        "b": "Opciones de Fechas en Power Query | Extraer Año, Mes, Día y Más",
+        "h": "20260212005213",
+        "l": 576
+    },
+    {
         "i": 60,
         "j": "w58baHXThuc",
         "b": "Imprime en Excel como un DIOS | Sin Cortes, Sin Desperdicio de hojas 🚀",
@@ -889,11 +1015,25 @@
         "l": 46
     },
     {
+        "i": 150,
+        "j": "Xo1n_9iRN6U",
+        "b": "Power Query: Diferencia entre Anular Dinamización de Columnas y Transponer",
+        "h": "20260220195440",
+        "l": 982
+    },
+    {
         "i": 51,
         "j": "xWbC3CViLUE",
         "b": "Cómo usar la función BUSCARX de Excel (Adios BuscarV y BuscarH)",
         "h": "20250825044657",
         "l": 1974
+    },
+    {
+        "i": 152,
+        "j": "Yk2PWKHDI2M",
+        "b": "Combinar Consultas en Power Query: Llave Primaria y Llave Secundaria",
+        "h": "20260223153718",
+        "l": 743
     },
     {
         "i": 3,
@@ -915,6 +1055,13 @@
         "b": "📊 Cómo Crear un ORGANIGRAMA en Excel (Personalizado con imágenes)",
         "h": "20251015000841",
         "l": 578
+    },
+    {
+        "i": 151,
+        "j": "ZjYgEC0ZK38",
+        "b": "Relleno de Datos en Power Query: Relleno Abajo, Relleno Arriba",
+        "h": "20260221151802",
+        "l": 684
     },
     {
         "i": 122,
