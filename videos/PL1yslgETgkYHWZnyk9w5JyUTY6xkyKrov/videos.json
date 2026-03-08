@@ -51,7 +51,7 @@
     {
         "i": 147,
         "j": "1rQyXMKyQ1A",
-        "b": "Errores por Nombre de Columna y Columnas Ausentes en Power Query",
+        "b": "Power Query: Errores por Nombre de Columna y Columnas Ausentes | Excel | Clase 150",
         "h": "20260218022222",
         "l": 667
     },
@@ -77,11 +77,25 @@
         "l": 399
     },
     {
+        "i": 161,
+        "j": "37kebu5x4Eg",
+        "b": "Power Query: Función IF en Lenguaje M + Ejercicio | Excel | Clase 164",
+        "h": "20260305230522",
+        "l": 489
+    },
+    {
         "i": 5,
         "j": "3DQq--hJt_k",
         "b": "¡No Guardes Mal Tu Archivo! Conoce TODAS las Extensiones de Excel y Para Qué Sirven",
         "h": "20250607152307",
         "l": 591
+    },
+    {
+        "i": 163,
+        "j": "3jpRrpoemn8",
+        "b": "Power Query: Combinando la Función if + and | Excel | Clase 166",
+        "h": "20260306235026",
+        "l": 446
     },
     {
         "i": 111,
@@ -170,7 +184,7 @@
     {
         "i": 143,
         "j": "891uwynPgLk",
-        "b": "Mi primera automatización con Power Query + Descarga de Ejercicio",
+        "b": "Power Query: Mi primera automatización + Descarga de Ejercicio | Excel | Clase 146",
         "h": "20260212211748",
         "l": 779
     },
@@ -182,9 +196,16 @@
         "l": 326
     },
     {
+        "i": 158,
+        "j": "8ALjJZ_H3YU",
+        "b": "Power Query: Funciones de Números (Lenguaje M) | Excel | Clase 161",
+        "h": "20260304174615",
+        "l": 506
+    },
+    {
         "i": 141,
         "j": "8FLSC9dpc4k",
-        "b": "Columna de Números en Power Query: Estadística, Trigonometría y Formato Científico con Redondeo",
+        "b": "Power Query: Columna de Números (Estadística, Trigonometría, Formatos, Redondeos) | Clase 144",
         "h": "20260211171127",
         "l": 666
     },
@@ -247,7 +268,7 @@
     {
         "i": 136,
         "j": "bKExiZbplT0",
-        "b": "Cómo activar Power Query y Power Pivot en Excel",
+        "b": "Power Query: Activar Power Query y Power Pivot | Excel | Clase 139",
         "h": "20260205222539",
         "l": 472
     },
@@ -275,7 +296,7 @@
     {
         "i": 146,
         "j": "CHVcb0LHjAs",
-        "b": "Power Query: Corrigiendo Errores de Tipo de Dato en Excel Paso a Paso",
+        "b": "Power Query: Corrigiendo Errores de Tipo de Dato | Excel | Clase 149",
         "h": "20260217204909",
         "l": 888
     },
@@ -331,14 +352,14 @@
     {
         "i": 137,
         "j": "dsUxlMJW2PU",
-        "b": "Ingresando al Editor de Power Query: Empiezas a Transformar Datos",
+        "b": "Power Query: Ingresando al Editor: Empiezas a Transformar Datos | Excel | Clase 140",
         "h": "20260207185028",
         "l": 834
     },
     {
         "i": 138,
         "j": "dZdrUL_pO2o",
-        "b": "Cargando Datos al Editor de Power Query: TXT, Tablas, CSV y Archivos Excel",
+        "b": "Power Query: Cargando Datos al Editor (TXT, Tablas, CSV y Archivos Excel) | Excel | Clase 141",
         "h": "20260207194719",
         "l": 994
     },
@@ -369,6 +390,13 @@
         "b": "Gráfico de Dispresión y Correlación en Excel (Diagrama paso a paso) 📈",
         "h": "20251006231420",
         "l": 266
+    },
+    {
+        "i": 156,
+        "j": "f7OXYWEZk_8",
+        "b": "Power Query: Aplicar Filtros para Limpiar y Optimizar tus Datos  | Excel | Clase 159",
+        "h": "20260304005326",
+        "l": 674
     },
     {
         "i": 40,
@@ -469,6 +497,20 @@
         "l": 1436
     },
     {
+        "i": 162,
+        "j": "jbPpdpyGRMc",
+        "b": "Power Query: Combinando la Función if + and | Excel | Clase 165",
+        "h": "20260306195046",
+        "l": 525
+    },
+    {
+        "i": 159,
+        "j": "jd2td_l612s",
+        "b": "Power Query: Funciones de Fecha (Lenguaje M) | Excel | Clase 162",
+        "h": "20260305161608",
+        "l": 894
+    },
+    {
         "i": 20,
         "j": "JNfgclJmj2o",
         "b": "Cómo proteger con contraseña un archivo Excel 🔒 (Mantener tus datos seguros)",
@@ -478,7 +520,7 @@
     {
         "i": 149,
         "j": "Jo1vkjgJ2_A",
-        "b": "Transponer datos con Power Query: Ordena tus tablas en segundos",
+        "b": "Power Query: Transponer datos, Ordena tus tablas en segundos | Excel | Clase 152",
         "h": "20260220003418",
         "l": 277
     },
@@ -499,7 +541,7 @@
     {
         "i": 148,
         "j": "KDGYVXVRAIY",
-        "b": "Anular dinamización en Power Query: De columnas a filas y viceversa",
+        "b": "Power Query: Anular dinamización de columnas a filas y viceversa | Excel | Clase 151",
         "h": "20260219193738",
         "l": 533
     },
@@ -532,6 +574,13 @@
         "l": 496
     },
     {
+        "i": 154,
+        "j": "KwsMDPBl9n8",
+        "b": "Power Query: Cómo Consolidar Datos como un Profesional  | Excel | Clase 157",
+        "h": "20260302221101",
+        "l": 1219
+    },
+    {
         "i": 17,
         "j": "l10X-ZxPm_s",
         "b": "Como Insertar Notas y Comentarios en Excel  | Curso Excel Básico",
@@ -548,7 +597,7 @@
     {
         "i": 145,
         "j": "Lcy0XeomdkU",
-        "b": "Corrigiendo errores en filas y columnas con Power Query | Limpieza profesional de datos en Excel",
+        "b": "Power Query: Corrigiendo errores en filas y columnas | Excel | Clase 148",
         "h": "20260217160452",
         "l": 798
     },
@@ -618,7 +667,7 @@
     {
         "i": 139,
         "j": "NHDcSTItqE0",
-        "b": "La opción Formato de Power Query: limpia y transforma tus datos fácil",
+        "b": "Power Query: La opción Formato (limpia y transforma tus datos) | Excel | Clase 142",
         "h": "20260210152412",
         "l": 688
     },
@@ -646,7 +695,7 @@
     {
         "i": 140,
         "j": "Nx19q5OEM00",
-        "b": "Dividir Columnas y Extraer Textos en Power Query",
+        "b": "Power Query: Dividir Columnas y Extraer Textos | Excel | Clase 143",
         "h": "20260210232007",
         "l": 760
     },
@@ -667,9 +716,16 @@
     {
         "i": 144,
         "j": "OBzFBo1U10E",
-        "b": "TABLA ORIGINAL vs TABLA CONSULTA en Power Query | Diferencias y Comportamientos",
+        "b": "Power Query: TABLA ORIGINAL vs TABLA CONSULTA ( Diferencias y Comportamientos) | Excel | Clase 147",
         "h": "20260213213714",
         "l": 905
+    },
+    {
+        "i": 157,
+        "j": "OO85U1s5mK4",
+        "b": "Power Query: Funciones de texto (Lenguaje M) | Excel | Clase 160",
+        "h": "20260304151728",
+        "l": 1632
     },
     {
         "i": 84,
@@ -702,7 +758,7 @@
     {
         "i": 134,
         "j": "PlFerHbt9lA",
-        "b": "¿Qué es Power Query y Para Qué Sirve? | Ahorra HORAS de Trabajo 🤯",
+        "b": "¿Qué es Power Query y Para Qué Sirve? | Ahorra HORAS de Trabajo 🤯 | Excel | Clase 137",
         "h": "20260204161854",
         "l": 1033
     },
@@ -772,14 +828,14 @@
     {
         "i": 153,
         "j": "RKcbBosaUu4",
-        "b": "Power Query: Cómo Combinar Consultas Correctamente",
+        "b": "Power Query: Cómo Combinar Consultas Correctamente  | Excel | Clase 156",
         "h": "20260223225355",
         "l": 1238
     },
     {
         "i": 133,
         "j": "RnjIng-mHkU",
-        "b": "CURSO DE EXCEL AVANZADO COMPLETO Y GRATIS 🤯",
+        "b": "CURSO DE EXCEL AVANZADO COMPLETO Y GRATIS 🤯 | Excel | Clase 136",
         "h": "20260202221827",
         "l": 94
     },
@@ -821,7 +877,7 @@
     {
         "i": 135,
         "j": "T94Ur34vb5A",
-        "b": "Cómo se Conectan Excel, Power Query y Power Pivot: El Trío Poderoso",
+        "b": "Cómo se Conectan Excel, Power Query y Power Pivot: El Trío Poderoso | Excel | Clase 138",
         "h": "20260204231647",
         "l": 799
     },
@@ -924,6 +980,13 @@
         "l": 223
     },
     {
+        "i": 155,
+        "j": "VwUz9WS7WoM",
+        "b": "Power Query: Como Agrupar datos por FECHAS, EDADES (Agrupar Por) | Excel | Clase 158",
+        "h": "20260303160549",
+        "l": 1574
+    },
+    {
         "i": 62,
         "j": "vyLBFb-Qv0c",
         "b": "Imprime Encabezados en TODAS las Páginas de Excel 🖨️ | Repetir Encabezados",
@@ -940,7 +1003,7 @@
     {
         "i": 142,
         "j": "W2DEs30Uxxc",
-        "b": "Opciones de Fechas en Power Query | Extraer Año, Mes, Día y Más",
+        "b": "Power Query: Opciones de Fechas (Extraer Año, Mes, Día y más) | Excel | Clase 145",
         "h": "20260212005213",
         "l": 576
     },
@@ -1017,7 +1080,7 @@
     {
         "i": 150,
         "j": "Xo1n_9iRN6U",
-        "b": "Power Query: Diferencia entre Anular Dinamización de Columnas y Transponer",
+        "b": "Power Query: Diferencia entre Anular Dinamización de Columnas y Transponer  | Excel | Clase 153",
         "h": "20260220195440",
         "l": 982
     },
@@ -1031,7 +1094,7 @@
     {
         "i": 152,
         "j": "Yk2PWKHDI2M",
-        "b": "Combinar Consultas en Power Query: Llave Primaria y Llave Secundaria",
+        "b": "Power Query: Combinar Consultas (Llave Primaria y Llave Secundaria)  | Excel | Clase 155",
         "h": "20260223153718",
         "l": 743
     },
@@ -1059,7 +1122,7 @@
     {
         "i": 151,
         "j": "ZjYgEC0ZK38",
-        "b": "Relleno de Datos en Power Query: Relleno Abajo, Relleno Arriba",
+        "b": "Power Query: Relleno de Datos (Relleno Abajo, Relleno Arriba)  | Excel | Clase 154",
         "h": "20260221151802",
         "l": 684
     },
@@ -1076,5 +1139,12 @@
         "b": "¿Conoces la función Solver en Excel? 😱 Optimiza decisiones como un experto",
         "h": "20260112191411",
         "l": 623
+    },
+    {
+        "i": 160,
+        "j": "zYMl6Vlx25I",
+        "b": "Power Query: Operadores Matemáticos y de Comparación | Excel | Clase 163",
+        "h": "20260305222401",
+        "l": 238
     }
 ]

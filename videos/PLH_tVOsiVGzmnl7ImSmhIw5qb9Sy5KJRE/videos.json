@@ -385,6 +385,13 @@
         "l": 615
     },
     {
+        "i": 213,
+        "j": "b1QY5h4m8BA",
+        "b": "🔥31 - ¿Cómo llamar un CONTROLADOR en un archivo PHP usando peticiones AJAX?",
+        "h": "20260217224016",
+        "l": 486
+    },
+    {
         "i": 188,
         "j": "b8MZ6btpADU",
         "b": "🔥6 - ¿Cómo crear una PLANTILLA base para un SISTEMA en PHP MySQL & MVC?",
@@ -411,6 +418,13 @@
         "b": "🐘 CURSO de PHP desde CERO - 03 Primeros pasos ENTORNO de DESARROLLO PHP (LARAGON)",
         "h": "20210923131349",
         "l": 1040
+    },
+    {
+        "i": 209,
+        "j": "BMaxuCEMUj4",
+        "b": "🔥27 - ¿Cómo RECORTAR o LIMITAR la LONGITUD de una cadena de TEXTO en PHP y MVC?",
+        "h": "20260208002730",
+        "l": 497
     },
     {
         "i": 74,
@@ -546,6 +560,13 @@
         "l": 819
     },
     {
+        "i": 210,
+        "j": "fEyqT3ADbkY",
+        "b": "🔥28 - ¿Cómo VALIDAR o COMPROBAR que el FORMATO de una FECHA es VALIDO en PHP y MVC?",
+        "h": "20260209000812",
+        "l": 553
+    },
+    {
         "i": 19,
         "j": "FvzoVwBJqW8",
         "b": "🐘 CURSO de PHP desde CERO - 20 ¿Que es y como FUNCIONA el OPERADOR TERNARIO en PHP?",
@@ -665,6 +686,13 @@
         "l": 1046
     },
     {
+        "i": 208,
+        "j": "jYW4qsLBRAc",
+        "b": "🔥26 - ¿Cómo GENERAR un CODIGO ALEATORIO y único para FACTURA y TICKET de venta?",
+        "h": "20260207204433",
+        "l": 743
+    },
+    {
         "i": 192,
         "j": "k8VYo1Lo7AM",
         "b": "🔥10 - ¿Qué es y como CREAR un AUTOLOAD en PHP con spl_autoload_register?",
@@ -712,6 +740,13 @@
         "b": "🔥CRUD en PHP y MySQL POO MVC JS - 07 Creando la PLANTILLA PHP base del SISTEMA",
         "h": "20230722174516",
         "l": 489
+    },
+    {
+        "i": 212,
+        "j": "kuPrFkQ0RHU",
+        "b": "🔥30 - ¿Cómo CREAR un CONTROLADOR para el MODULO de USUARIOS en PHP y MVC?",
+        "h": "20260211230403",
+        "l": 254
     },
     {
         "i": 166,
@@ -896,6 +931,13 @@
         "l": 839
     },
     {
+        "i": 211,
+        "j": "OjTFP2u6ocM",
+        "b": "🔥29 - ¿Cómo CREAR las VISTAS del modulo USUARIOS en un sistema PHP y MVC?",
+        "h": "20260209223204",
+        "l": 639
+    },
+    {
         "i": 29,
         "j": "oK-AvqP_3QQ",
         "b": "🐘 CURSO de PHP desde CERO - 30 Como USAR el CICLO FOREACH en PHP (EJEMPLOS)",
@@ -908,6 +950,13 @@
         "b": "🐘 CURSO de PHP desde CERO - 49 MANEJO de SESIONES en PHP con VARIABLES de $_SESSION (EJEMPLO)",
         "h": "20220210153850",
         "l": 1353
+    },
+    {
+        "i": 216,
+        "j": "OQO4rw1AtFA",
+        "b": "🔥34 - ¿Cómo INSTALAR y UTILIZAR el plugin sweetalert2 js en proyecto PHP MVC AJAX?",
+        "h": "20260305000441",
+        "l": 556
     },
     {
         "i": 159,
@@ -1118,6 +1167,13 @@
         "b": "🐘 CURSO de PHP desde CERO - 28 Como USAR el CICLO DO WHILE en PHP  (EJEMPLOS)",
         "h": "20211105230406",
         "l": 683
+    },
+    {
+        "i": 214,
+        "j": "tNIn7dqyu_s",
+        "b": "🔥32 - ¿Cómo CREAR un archivo JS para ENVIAR peticiones AJAX en PHP y MVC?",
+        "h": "20260224225709",
+        "l": 186
     },
     {
         "i": 141,
@@ -1412,6 +1468,13 @@
         "b": "🐘 CURSO de PHP desde CERO - 11 OPERADORES de ASIGNACION en PHP",
         "h": "20210924150342",
         "l": 451
+    },
+    {
+        "i": 215,
+        "j": "yz2FSSM7nbw",
+        "b": "🔥33 - ¿Cómo ENVIAR datos de un FORMULARIO con PHP AJAX MVC y API fetch JS?",
+        "h": "20260304222812",
+        "l": 885
     },
     {
         "i": 14,
