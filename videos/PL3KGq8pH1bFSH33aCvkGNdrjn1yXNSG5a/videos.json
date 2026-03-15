@@ -1,0 +1,471 @@
+[
+    {
+        "i": 7,
+        "j": "-2vXRjVNK8Q",
+        "b": "Análisis Dimensional - Ejercicios Resueltos - Nivel 3",
+        "h": "20190221201746",
+        "l": 880
+    },
+    {
+        "i": 56,
+        "j": "-7CuMR2_TsM",
+        "b": "Movimiento Parabólico (MPCL) - Ejercicios Resueltos - Nivel 3",
+        "h": "20190530235549",
+        "l": 1509
+    },
+    {
+        "i": 1,
+        "j": "-GgrsezemTY",
+        "b": "¿Qué es la Física? ¿Para qué sirve?",
+        "h": "20190624174444",
+        "l": 95
+    },
+    {
+        "i": 46,
+        "j": "0CA8kHkMBmk",
+        "b": "Caída Libre (MVCL) - Ejercicios Resueltos - Intro",
+        "h": "20190519041321",
+        "l": 1660
+    },
+    {
+        "i": 24,
+        "j": "0R14KmKiHd8",
+        "b": "Suma y Resta de Vectores Expresados Mediante Pares Ordenados - Ejercicios Resueltos",
+        "h": "20190319134841",
+        "l": 1183
+    },
+    {
+        "i": 32,
+        "j": "0TVRmrPtScM",
+        "b": "Vectores - Ejercicios Resueltos - Nivel 1",
+        "h": "20190331033218",
+        "l": 1640
+    },
+    {
+        "i": 53,
+        "j": "1DXOt-n_KPQ",
+        "b": "Movimiento Parabólico (MPCL) - Ejercicios Resueltos - Nivel 1",
+        "h": "20190531155456",
+        "l": 1130
+    },
+    {
+        "i": 58,
+        "j": "1EwAK_W79Sc",
+        "b": "Movimiento Circular Uniforme (MCU) - Ejercicios Resueltos - Nivel 1",
+        "h": "20190611171510",
+        "l": 1261
+    },
+    {
+        "i": 11,
+        "j": "5BirwKGx7H0",
+        "b": "Notación Científica: Multiplicación - Ejercicios Resueltos",
+        "h": "20190307125631",
+        "l": 1433
+    },
+    {
+        "i": 45,
+        "j": "6_B0eBGDIRQ",
+        "b": "Movimiento Rectilíneo Uniformemente Variado / Acelerado (MRUV / MRUA) - Nivel 3 - Ejercicios",
+        "h": "20190501041535",
+        "l": 1463
+    },
+    {
+        "i": 61,
+        "j": "8y23Gw4Lk_I",
+        "b": "Movimiento Circular Uniforme (MCU) - Ejercicios Resueltos - Nivel 3",
+        "h": "20190614031019",
+        "l": 1205
+    },
+    {
+        "i": 12,
+        "j": "91DxTC4L6PQ",
+        "b": "Notación Científica: División - Ejercicios Resueltos",
+        "h": "20190307125631",
+        "l": 1485
+    },
+    {
+        "i": 54,
+        "j": "9rOFRYd35c4",
+        "b": "Movimiento Parabólico: Altura Máxima, Tiempo de Vuelo y Alcance Horizontal - Ejercicios",
+        "h": "20190530235549",
+        "l": 839
+    },
+    {
+        "i": 27,
+        "j": "9ycN7cURBwc",
+        "b": "Suma de Vectores: Método del Triángulo - Ejercicios Resueltos",
+        "h": "20190331033218",
+        "l": 1890
+    },
+    {
+        "i": 60,
+        "j": "cJxvGu4uCGA",
+        "b": "Movimiento Circular Uniforme (MCU) - Ejercicios Resueltos - Nivel 2",
+        "h": "20190614030933",
+        "l": 1361
+    },
+    {
+        "i": 51,
+        "j": "CxyzZeaG7bQ",
+        "b": "Caída Libre (MVCL) - Ejercicios Resueltos - Nivel 3",
+        "h": "20190519041321",
+        "l": 1103
+    },
+    {
+        "i": 30,
+        "j": "D4xXJZw43q0",
+        "b": "Suma de Vectores: Componentes Rectangulares - Ejercicios Resueltos",
+        "h": "20190331033218",
+        "l": 3311
+    },
+    {
+        "i": 39,
+        "j": "dEhmoIBPLik",
+        "b": "Movimiento Rectilíneo Uniforme (MRU) - Ejercicios Resueltos - Nivel 2",
+        "h": "20190413152408",
+        "l": 1630
+    },
+    {
+        "i": 44,
+        "j": "diaP-qiWSBM",
+        "b": "MRUV: Los Números de Galileo - Ejercicios Resueltos",
+        "h": "20190501041535",
+        "l": 875
+    },
+    {
+        "i": 33,
+        "j": "fKjBY_KNWaA",
+        "b": "Vectores - Ejercicios Resueltos - Nivel 2",
+        "h": "20190331033218",
+        "l": 1276
+    },
+    {
+        "i": 37,
+        "j": "fLMwyvG2W0g",
+        "b": "Convertir de km/h a m/s y de m/s a km/h - Ejercicios",
+        "h": "20190415134737",
+        "l": 1176
+    },
+    {
+        "i": 9,
+        "j": "FQZrvRTXvPE",
+        "b": "Pasar de Notación Científica a Notación Decimal - Ejercicios Resueltos",
+        "h": "20190307125631",
+        "l": 1230
+    },
+    {
+        "i": 13,
+        "j": "FTMkVmZl0NU",
+        "b": "Notación Científica: Potenciación y Radicación - Ejercicios Resueltos",
+        "h": "20190307125631",
+        "l": 1740
+    },
+    {
+        "i": 17,
+        "j": "fYbo4-g7-IY",
+        "b": "Conversiones con Prefijos del Sistema Internacional de Unidades",
+        "h": "20190307125723",
+        "l": 784
+    },
+    {
+        "i": 35,
+        "j": "g6nrBeHdL7c",
+        "b": "Los Aviones Vectorizados - Aplicación de Vectores",
+        "h": "20190622195507",
+        "l": 1808
+    },
+    {
+        "i": 64,
+        "j": "GnrIdM5l1nc",
+        "b": "Movimiento Circular Uniformemente Variado (MCUV) - Ejercicios - Nivel 1",
+        "h": "20190620141356",
+        "l": 1072
+    },
+    {
+        "i": 6,
+        "j": "GXRKU7P8z6Q",
+        "b": "Análisis Dimensional - Ejercicios Resueltos - Nivel 2B",
+        "h": "20190221201746",
+        "l": 1420
+    },
+    {
+        "i": 63,
+        "j": "HUFNvGIaT_c",
+        "b": "Movimiento Circular Uniformemente Variado (MCUV) - Ejercicios - Intro",
+        "h": "20190623201252",
+        "l": 1844
+    },
+    {
+        "i": 49,
+        "j": "I5RdWKFdKc0",
+        "b": "Caída Libre (MVCL) - Ejercicios Resueltos - Nivel 1B",
+        "h": "20190513204737",
+        "l": 1450
+    },
+    {
+        "i": 34,
+        "j": "Ifc4MddUdXA",
+        "b": "Vectores - Ejercicios Resueltos - Nivel 3",
+        "h": "20190331033218",
+        "l": 1366
+    },
+    {
+        "i": 21,
+        "j": "jB190Wr1QFM",
+        "b": "Introducción a Trigonometría",
+        "h": "20190307125723",
+        "l": 1712
+    },
+    {
+        "i": 15,
+        "j": "JW7yci0NUx0",
+        "b": "El desastre de la sonda Mars Climate Orbiter - Aplicación del Sistema Internacional de Unidades",
+        "h": "20190902234357",
+        "l": 101
+    },
+    {
+        "i": 8,
+        "j": "jy1UkEC3VoQ",
+        "b": "Notación Científica - Ejercicios Resueltos - Introducción",
+        "h": "20190307125631",
+        "l": 2057
+    },
+    {
+        "i": 16,
+        "j": "kr87E--j0F8",
+        "b": "Conversión de Unidades - El Método más Fácil",
+        "h": "20190307125723",
+        "l": 701
+    },
+    {
+        "i": 41,
+        "j": "kYUDEbrX9qQ",
+        "b": "Movimiento Rectilíneo Uniformemente Variado / Acelerado (MRUV / MRUA) - Intro - Ejercicios",
+        "h": "20190501224734",
+        "l": 1439
+    },
+    {
+        "i": 65,
+        "j": "L6P4AAZ_RM0",
+        "b": "Movimiento Circular Uniformemente Variado (MCUV) - Ejercicios - Nivel 2",
+        "h": "20190620232505",
+        "l": 1230
+    },
+    {
+        "i": 43,
+        "j": "lHa7QhzsB5E",
+        "b": "Movimiento Rectilíneo Uniformemente Variado / Acelerado (MRUV / MRUA) - Nivel 2 - Ejercicios",
+        "h": "20190427150433",
+        "l": 1711
+    },
+    {
+        "i": 28,
+        "j": "Lv5hJzw19n4",
+        "b": "Suma de Vectores: Método del Polígono (cabeza - cola) - Ejercicios Resueltos",
+        "h": "20190416145919",
+        "l": 1483
+    },
+    {
+        "i": 19,
+        "j": "m0EXbC6jql8",
+        "b": "Conversión de Unidades de Masa Usando los Prefijos del SI: g, kg, cg, ng, mg, dag, Tg",
+        "h": "20190307125723",
+        "l": 1839
+    },
+    {
+        "i": 38,
+        "j": "mIFIz-UfYPk",
+        "b": "Movimiento Rectilíneo Uniforme (MRU) - Ejercicios Resueltos - Nivel 1",
+        "h": "20190413152408",
+        "l": 925
+    },
+    {
+        "i": 18,
+        "j": "MyzYIjk5-4g",
+        "b": "Conversión de Unidades de Masa: libras, kilogramos, toneladas, gramos",
+        "h": "20190307125723",
+        "l": 1225
+    },
+    {
+        "i": 26,
+        "j": "nj4ZiX2fM0o",
+        "b": "Suma y Resta de Vectores Colineales - Ejercicios Resueltos",
+        "h": "20190326162357",
+        "l": 2945
+    },
+    {
+        "i": 22,
+        "j": "no8c1_MYaLA",
+        "b": "Vectores - Ejercicios Resueltos - Introducción",
+        "h": "20190405031411",
+        "l": 2334
+    },
+    {
+        "i": 0,
+        "j": "nQyukvGcSxI",
+        "b": "Curso de Física: Movimientos - Tráiler",
+        "h": "20190624203012",
+        "l": 32
+    },
+    {
+        "i": 50,
+        "j": "NRhKI6Bn7aU",
+        "b": "Caída Libre (MVCL) - Ejercicios Resueltos - Nivel 2",
+        "h": "20190518142913",
+        "l": 1845
+    },
+    {
+        "i": 20,
+        "j": "ORI1Dr2D7Vo",
+        "b": "Las Cucarachas Internacionales - Aplicación de Notación Científica y SI",
+        "h": "20190624045337",
+        "l": 1499
+    },
+    {
+        "i": 57,
+        "j": "OrSeFM4eXpU",
+        "b": "Movimiento Circular Uniforme (MCU) - Ejercicios Resueltos - Intro",
+        "h": "20190623213201",
+        "l": 1631
+    },
+    {
+        "i": 52,
+        "j": "OYa-OazhkK8",
+        "b": "Movimiento Parabólico (MPCL) - Ejercicios Resueltos - Intro",
+        "h": "20190614031045",
+        "l": 2461
+    },
+    {
+        "i": 48,
+        "j": "PZBQWSvcBFc",
+        "b": "Caída Libre (MVCL) - Ejercicios Resueltos - Nivel 1A",
+        "h": "20190513204737",
+        "l": 1655
+    },
+    {
+        "i": 10,
+        "j": "QA0LiGjzwk4",
+        "b": "Notación Científica: Suma y Resta - Ejercicios Resueltos",
+        "h": "20190307125631",
+        "l": 2165
+    },
+    {
+        "i": 3,
+        "j": "qDWFKhT27_I",
+        "b": "Análisis Dimensional - Ejercicios Resueltos - Nivel 1A",
+        "h": "20190221201746",
+        "l": 845
+    },
+    {
+        "i": 2,
+        "j": "qhhgfOl6dsk",
+        "b": "Análisis Dimensional - Ejercicios Resueltos - Introducción",
+        "h": "20190221201746",
+        "l": 1243
+    },
+    {
+        "i": 31,
+        "j": "S5ImIYUMuRI",
+        "b": "Resta o Sustracción de Vectores - Ejercicios Resueltos",
+        "h": "20190401232804",
+        "l": 1054
+    },
+    {
+        "i": 62,
+        "j": "sAX03E45Z1I",
+        "b": "Aplicaciones del Movimiento Circular Uniforme en el Taller de Mecánica",
+        "h": "20190414133409",
+        "l": 443
+    },
+    {
+        "i": 5,
+        "j": "SfA18pWLATA",
+        "b": "Análisis Dimensional - Ejercicios Resueltos - Nivel 2A",
+        "h": "20190221201746",
+        "l": 1304
+    },
+    {
+        "i": 47,
+        "j": "SK2WMVM3_X4",
+        "b": "Aristóteles vs Galileo - Teorías sobre la Caída Libre",
+        "h": "20190531151551",
+        "l": 63
+    },
+    {
+        "i": 55,
+        "j": "sZKu4VthupU",
+        "b": "Movimiento Parabólico (MPCL) - Ejercicios Resueltos - Nivel 2",
+        "h": "20190530235549",
+        "l": 1737
+    },
+    {
+        "i": 59,
+        "j": "t4AD6ip4RZE",
+        "b": "Período y Frecuencia - MCU - Ejercicios Resueltos",
+        "h": "20190614170803",
+        "l": 835
+    },
+    {
+        "i": 36,
+        "j": "TtEssmIcFxE",
+        "b": "Movimiento Rectilíneo Uniforme (MRU) - Ejercicios Resueltos - Intro",
+        "h": "20190416145725",
+        "l": 1397
+    },
+    {
+        "i": 29,
+        "j": "v22yD8CqVuY",
+        "b": "Suma de Vectores: Método del Paralelogramo - Ejercicios Resueltos",
+        "h": "20190409234355",
+        "l": 2347
+    },
+    {
+        "i": 66,
+        "j": "v4sY636P-8g",
+        "b": "Movimiento Circular Uniformemente Variado (MCUV) - Ejercicios - Nivel 3",
+        "h": "20190622114501",
+        "l": 1363
+    },
+    {
+        "i": 40,
+        "j": "Vd0bhxqSUB4",
+        "b": "Movimiento Rectilíneo Uniforme (MRU) - Ejercicios Resueltos - Nivel 3",
+        "h": "20190414133409",
+        "l": 1337
+    },
+    {
+        "i": 25,
+        "j": "w2LTtwPFezc",
+        "b": "Multiplicación de un Vector por un Escalar - Ejercicios Resueltos",
+        "h": "20190319224209",
+        "l": 2090
+    },
+    {
+        "i": 14,
+        "j": "wGhZ5p9_sOE",
+        "b": "Sistema Internacional de Unidades - Introducción",
+        "h": "20190309142532",
+        "l": 1724
+    },
+    {
+        "i": 4,
+        "j": "wR9Nr0VYgbQ",
+        "b": "Análisis Dimensional - Ejercicios Resueltos - Nivel 1B",
+        "h": "20190902234310",
+        "l": 781
+    },
+    {
+        "i": 23,
+        "j": "XH6AwRVrTbU",
+        "b": "Representación Cartesiana de un Vector - Ejercicios Resueltos",
+        "h": "20190319134841",
+        "l": 2097
+    },
+    {
+        "i": 42,
+        "j": "YxY05ybVjHo",
+        "b": "Movimiento Rectilíneo Uniformemente Variado / Acelerado (MRUV / MRUA) - Nivel 1 - Ejercicios",
+        "h": "20190427150433",
+        "l": 1180
+    }
+]

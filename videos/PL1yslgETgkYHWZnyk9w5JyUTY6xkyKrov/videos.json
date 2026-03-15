@@ -77,6 +77,13 @@
         "l": 399
     },
     {
+        "i": 166,
+        "j": "336XetymBpE",
+        "b": "Power Query: Manejo de Errores tipo NaN, Infinity y Null | Excel | Clase 169",
+        "h": "20260311001503",
+        "l": 531
+    },
+    {
         "i": 161,
         "j": "37kebu5x4Eg",
         "b": "Power Query: Función IF en Lenguaje M + Ejercicio | Excel | Clase 164",
@@ -93,7 +100,7 @@
     {
         "i": 163,
         "j": "3jpRrpoemn8",
-        "b": "Power Query: Combinando la Función if + and | Excel | Clase 166",
+        "b": "Power Query: Combinando la Función if + or | Excel | Clase 166",
         "h": "20260306235026",
         "l": 446
     },
@@ -602,6 +609,13 @@
         "l": 798
     },
     {
+        "i": 165,
+        "j": "lxz2u8whyNM",
+        "b": "Power Query: Control de Errores | Excel | Clase 168",
+        "h": "20260309201526",
+        "l": 404
+    },
+    {
         "i": 113,
         "j": "M-H1LvF9q4k",
         "b": "Cómo usar fácilmente las funciones CONTAR y CONTARA en Excel + Ejercicio",
@@ -782,6 +796,13 @@
         "b": "Como Contar DATOS REPETIDOS en Excel + Quitar Duplicados",
         "h": "20251208181138",
         "l": 195
+    },
+    {
+        "i": 164,
+        "j": "qAVu8XTl36k",
+        "b": "Power Query: Función if...else en Lenguaje M | Excel | Clase 167",
+        "h": "20260308170323",
+        "l": 644
     },
     {
         "i": 50,
