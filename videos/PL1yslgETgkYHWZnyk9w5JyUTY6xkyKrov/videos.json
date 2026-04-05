@@ -371,11 +371,25 @@
         "l": 994
     },
     {
+        "i": 176,
+        "j": "EE0X_DbCkk4",
+        "b": "Curso de Power Pivot: Domina la Función SWITCH en DAX (Casos Prácticos) | Clase 179",
+        "h": "20260402054954",
+        "l": 652
+    },
+    {
         "i": 15,
         "j": "eFb6MbIwVf0",
         "b": "Curso de Excel Básico: Relleno Rápido, AutoRelleno y Relleno Inteligente 🚀",
         "h": "20250618225701",
         "l": 560
+    },
+    {
+        "i": 169,
+        "j": "EgP8BiifC2I",
+        "b": "Curso Power Pivot: Errores al Crear Relaciones entre Tablas | Clase 173",
+        "h": "20260323231206",
+        "l": 745
     },
     {
         "i": 97,
@@ -467,6 +481,13 @@
         "b": "Insertar Encabezado en Excel con Texto y Imagen 📄✨",
         "h": "20250914083457",
         "l": 305
+    },
+    {
+        "i": 170,
+        "j": "HWt_Hot5GuA",
+        "b": "Curso Power Pivot: Crear Modelo de datos con ChatGPT IA | Clase 174",
+        "h": "20260325152046",
+        "l": 772
     },
     {
         "i": 114,
@@ -994,6 +1015,13 @@
         "l": 1719
     },
     {
+        "i": 174,
+        "j": "uYpPTTVM_es",
+        "b": "Curso Power Pivot: Funciones IF, AND y OR en DAX | Clase 178",
+        "h": "20260401153613",
+        "l": 1261
+    },
+    {
         "i": 16,
         "j": "V-SHCSQhYHc",
         "b": "Conoce el Buscar y Reemplazar en Excel: todas sus opciones al detalle 🔍",
@@ -1036,6 +1064,13 @@
         "l": 324
     },
     {
+        "i": 173,
+        "j": "w-HfYWx_3jQ",
+        "b": "Curso Power Pivot: Funciones DAX de Búsqueda | LOOKUPVALUE, RELATED |  Clase 177",
+        "h": "20260331152048",
+        "l": 1244
+    },
+    {
         "i": 142,
         "j": "W2DEs30Uxxc",
         "b": "Power Query: Opciones de Fechas (Extraer Año, Mes, Día y más) | Excel | Clase 145",
@@ -1048,6 +1083,13 @@
         "b": "Imprime en Excel como un DIOS | Sin Cortes, Sin Desperdicio de hojas 🚀",
         "h": "20250909190609",
         "l": 632
+    },
+    {
+        "i": 175,
+        "j": "w6RUK_92iq8",
+        "b": "✅ Curso de Power Pivot: Qué es Power Pivot, Cuándo y Por Qué Usarlo en Excel | Clase 170",
+        "h": "20260401155003",
+        "l": 2115
     },
     {
         "i": 61,
@@ -1113,6 +1155,13 @@
         "l": 46
     },
     {
+        "i": 172,
+        "j": "xiR9xt8aNOA",
+        "b": "Curso de Power Pivot: Funciones de Fecha en DAX | Clase 176",
+        "h": "20260330225409",
+        "l": 680
+    },
+    {
         "i": 150,
         "j": "Xo1n_9iRN6U",
         "b": "Power Query: Diferencia entre Anular Dinamización de Columnas y Transponer  | Excel | Clase 153",
@@ -1174,6 +1223,13 @@
         "b": "¿Conoces la función Solver en Excel? 😱 Optimiza decisiones como un experto",
         "h": "20260112191411",
         "l": 623
+    },
+    {
+        "i": 171,
+        "j": "zTSoaz5tPrs",
+        "b": "Curso de Power Pivot: Funciones de Texto en DAX | Clase 175",
+        "h": "20260330170025",
+        "l": 1310
     },
     {
         "i": 160,
