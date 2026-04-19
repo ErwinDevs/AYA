@@ -77,6 +77,13 @@
         "l": 399
     },
     {
+        "i": 185,
+        "j": "2v7IVEGt1p0",
+        "b": "Private video",
+        "h": "20260419045721",
+        "l": 0
+    },
+    {
         "i": 166,
         "j": "336XetymBpE",
         "b": "Power Query: Manejo de Errores tipo NaN, Infinity y Null | Excel | Clase 169",
@@ -96,6 +103,13 @@
         "b": "¡No Guardes Mal Tu Archivo! Conoce TODAS las Extensiones de Excel y Para Qué Sirven",
         "h": "20250607152307",
         "l": 591
+    },
+    {
+        "i": 178,
+        "j": "3FtjxsKxSaM",
+        "b": "Curso Power Pivot: Funciones de Agregación en DAX (SUM, MAX, MIN, AVERAGE) | Clase 181",
+        "h": "20260406231036",
+        "l": 1229
     },
     {
         "i": 163,
@@ -224,6 +238,13 @@
         "l": 270
     },
     {
+        "i": 182,
+        "j": "8mvZHfHldEE",
+        "b": "Curso Power Pivot: Función FILTER con AND(&&) e IN(||) en DAX | Clase 184",
+        "h": "20260409191452",
+        "l": 1117
+    },
+    {
         "i": 14,
         "j": "9jnPzmWg678",
         "b": "Curso de Excel: Tipos de Pegado Especial en Excel",
@@ -264,6 +285,13 @@
         "b": "Operador PUNTO en Excel  | Jugada Maestra 🚀",
         "h": "20250827205531",
         "l": 484
+    },
+    {
+        "i": 181,
+        "j": "BDOtX3o51P0",
+        "b": "Deleted video",
+        "h": "20260409161459",
+        "l": 0
     },
     {
         "i": 8,
@@ -411,6 +439,13 @@
         "b": "Gráfico de Dispresión y Correlación en Excel (Diagrama paso a paso) 📈",
         "h": "20251006231420",
         "l": 266
+    },
+    {
+        "i": 180,
+        "j": "F4EuUkQUJkI",
+        "b": "Curso Power Pivot: Función FILTER y SUMX en DAX | Filtrar y Sumar | Clase 183",
+        "h": "20260408181941",
+        "l": 1452
     },
     {
         "i": 156,
@@ -665,6 +700,13 @@
         "l": 925
     },
     {
+        "i": 184,
+        "j": "mm5akVlHOZI",
+        "b": "Curso Power Pivot: Funcion Calculate con AND (&&) y IN(||) en DAX | Filtrar Múltiples Condiciones",
+        "h": "20260418204002",
+        "l": 1378
+    },
+    {
         "i": 119,
         "j": "MN_sCrWM8VA",
         "b": "Cómo usar Controles de Formulario en Excel (Sin Programación)",
@@ -684,6 +726,13 @@
         "b": "Como Activar Power Pivot en Excel | Clase 171",
         "h": "20260319150525",
         "l": 67
+    },
+    {
+        "i": 177,
+        "j": "mynHhRtAOmg",
+        "b": "Curso Power Pivot: Cómo Definir una Medida en DAX | Clase 180",
+        "h": "20260406163521",
+        "l": 754
     },
     {
         "i": 13,
@@ -1001,6 +1050,13 @@
         "l": 484
     },
     {
+        "i": 183,
+        "j": "uriXK9ZMU74",
+        "b": "Curso de Power Pivot: Función CALCULATE en DAX | Clase 185",
+        "h": "20260410152306",
+        "l": 1218
+    },
+    {
         "i": 64,
         "j": "uvz-9dVJTDc",
         "b": "Ajustar el Tamaño de Impresión en Excel 📊 | Imprimir a Escala Fácilmente",
@@ -1174,6 +1230,13 @@
         "b": "Cómo usar la función BUSCARX de Excel (Adios BuscarV y BuscarH)",
         "h": "20250825044657",
         "l": 1974
+    },
+    {
+        "i": 179,
+        "j": "yiyN0Ybhd5M",
+        "b": "Curso de Power Pivot: Funciones de Iteración SumX, MinX, MaxX, AVERAGEX en DAX | Clase 182",
+        "h": "20260407153525",
+        "l": 1238
     },
     {
         "i": 152,

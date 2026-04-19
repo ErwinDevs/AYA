@@ -196,6 +196,13 @@
         "l": 1005
     },
     {
+        "i": 358,
+        "j": "3CCEPznLfg4",
+        "b": "Masterclass: Como analizar circuito electronico: CONVERTIDOR VOLTAJE 0 - 10V a PWM 0 - 100%",
+        "h": "20260405200509",
+        "l": 1432
+    },
+    {
         "i": 35,
         "j": "3DcWhL_ZJRY",
         "b": "Como funciona Circuito RC con señal cuadrada DC. (Clase 18.1 curso electronica)",
@@ -770,6 +777,13 @@
         "l": 2257
     },
     {
+        "i": 360,
+        "j": "EcLITI0KA3I",
+        "b": "Como analizar Circuito detector nivel con OPAMP",
+        "h": "20260412155046",
+        "l": 1600
+    },
+    {
         "i": 156,
         "j": "eepIQyK0LoQ",
         "b": "Como trabaja convertidor DCDC flyback (Clase 123)",
@@ -1006,6 +1020,13 @@
         "b": "SMPS Como funciona circuito CFP (Corrector Factor Potencia) (Clase 103)",
         "h": "20200912164833",
         "l": 1535
+    },
+    {
+        "i": 357,
+        "j": "gw02Is95QmA",
+        "b": "Private video",
+        "h": "20260405193853",
+        "l": 0
     },
     {
         "i": 124,
@@ -1668,7 +1689,7 @@
     {
         "i": 356,
         "j": "pCdo5CvD1RE",
-        "b": "MASTERCLASS: ¿Que ocurre si rompe el hilo neutro?",
+        "b": "MASTERCLASS: ¿Que ocurre si rompe el conductor del neutro?",
         "h": "20260329211432",
         "l": 1193
     },
@@ -2287,6 +2308,13 @@
         "b": "Para que sirven y cómo utilizar Leyes de Kirchhoff (Clase 3)",
         "h": "20181222233956",
         "l": 370
+    },
+    {
+        "i": 359,
+        "j": "xMoX7VQkjpk",
+        "b": "Impresionantes Motores PaP en grabadora PIXI 1064 Algolaser",
+        "h": "20260409172244",
+        "l": 1352
     },
     {
         "i": 99,

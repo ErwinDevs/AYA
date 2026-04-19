@@ -1,0 +1,359 @@
+[
+    {
+        "i": 0,
+        "j": "-8AOWuxYA1k",
+        "b": "Curso gratis de Estática (Introducción) Profesor Yee",
+        "h": "20200616205035",
+        "l": 585
+    },
+    {
+        "i": 28,
+        "j": "-9v44c2L8Xw",
+        "b": "Profesor Yee.- Calcular reacciones en un sistema en equilibrio (Momentos en 2D)",
+        "h": "20191013040412",
+        "l": 478
+    },
+    {
+        "i": 34,
+        "j": "2GDU2MXZvZc",
+        "b": "Profesor Yee.- Centro de gravedad de una figura bidimensional",
+        "h": "20191026154622",
+        "l": 467
+    },
+    {
+        "i": 6,
+        "j": "3Y00lHMxjVs",
+        "b": "Curso Estatica (V.- Componentes rectangulares) Profesor Yee",
+        "h": "20200618204137",
+        "l": 1046
+    },
+    {
+        "i": 36,
+        "j": "4LYolYqHHCc",
+        "b": "Profesor Yee.- Centro de gravedad con integrales (5.4 de Beer-Johnston)",
+        "h": "20191026154616",
+        "l": 484
+    },
+    {
+        "i": 42,
+        "j": "5UjiHr9qs54",
+        "b": "Armaduras. Método de Nodos. Armaduras espaciales. Profesor Yee",
+        "h": "20200731004404",
+        "l": 759
+    },
+    {
+        "i": 9,
+        "j": "6Q_zFDwmpBE",
+        "b": "Cómo descomponer una fuerza en 3D. Ejercicio 2.71 resuelto (Profesor Yee)",
+        "h": "20200620205942",
+        "l": 939
+    },
+    {
+        "i": 8,
+        "j": "7EcJt6jOLYk",
+        "b": "VI.- Diagrama de cuerpo libre y 2.46, 2.49 y 2.53 .- Profesor Yee",
+        "h": "20200619193352",
+        "l": 1605
+    },
+    {
+        "i": 49,
+        "j": "8_OkpR-_B9g",
+        "b": "Profesor Yee.- Ejercicio fricción (8.2 estática Beer-Johnston)",
+        "h": "20200211193515",
+        "l": 390
+    },
+    {
+        "i": 47,
+        "j": "9x0dxaYmb4w",
+        "b": "Armaduras. Método de secciones/cortes. 6.43 y  6.55 Beer-Johnston. Profesor Yee",
+        "h": "20200801222003",
+        "l": 945
+    },
+    {
+        "i": 10,
+        "j": "9Y39IaHntUE",
+        "b": "Profesor Yee.- Descomponer fuerza en 3 dimensiones (x,y,z)",
+        "h": "20190912002430",
+        "l": 298
+    },
+    {
+        "i": 43,
+        "j": "a6SFyvL23eQ",
+        "b": "Ejemplo 6.1 y ejercicio 6.1. Mecánica vectorial Beer-Johnston. Profesor Yee",
+        "h": "20200731010000",
+        "l": 792
+    },
+    {
+        "i": 11,
+        "j": "AXKO_K1NiXs",
+        "b": "Ejercicios 2.73, 2.77, 2.87, 2.89 Beer-Johnston. Profesor Yee",
+        "h": "20200621200727",
+        "l": 1330
+    },
+    {
+        "i": 19,
+        "j": "C8VD0mBmN-s",
+        "b": "Profesor Yee.- Momentos en 3D",
+        "h": "20190930013633",
+        "l": 502
+    },
+    {
+        "i": 33,
+        "j": "cNxmgpwMdmM",
+        "b": "Ejercicios 5.2, 5.4, 5.9 Beer-Jonhston. Profesor Yee",
+        "h": "20200725221843",
+        "l": 1355
+    },
+    {
+        "i": 14,
+        "j": "cRvD33erJ5s",
+        "b": "Ejercicio 2.131 Beer-Johnston. Estática",
+        "h": "20201019162612",
+        "l": 261
+    },
+    {
+        "i": 20,
+        "j": "d7hn3JnVqBg",
+        "b": "Momento de un par. Fuerza y un par. Profesor Yee",
+        "h": "20200708000116",
+        "l": 474
+    },
+    {
+        "i": 25,
+        "j": "d9vU0Zuz5RQ",
+        "b": "Cálculo de reacciones en 2D.- Profesor Yee",
+        "h": "20200718232017",
+        "l": 1104
+    },
+    {
+        "i": 30,
+        "j": "DLvpQWByIFk",
+        "b": "Profesor Yee.- Reacciones en un sistema en equilibrio (3D)",
+        "h": "20191015152251",
+        "l": 789
+    },
+    {
+        "i": 17,
+        "j": "E5G6k-yNzTQ",
+        "b": "Ejercicios 3.2, 3.3, 3.5 y 3.8 Estática Beer-Johnston resueltos. Profesor Yee",
+        "h": "20200628234711",
+        "l": 1516
+    },
+    {
+        "i": 31,
+        "j": "FgBrIFx3eNA",
+        "b": "Profesor Yee.- Reacciones en 3D (Ejercicio 4.106 Estatica  Beer-Johnston)",
+        "h": "20191018011135",
+        "l": 669
+    },
+    {
+        "i": 26,
+        "j": "FYFG0ueb-wc",
+        "b": "4.1, 4.2, 4.7, 4.25 y 4.46 Beer-Jonston resueltos. Profesor Yee",
+        "h": "20200718233942",
+        "l": 1005
+    },
+    {
+        "i": 24,
+        "j": "G9bZV3I8Lxk",
+        "b": "Ejercicios 3.105, 3.106, 3.108 y 3.119 (Beer-Johnston). Profesor Yee",
+        "h": "20200710225236",
+        "l": 1324
+    },
+    {
+        "i": 35,
+        "j": "gDTAjebM4cU",
+        "b": "Centroides con integrales. Ejercicios 5.34, 5.35 y 5.40 Beer-johnston. Profesor Yee",
+        "h": "20200725223839",
+        "l": 1060
+    },
+    {
+        "i": 22,
+        "j": "gMQXfvZ2SwA",
+        "b": "Profesor Yee.- Momentos en 3D (Losa de cimentación)",
+        "h": "20191006040841",
+        "l": 421
+    },
+    {
+        "i": 41,
+        "j": "h5lujpb96HI",
+        "b": "Ejercicios 9.42 y 9.43 Beer Johnston resueltos",
+        "h": "20201122170012",
+        "l": 918
+    },
+    {
+        "i": 23,
+        "j": "hGYg21aUvdg",
+        "b": "Ejercicio 3.94 Beer-Johnston resuelto. Profesor Yee",
+        "h": "20200709235504",
+        "l": 418
+    },
+    {
+        "i": 39,
+        "j": "i3Lx9DRgazc",
+        "b": "Momento de Inercia, Polar, Teorema de Steiner. Profesor Yee",
+        "h": "20200726190815",
+        "l": 950
+    },
+    {
+        "i": 50,
+        "j": "j_330aJgmv0",
+        "b": "Ejercicio 2.97 Resuelto Estática Mecánica Vectorial Beer-Johnston",
+        "h": "20201130165935",
+        "l": 708
+    },
+    {
+        "i": 44,
+        "j": "k589ImAro3Y",
+        "b": "Profesor Yee.- Armadura por método de nodos (6.9 Beer-Johnston)",
+        "h": "20191112020059",
+        "l": 946
+    },
+    {
+        "i": 27,
+        "j": "K8heEx2GBE0",
+        "b": "Ejercicio 4.47 Mecánica Vectorial Beer Johnston",
+        "h": "20201128191050",
+        "l": 347
+    },
+    {
+        "i": 32,
+        "j": "kwybv3Y898U",
+        "b": "Introducción a Centroides y primer momento. Profesor Yee",
+        "h": "20200719000737",
+        "l": 962
+    },
+    {
+        "i": 4,
+        "j": "LJq2MOV5QG4",
+        "b": "Curso Estática (IV.- Ejercicios 2.3, 2.4, 2.5, 2.7 y 2.11 Beer-Johnston) Profesor Yee",
+        "h": "20200618192730",
+        "l": 1123
+    },
+    {
+        "i": 18,
+        "j": "NdHXQ2pj8PA",
+        "b": "Ejercicios 3.21 y 3.22 resueltos. Mecanica vectorial Estatica Beer-Johnston. Profesor Yee",
+        "h": "20200707234118",
+        "l": 784
+    },
+    {
+        "i": 29,
+        "j": "NE82HzKfZQw",
+        "b": "Equilibrio de cuerpos en 3D. 4.105 Beer-Jonhston resuelto. Profesor Yee",
+        "h": "20200718235539",
+        "l": 1065
+    },
+    {
+        "i": 12,
+        "j": "nLCFMFpfWLw",
+        "b": "Profesor Yee.- Descomponer una fuerza en 3D (2.85 Mecanica vectorial ingenieros Beer-Johnston)",
+        "h": "20200319162545",
+        "l": 366
+    },
+    {
+        "i": 3,
+        "j": "nmrVnBetVYQ",
+        "b": "Curso Estática (III.- Ejercicios de resultante) Profesor Yee",
+        "h": "20200617230548",
+        "l": 851
+    },
+    {
+        "i": 45,
+        "j": "oEFz1jx-Hfk",
+        "b": "Ejercicio 6.14 Mecánica Vectorial Beer-Johnston",
+        "h": "20201129195801",
+        "l": 1231
+    },
+    {
+        "i": 2,
+        "j": "PTvMELDClQo",
+        "b": "Curso Estática (II.- Resultante y ley del paralelogramo)",
+        "h": "20200617180802",
+        "l": 815
+    },
+    {
+        "i": 37,
+        "j": "Q_tqLTOzRVQ",
+        "b": "Centro de gravedad de una placa no homogénea (Diversos materiales). Ejercicio resuelto",
+        "h": "20201107203709",
+        "l": 612
+    },
+    {
+        "i": 46,
+        "j": "QlFGrs54cgk",
+        "b": "Ejercicio 6.35 Mecánica Vectorial Beer-Johnston. Profesor Yee",
+        "h": "20200731010906",
+        "l": 724
+    },
+    {
+        "i": 48,
+        "j": "qmqVnpWftng",
+        "b": "Maquinas. Ejercicio 6.122 y 6.126 Beer-Johnston. Profesor Yee",
+        "h": "20200801224051",
+        "l": 689
+    },
+    {
+        "i": 21,
+        "j": "RnkaFaex4ns",
+        "b": "Ejercicios 3.70, 3.83, 3.84 resueltos Beer-Johnston. Profesor Yee",
+        "h": "20200708001503",
+        "l": 663
+    },
+    {
+        "i": 5,
+        "j": "Tf4VHNWoWOc",
+        "b": "Profesor Yee.- Diagrama de cuerpo libre. Estática",
+        "h": "20190613223248",
+        "l": 464
+    },
+    {
+        "i": 1,
+        "j": "TTCYbZvAyZI",
+        "b": "Curso Estática (I.- Conversión de unidades). Profesor Yee",
+        "h": "20200617230559",
+        "l": 524
+    },
+    {
+        "i": 40,
+        "j": "UxAMgypcY6s",
+        "b": "Ejercicios 9.31 y 9.33 Beer-Johnston. Profesor Yee",
+        "h": "20200726192456",
+        "l": 875
+    },
+    {
+        "i": 15,
+        "j": "WaGkwy0NtsE",
+        "b": "Momentos. Fuerzas externas,internas,equivalentes. Producto vectorial. Profesor Yee",
+        "h": "20200628203030",
+        "l": 1063
+    },
+    {
+        "i": 13,
+        "j": "X-IaqGS9w0U",
+        "b": "Ejercicio 2.99 Beer-Johnston. Profesor Yee",
+        "h": "20190917004139",
+        "l": 685
+    },
+    {
+        "i": 38,
+        "j": "x5FofnGxBdY",
+        "b": "Centroides en 3D. Ejercicio 5.100 Beer-Johnston. Profesor Yee",
+        "h": "20200725224755",
+        "l": 1083
+    },
+    {
+        "i": 7,
+        "j": "Xc7TwjUD5aY",
+        "b": "Profesor Yee.- Calcular resultante de fuerzas",
+        "h": "20190827224409",
+        "l": 498
+    },
+    {
+        "i": 16,
+        "j": "Z0MqHUVPEaM",
+        "b": "Momentos.Teorema de Varignon. Momentos en 3D con componentes rectangulares.",
+        "h": "20200628222056",
+        "l": 603
+    }
+]

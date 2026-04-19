@@ -1,0 +1,352 @@
+[
+    {
+        "i": 5,
+        "j": "_-UphqDlhmQ",
+        "b": "6. Operadores Lógicos | Programación en C desde cero",
+        "h": "20220515054201",
+        "l": 460
+    },
+    {
+        "i": 27,
+        "j": "_n1cYj1OZWc",
+        "b": "28. Crear Directorios | Curso de C desde cero",
+        "h": "20220929154947",
+        "l": 254
+    },
+    {
+        "i": 18,
+        "j": "-4Aj658ontU",
+        "b": "19. Arreglos con Punteros | Programación en C desde cero",
+        "h": "20220727043557",
+        "l": 248
+    },
+    {
+        "i": 24,
+        "j": "-4ZNLrayeoo",
+        "b": "25. Arreglos de Structs Parte 2 | Programación en C desde cero",
+        "h": "20220908050652",
+        "l": 448
+    },
+    {
+        "i": 10,
+        "j": "-cXbrwUAULM",
+        "b": "11. While | Programación en C desde cero",
+        "h": "20220602055648",
+        "l": 296
+    },
+    {
+        "i": 39,
+        "j": "11L_3VHC2l4",
+        "b": "40. Quicksort | Algoritmo de ordenamiento | Programación en C desde cero",
+        "h": "20221222062355",
+        "l": 634
+    },
+    {
+        "i": 16,
+        "j": "234-9AqIr38",
+        "b": "17. Alcance de Variables | Programación en C desde cero",
+        "h": "20220713032629",
+        "l": 319
+    },
+    {
+        "i": 0,
+        "j": "3C66YXncbx8",
+        "b": "1. Hola Mundo | Programación en C desde cero",
+        "h": "20220515054125",
+        "l": 565
+    },
+    {
+        "i": 15,
+        "j": "3NaYA4dF8IM",
+        "b": "16. Funciones | Programación en C desde cero",
+        "h": "20220706051002",
+        "l": 403
+    },
+    {
+        "i": 2,
+        "j": "7CmSiORqKIA",
+        "b": "3. Leer datos del teclado con Scanf | Programación en C desde cero",
+        "h": "20220515054201",
+        "l": 448
+    },
+    {
+        "i": 38,
+        "j": "C9ICAfpRfMc",
+        "b": "39. Ordenamiento por Selección | Algoritmo de ordenamiento | Programación en C desde cero",
+        "h": "20221215062320",
+        "l": 556
+    },
+    {
+        "i": 8,
+        "j": "cKDzNZEJ7S8",
+        "b": "9. For | Programación en C desde cero",
+        "h": "20220518070346",
+        "l": 325
+    },
+    {
+        "i": 40,
+        "j": "cni8l5OlGjk",
+        "b": "41. Mergesort | Algoritmo de ordenamiento | Programación en C desde cero",
+        "h": "20221228022605",
+        "l": 577
+    },
+    {
+        "i": 41,
+        "j": "CUHFkh9bD7s",
+        "b": "42. Counting Sort | Algoritmo de ordenamiento | Programación en C desde cero",
+        "h": "20230103213941",
+        "l": 785
+    },
+    {
+        "i": 14,
+        "j": "Evi1YEKif1U",
+        "b": "15. Procedimientos o Métodos | Programación en C desde cero",
+        "h": "20220630051441",
+        "l": 368
+    },
+    {
+        "i": 23,
+        "j": "fG2ZSHN91Ro",
+        "b": "24. Arreglos de  Structs | Programación en C desde cero",
+        "h": "20220901050131",
+        "l": 314
+    },
+    {
+        "i": 28,
+        "j": "Gbmk-ENweZI",
+        "b": "29. Leer contenido de directorios | Programación en C desde cero",
+        "h": "20221006053631",
+        "l": 329
+    },
+    {
+        "i": 45,
+        "j": "GFoDV-gp-fI",
+        "b": "46. Código ASCII | Programación en C desde cero",
+        "h": "20230202005636",
+        "l": 172
+    },
+    {
+        "i": 12,
+        "j": "gia6Z8kTMic",
+        "b": "13. Arreglos | Programación en C desde cero",
+        "h": "20220615170350",
+        "l": 369
+    },
+    {
+        "i": 26,
+        "j": "Iy9zuirK2Og",
+        "b": "27. Escritura de Archivos | Programación en C desde cero",
+        "h": "20220922054331",
+        "l": 343
+    },
+    {
+        "i": 44,
+        "j": "JCBkB35zEpk",
+        "b": "45. Goto | Programación en C desde cero",
+        "h": "20230126163129",
+        "l": 364
+    },
+    {
+        "i": 43,
+        "j": "jVowEV36CGI",
+        "b": "44. Funcion SizeOf | Programación en C desde cero",
+        "h": "20230119051954",
+        "l": 312
+    },
+    {
+        "i": 21,
+        "j": "KLHTimb9Imc",
+        "b": "22. Typedef | Programación en C desde cero",
+        "h": "20220818043129",
+        "l": 197
+    },
+    {
+        "i": 30,
+        "j": "kQAMBopdYro",
+        "b": "31. Recursividad | Programación en C desde cero",
+        "h": "20221020044428",
+        "l": 364
+    },
+    {
+        "i": 25,
+        "j": "LhxqdxmDQgE",
+        "b": "26. Lectura de Archivos | Programación en C desde cero",
+        "h": "20220915050848",
+        "l": 277
+    },
+    {
+        "i": 42,
+        "j": "m8H2xLt6o3Q",
+        "b": "43. Shell Sort | Algoritmo de ordenamiento | Programación en C desde cero",
+        "h": "20230112052039",
+        "l": 552
+    },
+    {
+        "i": 19,
+        "j": "mPMA1aJXHi8",
+        "b": "20. Aprende a trabajar con cadenas de texto en C",
+        "h": "20220804045451",
+        "l": 203
+    },
+    {
+        "i": 20,
+        "j": "mSGHv5sebHc",
+        "b": "21. String | Programación en C desde cero",
+        "h": "20220811055249",
+        "l": 316
+    },
+    {
+        "i": 9,
+        "j": "NkPRDlf6Wdk",
+        "b": "10. For anidados | Programación en C desde cero",
+        "h": "20220525050659",
+        "l": 422
+    },
+    {
+        "i": 22,
+        "j": "o_a3MaR-lsg",
+        "b": "23. Struct | Programación en C desde cero",
+        "h": "20220825043256",
+        "l": 372
+    },
+    {
+        "i": 13,
+        "j": "OZ9oyZlCqY4",
+        "b": "14. Matrices | Programación en C desde cero",
+        "h": "20220621060516",
+        "l": 528
+    },
+    {
+        "i": 49,
+        "j": "q66qT0f60Ko",
+        "b": "Aprende a sincronizar hilos en C con Mutex",
+        "h": "20231010224023",
+        "l": 575
+    },
+    {
+        "i": 48,
+        "j": "Q6sJaVs0cbA",
+        "b": "Paso de Argumentos a Hilos en C (POSIX)",
+        "h": "20230927062014",
+        "l": 356
+    },
+    {
+        "i": 29,
+        "j": "QI6DSciDzFo",
+        "b": "30. Crear librerías | Programación en C desde cero",
+        "h": "20221013045753",
+        "l": 350
+    },
+    {
+        "i": 33,
+        "j": "rGqb5VKK0ow",
+        "b": "34. Búsqueda Binaria | Programación en C desde cero",
+        "h": "20221106225600",
+        "l": 515
+    },
+    {
+        "i": 11,
+        "j": "rKKgxEeaTe8",
+        "b": "12. Do - While | Programación en C desde cero",
+        "h": "20220609050535",
+        "l": 262
+    },
+    {
+        "i": 6,
+        "j": "rlrVyhbQvmY",
+        "b": "7. If - Else | Programación en C desde cero",
+        "h": "20220515054201",
+        "l": 457
+    },
+    {
+        "i": 47,
+        "j": "ROzCbSwrltA",
+        "b": "Como crear hilos en C usando Pthread (POSIX)",
+        "h": "20230920053134",
+        "l": 372
+    },
+    {
+        "i": 1,
+        "j": "RxFGDLuXE1o",
+        "b": "2. Variables y Tipos de datos | Programación en C desde cero",
+        "h": "20220515054125",
+        "l": 423
+    },
+    {
+        "i": 3,
+        "j": "sBxJeyk3kYk",
+        "b": "4. Operadores Aritméticos | Programación en C desde cero",
+        "h": "20220515054201",
+        "l": 597
+    },
+    {
+        "i": 34,
+        "j": "tQp11hB4VmQ",
+        "b": "35. Búsqueda Binaria Recursiva | Programación en C desde cero",
+        "h": "20221117065012",
+        "l": 386
+    },
+    {
+        "i": 7,
+        "j": "UaXuCPrtyxw",
+        "b": "8. Switch Case | Programación en C desde cero",
+        "h": "20220515054201",
+        "l": 342
+    },
+    {
+        "i": 4,
+        "j": "us3zql1yEYs",
+        "b": "5. Operadores Relacionales | Programación en C desde cero",
+        "h": "20220515054201",
+        "l": 405
+    },
+    {
+        "i": 31,
+        "j": "uYmIYOXOhcI",
+        "b": "32.  Ejecución de comandos Linux | Programación en C desde cero",
+        "h": "20221027051250",
+        "l": 349
+    },
+    {
+        "i": 46,
+        "j": "vj3pXk6MoSY",
+        "b": "Cómo usar la función wait en C para el control de procesos",
+        "h": "20230906055935",
+        "l": 354
+    },
+    {
+        "i": 37,
+        "j": "wsi9Sd7pb70",
+        "b": "38. Burbuja Bidireccional | Algoritmo de ordenamiento | Programación en C desde cero",
+        "h": "20221206221457",
+        "l": 504
+    },
+    {
+        "i": 36,
+        "j": "xP9pHBD5uyA",
+        "b": "37.  Burbuja | Algoritmo de ordenamiento | Programación en C desde cero",
+        "h": "20221201054417",
+        "l": 427
+    },
+    {
+        "i": 17,
+        "j": "Zh5F5cgoAGI",
+        "b": "18. Punteros | Programación en C desde cero",
+        "h": "20220720063022",
+        "l": 343
+    },
+    {
+        "i": 35,
+        "j": "zn2m4MIGC8A",
+        "b": "36. Ordenamiento por inserción | Programación en C desde cero",
+        "h": "20221120232422",
+        "l": 483
+    },
+    {
+        "i": 32,
+        "j": "ZSOFc_Mv_dY",
+        "b": "33. Búsqueda Secuencial | Programación en C desde cero",
+        "h": "20221103155640",
+        "l": 422
+    }
+]
