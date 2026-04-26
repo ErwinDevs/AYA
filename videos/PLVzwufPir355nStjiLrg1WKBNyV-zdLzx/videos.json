@@ -1,0 +1,569 @@
+[
+    {
+        "i": 75,
+        "j": "1gn3lFgQNdA",
+        "b": "Primer programa con PowerCOBOL. COMPILAR y EJECUTABLE  - COBOL y PowerCOBOL desde cero - #46",
+        "h": "20230318112819",
+        "l": 1034
+    },
+    {
+        "i": 26,
+        "j": "1Qdi31gYyW0",
+        "b": "CREAR y LEER archivos INDEXADOS - Bases de datos V  - Curso COBOL desde cero - Capítulo 27",
+        "h": "20200413180255",
+        "l": 347
+    },
+    {
+        "i": 23,
+        "j": "1WR2TkBfHcA",
+        "b": "OPEN, CLOSE, WRITE, extensiones y rutas - Bases de datos II  - Curso COBOL desde cero - Capítulo 24",
+        "h": "20200407150154",
+        "l": 479
+    },
+    {
+        "i": 80,
+        "j": "4iI-sjoNGlo",
+        "b": "Programa de incremento con PowerCOBOL - Parte lógica - COBOL #51",
+        "h": "20230619141325",
+        "l": 482
+    },
+    {
+        "i": 41,
+        "j": "4Jqep0g8-qY",
+        "b": "Las VARIABLES -  COBOL y PowerCOBOL desde cero - #12",
+        "h": "20230124174347",
+        "l": 451
+    },
+    {
+        "i": 13,
+        "j": "4nTAaSs-Yc8",
+        "b": "PERFORM TIMES - Curso COBOL desde cero - Capítulo 14",
+        "h": "20200330153134",
+        "l": 108
+    },
+    {
+        "i": 45,
+        "j": "58hKwU7s1BA",
+        "b": "Operaciones con ADD, SUBTRACT, MULTIPLY y DIVISION -  COBOL y PowerCOBOL desde cero - #16",
+        "h": "20230124174434",
+        "l": 405
+    },
+    {
+        "i": 19,
+        "j": "5Jw2WJ3DOw8",
+        "b": "NÚMEROS DE NIVEL de variables  - Curso COBOL desde cero - Capítulo 20",
+        "h": "20200330223648",
+        "l": 305
+    },
+    {
+        "i": 51,
+        "j": "5td0_ET5R0I",
+        "b": "Los NÚMEROS de NIVEL de ejecución -  COBOL y PowerCOBOL desde cero - #22",
+        "h": "20230124174535",
+        "l": 650
+    },
+    {
+        "i": 39,
+        "j": "5xQc8ExU6Qc",
+        "b": "Buenas prácticas -  COBOL y PowerCOBOL desde cero - #10",
+        "h": "20230124174143",
+        "l": 911
+    },
+    {
+        "i": 76,
+        "j": "6uxUTJPLmY4",
+        "b": "El elemento EDIT de PowerCOBOL - COBOL #47",
+        "h": "20230425091248",
+        "l": 483
+    },
+    {
+        "i": 3,
+        "j": "6XNttxzVjDg",
+        "b": "Divisiones III - DATA DIVISION  - Curso COBOL desde cero - Capítulo 4",
+        "h": "20191208222239",
+        "l": 165
+    },
+    {
+        "i": 5,
+        "j": "7emhaad61YE",
+        "b": "Palabras - Sintaxis - Curso COBOL desde cero - Capítulo 6",
+        "h": "20191218174010",
+        "l": 194
+    },
+    {
+        "i": 53,
+        "j": "8bkp9Eago2Q",
+        "b": "Los OPERADORES LÓGICOS AND OR y NOT -  COBOL y PowerCOBOL desde cero - #24",
+        "h": "20230124174557",
+        "l": 351
+    },
+    {
+        "i": 29,
+        "j": "8GUyqykmFiQ",
+        "b": "PROBLEMAS con la CREACIÓN del ARCHIVO - Bases de datos VIII  - Curso COBOL desde cero -Capítulo 30",
+        "h": "20200420161532",
+        "l": 377
+    },
+    {
+        "i": 15,
+        "j": "8sdPC1LQ3gg",
+        "b": "Números NEGATIVOS y DECIMALES  - Curso COBOL desde cero - Capítulo 16",
+        "h": "20200320142135",
+        "l": 249
+    },
+    {
+        "i": 25,
+        "j": "A5tzv8dd0GQ",
+        "b": "LEER REGISTROS del archivo - Bases de datos IV  - Curso COBOL desde cero - Capítulo 26",
+        "h": "20200410153331",
+        "l": 538
+    },
+    {
+        "i": 20,
+        "j": "Az2ufn3D_2k",
+        "b": "CONSTANTES FILLER  - Curso COBOL desde cero - Capítulo 21",
+        "h": "20200331194308",
+        "l": 246
+    },
+    {
+        "i": 9,
+        "j": "bJEj_KFJx-M",
+        "b": "PÁRRAFOS o RUTINAS con PERFORM - Curso COBOL desde cero - Capítulo 10",
+        "h": "20200306162530",
+        "l": 339
+    },
+    {
+        "i": 14,
+        "j": "bkGwcfx2tyk",
+        "b": "PERFORM UNTIL - VARYING - Curso COBOL desde cero - Capítulo 15",
+        "h": "20200317095605",
+        "l": 283
+    },
+    {
+        "i": 36,
+        "j": "BMAHtG7qrMA",
+        "b": "La ENVIRONMENT DIVISION -  COBOL y PowerCOBOL desde cero - #7",
+        "h": "20230118191336",
+        "l": 994
+    },
+    {
+        "i": 33,
+        "j": "CipMD4eAeiA",
+        "b": "PERSONALIZAR OpenCobolIDE - Curso de COBOL y PowerCOBOL desde cero - #3",
+        "h": "20230118191229",
+        "l": 744
+    },
+    {
+        "i": 74,
+        "j": "dkQG0WjffWI",
+        "b": "Introducción a POWERCOBOL - COBOL y PowerCOBOL desde cero - #45",
+        "h": "20230313100623",
+        "l": 302
+    },
+    {
+        "i": 62,
+        "j": "e1FJz8ZO9lE",
+        "b": "IF de CLASE - COBOL y PowerCOBOL desde cero - #33",
+        "h": "20230124174706",
+        "l": 399
+    },
+    {
+        "i": 43,
+        "j": "e6BoFz1jWtQ",
+        "b": "Matemáticas básicas con COMPUTE  -  COBOL y PowerCOBOL desde cero - #14",
+        "h": "20230124174410",
+        "l": 874
+    },
+    {
+        "i": 18,
+        "j": "E9CQy3I51is",
+        "b": "VARIABLES COMPUESTAS  - Curso COBOL desde cero - Capítulo 19",
+        "h": "20200328195605",
+        "l": 302
+    },
+    {
+        "i": 68,
+        "j": "ElTZuKoddHs",
+        "b": "PERFORM TIMES - COBOL y PowerCOBOL desde cero - #39",
+        "h": "20230204162928",
+        "l": 250
+    },
+    {
+        "i": 17,
+        "j": "F4gCYLon_K4",
+        "b": "Caracteres de edición  - Curso COBOL desde cero - Capítulo 18",
+        "h": "20200325170430",
+        "l": 183
+    },
+    {
+        "i": 70,
+        "j": "fb7FcdfANVE",
+        "b": "Calculadora de tablas de multiplicar - COBOL y PowerCOBOL desde cero - #41",
+        "h": "20230214174613",
+        "l": 652
+    },
+    {
+        "i": 50,
+        "j": "fqB_il2T44M",
+        "b": "Evaluación de tipos de datos y CLASS -  COBOL y PowerCOBOL desde cero - #21",
+        "h": "20230124174523",
+        "l": 941
+    },
+    {
+        "i": 11,
+        "j": "gG97suM-3es",
+        "b": "Rutinas y Cálculos REPETITIVOS - Curso COBOL desde cero - Capítulo 12",
+        "h": "20200309133410",
+        "l": 401
+    },
+    {
+        "i": 40,
+        "j": "hgvo7tGtEhI",
+        "b": "Los tipos de DATOS PRIMARIOS -  COBOL y PowerCOBOL desde cero - #11",
+        "h": "20230124174335",
+        "l": 594
+    },
+    {
+        "i": 57,
+        "j": "hPZdZlf60BY",
+        "b": "Manejo de errores con ON SIZE ERROR - COBOL y PowerCOBOL desde cero - #28",
+        "h": "20230124174630",
+        "l": 501
+    },
+    {
+        "i": 2,
+        "j": "HTlQWkA1YeA",
+        "b": "Divisiones II - ENVIRONMENT DIVISION  - Curso COBOL desde cero - Capítulo 3",
+        "h": "20191208134510",
+        "l": 139
+    },
+    {
+        "i": 16,
+        "j": "I_93vnMQolQ",
+        "b": "Asignar múltiples valores a variables con MOVE  - Curso COBOL desde cero - Capítulo 17",
+        "h": "20200323152416",
+        "l": 222
+    },
+    {
+        "i": 7,
+        "j": "I7V0r7w7lss",
+        "b": "SUMAR - RESTAR - MULTIPLICAR - DIVIDIR  - Curso COBOL desde cero - Capítulo 8",
+        "h": "20200225130220",
+        "l": 375
+    },
+    {
+        "i": 46,
+        "j": "ik-VgGz5y9M",
+        "b": "La ENTRADA de DATOS por consola con ACCEPT -  COBOL y PowerCOBOL desde cero - #17",
+        "h": "20230124174445",
+        "l": 288
+    },
+    {
+        "i": 58,
+        "j": "IyzMtuqWkmI",
+        "b": "REDONDEAR decimales (ROUNDED) y obtener el resto (REMAINDER) - COBOL y PowerCOBOL desde cero - #29",
+        "h": "20230124174637",
+        "l": 319
+    },
+    {
+        "i": 10,
+        "j": "jsEEzWXDZGE",
+        "b": "PÁRRAFOS o RUTINAS con GO TO - Curso COBOL desde cero - Capítulo 11",
+        "h": "20200307161904",
+        "l": 315
+    },
+    {
+        "i": 55,
+        "j": "JTJIbO02_DM",
+        "b": "El condicional EVALUATE -  COBOL y PowerCOBOL desde cero - #26",
+        "h": "20230124174618",
+        "l": 1111
+    },
+    {
+        "i": 28,
+        "j": "K5RpCAtz9mk",
+        "b": "ELIMINAR registros de archivos INDEXADOS - Bases de datos VII  - Curso COBOL desde cero -Capítulo 29",
+        "h": "20200418201306",
+        "l": 426
+    },
+    {
+        "i": 32,
+        "j": "KC2_UFvQ2gI",
+        "b": "INSTALAR IDE para COBOL - Curso de COBOL y PowerCOBOL desde cero - #2",
+        "h": "20230118191142",
+        "l": 213
+    },
+    {
+        "i": 30,
+        "j": "Klt49sQpifc",
+        "b": "EVALUATES y REDEFINES - Capítulo final - Curso COBOL desde cero -Capítulo 31",
+        "h": "20200425224715",
+        "l": 347
+    },
+    {
+        "i": 67,
+        "j": "kW-S4zBjECY",
+        "b": "PERFORM THRU y THROUGH - COBOL y PowerCOBOL desde cero - #38",
+        "h": "20230201173630",
+        "l": 354
+    },
+    {
+        "i": 72,
+        "j": "lCgtHp7AaOY",
+        "b": "PERFORM UNTIL BEFORE y AFTER - COBOL y PowerCOBOL desde cero - #43",
+        "h": "20230224191126",
+        "l": 482
+    },
+    {
+        "i": 79,
+        "j": "MJIsy9NBDeI",
+        "b": "Programa de incremento con PowerCOBOL - Parte gráfica - COBOL #50",
+        "h": "20230603111358",
+        "l": 577
+    },
+    {
+        "i": 47,
+        "j": "MRBj9IJ5SnE",
+        "b": "REASIGNACIÓN con MOVE -  COBOL y PowerCOBOL desde cero - #18",
+        "h": "20230124174455",
+        "l": 923
+    },
+    {
+        "i": 1,
+        "j": "Mxjoom4-asg",
+        "b": "Divisiones I - IDENTIFICATION DIVISION  - Curso COBOL desde cero - Capítulo 2",
+        "h": "20191126183247",
+        "l": 305
+    },
+    {
+        "i": 71,
+        "j": "N1QBynWQl2I",
+        "b": "Introducción al MANEJO de ERRORES - COBOL y PowerCOBOL desde cero - #42",
+        "h": "20230217152304",
+        "l": 250
+    },
+    {
+        "i": 38,
+        "j": "N2CICfdNMAA",
+        "b": "Del papel al PC - HOJAS DE CODIFICACIÓN -  COBOL y PowerCOBOL desde cero - #9",
+        "h": "20230118191420",
+        "l": 485
+    },
+    {
+        "i": 31,
+        "j": "nYDVz9mkWtE",
+        "b": "Curso de COBOL y PowerCOBOL desde cero - Introducción - # 1",
+        "h": "20230118191003",
+        "l": 357
+    },
+    {
+        "i": 54,
+        "j": "ohPz5gToqY0",
+        "b": "IFs anidados y ELSE IF -  COBOL y PowerCOBOL desde cero - #25",
+        "h": "20230124174610",
+        "l": 482
+    },
+    {
+        "i": 22,
+        "j": "OUrrljuUCys",
+        "b": "ARCHIVOS LÓGICOS y FÍSICOS - Bases de datos I  - Curso COBOL desde cero - Capítulo 23",
+        "h": "20200406183602",
+        "l": 359
+    },
+    {
+        "i": 4,
+        "j": "P2isBphihVk",
+        "b": "Divisiones IV - PROCEDURE DIVISION  - Curso COBOL desde cero - Capítulo 5",
+        "h": "20191209175639",
+        "l": 252
+    },
+    {
+        "i": 59,
+        "j": "Qi4XmoNJblg",
+        "b": "Guía del METALENGUAJE - COBOL y PowerCOBOL desde cero - #30",
+        "h": "20230124174645",
+        "l": 867
+    },
+    {
+        "i": 49,
+        "j": "qxAZihhL8bA",
+        "b": "Condicional IF - Estructuras de control de flujo -  COBOL y PowerCOBOL desde cero - #20",
+        "h": "20230124174514",
+        "l": 632
+    },
+    {
+        "i": 78,
+        "j": "qzbHGBCmw3E",
+        "b": "La consola de desarrollo de PowerCOBOL - COBOL #49",
+        "h": "20230518140938",
+        "l": 711
+    },
+    {
+        "i": 73,
+        "j": "r2ix-el1-WI",
+        "b": "PERFORM VARIYING - COBOL y PowerCOBOL desde cero - #44",
+        "h": "20230304113115",
+        "l": 184
+    },
+    {
+        "i": 6,
+        "j": "rCwqXcuHtcg",
+        "b": "VARIABLES CONSTANTES DISPLAY y Tipos de datos - Curso COBOL desde cero - Capítulo 7",
+        "h": "20200222160758",
+        "l": 505
+    },
+    {
+        "i": 42,
+        "j": "rOIiqudNIqo",
+        "b": "Los PICTURE S y V - Números NEGATIVOS Y DECIMALES  -  COBOL y PowerCOBOL desde cero - #13",
+        "h": "20230124174357",
+        "l": 778
+    },
+    {
+        "i": 35,
+        "j": "rw0pfJwhytw",
+        "b": "Crear, COMPILAR y modificar PROGRAMAS e IDENTIFICATION DIVISION -  COBOL y PowerCOBOL desde cero - 6",
+        "h": "20230118191310",
+        "l": 967
+    },
+    {
+        "i": 77,
+        "j": "S1xpEPGpCeM",
+        "b": "Introducción a los EVENTOS de PowerCOBOL - COBOL #48",
+        "h": "20230505150943",
+        "l": 310
+    },
+    {
+        "i": 66,
+        "j": "S6dCTiLTmRw",
+        "b": "Calculadora con bucle PERFORM - COBOL y PowerCOBOL desde cero - #37",
+        "h": "20230126141154",
+        "l": 483
+    },
+    {
+        "i": 37,
+        "j": "sbUtdh-8I6A",
+        "b": "DATA DIVISION y PROCEDURE DIVISION -  COBOL y PowerCOBOL desde cero - #8",
+        "h": "20230118191356",
+        "l": 315
+    },
+    {
+        "i": 8,
+        "j": "SR-3-YyuMJg",
+        "b": "Condicional IF ELSE  - Curso COBOL desde cero - Capítulo 9",
+        "h": "20200303202130",
+        "l": 236
+    },
+    {
+        "i": 69,
+        "j": "suJmkWCKELA",
+        "b": "Incremento y decremento en BUCLES - COBOL y PowerCOBOL desde cero - #40",
+        "h": "20230208114604",
+        "l": 484
+    },
+    {
+        "i": 21,
+        "j": "tx3UQjP2CgM",
+        "b": "ESTRUCTURAS ANIDADAS  - Curso COBOL desde cero - Capítulo 22",
+        "h": "20200403125149",
+        "l": 294
+    },
+    {
+        "i": 48,
+        "j": "UfbJ8v889lU",
+        "b": "Los OPERADORES de COMPARACIÓN -  COBOL y PowerCOBOL desde cero - #19",
+        "h": "20230124174504",
+        "l": 167
+    },
+    {
+        "i": 27,
+        "j": "uFJniafRW0M",
+        "b": "Reutilizar código repetitivo con COPY - Bases de datos VI  - Curso COBOL desde cero - Capítulo 28",
+        "h": "20200415145211",
+        "l": 294
+    },
+    {
+        "i": 0,
+        "j": "uhNlWv7uOdg",
+        "b": "Empezar a programar - Cómo instalar un IDE - Curso COBOL desde cero - Capítulo 1",
+        "h": "20191124183826",
+        "l": 186
+    },
+    {
+        "i": 65,
+        "j": "uUgHD2Mt5K8",
+        "b": "Menú con PERFORM y múltiples STOP RUN - COBOL y PowerCOBOL desde cero - #36",
+        "h": "20230124174732",
+        "l": 242
+    },
+    {
+        "i": 60,
+        "j": "uvu97fT6NIk",
+        "b": "IF de RELACIÓN o comparación - COBOL y PowerCOBOL desde cero - #31",
+        "h": "20230124174653",
+        "l": 255
+    },
+    {
+        "i": 34,
+        "j": "v4BmWV8AWh0",
+        "b": "Estructura de un PROGRAMA - Curso de COBOL y PowerCOBOL desde cero - #5",
+        "h": "20230118191249",
+        "l": 446
+    },
+    {
+        "i": 44,
+        "j": "vdZqtefuFM0",
+        "b": "Operaciones con DECIMALES y DECIMAL-POINT IS COMMA -  COBOL y PowerCOBOL desde cero - #15",
+        "h": "20230124174420",
+        "l": 302
+    },
+    {
+        "i": 12,
+        "j": "VnYBXbD8ft0",
+        "b": "PERFORM THRU - Curso COBOL desde cero - Capítulo 13",
+        "h": "20200312164038",
+        "l": 173
+    },
+    {
+        "i": 24,
+        "j": "W-RQgqfs0EY",
+        "b": "Funcionamiento del programa de archivo - Bases de datos III  - Curso COBOL desde cero - Capítulo 25",
+        "h": "20200409183356",
+        "l": 444
+    },
+    {
+        "i": 63,
+        "j": "xp_xkkpsYVQ",
+        "b": "Las LISTAS de NIVEL 88 - COBOL y PowerCOBOL desde cero - #34",
+        "h": "20230124174712",
+        "l": 483
+    },
+    {
+        "i": 56,
+        "j": "xyi59UlrWT8",
+        "b": "El condicional EVALUATE TRUE -  COBOL y PowerCOBOL desde cero - #27",
+        "h": "20230124174624",
+        "l": 330
+    },
+    {
+        "i": 64,
+        "j": "YCGVGYGdl74",
+        "b": "El verbo PERFORM - COBOL y PowerCOBOL desde cero - #35",
+        "h": "20230124174719",
+        "l": 295
+    },
+    {
+        "i": 52,
+        "j": "yf9zRdpFQVQ",
+        "b": "El NIVEL de ejecución 88 -  COBOL y PowerCOBOL desde cero - #23",
+        "h": "20230124174546",
+        "l": 350
+    },
+    {
+        "i": 61,
+        "j": "YPlvE9i4jW4",
+        "b": "IF de SIGNO - COBOL y PowerCOBOL desde cero - #32",
+        "h": "20230124174659",
+        "l": 179
+    }
+]
