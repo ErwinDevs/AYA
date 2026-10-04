@@ -35,6 +35,13 @@
         "l": 1116
     },
     {
+        "i": 31,
+        "j": "4GxEpIJ2oi0",
+        "b": "MasterClass: Funcionamiento Circuito modulo relé PCB para circuito digital",
+        "h": "20260704224637",
+        "l": 1606
+    },
+    {
         "i": 14,
         "j": "6rg4BQ_3mSc",
         "b": "Como entender y trabajar con sistema hexadecimal (Clase 12 parte II)",
@@ -157,7 +164,7 @@
         "i": 29,
         "j": "siB1f1QqV_8",
         "b": "Analizamos Camara Termica Tooltop T7 Pro",
-        "h": "20260113203514",
+        "h": "20260113203526",
         "l": 812
     },
     {
@@ -201,6 +208,13 @@
         "b": "El mejor KIT para Raspberry pi pico",
         "h": "20240831194104",
         "l": 1166
+    },
+    {
+        "i": 30,
+        "j": "yW_LrhROXWg",
+        "b": "20 Proyectos Arduino Nano R4",
+        "h": "20260628212948",
+        "l": 918
     },
     {
         "i": 22,

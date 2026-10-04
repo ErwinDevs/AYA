@@ -1,0 +1,849 @@
+[
+    {
+        "i": 119,
+        "j": "_Vt6yDowlgI",
+        "b": "120-Ejercicio 100.Piedra,papel o tijeras completo. (PSeInt).",
+        "h": "20200906182849",
+        "l": 129
+    },
+    {
+        "i": 58,
+        "j": "_zrd0LNL-54",
+        "b": "59-Ejercicio 48 resuelto PSeInt. Calcular la media,la mayor y la menor de unas notas de un array.",
+        "h": "20200811085623",
+        "l": 167
+    },
+    {
+        "i": 23,
+        "j": "-JO27RBTiKU",
+        "b": "24-Ejercicio 18 resuelto en PSeInt.Calcular el precio de un artículo con descuentos según cantidad.",
+        "h": "20200731092040",
+        "l": 172
+    },
+    {
+        "i": 95,
+        "j": "-Pw1vdz83Nk",
+        "b": "96-Ejercicio 80 resuelto en PSeInt. Convertir un número binario en octal.",
+        "h": "20200827153733",
+        "l": 243
+    },
+    {
+        "i": 81,
+        "j": "0it_JvYxYfs",
+        "b": "82-Ejercicio 67 resuelto en PSeInt. Subproceso para ordenar 3 números.",
+        "h": "20200824110106",
+        "l": 206
+    },
+    {
+        "i": 102,
+        "j": "0wH4NVO-wIY",
+        "b": "103-Ejercicio 86 resuelto en PSeInt. Proyecto lotería primitiva IV .Comprobar boleto.",
+        "h": "20200902190638",
+        "l": 116
+    },
+    {
+        "i": 53,
+        "j": "2jHThTf2LzU",
+        "b": "54-Ejercicio 44 resuelto en PSeInt. Dibujar triángulo de asteriscos.",
+        "h": "20200807103700",
+        "l": 181
+    },
+    {
+        "i": 62,
+        "j": "2L7Nr2Vw0Sw",
+        "b": "63-Arreglos o arrays bidimensionales en PSeInt",
+        "h": "20200815134544",
+        "l": 230
+    },
+    {
+        "i": 21,
+        "j": "2YOpMZSeudk",
+        "b": "22-Ejercicio 16 resuelto en PSeInt. Determinar si un número es múltiplo de 2 y de 3 a la vez.",
+        "h": "20200731091031",
+        "l": 108
+    },
+    {
+        "i": 70,
+        "j": "3BU0E5-Uhis",
+        "b": "71-Ejercicio 58 resuelto en PSeInt. Comprobar si dos palabras son palíndromos.",
+        "h": "20200818163607",
+        "l": 230
+    },
+    {
+        "i": 83,
+        "j": "3ROMSQ-cyEE",
+        "b": "84-Ejercicio 69 resuelto.Crea una función para calcular el mcm de un array de números(PSeInt)",
+        "h": "20200825173638",
+        "l": 198
+    },
+    {
+        "i": 76,
+        "j": "3StLkZKE3Ig",
+        "b": "77-Ejercicio 62 resuelto en PSeInt. Subprocesos con paso por valor y por referencia.",
+        "h": "20200823135323",
+        "l": 141
+    },
+    {
+        "i": 29,
+        "j": "4yINyggAJDk",
+        "b": "30-Ejercicio 23 resuelto en PSeInt.Determinar la tarifa de un gimnasio según condiciones.",
+        "h": "20200731102719",
+        "l": 174
+    },
+    {
+        "i": 64,
+        "j": "4ZPJhuZn6u0",
+        "b": "65-Ejercicio 53 resuelto en PSeInt. Contar las veces aparece un número en un array bidimensional.",
+        "h": "20200815140229",
+        "l": 162
+    },
+    {
+        "i": 85,
+        "j": "52grTo1Xkdg",
+        "b": "86-Ejercicio 71 resuelto en PSeInt.Reducir una fracción con el MCD y usando subprocesos.",
+        "h": "20200825175346",
+        "l": 242
+    },
+    {
+        "i": 96,
+        "j": "5F3-o4YrCSo",
+        "b": "97-Ejercicio 81 resuelto en PSeInt. Descomponer un número en factores primos.",
+        "h": "20200828141334",
+        "l": 283
+    },
+    {
+        "i": 73,
+        "j": "5qQ8c73V4a4",
+        "b": "74-Otras instrucciones en PSeint. Borrar pantalla, esperar tecla y esperar.",
+        "h": "20200818165333",
+        "l": 106
+    },
+    {
+        "i": 30,
+        "j": "6hunC-IGvqc",
+        "b": "31-Bucle mientras en PSeInt.",
+        "h": "20200801093841",
+        "l": 181
+    },
+    {
+        "i": 93,
+        "j": "6ZRkqyppr6Y",
+        "b": "94-Ejercicio 78 resuelto en PSeInt-Convertir un número decimal en binario, octal o hexadecimal.",
+        "h": "20200827161724",
+        "l": 298
+    },
+    {
+        "i": 56,
+        "j": "7xwM1YaI53g",
+        "b": "57-Arreglos o arrays unidimensionales en PSeInt",
+        "h": "20200811084058",
+        "l": 261
+    },
+    {
+        "i": 27,
+        "j": "9onkOgUHLbQ",
+        "b": "28-Ejercicio 21 resuelto en PSeInt. Elegir que operación realizar con dos números usando Según.",
+        "h": "20200731101354",
+        "l": 173
+    },
+    {
+        "i": 20,
+        "j": "9x211XJQlMI",
+        "b": "21-Ejercicio 15 resuelto en PSeInt. Calcular el sueldo de un trabajador dadas unas condiciones.",
+        "h": "20200731080402",
+        "l": 108
+    },
+    {
+        "i": 57,
+        "j": "a9d5ZEzwSh4",
+        "b": "58-Ejercicio 47 resuelto en PSeInt. Calcular el módulo de un vector.",
+        "h": "20200811084856",
+        "l": 134
+    },
+    {
+        "i": 114,
+        "j": "APngAecVwhw",
+        "b": "115-Ejercicio 96 resuelto en PSeInt. Juego del CRAPS completo.",
+        "h": "20200906180813",
+        "l": 130
+    },
+    {
+        "i": 12,
+        "j": "aQmCOBZ4HCI",
+        "b": "13-Ejercicio 8 resuelto en pseint-Obtener las unidades de un número entero dado por el usuario.",
+        "h": "20200727145825",
+        "l": 85
+    },
+    {
+        "i": 2,
+        "j": "B7xutAN_ilM",
+        "b": "3-Configuración de PSeInt.",
+        "h": "20200723152834",
+        "l": 341
+    },
+    {
+        "i": 26,
+        "j": "BcVM1m2X1nw",
+        "b": "27-Estructura selectiva Según en PSeInt",
+        "h": "20200731101416",
+        "l": 96
+    },
+    {
+        "i": 14,
+        "j": "BxqDlF07v_I",
+        "b": "15-Ejercicio 10 resuelto en PSeInt-Cálculo área de un círculo y longitud de una circunferencia.",
+        "h": "20200727151413",
+        "l": 157
+    },
+    {
+        "i": 113,
+        "j": "c-ckOPE4Pk0",
+        "b": "114-Ejercicio 95 resuelto en PSeInt. Proyecto CRAPS IV. Segunda tirada y sucesivas.",
+        "h": "20200906180557",
+        "l": 183
+    },
+    {
+        "i": 78,
+        "j": "CbpiPOyjtN8",
+        "b": "79-Ejercicio 64 resuelto en PSeInt. Tablas de multiplicar con subprocesos.",
+        "h": "20200823140754",
+        "l": 176
+    },
+    {
+        "i": 99,
+        "j": "ceW1MHQzJhw",
+        "b": "100-Presentación del proyecto LOTERÍA PRIMITIVA en PSeInt.",
+        "h": "20200902185238",
+        "l": 86
+    },
+    {
+        "i": 91,
+        "j": "cH_ZACMbHRI",
+        "b": "92-Ejercicio 76 resuelto en PSeInt. Crea una función que resuelva una potencia por recursividad.",
+        "h": "20200826182855",
+        "l": 214
+    },
+    {
+        "i": 35,
+        "j": "cVW84SXUYuk",
+        "b": "36-Ejercicio 27 resuelto en PSeInt. Sumar los números que de el usuario hasta que introduzca un 0.",
+        "h": "20200801103219",
+        "l": 93
+    },
+    {
+        "i": 44,
+        "j": "dmAtkV_TTZc",
+        "b": "45-Ejercicio 35 resuelto en PSeInt.Obtener el mayor y el menor de unos números dados por el usuario.",
+        "h": "20200804084915",
+        "l": 329
+    },
+    {
+        "i": 86,
+        "j": "dvWZmt3TvxI",
+        "b": "87-Ejercicio 72 resuelto en PSeInt. Calcular las soluciones a una ecuación de segundo grado.",
+        "h": "20200826192208",
+        "l": 111
+    },
+    {
+        "i": 104,
+        "j": "efYzlWv1g3g",
+        "b": "105-Proyecto BlackJack en PSeInt.",
+        "h": "20200906172455",
+        "l": 116
+    },
+    {
+        "i": 39,
+        "j": "eHkt7sjUj-s",
+        "b": "40-Ejercicio 30 resuelto en PSeInt. Sumar números  entre 0 y el número que indique el usuario.",
+        "h": "20200802142547",
+        "l": 98
+    },
+    {
+        "i": 0,
+        "j": "eWdIetuIPNM",
+        "b": "1-Presentación del curso de iniciación a la programación con PseInt con 100 ejercicios resueltos.",
+        "h": "20200722152355",
+        "l": 99
+    },
+    {
+        "i": 41,
+        "j": "EZJwh8KnQg4",
+        "b": "42-Ejercicio 32 resuelto en PSeInt. Contar pares, impares,positivos y negativos.",
+        "h": "20200804082839",
+        "l": 229
+    },
+    {
+        "i": 19,
+        "j": "f7X4lUcTOdQ",
+        "b": "20-Ejercicio 14 resuelto en Pseint. Indicar si un número entero es par o impar.",
+        "h": "20200731075812",
+        "l": 92
+    },
+    {
+        "i": 116,
+        "j": "fc9WT-NdJiI",
+        "b": "117-Ejercicio 97 resuelto en PSeInt. PIEDRA,PAPEL O TIJERAS II. Turno del ordenador.",
+        "h": "20200906181806",
+        "l": 113
+    },
+    {
+        "i": 31,
+        "j": "FfICSdF2gaI",
+        "b": "32-Ejercicio 24 resuelto en PSeInt. Escribir números enteros del 0 al 100 de forma ascendente.",
+        "h": "20200801100409",
+        "l": 84
+    },
+    {
+        "i": 112,
+        "j": "GC3Fmmu7Ylk",
+        "b": "113-Ejercicio 94 resuelto en PSeInt. Proyecto CRAPS III. Primera tirada del jugador.",
+        "h": "20200906180259",
+        "l": 147
+    },
+    {
+        "i": 79,
+        "j": "gEbJBeaiBQ8",
+        "b": "80-Ejercicio 65 resuelto en PSeInt. Función que indica la posición en un array del número mayor.",
+        "h": "20200823141640",
+        "l": 324
+    },
+    {
+        "i": 108,
+        "j": "GEQls2mUEzo",
+        "b": "109-Ejercicio 91 resuelto en PSeInt. Proyecto  BlackJack V. Turno del jugador.",
+        "h": "20200906174437",
+        "l": 249
+    },
+    {
+        "i": 49,
+        "j": "gzeNjuRw5_4",
+        "b": "50-Ejercicio 40 resuelto en PSeInt. Obtener el máximo común divisor de dos números. MCD.",
+        "h": "20200805105744",
+        "l": 153
+    },
+    {
+        "i": 4,
+        "j": "hCc4lT7wRBA",
+        "b": "5-Variables, tipos de datos y asignaciones en PSeInt.",
+        "h": "20200724134112",
+        "l": 497
+    },
+    {
+        "i": 33,
+        "j": "Hk_OJroFTbQ",
+        "b": "35-Bucle Repetir Mientras que en PSeInt.",
+        "h": "20200801102545",
+        "l": 81
+    },
+    {
+        "i": 66,
+        "j": "HNIJOKvkoT8",
+        "b": "67-Ejercicio 55 resuelto en PSeInt. Encontrar número menor de cada columna en un array bidimensional",
+        "h": "20200815141425",
+        "l": 352
+    },
+    {
+        "i": 25,
+        "j": "hQAnjDX-W80",
+        "b": "26-Ejercicio 20 resuelto en PSeInt.Determinar si una empresa cumple condiciones para una subvención.",
+        "h": "20200731093038",
+        "l": 125
+    },
+    {
+        "i": 100,
+        "j": "I1FrmTCN0_Q",
+        "b": "101-Ejercicio 84 resuelto en PSeInt. Lotería primitiva segunda parte. Crear boleto.",
+        "h": "20200902185813",
+        "l": 430
+    },
+    {
+        "i": 55,
+        "j": "icor8zfZifY",
+        "b": "56-Ejercicio 46 resuelto en PSeint. Dibujar un cuadrado de asteriscos con solo las diagonales.",
+        "h": "20200807105305",
+        "l": 239
+    },
+    {
+        "i": 38,
+        "j": "iO5xRpTreyg",
+        "b": "39-Ejercicio 29 resuelto en PSeInt. Escribe los números pares desde el 100 al 0.",
+        "h": "20200802141840",
+        "l": 90
+    },
+    {
+        "i": 118,
+        "j": "IOhkRclozlw",
+        "b": "119-Ejercicio 99 resuelto en PSeInt. PIEDRA, PAPEL O TIJERAS IV. Comparativa entre las elecciones.",
+        "h": "20200906182513",
+        "l": 174
+    },
+    {
+        "i": 92,
+        "j": "iPTVqXYuMqs",
+        "b": "93-Ejercicio 77 resuelto en PSeInt. Convertir un número decimal en binario.",
+        "h": "20200827151559",
+        "l": 174
+    },
+    {
+        "i": 28,
+        "j": "J93Dxj3czjQ",
+        "b": "29-Ejercicio 22 resuelto en PSeInt. Calificación de un alumno en texto según su nota numérica.",
+        "h": "20200731102201",
+        "l": 97
+    },
+    {
+        "i": 42,
+        "j": "JkdfaMp3xaw",
+        "b": "43-Ejercicio 33 resuelto en PSeInt. Calcula la media de los números dados por el usuario.",
+        "h": "20200804083404",
+        "l": 198
+    },
+    {
+        "i": 98,
+        "j": "JmOlLpdidcM",
+        "b": "99-Ejercicio 83 resuelto en PSeInt. Haz un rótulo que admita varias frases.",
+        "h": "20200828142615",
+        "l": 450
+    },
+    {
+        "i": 68,
+        "j": "JONKra-YGGc",
+        "b": "69-Ejercicio 56 resuelto en PSeInt. Indicar si una frase contiene una letra.",
+        "h": "20201223163029",
+        "l": 325
+    },
+    {
+        "i": 110,
+        "j": "juG5Rqw-q7E",
+        "b": "111-Proyecto Craps-Juego de dados en PSeInt",
+        "h": "20200906175317",
+        "l": 111
+    },
+    {
+        "i": 8,
+        "j": "K2tZWTXedd4",
+        "b": "9-Ejercicio 4 resuelto en PSeInt-Convertir una distancia en millas náuticas a metros.",
+        "h": "20200727111703",
+        "l": 134
+    },
+    {
+        "i": 47,
+        "j": "koIPBzJyI24",
+        "b": "48-Ejercicio 38 resuelto en PSeInt. Obtener el número inverso a otro.",
+        "h": "20200805104350",
+        "l": 127
+    },
+    {
+        "i": 71,
+        "j": "kPrj0Ujacdg",
+        "b": "72-Ejercicio 59 resuelto en pseint. Contar las palabras que tiene una frase.",
+        "h": "20200818164230",
+        "l": 138
+    },
+    {
+        "i": 80,
+        "j": "KqBbswwZmVc",
+        "b": "81-Ejercicio 66 resuelto en PSeInt. Crea un subproceso que ordene un array y pruébalo en una matriz.",
+        "h": "20200824105402",
+        "l": 384
+    },
+    {
+        "i": 32,
+        "j": "KvXndhQ3at8",
+        "b": "33-Ejercicio 25 resuelto en PSeInt. Determina la cantidad de dígitos de un número entero.",
+        "h": "20200802140147",
+        "l": 334
+    },
+    {
+        "i": 84,
+        "j": "L29_n27qn0Q",
+        "b": "85-Ejercicio 70 resuelto en PSeInt. Suma de fracciones.",
+        "h": "20200825174523",
+        "l": 191
+    },
+    {
+        "i": 82,
+        "j": "lczKnhjp2zE",
+        "b": "83-Ejercicio 68 resuelto en PSeInt. Crea una función que devuelva el mayor de un array de números.",
+        "h": "20200824110737",
+        "l": 145
+    },
+    {
+        "i": 117,
+        "j": "LhWcJYK1WTE",
+        "b": "118-Ejercicio 98 resuelto en PSeInt. Proyecto PIEDRA,PAPEL O TIJERAS III. Tirada del jugador.",
+        "h": "20200906182147",
+        "l": 113
+    },
+    {
+        "i": 101,
+        "j": "lNq4a7BOaTY",
+        "b": "102-Ejercicio 85 resuelto en Pseint. Proyecto lotería primitiva III. Sorteo.",
+        "h": "20200902190355",
+        "l": 218
+    },
+    {
+        "i": 40,
+        "j": "m_2ND-FO5z0",
+        "b": "41-Ejercicio 31 resuelto en PSeInt. Contar los múltiplos de 2 y de 3 a la vez en un rango.",
+        "h": "20200804081653",
+        "l": 125
+    },
+    {
+        "i": 89,
+        "j": "m6RTcgEhcno",
+        "b": "90-Ejercicio 74 resuelto en PSeInt. Calculo del factorial de un número con recursividad.",
+        "h": "20200826175443",
+        "l": 301
+    },
+    {
+        "i": 13,
+        "j": "MciIT7ImdWI",
+        "b": "14-Ejercicio 9 resuelto en PSeInt.Calcular el precio de un artículo antes de impuestos.",
+        "h": "20200727150345",
+        "l": 157
+    },
+    {
+        "i": 75,
+        "j": "MQK6ufc1DUc",
+        "b": "76-Ejercicio 61 resuelto en PSeInt. Subprocesos sencillos con retorno y sin retorno.",
+        "h": "20200823134321",
+        "l": 259
+    },
+    {
+        "i": 88,
+        "j": "N1xhl1DQhAI",
+        "b": "89-Recursividad en PSeInt.",
+        "h": "20200826174627",
+        "l": 142
+    },
+    {
+        "i": 11,
+        "j": "NDhcmCj5tjo",
+        "b": "12-Ejercicio 7 resuelto en PSeInt-Calcular el área y el perímetro de un triángulo rectángulo.",
+        "h": "20200727145321",
+        "l": 169
+    },
+    {
+        "i": 34,
+        "j": "ngyvEKpSd0c",
+        "b": "34-Ejercicio 26 resuelto en PSeInt. Sumar todos los enteros comprendidos entre dos números.",
+        "h": "20200802135635",
+        "l": 256
+    },
+    {
+        "i": 46,
+        "j": "NtxfhfYxLr4",
+        "b": "47-Ejercicio 37 resuelto en PSeInt. Obtener el dígito menor de un número dado.",
+        "h": "20200805103728",
+        "l": 215
+    },
+    {
+        "i": 115,
+        "j": "Nxf0FyQnKJU",
+        "b": "116-Proyecto PIEDRA,PAPEL O TIJERAS en PSeInt",
+        "h": "20200906181254",
+        "l": 84
+    },
+    {
+        "i": 77,
+        "j": "O6OJVLJJ0IE",
+        "b": "78-Ejercicio 63 resuelto en PSeInt. Crea un subproceso que indique si un número es primo o no.",
+        "h": "20200823140106",
+        "l": 153
+    },
+    {
+        "i": 69,
+        "j": "oA5j_ty5Ddc",
+        "b": "70-Ejercicio 57 resuelto en PSeInt. Contar las vocales y consonantes de una palabra.",
+        "h": "20200818163143",
+        "l": 242
+    },
+    {
+        "i": 97,
+        "j": "oUfEY5PEWFw",
+        "b": "98-Ejercicio 82 resuelto en PSeInt. Dibujar un rótulo con una frase siguiendo un patrón.",
+        "h": "20200828142106",
+        "l": 175
+    },
+    {
+        "i": 60,
+        "j": "p0fDhz8bwUw",
+        "b": "61-Ejercicio 50 resuelto en PSeInt. Ordenar un array por el método de la burbuja.",
+        "h": "20200811103724",
+        "l": 541
+    },
+    {
+        "i": 103,
+        "j": "P0vyB6EBk_E",
+        "b": "104-Ejercicio 87 resuelto de PSeInt.SORTEO DE LOTERÍA PRIMITIVA COMPLETO.",
+        "h": "20200902191001",
+        "l": 387
+    },
+    {
+        "i": 120,
+        "j": "P8LiYfT0UoA",
+        "b": "121-Has terminado el curso.Y ahora, ¿qué?",
+        "h": "20200906183148",
+        "l": 84
+    },
+    {
+        "i": 37,
+        "j": "PF6GhK08upQ",
+        "b": "38-Bucle Para en PSeInt.",
+        "h": "20200802141338",
+        "l": 153
+    },
+    {
+        "i": 10,
+        "j": "pQ966cD9Klw",
+        "b": "11- Ejercicio 6 resuelto en PSeInt-Operaciones matemáticas básicas con dos números enteros.",
+        "h": "20200727144649",
+        "l": 225
+    },
+    {
+        "i": 111,
+        "j": "Ptdr-D3FVhM",
+        "b": "112-Ejercicio 93 resuelto en PSeInt. Proyecto Craps II. Tirada de dos dados.",
+        "h": "20200906175817",
+        "l": 166
+    },
+    {
+        "i": 7,
+        "j": "pVesgF-6xYw",
+        "b": "8-Ejercicio 3 resuelto en PseInt-Convertir una temperatura dada en grados Celsius en grados Kelvin.",
+        "h": "20200727111020",
+        "l": 134
+    },
+    {
+        "i": 1,
+        "j": "PYq9bz3YIho",
+        "b": "2-Conceptos básicos",
+        "h": "20200723151733",
+        "l": 146
+    },
+    {
+        "i": 5,
+        "j": "qhtrFSToyHY",
+        "b": "6-Escritura y lectura de datos en PSeInt.",
+        "h": "20200724180016",
+        "l": 342
+    },
+    {
+        "i": 67,
+        "j": "qTkXrMwLwqM",
+        "b": "68-Cadenas de caracteres+Ejercicios planteados. (PSeInt).",
+        "h": "20200818154845",
+        "l": 194
+    },
+    {
+        "i": 59,
+        "j": "qVcSMIOZcBs",
+        "b": "60-Ejercicio 49 resuelto en PSeInt. Contar las veces que un número aparece en un array.",
+        "h": "20200811103138",
+        "l": 149
+    },
+    {
+        "i": 90,
+        "j": "R-4UCaCs77c",
+        "b": "91-Ejercicio 75 resuelto en PSeInt-Calcular un número de la serie de Fibonacci por recursividad.",
+        "h": "20200826180215",
+        "l": 185
+    },
+    {
+        "i": 87,
+        "j": "r8sFP_jB_iA",
+        "b": "88-Ejercicio 73 resuelto en PSeInt .Modificar los valores de un array que se alejen de la media",
+        "h": "20200825180802",
+        "l": 193
+    },
+    {
+        "i": 36,
+        "j": "RJNadWw9FiA",
+        "b": "37-Ejercicio 28 resuelto en PSeInt. JUEGO: Acierta un número al azar entre 0 y 9.",
+        "h": "20200801103917",
+        "l": 174
+    },
+    {
+        "i": 51,
+        "j": "s-FB4uxmghY",
+        "b": "52-Ejercicio 42 resuelto en PSeInt. Escribir los factoriales de los enteros del 10 al 1.",
+        "h": "20200807102334",
+        "l": 144
+    },
+    {
+        "i": 3,
+        "j": "sa9hXuPux00",
+        "b": "4-Ejercicio 1-\"Hola, mundo\".+ Estructura general de un algoritmo,comentarios e indentado.",
+        "h": "20200724132743",
+        "l": 409
+    },
+    {
+        "i": 52,
+        "j": "SrciPUTF00Y",
+        "b": "53-Ejercicio 43 resuelto en PSeInt. Dibujar un rectángulo de asteriscos.",
+        "h": "20200807103058",
+        "l": 202
+    },
+    {
+        "i": 9,
+        "j": "T3BO7UbaBUU",
+        "b": "10-Ejercicio 5 resuelto en PSeInt.-Calcular el precio de un artículo tras aplicarle un descuento",
+        "h": "20200727112240",
+        "l": 181
+    },
+    {
+        "i": 45,
+        "j": "t8biwUflXf0",
+        "b": "46-Ejercicio 36 resuelto en PSeInt. Determinar si un número es primo.",
+        "h": "20200805102630",
+        "l": 193
+    },
+    {
+        "i": 22,
+        "j": "t8Up0I5yNrs",
+        "b": "23-Ejercicio 17 resuelto en PSeInt. Determinar el menor de tres números dados.",
+        "h": "20200731091620",
+        "l": 112
+    },
+    {
+        "i": 72,
+        "j": "u4hjwgCfXLw",
+        "b": "73-Ejercicio 60 resuelto en PSeInt. ¡Resuelve el enigma! Obtén la palabra oculta.",
+        "h": "20200818165038",
+        "l": 171
+    },
+    {
+        "i": 17,
+        "j": "ubLkr3bw17M",
+        "b": "18-Ejercicio 12 resuelto en PSeInt-Indicar si un número es positivo o negativo.",
+        "h": "20200731074729",
+        "l": 89
+    },
+    {
+        "i": 106,
+        "j": "uFvBogJSNL0",
+        "b": "107-Ejercicio 89 resuelto en PSeInt. Proyecto BlackJack III. Mezclar la baraja.",
+        "h": "20200906173436",
+        "l": 145
+    },
+    {
+        "i": 109,
+        "j": "UYGMUbv1kfw",
+        "b": "110-Ejercicio 92 resuelto en Pseint. BlackJack VI Turno del crupier y juego completo.",
+        "h": "20200906174856",
+        "l": 311
+    },
+    {
+        "i": 43,
+        "j": "WDGVJ9D4iqE",
+        "b": "44-Ejercicio 34 resuelto en PSeInt. Calcular el factorial de un número.",
+        "h": "20200804083836",
+        "l": 223
+    },
+    {
+        "i": 105,
+        "j": "wGbHa0Upjhw",
+        "b": "106-Ejercicio 88 resuelto en PSeInt. Proyecto BlackJack II. Crear baraja.",
+        "h": "20200906172945",
+        "l": 131
+    },
+    {
+        "i": 63,
+        "j": "WHBg3sD3RqA",
+        "b": "64-Ejercicio 52 resuelto en PSeInt. Transpuesta de una matriz.",
+        "h": "20200815135535",
+        "l": 217
+    },
+    {
+        "i": 65,
+        "j": "WNO6Qg-hSfs",
+        "b": "66-Ejercicio 54 resuelto en PSeInt. Indicar la planta de un edificio tiene más vecinos y cuántos son",
+        "h": "20200815140902",
+        "l": 292
+    },
+    {
+        "i": 6,
+        "j": "wSk4-y9hzdA",
+        "b": "7-Ejercicio 2 resuelto en Pseint. Pedir su nombre al usuario y mostrar un mensaje por pantalla.",
+        "h": "20200727110149",
+        "l": 97
+    },
+    {
+        "i": 50,
+        "j": "WyE-e89q60o",
+        "b": "51-Ejercicio 41 resuelto en PSeInt. Escribir las tablas de multiplicar del 1 al 10.",
+        "h": "20200807101756",
+        "l": 153
+    },
+    {
+        "i": 74,
+        "j": "xAsXm2kYHTI",
+        "b": "75-Subprocesos (funciones, procedimientos) en PSeInt.",
+        "h": "20200822112112",
+        "l": 721
+    },
+    {
+        "i": 15,
+        "j": "XlSBPgEYUec",
+        "b": "16-Condicionales Si-Entonces en PSeInt.",
+        "h": "20200728085759",
+        "l": 281
+    },
+    {
+        "i": 24,
+        "j": "xvvXb2-7-bQ",
+        "b": "25-Ejercicio 19 resuelto en PSeInt. Determinar si un carácter dado es una vocal.",
+        "h": "20200731092534",
+        "l": 86
+    },
+    {
+        "i": 61,
+        "j": "YBqBqpb3zUs",
+        "b": "62-Ejercicio 51 resuelto en PSeInt. Ordenar un array por el método de selección.",
+        "h": "20200811104325",
+        "l": 506
+    },
+    {
+        "i": 48,
+        "j": "yGAUn1aUa_M",
+        "b": "49-Ejercicio 39 resuelto en PSeInt. Determina si un número es perfecto.",
+        "h": "20200805105115",
+        "l": 119
+    },
+    {
+        "i": 18,
+        "j": "YHpQ37uyr20",
+        "b": "19-Ejercicio 13 resuelto en PSeInt.Indicar si un número es mayor, menor o igual a cero.",
+        "h": "20200731075257",
+        "l": 116
+    },
+    {
+        "i": 16,
+        "j": "yj2I2c7JL5o",
+        "b": "17-Ejercicio 11 resuelto en PSeInt.Indicar si un número dado es mayor de cero.",
+        "h": "20200731073118",
+        "l": 95
+    },
+    {
+        "i": 94,
+        "j": "yR5jfVJoMvI",
+        "b": "95-Ejercicio 79 resuelto en PSeInt. Pasar de binario a decimal.",
+        "h": "20200827152929",
+        "l": 232
+    },
+    {
+        "i": 107,
+        "j": "YUIhdSCdbCA",
+        "b": "108-Ejercicio 90 resuelto en PSeInt. Proyecto BlackJack IV. Tomar una carta.",
+        "h": "20200906174004",
+        "l": 257
+    },
+    {
+        "i": 54,
+        "j": "yzpzCpC2COE",
+        "b": "55-Ejercicio 45 resuelto en PSeInt. Dibujar un rectángulo de asteriscos con solo el borde.",
+        "h": "20200807104219",
+        "l": 279
+    }
+]

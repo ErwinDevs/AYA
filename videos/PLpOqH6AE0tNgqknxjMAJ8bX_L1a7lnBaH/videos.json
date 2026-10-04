@@ -1,0 +1,205 @@
+[
+    {
+        "i": 17,
+        "j": "-zNyti2wZ0s",
+        "b": "16.- Curso Básico de C - Funciones Básicas",
+        "h": "20170523165247",
+        "l": 308
+    },
+    {
+        "i": 19,
+        "j": "1S9cv6LNF9M",
+        "b": "20.- Curso Básico de C - Apuntadores Llamadas por Referencia",
+        "h": "20170523165247",
+        "l": 384
+    },
+    {
+        "i": 28,
+        "j": "5KiKzWn_jMM",
+        "b": "29.- Curso Básico de C -  Agregar Elementos al Final de la Lista",
+        "h": "20260226185027",
+        "l": 377
+    },
+    {
+        "i": 21,
+        "j": "6eEYpo0CIRY",
+        "b": "22.- Curso Básico de C - Estructuras",
+        "h": "20170523165247",
+        "l": 344
+    },
+    {
+        "i": 14,
+        "j": "6JztT-0l4Vo",
+        "b": "15.- Curso Básico de C - Break & Continue",
+        "h": "20170523165247",
+        "l": 219
+    },
+    {
+        "i": 9,
+        "j": "aFUZT3iGbCo",
+        "b": "10.- Curso Básico de C - Ciclo For",
+        "h": "20170523165247",
+        "l": 198
+    },
+    {
+        "i": 27,
+        "j": "Bs5tT29w2t4",
+        "b": "28.- Curso Básico de C - Agregar Primer Elemento a la Lista",
+        "h": "20260226185007",
+        "l": 338
+    },
+    {
+        "i": 23,
+        "j": "E84KCj-996o",
+        "b": "24.- Curso Básico de C - Estructuras Anidadas",
+        "h": "20170523165247",
+        "l": 608
+    },
+    {
+        "i": 20,
+        "j": "eCmp_OeanzY",
+        "b": "21.- Curso Básico de C - Operador SizeOf en C",
+        "h": "20170523165247",
+        "l": 276
+    },
+    {
+        "i": 13,
+        "j": "GOSOaNBqZaw",
+        "b": "14.- Curso Básico de C - Arreglos",
+        "h": "20170523165247",
+        "l": 580
+    },
+    {
+        "i": 15,
+        "j": "gwHbGOyjGmo",
+        "b": "18.- Curso Básico de C - Funciones Recursivas",
+        "h": "20170523165247",
+        "l": 436
+    },
+    {
+        "i": 18,
+        "j": "hSWM_dX7rrU",
+        "b": "19.- Curso Básico de C - Apuntadores Conceptos Básicos",
+        "h": "20170523165247",
+        "l": 232
+    },
+    {
+        "i": 7,
+        "j": "hVQn03Kw5Z0",
+        "b": "8.- Curso Básico de C - Variables y Tipos de Datos",
+        "h": "20170523165247",
+        "l": 455
+    },
+    {
+        "i": 4,
+        "j": "lxmPSy6Ga7M",
+        "b": "5.- Curso Básico de C - Operadores Aritméticos",
+        "h": "20170523165247",
+        "l": 495
+    },
+    {
+        "i": 1,
+        "j": "Mt6ebQtpTjc",
+        "b": "2.- Curso Básico de C - Instalación y Configuración de entorno",
+        "h": "20170523165247",
+        "l": 419
+    },
+    {
+        "i": 10,
+        "j": "MYWwxlAS72Q",
+        "b": "11.- Curso Básico de C - Ciclo While",
+        "h": "20170523165247",
+        "l": 141
+    },
+    {
+        "i": 24,
+        "j": "oaWTrIZJ4Bs",
+        "b": "25   Curso básico de C - Asignación Dinámica de Memoria",
+        "h": "20260226184859",
+        "l": 808
+    },
+    {
+        "i": 16,
+        "j": "pHzaGplT-xk",
+        "b": "17.- Curso Básico de C - Funciones de Retorno",
+        "h": "20170523165247",
+        "l": 263
+    },
+    {
+        "i": 12,
+        "j": "pyg2OPqsGqU",
+        "b": "13.- Curso Básico de C - Switch",
+        "h": "20170523165247",
+        "l": 242
+    },
+    {
+        "i": 0,
+        "j": "rEsSxd0L4GI",
+        "b": "1.- Curso Básico de C - Introducción",
+        "h": "20170523165247",
+        "l": 140
+    },
+    {
+        "i": 8,
+        "j": "RI0zoFnolIY",
+        "b": "9.- Curso Básico de C - Palabras Reservadas y Conversión de Tipos de Datos",
+        "h": "20170523165247",
+        "l": 393
+    },
+    {
+        "i": 2,
+        "j": "SL_rKtxqsMI",
+        "b": "3.- Curso Básico de C - Hola Mundo",
+        "h": "20170523165247",
+        "l": 396
+    },
+    {
+        "i": 11,
+        "j": "UZT_1Zi2jyI",
+        "b": "12.- Curso Básico de C - Ciclo Do While",
+        "h": "20170523165247",
+        "l": 124
+    },
+    {
+        "i": 25,
+        "j": "vJ8VVwG8aeU",
+        "b": "26.- Curso Básico de C - Liberar Memoria Dinámica",
+        "h": "20260226184929",
+        "l": 348
+    },
+    {
+        "i": 5,
+        "j": "wDAi-J_6knE",
+        "b": "6.- Curso Básico de C - Operadores Condicionales",
+        "h": "20170523165247",
+        "l": 292
+    },
+    {
+        "i": 26,
+        "j": "WxoGvBzWuGs",
+        "b": "27.- Curso Básico de C - Listas Enlazadas",
+        "h": "20260226184950",
+        "l": 354
+    },
+    {
+        "i": 3,
+        "j": "x3cUI0qyAu4",
+        "b": "4.- Curso Básico de C - Suma de Números Enteros",
+        "h": "20170523165247",
+        "l": 356
+    },
+    {
+        "i": 6,
+        "j": "XrMBmXT7wY8",
+        "b": "7.- Curso Básico de C - Directivas del Preprocesador",
+        "h": "20170523165247",
+        "l": 316
+    },
+    {
+        "i": 22,
+        "j": "y6_v8rlE1e8",
+        "b": "23.- Curso Básico de C - Arreglos de Estructuras",
+        "h": "20170523165247",
+        "l": 501
+    }
+]

@@ -14,7 +14,7 @@
         "l": 628
     },
     {
-        "i": 46,
+        "i": 45,
         "j": "2au-HWdFtZM",
         "b": "ESTRUCTURA en 1 SEGUNDO con INTELLIJ",
         "h": "20260318232205",
@@ -23,14 +23,14 @@
     {
         "i": 5,
         "j": "2hYhpRZFuns",
-        "b": "🚀 HERENCIA en JAVA | 🤔| Programación Orientada a Objetos con Java 🖥️ | Explicación FÁCIL 2023 | #6",
+        "b": "🚀 HERENCIA en JAVA | 🤔| Programación Orientada a Objetos con Java 🖥️ | Explicación FÁCIL | #6",
         "h": "20211107182330",
         "l": 719
     },
     {
         "i": 6,
         "j": "2jX22t4Bh4k",
-        "b": "🚀 POLIMORFISMO en JAVA | 🤔| Programación Orientada a Objetos 🖥️ | Explicación FÁCIL 2023 | #7",
+        "b": "🚀 POLIMORFISMO en JAVA | 🤔| Programación Orientada a Objetos 🖥️ | Explicación FÁCIL | #7",
         "h": "20211205182054",
         "l": 727
     },
@@ -44,7 +44,7 @@
     {
         "i": 8,
         "j": "4pnG1h2-fC8",
-        "b": "🚀 ENCAPSULAMIENTO en JAVA | 🤔| Programación Orientada a Objetos 🖥️ | Explicación FÁCIL 2023 | #8",
+        "b": "🚀 ENCAPSULAMIENTO en JAVA | 🤔| Programación Orientada a Objetos 🖥️ | Explicación FÁCIL | #8",
         "h": "20211212182126",
         "l": 780
     },
@@ -65,7 +65,7 @@
     {
         "i": 22,
         "j": "C-SZqtyDeuU",
-        "b": "🚀¿Cómo CONVERTIR TIPOS DE DATOS en JAVA?🖥️ | PASO A PASO 100% práctica | FÁCIL 💥#20",
+        "b": "🚀¿Cómo CONVERTIR TIPOS DE DATOS en JAVA? (Casting)🖥️ | PASO A PASO 100% práctica | FÁCIL 💥#20",
         "h": "20220615211344",
         "l": 790
     },
@@ -135,14 +135,14 @@
     {
         "i": 10,
         "j": "hfwtzjOhvKk",
-        "b": "🚀 INTERFACES en JAVA | 🤔| Programación Orientada a Objetos 🖥️ | Explicación FÁCIL 2023 | #10",
+        "b": "🚀 INTERFACES en JAVA | 🤔| Programación Orientada a Objetos 🖥️ | Explicación FÁCIL | #10",
         "h": "20220106204033",
         "l": 957
     },
     {
         "i": 9,
         "j": "I4o7fvSQvBA",
-        "b": "🚀 CLASES ABSTRACTAS en JAVA | 🤔| Programación Orientada a Objetos 🖥️ | Explicación FÁCIL 2023 | #9",
+        "b": "🚀 CLASES ABSTRACTAS en JAVA | 🤔| Programación Orientada a Objetos 🖥️ | Explicación FÁCIL | #9",
         "h": "20211227004225",
         "l": 1140
     },
@@ -226,7 +226,7 @@
     {
         "i": 1,
         "j": "q9gZ9fjKIC0",
-        "b": "🚀 ¿Qué son las CLASES? ¿Cómo crear una CLASE? 🤔| POO con Java 🖥️ | Explicación FÁCIL 2023 | #2",
+        "b": "🚀 ¿Qué son las CLASES? ¿Cómo crear una CLASE? 🤔| POO con Java 🖥️ | Explicación FÁCIL | #2",
         "h": "20210930182702",
         "l": 482
     },
@@ -268,7 +268,7 @@
     {
         "i": 0,
         "j": "tcza2FEz4u4",
-        "b": "🚀 ¿Qué es la PROGRAMACIÓN ORIENTADA A OBJETOS? 🤔| POO con Java 🖥️ | Explicación FÁCIL 2023 | #1",
+        "b": "🚀 ¿Qué es la PROGRAMACIÓN ORIENTADA A OBJETOS? 🤔| POO con Java 🖥️ | Explicación FÁCIL | #1",
         "h": "20210930172355",
         "l": 487
     },
@@ -324,7 +324,7 @@
     {
         "i": 4,
         "j": "ZHK0t5gocjA",
-        "b": "🚀 GETTERS y SETTERS en JAVA | 🤔| POO con Java 🖥️ | Explicación FÁCIL 2023 | #5",
+        "b": "🚀 GETTERS y SETTERS en JAVA | 🤔| POO con Java 🖥️ | Explicación FÁCIL | #5",
         "h": "20211101190517",
         "l": 872
     }

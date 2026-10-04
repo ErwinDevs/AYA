@@ -112,6 +112,13 @@
         "l": 887
     },
     {
+        "i": 151,
+        "j": "4425ooiV1UQ",
+        "b": "El primer error de todo principiante en AutoCAD",
+        "h": "20260731172504",
+        "l": 915
+    },
+    {
         "i": 54,
         "j": "4BeeQZHtjWY",
         "b": "🔴 DESCOMPONER BIEN un bloque con ATRIBUTOS en AUTOCAD",
@@ -175,11 +182,25 @@
         "l": 465
     },
     {
+        "i": 149,
+        "j": "8XwllDWrbhk",
+        "b": "La herramienta de AutoCAD que te ahorra HORAS de trabajo con tus SUPERFICIES",
+        "h": "20260622123531",
+        "l": 336
+    },
+    {
         "i": 11,
         "j": "9Hc3_rh-3XM",
         "b": "📸 Cómo ESCALAR una IMAGEN en AUTOCAD con referencia [🤯 EN 1 MINUTO] (2026)",
         "h": "20210421075154",
         "l": 265
+    },
+    {
+        "i": 148,
+        "j": "9jsjcfdHT5Q",
+        "b": "Deja de perder horas de trabajo: Recuperación de archivos DWG",
+        "h": "20260611160226",
+        "l": 240
     },
     {
         "i": 111,
@@ -215,6 +236,13 @@
         "b": "🔴 Cómo ACOTAR en AutoCAD Rápido",
         "h": "20240228121728",
         "l": 502
+    },
+    {
+        "i": 158,
+        "j": "cR3FNCYCcaY",
+        "b": "El paso FINAL en AutoCAD: prepara tu PLANO y sácalo a PDF",
+        "h": "20260929103349",
+        "l": 882
     },
     {
         "i": 38,
@@ -277,7 +305,7 @@
         "j": "eS5PCDrZU1Q",
         "b": "¡Arregla tus bloques de AutoCAD fácil y rápido!",
         "h": "20250603160215",
-        "l": 345
+        "l": 346
     },
     {
         "i": 42,
@@ -296,7 +324,7 @@
     {
         "i": 4,
         "j": "flAh_4aU81w",
-        "b": "🔴 Ahorra HORAS cambiando COMANDOS en AutoCAD – ¡Configuración Express!",
+        "b": "🔴 Ahorra HORAS cambiando COMANDOS en AutoCAD – ¡Configura tus atajos de teclado!",
         "h": "20211027205124",
         "l": 545
     },
@@ -448,6 +476,13 @@
         "l": 482
     },
     {
+        "i": 153,
+        "j": "JOhO9V5ZbQA",
+        "b": "Dibuja PUERTAS y VENTANAS en AutoCAD sin Errores | 3/8",
+        "h": "20260817145249",
+        "l": 770
+    },
+    {
         "i": 74,
         "j": "jQrMMwYrIg0",
         "b": "🔥 Cómo CONFIGURAR UNIDADES en AUTOCAD y por qué hacerlo [ AutoCAD en metros ]",
@@ -455,11 +490,25 @@
         "l": 557
     },
     {
+        "i": 154,
+        "j": "jVV0PyCzLwM",
+        "b": "NO vuelvas a dibujarlos en AutoCAD ❌ Crea BLOQUES y úsalos SIEMPRE",
+        "h": "20260901153340",
+        "l": 1413
+    },
+    {
         "i": 72,
         "j": "k4RhPch1V38",
         "b": "🔴 9 COMANDOS para DIBUJAR MÁS RÁPIDO en AutoCAD",
         "h": "20221114200051",
         "l": 1087
+    },
+    {
+        "i": 157,
+        "j": "k6a_vA3a0WU",
+        "b": "Así debes ACOTAR un PLANO en AutoCAD | Configura tus COTAS bien",
+        "h": "20260922161217",
+        "l": 767
     },
     {
         "i": 77,
@@ -532,6 +581,13 @@
         "l": 937
     },
     {
+        "i": 152,
+        "j": "Lr05X_nF6A0",
+        "b": "Cómo dibujar los MUROS de una CASA en AutoCAD desde cero",
+        "h": "20260810094005",
+        "l": 1382
+    },
+    {
         "i": 139,
         "j": "lsmHq5rOcNg",
         "b": "AutoCAD lento? Usa ESTO y vuela 🚀",
@@ -579,6 +635,13 @@
         "b": "Cómo Crear una Etiqueta de Área con Bloque Dinámico en AutoCAD Paso a Paso",
         "h": "20250506154954",
         "l": 686
+    },
+    {
+        "i": 147,
+        "j": "nADuetjCrww",
+        "b": "👉 La Tabla de AutoCAD que se Actualiza Sola 🤯",
+        "h": "20260604094552",
+        "l": 566
     },
     {
         "i": 82,
@@ -711,7 +774,7 @@
         "j": "R3quceiHnCo",
         "b": "🔴 HACER esquina REDONDEADA en AUTOCAD",
         "h": "20240813105810",
-        "l": 464
+        "l": 465
     },
     {
         "i": 17,
@@ -747,6 +810,13 @@
         "b": "Haz tus textos en AutoCAD mucho más fácil con esta herramienta!",
         "h": "20250521155235",
         "l": 301
+    },
+    {
+        "i": 150,
+        "j": "RMg9D6J08LE",
+        "b": "Modelado 3D en AutoCAD para Principiantes",
+        "h": "20260727142759",
+        "l": 1169
     },
     {
         "i": 75,
@@ -950,6 +1020,20 @@
         "b": "🔴 Cómo HACER CAJETÍN EDITABLE en AUTOCAD 🔥 INSERTA el cajetín en un segundo 🔥 (MARCO en AUTOCAD)",
         "h": "20210704113121",
         "l": 714
+    },
+    {
+        "i": 156,
+        "j": "XwhQYuVSyhU",
+        "b": "¡Deja de sufrir con los textos en AutoCAD!",
+        "h": "20260915161734",
+        "l": 388
+    },
+    {
+        "i": 155,
+        "j": "Xza3afmnoBk",
+        "b": "¿Por qué tus planos no se ven profesionales? La clave es el HATCH",
+        "h": "20260907154156",
+        "l": 398
     },
     {
         "i": 2,

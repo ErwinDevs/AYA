@@ -1,5 +1,12 @@
 [
     {
+        "i": 366,
+        "j": "_lRE1G0aaVA",
+        "b": "Como analizar y resolver circuito sin memorizar formulas (Clase 39.5)",
+        "h": "20260621181416",
+        "l": 1446
+    },
+    {
         "i": 318,
         "j": "_nkOjbV8oUY",
         "b": "Barata cámara termográfica TC004 mini TOPDON",
@@ -12,6 +19,13 @@
         "b": "Como funciona Fuente conmutada para iluminacion LEDs (Clase 108.3)",
         "h": "20220907165608",
         "l": 1537
+    },
+    {
+        "i": 371,
+        "j": "-1TU991DbYY",
+        "b": "Masterclass: CIRCUITO AMPLIFICADOR POTENCIA PUSH-PULL con OPAMP y BJTs (Clase 85.6)",
+        "h": "20260727123619",
+        "l": 2804
     },
     {
         "i": 116,
@@ -161,6 +175,13 @@
         "l": 355
     },
     {
+        "i": 367,
+        "j": "2he4PdFEX3w",
+        "b": "¿Sabes cómo funciona una estación de energía portátil? Explicación con la Aferiy Nomad1800 Pro",
+        "h": "20260623195629",
+        "l": 1328
+    },
+    {
         "i": 192,
         "j": "2HzkRcPg1pI",
         "b": "Como diseñar muy facil circuito driver lampara LED con SMPS (Clase 109.2)",
@@ -259,6 +280,13 @@
         "l": 992
     },
     {
+        "i": 368,
+        "j": "4GxEpIJ2oi0",
+        "b": "MasterClass: Funcionamiento Circuito modulo relé PCB para circuito digital",
+        "h": "20260704224637",
+        "l": 1606
+    },
+    {
         "i": 54,
         "j": "4LhDcDaefzo",
         "b": "CLase 27.1 Analisis Filtros pasivos paso banda y elimina banda",
@@ -327,6 +355,13 @@
         "b": "Como generar señal cuadrada y triangular con OPAMP. Parte 2 (Clase 76.1)",
         "h": "20200618074454",
         "l": 1290
+    },
+    {
+        "i": 375,
+        "j": "6TIUqhho4lo",
+        "b": "Sabes esto de los amplificadores (Clase 80.1)",
+        "h": "20260927145609",
+        "l": 1092
     },
     {
         "i": 36,
@@ -735,6 +770,13 @@
         "l": 2520
     },
     {
+        "i": 374,
+        "j": "dokLxX7bL18",
+        "b": "Masterclass: Circuito Amplificador potencia Push-Pull",
+        "h": "20260821221153",
+        "l": 178
+    },
+    {
         "i": 143,
         "j": "doTCNvxfgRo",
         "b": "Como medir intensidad en una PCB sin abrir el circuito (Clase 95.1)",
@@ -1106,6 +1148,13 @@
         "l": 1759
     },
     {
+        "i": 372,
+        "j": "I0dP3rO8L_0",
+        "b": "Masterclass: Sabes que le ocurre a una bobina real con onda cuadrada ?",
+        "h": "20260804143152",
+        "l": 1184
+    },
+    {
         "i": 350,
         "j": "IBn1UKuNJb8",
         "b": "NO cometas este ERROR al medir resistencias de bajo valor",
@@ -1139,6 +1188,13 @@
         "b": "Sabes Convertir fuente voltaje constante en Fuente corriente constante (clase 95.5)",
         "h": "20230507225507",
         "l": 1160
+    },
+    {
+        "i": 369,
+        "j": "iFKV2q2KXEM",
+        "b": "Sabes esto del transistor PNP (Clase 47.3)",
+        "h": "20260712171322",
+        "l": 806
     },
     {
         "i": 200,
@@ -1209,6 +1265,13 @@
         "b": "Reto electronico: Saber intensidad Puente Wheatstone (clase 12.1)",
         "h": "20210314120931",
         "l": 726
+    },
+    {
+        "i": 370,
+        "j": "JBEAnCbrQW8",
+        "b": "TODO SOBRE LA SATURACIÓN DEL NPN y PNP (Clase 47.3)",
+        "h": "20260719234957",
+        "l": 1550
     },
     {
         "i": 29,
@@ -1970,7 +2033,7 @@
         "i": 342,
         "j": "siB1f1QqV_8",
         "b": "Analizamos Camara Termica Tooltop T7 Pro",
-        "h": "20260113203514",
+        "h": "20260113203526",
         "l": 812
     },
     {
@@ -2063,6 +2126,13 @@
         "b": "Como activar rele con transistor para arduino o raspberry (Clase 48)",
         "h": "20191003180600",
         "l": 750
+    },
+    {
+        "i": 373,
+        "j": "tG5iYL_7FTg",
+        "b": "Masterclass: Fuente de corriente programable de precisión (Clase 73.2)",
+        "h": "20260806192915",
+        "l": 1219
     },
     {
         "i": 186,
