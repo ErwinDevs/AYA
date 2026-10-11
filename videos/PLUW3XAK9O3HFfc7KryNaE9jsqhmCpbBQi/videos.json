@@ -1,0 +1,842 @@
+[
+    {
+        "i": 2,
+        "j": "_hUIzx_qnQk",
+        "b": "Cómo usar BOOTSTRAP en HTML - Curso de Bootstrap v5 - bootstrapcdn",
+        "h": "20210914220219",
+        "l": 652
+    },
+    {
+        "i": 17,
+        "j": "-WzYLBDohF4",
+        "b": "Curso Bootstrap - Eliminar espacios en filas y columnas (no-gutters) css layout",
+        "h": "20200507012317",
+        "l": 253
+    },
+    {
+        "i": 67,
+        "j": "0vh8oQm-Ea8",
+        "b": "Curso Bootstrap - Tipografía, listas",
+        "h": "20200603212710",
+        "l": 159
+    },
+    {
+        "i": 46,
+        "j": "1LRyIbTr6gY",
+        "b": "Curso Bootstrap - Posicionamiento fixed-top y sticky-top",
+        "h": "20200520163408",
+        "l": 75
+    },
+    {
+        "i": 39,
+        "j": "1UEkcP8R4Eo",
+        "b": "Curso Bootstrap - Espaciado, centrado horizontal",
+        "h": "20200519004259",
+        "l": 85
+    },
+    {
+        "i": 105,
+        "j": "1XY3GUl7mkQ",
+        "b": "Curso Bootstrap - Componentes, collapse crear",
+        "h": "20200707171040",
+        "l": 369
+    },
+    {
+        "i": 112,
+        "j": "2cJryAaR9vI",
+        "b": "Curso Bootstrap - Componentes, navegación parte #2",
+        "h": "20200730190904",
+        "l": 554
+    },
+    {
+        "i": 52,
+        "j": "2DHotq1Magw",
+        "b": "Curso Bootstrap - Alineación de elementos(texto).",
+        "h": "20200526015806",
+        "l": 281
+    },
+    {
+        "i": 95,
+        "j": "3icA0pUM7Wc",
+        "b": "Curso Bootstrap - Componentes, grupo de lista, complemento de Javascript parte #2",
+        "h": "20200625055532",
+        "l": 466
+    },
+    {
+        "i": 110,
+        "j": "3XPFHNEvP3M",
+        "b": "Curso Bootstrap - Componentes, modal parte #2",
+        "h": "20200730190804",
+        "l": 151
+    },
+    {
+        "i": 113,
+        "j": "4HzYCHBf5Rw",
+        "b": "Curso Bootstrap - Componentes, barra de navegación (navbar)",
+        "h": "20200804150054",
+        "l": 729
+    },
+    {
+        "i": 87,
+        "j": "4UlAFjOZQ9E",
+        "b": "Curso Bootstrap - Componentes, carousel parte #3 controles",
+        "h": "20200617023511",
+        "l": 430
+    },
+    {
+        "i": 81,
+        "j": "4Z_OTtCDczQ",
+        "b": "Curso Bootstrap - Componentes, grupo de botones (estado alternar)",
+        "h": "20200610175223",
+        "l": 359
+    },
+    {
+        "i": 43,
+        "j": "56xsywWmhGs",
+        "b": "Curso Bootstrap - Sombras",
+        "h": "20200520130129",
+        "l": 121
+    },
+    {
+        "i": 82,
+        "j": "5vBbN5r9Kgs",
+        "b": "Curso Bootstrap - Componentes, badges parte #1",
+        "h": "20200616161839",
+        "l": 208
+    },
+    {
+        "i": 10,
+        "j": "5WGyxmAuFso",
+        "b": "Curso Bootstrap - La grid de bootstrap, clase w-100 - css layout",
+        "h": "20200505223250",
+        "l": 127
+    },
+    {
+        "i": 15,
+        "j": "721ArKLxOYA",
+        "b": "Alineación de columnas, parte 2.1- Curso de Bootstrap v5 css layout",
+        "h": "20211108055619",
+        "l": 159
+    },
+    {
+        "i": 107,
+        "j": "7Cs8KJE5wDc",
+        "b": "Curso Bootstrap - Componentes, collapse accordion #2",
+        "h": "20200707224223",
+        "l": 588
+    },
+    {
+        "i": 103,
+        "j": "8r-sZHFhYxk",
+        "b": "Curso Bootstrap - Componentes, tarjetas (cards) colores.",
+        "h": "20200701170640",
+        "l": 199
+    },
+    {
+        "i": 13,
+        "j": "8StZXXJrKso",
+        "b": "Curso Bootstrap - Alineación de columnas parte #1 css layout",
+        "h": "20200506162145",
+        "l": 266
+    },
+    {
+        "i": 84,
+        "j": "8xMSurDsjA0",
+        "b": "Curso Bootstrap - Componentes, breadcrumbs",
+        "h": "20200616201848",
+        "l": 281
+    },
+    {
+        "i": 97,
+        "j": "9x9Vr-dUfrw",
+        "b": "Curso Bootstrap - Componentes, paginación iconos y tamaños.",
+        "h": "20200630192111",
+        "l": 218
+    },
+    {
+        "i": 91,
+        "j": "AE_YxxLHB4E",
+        "b": "Curso Bootstrap - Componentes, grupo de columnas bordes & orientación",
+        "h": "20200624154309",
+        "l": 209
+    },
+    {
+        "i": 98,
+        "j": "AIfZriqfi1o",
+        "b": "Curso Bootstrap - Componentes, paginación alineación y estados.",
+        "h": "20200630192441",
+        "l": 170
+    },
+    {
+        "i": 47,
+        "j": "AjMZVM7Kk60",
+        "b": "Curso Bootstrap - Tamaños",
+        "h": "20200520223449",
+        "l": 486
+    },
+    {
+        "i": 28,
+        "j": "AkXxnLHbnjk",
+        "b": "Curso Bootstrap - Colores de texto",
+        "h": "20200512152846",
+        "l": 147
+    },
+    {
+        "i": 19,
+        "j": "ASZCa71HJ6Y",
+        "b": "Curso Bootstrap - Desplazamiento de columnas parte #1 css layout",
+        "h": "20200507170531",
+        "l": 257
+    },
+    {
+        "i": 80,
+        "j": "atgWKPMnWRs",
+        "b": "Curso Bootstrap - Componentes, grupo de botones y tamaños",
+        "h": "20200610160842",
+        "l": 285
+    },
+    {
+        "i": 61,
+        "j": "aykshOsnVPY",
+        "b": "Curso Bootstrap - Flex box, clase flex-shrink",
+        "h": "20200602141801",
+        "l": 201
+    },
+    {
+        "i": 7,
+        "j": "AZ2Y9ALNtXQ",
+        "b": "Curso Bootstrap - La grid de bootstrap parte #2 - css layout",
+        "h": "20200430200641",
+        "l": 352
+    },
+    {
+        "i": 111,
+        "j": "bvizNLIOMpc",
+        "b": "Curso Bootstrap - Componentes, navegación",
+        "h": "20200730190826",
+        "l": 426
+    },
+    {
+        "i": 118,
+        "j": "BVVw7BngrwQ",
+        "b": "Curso Bootstrap - Componentes, popover",
+        "h": "20200805145108",
+        "l": 278
+    },
+    {
+        "i": 37,
+        "j": "C0pjRYCPFns",
+        "b": "Curso Bootstrap - Botón cerrar (Close icon)",
+        "h": "20200513175737",
+        "l": 132
+    },
+    {
+        "i": 40,
+        "j": "ceBfet_ohLs",
+        "b": "UN NUEVO ✨ TIPO de ESPACIADO en Bootstrap: GAP ↕️  ↔️  - Curso Bootstrap 5",
+        "h": "20240818001247",
+        "l": 344
+    },
+    {
+        "i": 51,
+        "j": "CmIVmFSFSW4",
+        "b": "Curso Bootstrap - Visibilidad",
+        "h": "20200525213317",
+        "l": 99
+    },
+    {
+        "i": 78,
+        "j": "cTUSypuTmLs",
+        "b": "Curso Bootstrap - Componentes, botones (tamaños)",
+        "h": "20200610040509",
+        "l": 125
+    },
+    {
+        "i": 102,
+        "j": "D3hCQ5Zor-o",
+        "b": "Curso Bootstrap - Componentes, tarjetas (cards) imágenes parte #2",
+        "h": "20200701154548",
+        "l": 167
+    },
+    {
+        "i": 16,
+        "j": "d7i9bHQWT0U",
+        "b": "Curso Bootstrap - Alineación de columnas parte #3 css layout",
+        "h": "20200506223832",
+        "l": 316
+    },
+    {
+        "i": 69,
+        "j": "DaCTa7WEpdU",
+        "b": "Curso Bootstrap - Tablas, clase general y caption",
+        "h": "20200604010641",
+        "l": 123
+    },
+    {
+        "i": 106,
+        "j": "DEfNTd9_rUk",
+        "b": "Curso Bootstrap - Componentes, collapse accordion",
+        "h": "20200707191537",
+        "l": 211
+    },
+    {
+        "i": 23,
+        "j": "DK90QnAHIhY",
+        "b": "¡ACTUALIZACIÓN! para re-ordenar columnas - Curso de Bootstrap",
+        "h": "20220117060054",
+        "l": 295
+    },
+    {
+        "i": 8,
+        "j": "dNtiaXUhbSE",
+        "b": "Curso Bootstrap - La grid de bootstrap parte #2.2 - css layout",
+        "h": "20200505194359",
+        "l": 497
+    },
+    {
+        "i": 117,
+        "j": "dvQ1snX7heM",
+        "b": "Curso Bootstrap - Componentes, barra de navegación (navbar) y position",
+        "h": "20200804215014",
+        "l": 316
+    },
+    {
+        "i": 6,
+        "j": "Ejxqdp2tRLs",
+        "b": "Nueva clase container y nueva media query en Bootstrap - Curso de Bootstrap v5 css layout",
+        "h": "20210926054436",
+        "l": 386
+    },
+    {
+        "i": 72,
+        "j": "EMMzkjdij6Y",
+        "b": "Curso Bootstrap - Tablas pequeñas y tablas responsives",
+        "h": "20200609171142",
+        "l": 236
+    },
+    {
+        "i": 92,
+        "j": "EWQKWiRI31k",
+        "b": "Curso Bootstrap - Componentes, colores de grupos de listas.",
+        "h": "20200624172922",
+        "l": 113
+    },
+    {
+        "i": 57,
+        "j": "eykVj7js1ZQ",
+        "b": "Curso Bootstrap - Flex box, alineación en el cross axis (align-items)",
+        "h": "20200527044927",
+        "l": 260
+    },
+    {
+        "i": 55,
+        "j": "f8fbk-3ZPHw",
+        "b": "Curso Bootstrap - Flex box, clase flex-wrap.",
+        "h": "20200526215936",
+        "l": 241
+    },
+    {
+        "i": 90,
+        "j": "FEZc8oE4Qk4",
+        "b": "Curso Bootstrap - Componentes, grupo de listas.",
+        "h": "20200624015013",
+        "l": 282
+    },
+    {
+        "i": 41,
+        "j": "G6xMklDUjZA",
+        "b": "Curso Bootstrap - Espaciado, margenes negativos",
+        "h": "20200519022023",
+        "l": 148
+    },
+    {
+        "i": 44,
+        "j": "GanX3LBdctE",
+        "b": "Curso Bootstrap - Posicionamiento relative y absolute",
+        "h": "20200520154948",
+        "l": 302
+    },
+    {
+        "i": 31,
+        "j": "GsNCzMj1EcQ",
+        "b": "Curso Bootstrap - Eliminar bordes",
+        "h": "20200512232548",
+        "l": 108
+    },
+    {
+        "i": 20,
+        "j": "H_ixyZbkr0k",
+        "b": "Curso Bootstrap - Desplazamiento de columnas parte #2 css layout",
+        "h": "20200507181336",
+        "l": 125
+    },
+    {
+        "i": 89,
+        "j": "H-y2qF6muoY",
+        "b": "Curso Bootstrap - Componentes, carousel diapositivas con texto.",
+        "h": "20200617185544",
+        "l": 365
+    },
+    {
+        "i": 115,
+        "j": "hoBmDCx_GYA",
+        "b": "Curso Bootstrap - Componentes, barra de navegación (navbar) con formulario.",
+        "h": "20200804175128",
+        "l": 273
+    },
+    {
+        "i": 66,
+        "j": "HzNEmROmWwY",
+        "b": "Curso Bootstrap - Tipografía, etiqueta blockquote",
+        "h": "20200603202640",
+        "l": 152
+    },
+    {
+        "i": 96,
+        "j": "i3BFLknBFGo",
+        "b": "Curso Bootstrap - Componentes, paginación.",
+        "h": "20200630162212",
+        "l": 172
+    },
+    {
+        "i": 22,
+        "j": "iLoY0cjPcmo",
+        "b": "Curso Bootstrap - Re-ordenamiento de columnas (con order )- css layout",
+        "h": "20200507194725",
+        "l": 286
+    },
+    {
+        "i": 60,
+        "j": "IXaBeZdW8qY",
+        "b": "Curso Bootstrap - Flex box, clase flex-grow",
+        "h": "20200602131736",
+        "l": 166
+    },
+    {
+        "i": 38,
+        "j": "iZ133QMqqeA",
+        "b": "Curso Bootstrap - Espaciado, margin y padding",
+        "h": "20200518231453",
+        "l": 354
+    },
+    {
+        "i": 100,
+        "j": "J15tyMp_KzQ",
+        "b": "Curso Bootstrap - Componentes, tarjetas alineación de contenido.",
+        "h": "20200701003916",
+        "l": 97
+    },
+    {
+        "i": 4,
+        "j": "JAQOiyIR_g4",
+        "b": "Template / Plantilla Bootstrap para iniciar un proyecto desde cero - Curso Bootstrap 5",
+        "h": "20210926002951",
+        "l": 181
+    },
+    {
+        "i": 24,
+        "j": "Jifp7mZUDJ4",
+        "b": "Curso Bootstrap - Anidación de columnas - css layout",
+        "h": "20200507225532",
+        "l": 181
+    },
+    {
+        "i": 71,
+        "j": "JLaKLpswoHo",
+        "b": "Curso Bootstrap - Tablas, bordes y efecto hover",
+        "h": "20200609151306",
+        "l": 178
+    },
+    {
+        "i": 86,
+        "j": "k4Cwvp71KIs",
+        "b": "Curso Bootstrap - Componentes, carousel efecto crossfade e intervalos de tiempo.",
+        "h": "20200616230130",
+        "l": 166
+    },
+    {
+        "i": 49,
+        "j": "k5CGsej9I04",
+        "b": "Curso Bootstrap - Textos, transformaciones y peso de fuente",
+        "h": "20200521021237",
+        "l": 207
+    },
+    {
+        "i": 108,
+        "j": "K5TLUeMBrmA",
+        "b": "Curso Bootstrap - Componentes, input group",
+        "h": "20200730190843",
+        "l": 508
+    },
+    {
+        "i": 83,
+        "j": "kmfitwdr3H0",
+        "b": "Curso Bootstrap - Componentes: badges parte #2",
+        "h": "20200616172717",
+        "l": 266
+    },
+    {
+        "i": 25,
+        "j": "Kw85rMooW7Y",
+        "b": "Curso Bootstrap - Colores",
+        "h": "20200512001055",
+        "l": 167
+    },
+    {
+        "i": 14,
+        "j": "kWmeKz-CK_I",
+        "b": "Curso Bootstrap - Alineación de columnas parte #2 css layout",
+        "h": "20200506183904",
+        "l": 172
+    },
+    {
+        "i": 85,
+        "j": "lDcXZ1U5Cck",
+        "b": "Curso Bootstrap - Componentes: carousel automático.",
+        "h": "20200616215151",
+        "l": 312
+    },
+    {
+        "i": 56,
+        "j": "lIPFivjq1Ck",
+        "b": "Curso Bootstrap - Flex box, alineación en el main axis.",
+        "h": "20200527032917",
+        "l": 279
+    },
+    {
+        "i": 54,
+        "j": "LJIVq0tBND8",
+        "b": "Curso Bootstrap - Flex box, flex-direction",
+        "h": "20200526203438",
+        "l": 160
+    },
+    {
+        "i": 30,
+        "j": "Lp3Fg0NO3cE",
+        "b": "Curso Bootstrap - Añadir bordes y colores de bordes",
+        "h": "20200512193902",
+        "l": 321
+    },
+    {
+        "i": 50,
+        "j": "ltarN21u0os",
+        "b": "Curso Bootstrap - Texto cursiva, restablecer color, decoración texto, ajuste y desbordamiento.",
+        "h": "20200525204006",
+        "l": 435
+    },
+    {
+        "i": 32,
+        "j": "LyaUwk71VMo",
+        "b": "Curso Bootstrap- Bordes redondeados",
+        "h": "20200512230238",
+        "l": 377
+    },
+    {
+        "i": 26,
+        "j": "mBC6wWPIjBM",
+        "b": "Curso Bootstrap- Colores de fondo",
+        "h": "20200512141243",
+        "l": 207
+    },
+    {
+        "i": 3,
+        "j": "MfdM9PiQJ5g",
+        "b": "Cómo usar BOOTSTRAP en HTML parte #2 - Curso de Bootstrap v5 - bootstrapcdn",
+        "h": "20210920020015",
+        "l": 412
+    },
+    {
+        "i": 48,
+        "j": "MQM4FGFL6jQ",
+        "b": "Curso Bootstrap - Textos, Alineación de textos.",
+        "h": "20200521005108",
+        "l": 262
+    },
+    {
+        "i": 109,
+        "j": "N8ZAkvGlqP4",
+        "b": "Curso Bootstrap - Componentes, modal parte #1",
+        "h": "20200730190742",
+        "l": 671
+    },
+    {
+        "i": 64,
+        "j": "NgI5u-67khc",
+        "b": "Curso Bootstrap - Tipografía, clases de encabezados y párrafos destacados.",
+        "h": "20200603172243",
+        "l": 169
+    },
+    {
+        "i": 76,
+        "j": "nkUgz4h4gFM",
+        "b": "Curso Bootstrap - Componentes, las alertas parte #3",
+        "h": "20200610020722",
+        "l": 208
+    },
+    {
+        "i": 116,
+        "j": "nUG2kiCj6oY",
+        "b": "Curso Bootstrap - Componentes, barra de navegación (navbar) y contenedor",
+        "h": "20200804191136",
+        "l": 157
+    },
+    {
+        "i": 94,
+        "j": "OQRabs53W8c",
+        "b": "Curso Bootstrap - Componentes, grupo de lista, completo de Javascript",
+        "h": "20200625023805",
+        "l": 268
+    },
+    {
+        "i": 35,
+        "j": "ovmFJSsVFM4",
+        "b": "Curso Bootstrap - Display",
+        "h": "20200513150612",
+        "l": 295
+    },
+    {
+        "i": 5,
+        "j": "PcXEuGZq4dY",
+        "b": "¿Cómo funciona la Grid de bootstrap? - Curso Bootstrap",
+        "h": "20200430165457",
+        "l": 837
+    },
+    {
+        "i": 33,
+        "j": "psDbI0G5r5E",
+        "b": "RESUMÉN DE LA ACTUALIZACIÓN de bordes & bordes redondeados en Bootstrap v5",
+        "h": "20220206094148",
+        "l": 265
+    },
+    {
+        "i": 42,
+        "j": "R5h4a9r_OFQ",
+        "b": "Curso Bootstrap - Desbordamiento, uso de overflow.",
+        "h": "20200519185434",
+        "l": 177
+    },
+    {
+        "i": 63,
+        "j": "rDdGQ6_h2Is",
+        "b": "Curso Bootstrap - Tipografía, clases de encabezados",
+        "h": "20200603154343",
+        "l": 225
+    },
+    {
+        "i": 93,
+        "j": "rFETH3Akb30",
+        "b": "Curso Bootstrap - Componentes, grupo de lista, contenido personalizado.",
+        "h": "20200624220955",
+        "l": 402
+    },
+    {
+        "i": 1,
+        "j": "RiaCO_j2OJ0",
+        "b": "NUEVAS CARACTERÍSTICAS 🤩 de la NUEVA VERSIÓN de Bootstrap - Curso Bootstrap 5",
+        "h": "20210914220133",
+        "l": 288
+    },
+    {
+        "i": 0,
+        "j": "rK_WwhUDpoo",
+        "b": "QUÉ ES BOOTSTRAP 🤔 - Curso de Bootstrap v5",
+        "h": "20210914220119",
+        "l": 99
+    },
+    {
+        "i": 29,
+        "j": "RKIGBmLkbi0",
+        "b": "¡NUEVO! Opacidad, estilos en :hover & :focus para los textos con clases de Bootstrap",
+        "h": "20220131060806",
+        "l": 364
+    },
+    {
+        "i": 53,
+        "j": "rqfzBvOwyfU",
+        "b": "Curso Flexbox Bootstrap 5 - Aplicando flexbox",
+        "h": "20200526194243",
+        "l": 219
+    },
+    {
+        "i": 34,
+        "j": "S1I15du-XoE",
+        "b": "Curso Bootstrap - Float y clearfix",
+        "h": "20200513011559",
+        "l": 271
+    },
+    {
+        "i": 101,
+        "j": "S7zUCiYgHZk",
+        "b": "Curso Bootstrap - Componentes, tarjetas (cards) imágenes.",
+        "h": "20200701015350",
+        "l": 217
+    },
+    {
+        "i": 73,
+        "j": "sGrsVY_GcCo",
+        "b": "Curso Bootstrap - Componentes",
+        "h": "20200609213855",
+        "l": 168
+    },
+    {
+        "i": 12,
+        "j": "sqMynX12G-I",
+        "b": "Actualización y nueva clase para row-col-*  en Bootstrap 5 - Curso de Bootstrap v5 css layout",
+        "h": "20211031035501",
+        "l": 396
+    },
+    {
+        "i": 21,
+        "j": "sxjdK26VGrE",
+        "b": "Curso Bootstrap - Desplazamiento de columnas parte #3",
+        "h": "20220110044829",
+        "l": 105
+    },
+    {
+        "i": 58,
+        "j": "tPQ7nH7eSOQ",
+        "b": "Curso Bootstrap - Flex box, alineación en el cross axis (align-content)",
+        "h": "20200527064622",
+        "l": 241
+    },
+    {
+        "i": 36,
+        "j": "u9TpV0IzjEQ",
+        "b": "Curso Bootstrap - Embed o Ratio",
+        "h": "20200513163412",
+        "l": 285
+    },
+    {
+        "i": 79,
+        "j": "UGiaThxZZnM",
+        "b": "Curso Bootstrap - Componentes, botones (estado activo, desactivado y alternado)",
+        "h": "20200610054002",
+        "l": 318
+    },
+    {
+        "i": 62,
+        "j": "uGyk9CTMU_k",
+        "b": "Curso Bootstrap - Flex box, clase align-self",
+        "h": "20200602164011",
+        "l": 202
+    },
+    {
+        "i": 45,
+        "j": "uTEa4Xe3A4c",
+        "b": "Curso Bootstrap - Posicionamiento fixed y sticky",
+        "h": "20200520155022",
+        "l": 144
+    },
+    {
+        "i": 114,
+        "j": "VbB0g0n8jE4",
+        "b": "Curso Bootstrap - Componentes, barra de navegación (navbar) con dropdown",
+        "h": "20200804162433",
+        "l": 224
+    },
+    {
+        "i": 75,
+        "j": "VDD4sgVlex4",
+        "b": "Curso Bootstrap - Componentes, las alertas parte #2",
+        "h": "20200610000235",
+        "l": 118
+    },
+    {
+        "i": 9,
+        "j": "vkUG9j5f-uU",
+        "b": "Actualización de las clases col-*  en Bootstrap 5 - Curso de Bootstrap v5 css layout",
+        "h": "20211018015421",
+        "l": 356
+    },
+    {
+        "i": 27,
+        "j": "vL3KSzdjc4A",
+        "b": "¡NUEVO! Opacidad y Gradiente a los colores de fondo de Bootstrap - Curso de bootstrap",
+        "h": "20220125055404",
+        "l": 536
+    },
+    {
+        "i": 74,
+        "j": "vMCx5OyW_uk",
+        "b": "Curso Bootstrap - Componentes, las alertas",
+        "h": "20200609230306",
+        "l": 266
+    },
+    {
+        "i": 88,
+        "j": "WfKAt9cT3Wg",
+        "b": "Curso Bootstrap - Componentes, carousel indicadores",
+        "h": "20200617170055",
+        "l": 442
+    },
+    {
+        "i": 104,
+        "j": "WzghVujghE4",
+        "b": "Curso Bootstrap - Componentes, tarjetas (cards) grupos",
+        "h": "20200701194003",
+        "l": 147
+    },
+    {
+        "i": 65,
+        "j": "x9j6h9p5I00",
+        "b": "Curso Bootstrap - Tipografía, etiquetas de texto",
+        "h": "20200603184254",
+        "l": 261
+    },
+    {
+        "i": 68,
+        "j": "XcnDHDSL7Cg",
+        "b": "Curso Bootstrap - Imágenes y figure",
+        "h": "20200604001450",
+        "l": 462
+    },
+    {
+        "i": 70,
+        "j": "xgWQLANwyjw",
+        "b": "Curso Bootstrap - Tablas, colores.",
+        "h": "20200604022709",
+        "l": 218
+    },
+    {
+        "i": 77,
+        "j": "xXxwkb7k0tg",
+        "b": "Curso Bootstrap - Componentes, botones (colores y bordes)",
+        "h": "20200610033111",
+        "l": 204
+    },
+    {
+        "i": 11,
+        "j": "y8uFX6-uH2Q",
+        "b": "Curso Bootstrap - La grid de bootstrap parte #2.4 - css layout",
+        "h": "20200506012408",
+        "l": 245
+    },
+    {
+        "i": 18,
+        "j": "YEfOC-OFTVM",
+        "b": "¡ACTUALIZACIÓN! La clase NO-GUTTERS ahora TIENE MEJORAS y ya no se llama así 💔 - css layout",
+        "h": "20211213160530",
+        "l": 523
+    },
+    {
+        "i": 119,
+        "j": "yN3Hogjq7ck",
+        "b": "Curso Bootstrap - Componentes, scrollspy",
+        "h": "20200805173930",
+        "l": 398
+    },
+    {
+        "i": 99,
+        "j": "z0m-CBTrCHI",
+        "b": "Curso Bootstrap - Componentes, tarjetas (cards)",
+        "h": "20200630234429",
+        "l": 487
+    },
+    {
+        "i": 59,
+        "j": "ZoxAGfKxR3U",
+        "b": "Curso Bootstrap - Flex box, clase order",
+        "h": "20200602123009",
+        "l": 151
+    }
+]

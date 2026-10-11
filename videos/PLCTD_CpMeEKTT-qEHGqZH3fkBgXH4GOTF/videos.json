@@ -1,0 +1,989 @@
+[
+    {
+        "i": 117,
+        "j": "-cTLMQXhoh4",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[09.- JSP y MySQL crear registros]",
+        "h": "20191112080448",
+        "l": 629
+    },
+    {
+        "i": 89,
+        "j": "-E6ExfIPiaQ",
+        "b": "Curso de Java Netbeans Completo☕ [84.- Campo de texto (JTextField) ]",
+        "h": "20190917092633",
+        "l": 531
+    },
+    {
+        "i": 78,
+        "j": "03deECFjqd4",
+        "b": "Curso de Java Netbeans Completo☕ [73.- Interfaz gráfica posicionar por coordenadas nuestra ventana]",
+        "h": "20190913080002",
+        "l": 534
+    },
+    {
+        "i": 104,
+        "j": "0LUYjyzuFNY",
+        "b": "Curso de Java Netbeans Completo☕ [08.-Detectar doble click en mi JTatble]",
+        "h": "20190924193544",
+        "l": 371
+    },
+    {
+        "i": 119,
+        "j": "0uuVW0d-xIk",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[11.- JSP y MySQL editar registros]",
+        "h": "20191113041728",
+        "l": 640
+    },
+    {
+        "i": 100,
+        "j": "0V1z-_CwieA",
+        "b": "Curso de Java Netbeans Completo☕ [04.- Buscar datos de mi tabla(JTable) con mysql (parte 3)]",
+        "h": "20191118231706",
+        "l": 672
+    },
+    {
+        "i": 97,
+        "j": "18UA7X2ss8g",
+        "b": "Curso de Java Netbeans Completo☕ [01.- Crear una interfaz gráfica con netbeans GUI]",
+        "h": "20190919090148",
+        "l": 866
+    },
+    {
+        "i": 86,
+        "j": "1f_K6VRw3WU",
+        "b": "Curso de Java Netbeans Completo☕ [81.- Crear un boton (AWT Button VS Swing JButton)]",
+        "h": "20190916093520",
+        "l": 929
+    },
+    {
+        "i": 84,
+        "j": "2dB4dGyQSNg",
+        "b": "Curso de Java Netbeans Completo☕ [79.- Agregar imágenes a nuestras etiquetas (jlabel + images)]",
+        "h": "20190915101154",
+        "l": 819
+    },
+    {
+        "i": 37,
+        "j": "2L5fbgh-FcY",
+        "b": "Curso de Java Netbeans Completo☕ [35.- Ordenamiento de tipo burbuja]",
+        "h": "20190831063457",
+        "l": 748
+    },
+    {
+        "i": 28,
+        "j": "2zaduHnSFTs",
+        "b": "Curso de Java Netbeans Completo☕ [26.- Ejercicio, Adivinar un numero random en Java]",
+        "h": "20190828205431",
+        "l": 487
+    },
+    {
+        "i": 72,
+        "j": "383OmsMEl5o",
+        "b": "Curso de Java Netbeans Completo☕ [67.- Ejercicio de POO Área de un terreno des uniforme (part 5)]",
+        "h": "20190911082023",
+        "l": 606
+    },
+    {
+        "i": 127,
+        "j": "4eDCYl78B8s",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[19.- JSP Centralizar codigo en packages]",
+        "h": "20191116222036",
+        "l": 594
+    },
+    {
+        "i": 56,
+        "j": "55BtK9gnqE8",
+        "b": "Curso de Java Netbeans Completo☕ [54.- Constantes]",
+        "h": "20190906081901",
+        "l": 495
+    },
+    {
+        "i": 17,
+        "j": "5RFwCPUo36U",
+        "b": "Curso de Java Netbeans Completo☕ [15.- Ejercicio -Calcular volumen de un cilindro]",
+        "h": "20190824210113",
+        "l": 710
+    },
+    {
+        "i": 131,
+        "j": "69sE17kj_f8",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[23.- Instalar sqlmap en Windows 10 y hacer sql injection 💉]",
+        "h": "20191229151519",
+        "l": 1158
+    },
+    {
+        "i": 42,
+        "j": "6OiGIi4A8Fo",
+        "b": "Curso de Java Netbeans Completo☕ [40.- Que es una matriz (matrix)]",
+        "h": "20190901224315",
+        "l": 699
+    },
+    {
+        "i": 79,
+        "j": "6sRqnEgXxF4",
+        "b": "Curso de Java Netbeans Completo☕ [74.- JPanel]",
+        "h": "20190914070447",
+        "l": 652
+    },
+    {
+        "i": 49,
+        "j": "7vOJJfQwSDc",
+        "b": "Curso de Java Netbeans Completo☕ [47.- POO  Clases publicas y privadas]",
+        "h": "20190904062805",
+        "l": 630
+    },
+    {
+        "i": 8,
+        "j": "8OvqiiKfYf0",
+        "b": "Curso de Java Netbeans Completo☕ [06.- Constantes]",
+        "h": "20190821051846",
+        "l": 260
+    },
+    {
+        "i": 53,
+        "j": "8yxBe6igRbU",
+        "b": "Curso de Java Netbeans Completo☕ [51.- Crear paquetes y clases principales]",
+        "h": "20190906000442",
+        "l": 444
+    },
+    {
+        "i": 0,
+        "j": "97nO4-zdviA",
+        "b": "Curso de Java Netbeans Completo☕ [01.- Como Programar en Java🥚]",
+        "h": "20190903091235",
+        "l": 703
+    },
+    {
+        "i": 70,
+        "j": "9CbwMmAlUNk",
+        "b": "Curso de Java Netbeans Completo☕ [65.- Ejercicio de POO Área de un terreno des uniforme (part 3)]",
+        "h": "20190911065030",
+        "l": 593
+    },
+    {
+        "i": 31,
+        "j": "9NteLYgfCtQ",
+        "b": "Curso de Java Netbeans Completo☕ [29.- Arreglos de caracteres]",
+        "h": "20190829082428",
+        "l": 374
+    },
+    {
+        "i": 133,
+        "j": "9RaPBUMDak0",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[25.- Consultas preparadas para evitar inyección sql💉]",
+        "h": "20191230150406",
+        "l": 815
+    },
+    {
+        "i": 85,
+        "j": "Ae7udunCwFU",
+        "b": "Curso de Java Netbeans Completo☕ [80.- Lista de etiquetas y de paneles ]",
+        "h": "20190916063454",
+        "l": 784
+    },
+    {
+        "i": 40,
+        "j": "aEe-7ZHNYE0",
+        "b": "Curso de Java Netbeans Completo☕ [38.- Busqueda secuencial]",
+        "h": "20190901053556",
+        "l": 528
+    },
+    {
+        "i": 90,
+        "j": "aFoVBvabnLk",
+        "b": "Curso de Java Netbeans Completo☕ [85.- Area de Texto con scroll(JTextArea) ]",
+        "h": "20190917110427",
+        "l": 608
+    },
+    {
+        "i": 129,
+        "j": "bBK01WLAgWo",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[21.- JSP Enviar datos via get yo post al servelet]",
+        "h": "20191117083938",
+        "l": 631
+    },
+    {
+        "i": 11,
+        "j": "bjLx0bhm5eQ",
+        "b": "Curso de Java Netbeans Completo☕ [09.- Operadores matemáticos]",
+        "h": "20190821201942",
+        "l": 358
+    },
+    {
+        "i": 116,
+        "j": "bsq5dejXFEU",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[08.- JSP y MySQL leer registros de la tabla]",
+        "h": "20191112052509",
+        "l": 857
+    },
+    {
+        "i": 137,
+        "j": "bU9ltmGveZU",
+        "b": "☕ Instalar Netbeans 11 en Windows 10 y Java JDK 12",
+        "h": "20200620073052",
+        "l": 310
+    },
+    {
+        "i": 41,
+        "j": "c33-zbeyx_U",
+        "b": "Curso de Java Netbeans Completo☕ [39.- Busqueda binaria]",
+        "h": "20190901075046",
+        "l": 540
+    },
+    {
+        "i": 88,
+        "j": "cjg1UTz0k6c",
+        "b": "Curso de Java Netbeans Completo☕ [83.- RadioButton (Grupo de RadioButton) ]",
+        "h": "20190917070218",
+        "l": 898
+    },
+    {
+        "i": 64,
+        "j": "cWA7m83tar0",
+        "b": "Curso de Java Netbeans Completo☕ [60.- (POO) Clases y métodos abstractos]",
+        "h": "20190910053354",
+        "l": 1087
+    },
+    {
+        "i": 61,
+        "j": "CZcfhu8lrqg",
+        "b": "Curso de Java Netbeans Completo☕ [57.- Arreglo de objetos]",
+        "h": "20190908075404",
+        "l": 1434
+    },
+    {
+        "i": 51,
+        "j": "dmsw09Ijcxo",
+        "b": "Curso de Java Netbeans Completo☕ [49.- POO Método Constructor]",
+        "h": "20190905074650",
+        "l": 615
+    },
+    {
+        "i": 77,
+        "j": "DS1sCobLsRE",
+        "b": "Curso de Java Netbeans Completo☕ [72.- Interfaz grafica Agregar titulos y cerrar nuestras ventanas]",
+        "h": "20190913061446",
+        "l": 572
+    },
+    {
+        "i": 83,
+        "j": "E_OdmB7pSHQ",
+        "b": "Curso de Java Netbeans Completo☕ [78.- Agregar fuentes a nuestras etiquetas (font labels)]",
+        "h": "20190915082118",
+        "l": 522
+    },
+    {
+        "i": 105,
+        "j": "Ec7KatrCHbI",
+        "b": "Curso de Java Netbeans Completo☕ [09.-Click derecho menu contextual (popUpMenu) en JTatble]",
+        "h": "20190924214434",
+        "l": 374
+    },
+    {
+        "i": 95,
+        "j": "eLqwnz_atfY",
+        "b": "Curso de Java Netbeans Completo☕ [90.- Validar numero]",
+        "h": "20190918120022",
+        "l": 384
+    },
+    {
+        "i": 92,
+        "j": "eN5WOgvH9_8",
+        "b": "Curso de Java Netbeans Completo☕ [87.- Eventos click en boton ]",
+        "h": "20190918061938",
+        "l": 549
+    },
+    {
+        "i": 3,
+        "j": "EouitrKS6Cw",
+        "b": "☕ Instalar Netbeans 11 en Windows 10",
+        "h": "20190903091528",
+        "l": 256
+    },
+    {
+        "i": 20,
+        "j": "fhbFaoHivVo",
+        "b": "Curso de Java Netbeans Completo☕ [18.- Condicionales(switch case)]",
+        "h": "20190826063932",
+        "l": 536
+    },
+    {
+        "i": 33,
+        "j": "g60x6suBsPM",
+        "b": "Curso de Java Netbeans Completo☕ [31.- Ejercicio, identificar un palindromo]",
+        "h": "20190830040856",
+        "l": 554
+    },
+    {
+        "i": 25,
+        "j": "GJlJKi72n7Y",
+        "b": "Curso de Java Netbeans Completo☕ [23.- Ciclo con do While]",
+        "h": "20190828063501",
+        "l": 451
+    },
+    {
+        "i": 46,
+        "j": "Gp7V8CE7Gm8",
+        "b": "Curso de Java Netbeans Completo☕ [44.- Suma de filas y columnas de matrices]",
+        "h": "20190903035417",
+        "l": 717
+    },
+    {
+        "i": 2,
+        "j": "gsTU4OPMx_c",
+        "b": "Instalar Java 11 en Ubuntu 18.04 / 18.10. ⚡️",
+        "h": "20190903091514",
+        "l": 101
+    },
+    {
+        "i": 57,
+        "j": "gvvhF1WX4Eo",
+        "b": "Curso de Java Netbeans Completo☕ [55.- Miembro estático]",
+        "h": "20190907010402",
+        "l": 654
+    },
+    {
+        "i": 135,
+        "j": "H_G8B6nfbG4",
+        "b": "Instalación de Netbeans 12.4 en Windows 10 [2021]",
+        "h": "20210810215728",
+        "l": 871
+    },
+    {
+        "i": 9,
+        "j": "hRM3-Lpv-NA",
+        "b": "Curso de Java Netbeans Completo☕ [07.- Ingresar datos por consola(Scanner)]",
+        "h": "20190821165455",
+        "l": 653
+    },
+    {
+        "i": 5,
+        "j": "HvTE31hGIBs",
+        "b": "Curso de Java Netbeans Completo☕ [03.- Hola mundo👶]",
+        "h": "20190820175347",
+        "l": 557
+    },
+    {
+        "i": 39,
+        "j": "i2OrD70N07U",
+        "b": "Curso de Java Netbeans Completo☕ [37.- Ordenamiento por selección]",
+        "h": "20190831225644",
+        "l": 767
+    },
+    {
+        "i": 96,
+        "j": "it7hmDd-UfQ",
+        "b": "Curso de Java Netbeans Completo☕ [91.- Validar correo]",
+        "h": "20190919063632",
+        "l": 575
+    },
+    {
+        "i": 65,
+        "j": "j_e2YPjWNns",
+        "b": "Curso de Java Netbeans Completo☕ [61.- (POO) Polimorfismo]",
+        "h": "20190910080108",
+        "l": 1272
+    },
+    {
+        "i": 15,
+        "j": "JbnxMWZkCuA",
+        "b": "Curso de Java Netbeans Completo☕ [13.- Operaciones matemáticas con Math]",
+        "h": "20190822221403",
+        "l": 852
+    },
+    {
+        "i": 111,
+        "j": "jDKKzy3-WRc",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[03.- Mi primer Hola mundo en netbeans]",
+        "h": "20190925222108",
+        "l": 280
+    },
+    {
+        "i": 103,
+        "j": "jDXMlX4rTVc",
+        "b": "Curso de Java Netbeans Completo☕ [07.-Borrar registros de mi tabla(JTable) con mysql (parte6)]",
+        "h": "20190924161647",
+        "l": 496
+    },
+    {
+        "i": 12,
+        "j": "JGmUoLWWL2A",
+        "b": "Curso de Java Netbeans Completo☕ [10.- Comentarios]",
+        "h": "20190822055133",
+        "l": 184
+    },
+    {
+        "i": 6,
+        "j": "JQEYWxB2gbM",
+        "b": "Curso de Java Netbeans Completo☕ [04.- Variables (Datos primitivos)]",
+        "h": "20190820200133",
+        "l": 898
+    },
+    {
+        "i": 16,
+        "j": "Jv5eG_DSze4",
+        "b": "Curso de Java Netbeans Completo☕ [14.- Ejercicio- Sumar productos y redondear la venta]",
+        "h": "20190823000604",
+        "l": 529
+    },
+    {
+        "i": 138,
+        "j": "Kiv5_5wiqeU",
+        "b": "☕ Instalar Netbeans 12 en Ubuntu 18 y 20 con Java JDK 👈👈❤️",
+        "h": "20200622104946",
+        "l": 905
+    },
+    {
+        "i": 110,
+        "j": "KJEUEzIHF20",
+        "b": "☕ Instalar TomCat🐱 en Windows 10",
+        "h": "20190926174418",
+        "l": 247
+    },
+    {
+        "i": 55,
+        "j": "LBrYCWUCUuw",
+        "b": "Curso de Java Netbeans Completo☕ [53.- Encapsulamiento y métodos accesores]",
+        "h": "20190906065935",
+        "l": 564
+    },
+    {
+        "i": 52,
+        "j": "lfa8skCJwWg",
+        "b": "Curso de Java Netbeans Completo☕ [50.- POO Sobrecarga de métodos]",
+        "h": "20190905104458",
+        "l": 798
+    },
+    {
+        "i": 47,
+        "j": "lSEYS22g7K8",
+        "b": "Curso de Java Netbeans Completo☕ [45.- Suma de una Diagonal de nuestra Matriz]",
+        "h": "20190903064815",
+        "l": 735
+    },
+    {
+        "i": 93,
+        "j": "LsljZmBW0kU",
+        "b": "Curso de Java Netbeans Completo☕ [88.- Eventos del raton (MouseListener) ]",
+        "h": "20190918080642",
+        "l": 531
+    },
+    {
+        "i": 45,
+        "j": "MfDtbtGbHs8",
+        "b": "Curso de Java Netbeans Completo☕ [43.- Demostrar que una matriz es simétrica]",
+        "h": "20190902205504",
+        "l": 758
+    },
+    {
+        "i": 59,
+        "j": "mHDPLSs2d_w",
+        "b": "EasyUML Netbeans Tutorial🔥 [Crear nuestro primer UML y convertirlo a código de Java]",
+        "h": "20190907091323",
+        "l": 438
+    },
+    {
+        "i": 115,
+        "j": "MRiJs_68Lic",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[07.- JSP y MySQL Crear una Base de datos ]",
+        "h": "20191111233735",
+        "l": 371
+    },
+    {
+        "i": 66,
+        "j": "mT6HL9Wdwjc",
+        "b": "Curso de Java Netbeans Completo☕ [62.- Documentación automática con java y netbeans]",
+        "h": "20190910092927",
+        "l": 812
+    },
+    {
+        "i": 62,
+        "j": "mWQLBRwCFag",
+        "b": "Curso de Java Netbeans Completo☕ [58.- Programación Orientada a Objetos Herencia]",
+        "h": "20190909074355",
+        "l": 1136
+    },
+    {
+        "i": 136,
+        "j": "n3tcNwtxPuE",
+        "b": "☕ Instalar Netbeans 12 en Windows 10 y Java JDK 13👈👈❤️",
+        "h": "20200620072848",
+        "l": 753
+    },
+    {
+        "i": 112,
+        "j": "N8XiWadFVic",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[04.- Mostrar variables en el navegador]",
+        "h": "20191109230655",
+        "l": 411
+    },
+    {
+        "i": 48,
+        "j": "nateyNwftPo",
+        "b": "Curso de Java Netbeans Completo☕ [46.- POO (Programación Orientada a Objetos) Mi clase vehiculo]",
+        "h": "20190904042341",
+        "l": 845
+    },
+    {
+        "i": 29,
+        "j": "nGzuH_GxpRM",
+        "b": "Curso de Java Netbeans Completo☕ [27.- Ejercicio, obtener promedio con do while]",
+        "h": "20190829000452",
+        "l": 536
+    },
+    {
+        "i": 139,
+        "j": "Nld_WF4Bifc",
+        "b": "☕ Instalar Netbeans 12 en Ubuntu 18 y 20 con Java JDK via Snap 👈👈❤️",
+        "h": "20200622105600",
+        "l": 544
+    },
+    {
+        "i": 101,
+        "j": "NLQFrL6jhJ0",
+        "b": "Curso de Java Netbeans Completo☕ [05.- Insertar registros de mi tabla(JTable) con mysql (parte 4)]",
+        "h": "20191118231712",
+        "l": 861
+    },
+    {
+        "i": 43,
+        "j": "NQlGe-nmgjM",
+        "b": "Curso de Java Netbeans Completo☕ [41.- Matriz de String]",
+        "h": "20190902080214",
+        "l": 661
+    },
+    {
+        "i": 38,
+        "j": "NRzddXud03I",
+        "b": "Curso de Java Netbeans Completo☕ [36.- Burbuja mejorado]",
+        "h": "20190831080846",
+        "l": 546
+    },
+    {
+        "i": 108,
+        "j": "NXqa6PdrO-c",
+        "b": "☕ 01.- [Curso] Java Web desde cero en Netbeans ¿Porque programar en JSP?",
+        "h": "20191118081956",
+        "l": 709
+    },
+    {
+        "i": 130,
+        "j": "O28xzbM_GJw",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[22.- Que es SQL Inyección💉 y como usar sqlmap]",
+        "h": "20191229133205",
+        "l": 1723
+    },
+    {
+        "i": 71,
+        "j": "OdTen3GOvKc",
+        "b": "Curso de Java Netbeans Completo☕ [66.- Ejercicio de POO Área de un terreno des uniforme (part 4)]",
+        "h": "20190911073517",
+        "l": 842
+    },
+    {
+        "i": 54,
+        "j": "onf4B5WVIeU",
+        "b": "Curso de Java Netbeans Completo☕ [52.- Modificadores de acceso]",
+        "h": "20190906004650",
+        "l": 342
+    },
+    {
+        "i": 18,
+        "j": "OqQjEgGcozE",
+        "b": "Curso de Java Netbeans Completo☕ [16.- Trabajar con fechas (calcular edad)]",
+        "h": "20190824225817",
+        "l": 400
+    },
+    {
+        "i": 113,
+        "j": "p_vccnZGnlE",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[05.- Recibir datos via get]",
+        "h": "20191110155929",
+        "l": 716
+    },
+    {
+        "i": 69,
+        "j": "Pb67R1QkzzA",
+        "b": "Curso de Java Netbeans Completo☕ [64.- Ejercicio de POO Área de un terreno des uniforme (part 2)]",
+        "h": "20190911012435",
+        "l": 764
+    },
+    {
+        "i": 107,
+        "j": "PBIoSLZ8cAI",
+        "b": "Curso de Java Netbeans Completo☕ [11.- Barra de progreso (JProgressBar) ]",
+        "h": "20190925191647",
+        "l": 478
+    },
+    {
+        "i": 99,
+        "j": "pcZrPMQhFN0",
+        "b": "Curso de Java Netbeans Completo☕ [03.- Conectar tabla(JTable) con mysql (parte 2)]",
+        "h": "20191118231659",
+        "l": 868
+    },
+    {
+        "i": 76,
+        "j": "Phi9kvsq0-c",
+        "b": "Curso de Java Netbeans Completo☕ [71.- Interfaz grafica con JavaX Swing]",
+        "h": "20190913045212",
+        "l": 603
+    },
+    {
+        "i": 22,
+        "j": "plFbr2pC0io",
+        "b": "Curso de Java Netbeans Completo☕ [20.- Ejercicio condicionales anidadas]",
+        "h": "20190826211418",
+        "l": 397
+    },
+    {
+        "i": 67,
+        "j": "pM8684UA6BM",
+        "b": "Curso de Java Netbeans Completo☕ [Arreglos dinámicos con ArrayList]",
+        "h": "20190911234530",
+        "l": 763
+    },
+    {
+        "i": 36,
+        "j": "pz_GjY0Z7wI",
+        "b": "Curso de Java Netbeans Completo☕ [34.- Ejercicio, Obtener el numero mayor de un arreglo]",
+        "h": "20190830224430",
+        "l": 545
+    },
+    {
+        "i": 73,
+        "j": "Q-jRihwAFF4",
+        "b": "Curso de Java Netbeans Completo☕ [68.- Que es una excepcion en java]",
+        "h": "20190912060804",
+        "l": 476
+    },
+    {
+        "i": 140,
+        "j": "QFOCAtG4ecQ",
+        "b": "Umbrello para Java",
+        "h": "20211024221837",
+        "l": 563
+    },
+    {
+        "i": 134,
+        "j": "qhmirCJ9ofA",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[26.- Buscar paginas web vulnerables hechas en JSP ]",
+        "h": "20191231135011",
+        "l": 1041
+    },
+    {
+        "i": 114,
+        "j": "qUiUgAVLBX8",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[06.- Recibir datos via post]",
+        "h": "20191111053858",
+        "l": 631
+    },
+    {
+        "i": 109,
+        "j": "QvksjC3w-WM",
+        "b": "☕ Instalar TomCat🐱 en Ubuntu (16.04 y 18.04)",
+        "h": "20190925213517",
+        "l": 362
+    },
+    {
+        "i": 63,
+        "j": "Qx5izZoHI0M",
+        "b": "Curso de Java Netbeans Completo☕ [59.- (Programación Orientada a Objetos) Sobreescritura de metodos]",
+        "h": "20190909091356",
+        "l": 775
+    },
+    {
+        "i": 68,
+        "j": "R8TvVWItrr4",
+        "b": "Curso de Java Netbeans Completo☕ [63.- Ejercicio de POO Area de un terreno des uniforme (part 1)]",
+        "h": "20190910235310",
+        "l": 755
+    },
+    {
+        "i": 125,
+        "j": "rC78m3Oajyk",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[17.- JSP Crear una área de login (part 5)]",
+        "h": "20191115231123",
+        "l": 805
+    },
+    {
+        "i": 23,
+        "j": "rpuMO48uc3s",
+        "b": "Curso de Java Netbeans Completo☕ [21.- Ejercicio Juego de azar]",
+        "h": "20190827063534",
+        "l": 573
+    },
+    {
+        "i": 102,
+        "j": "rRQs8xKc4k4",
+        "b": "Curso de Java Netbeans Completo☕ [06.- Actualizar registros de mi tabla(JTable) con mysql (parte5 )]",
+        "h": "20190923213204",
+        "l": 522
+    },
+    {
+        "i": 13,
+        "j": "RVSkjwlwsno",
+        "b": "Curso de Java Netbeans Completo☕ [11.- Operadores matemáticos cortos]",
+        "h": "20190822061823",
+        "l": 343
+    },
+    {
+        "i": 123,
+        "j": "RyizmSNoJ7o",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[15.- JSP Crear una área de login (part 3)]",
+        "h": "20191115063037",
+        "l": 352
+    },
+    {
+        "i": 98,
+        "j": "S0XKc_MJCS0",
+        "b": "Curso de Java Netbeans Completo☕ [02.- Conectar tabla(JTable) con mysql (parte 1)]",
+        "h": "20191118231648",
+        "l": 615
+    },
+    {
+        "i": 81,
+        "j": "s32VTZtoJ3g",
+        "b": "Curso de Java Netbeans Completo☕ [76.- args java ¿que es? y como crear ejecutable netbeans]",
+        "h": "20190914105411",
+        "l": 673
+    },
+    {
+        "i": 74,
+        "j": "sbI2sVshnvY",
+        "b": "Curso de Java Netbeans Completo☕ [69.- Excepciones tipo throws en metodos ]",
+        "h": "20190912080410",
+        "l": 741
+    },
+    {
+        "i": 34,
+        "j": "sd7hI89XUTE",
+        "b": "Curso de Java Netbeans Completo☕ [32.- Ejercicio, Calcular promedio de un alumno]",
+        "h": "20190830064155",
+        "l": 504
+    },
+    {
+        "i": 58,
+        "j": "SrpX8xGtpv8",
+        "b": "Curso de Java Netbeans Completo☕ [56.- Crear diagramas UML y convertirlo a código java]",
+        "h": "20190907080025",
+        "l": 1209
+    },
+    {
+        "i": 120,
+        "j": "ST6RovESrFU",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[12.- JSP y MySQL borrar registros]",
+        "h": "20191113054202",
+        "l": 370
+    },
+    {
+        "i": 1,
+        "j": "Stx3MNV3AHE",
+        "b": "Instalar Java ☕ JDK en Windows 10 ⚡️",
+        "h": "20190903091454",
+        "l": 274
+    },
+    {
+        "i": 10,
+        "j": "sveCLOl_2dE",
+        "b": "Curso de Java Netbeans Completo☕ [08.- Ingresar datos via showInputDialog]",
+        "h": "20190821191135",
+        "l": 703
+    },
+    {
+        "i": 82,
+        "j": "T7yLn-lmV5A",
+        "b": "Curso de Java Netbeans Completo☕ [77.- Alinear etiquetas (Alignment label)]",
+        "h": "20190915062638",
+        "l": 631
+    },
+    {
+        "i": 126,
+        "j": "T9QcOeohZIg",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[18.- JSP Encriptar contraseñas]",
+        "h": "20191116080919",
+        "l": 873
+    },
+    {
+        "i": 50,
+        "j": "To3aumjrB0w",
+        "b": "Curso de Java Netbeans Completo☕ [48.- POO método con retorno]",
+        "h": "20190904085331",
+        "l": 637
+    },
+    {
+        "i": 4,
+        "j": "tWiX3Z5t5kQ",
+        "b": "☕ Descargar e Instalar Netbeans 11 en Ubuntu 18.04",
+        "h": "20190903091541",
+        "l": 415
+    },
+    {
+        "i": 87,
+        "j": "uF1478SzrDo",
+        "b": "Curso de Java Netbeans Completo☕ [82.- Cambiar color y agregar una imagen a nuestro botón ]",
+        "h": "20190916112858",
+        "l": 589
+    },
+    {
+        "i": 128,
+        "j": "v_Df4xNgbW0",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[20.- JSP Centralizar codigo en servelets]",
+        "h": "20191117060812",
+        "l": 600
+    },
+    {
+        "i": 24,
+        "j": "v0tycbXOtkc",
+        "b": "Curso de Java Netbeans Completo☕ [22.- Ciclo con While]",
+        "h": "20190827191957",
+        "l": 508
+    },
+    {
+        "i": 121,
+        "j": "v55PTkOteTc",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[13.- JSP Crear una área de login (part 1)]",
+        "h": "20191114233955",
+        "l": 935
+    },
+    {
+        "i": 19,
+        "j": "VCVA83KsK-M",
+        "b": "Curso de Java Netbeans Completo☕ [17.- Condicionales(Sentencia if else)]",
+        "h": "20190826042611",
+        "l": 743
+    },
+    {
+        "i": 106,
+        "j": "vv6R701W4YA",
+        "b": "Curso de Java Netbeans Completo☕ [10.-Personalizar JTatble cambiando los colores de nuestra celda]",
+        "h": "20190925053028",
+        "l": 743
+    },
+    {
+        "i": 30,
+        "j": "vvfUSj9V65g",
+        "b": "Curso de Java Netbeans Completo☕ [28.- Arreglos]",
+        "h": "20190829063021",
+        "l": 378
+    },
+    {
+        "i": 21,
+        "j": "W8SHOFW8Ogo",
+        "b": "Curso de Java Netbeans Completo☕ [19.- Condicionales con String]",
+        "h": "20190826200538",
+        "l": 497
+    },
+    {
+        "i": 14,
+        "j": "Wf2iShv4tII",
+        "b": "Curso de Java Netbeans Completo☕ [12.- Operador incremental y decremental]",
+        "h": "20190822193554",
+        "l": 289
+    },
+    {
+        "i": 26,
+        "j": "wnvBff-Bb3U",
+        "b": "Curso de Java Netbeans Completo☕ [24.- Ciclo con for]",
+        "h": "20190828062926",
+        "l": 392
+    },
+    {
+        "i": 132,
+        "j": "wXM87ryUcwA",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[24.- ¿Como evitar la inyección de SQL?💉]",
+        "h": "20191230103029",
+        "l": 1189
+    },
+    {
+        "i": 44,
+        "j": "x4_DmI1bZUM",
+        "b": "Curso de Java Netbeans Completo☕ [42.- Matriz traspuesta]",
+        "h": "20190902094731",
+        "l": 523
+    },
+    {
+        "i": 124,
+        "j": "xG9G_40HDBo",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[16.- JSP Crear una área de login (part 4)]",
+        "h": "20191115220448",
+        "l": 697
+    },
+    {
+        "i": 91,
+        "j": "xNelBiF7z7A",
+        "b": "Curso de Java Netbeans Completo☕ [86.- Lista desplegable (JComboBox) ]",
+        "h": "20190917122245",
+        "l": 517
+    },
+    {
+        "i": 118,
+        "j": "Xz_qqhPz9eU",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[10.- JSP y MySQL insertar registros en la bd]",
+        "h": "20191112211606",
+        "l": 744
+    },
+    {
+        "i": 75,
+        "j": "Y2Eu4KNlLwk",
+        "b": "Curso de Java Netbeans Completo☕ [70.- Excepciones try catch y finally]",
+        "h": "20190912093530",
+        "l": 642
+    },
+    {
+        "i": 27,
+        "j": "yBUmJpKCAkU",
+        "b": "Curso de Java Netbeans Completo☕ [25.- Ejercicio, Dibujar una escalera con asteriscos con ciclo for]",
+        "h": "20190828081331",
+        "l": 365
+    },
+    {
+        "i": 80,
+        "j": "ygyC9dHHPMw",
+        "b": "Curso de Java Netbeans Completo☕ [75.- JLabel en un JPanel (Colocar etiquetas en panles)]",
+        "h": "20190914083022",
+        "l": 640
+    },
+    {
+        "i": 122,
+        "j": "yxk-bUIGBhw",
+        "b": "☕ Java Web desde cero en Netbeans ☁️[14.- JSP Crear una área de login (part 2)]",
+        "h": "20191115052626",
+        "l": 504
+    },
+    {
+        "i": 32,
+        "j": "yYlDk_cgWt0",
+        "b": "Curso de Java Netbeans Completo☕ [30.- For mejorado (foreach en java)]",
+        "h": "20190829211710",
+        "l": 425
+    },
+    {
+        "i": 94,
+        "j": "yZOomNPDCws",
+        "b": "Curso de Java Netbeans Completo☕ [89.- Eventos del teclado (KeyListener) ]",
+        "h": "20190918100602",
+        "l": 695
+    },
+    {
+        "i": 35,
+        "j": "ZKC7oTRhNI0",
+        "b": "Curso de Java Netbeans Completo☕ [33.- Ejercicio, Mezclar 2 arreglos]",
+        "h": "20190830213523",
+        "l": 478
+    },
+    {
+        "i": 60,
+        "j": "Zvbx2ZFCPwU",
+        "b": "EasyUML para Netbeans 12 [Solucionado] UML para Netbeans",
+        "h": "20211024061908",
+        "l": 604
+    },
+    {
+        "i": 7,
+        "j": "zZjNNxaLXdw",
+        "b": "Curso de Java Netbeans Completo☕ [05.- Variables (Datos envoltorio)]",
+        "h": "20190821040722",
+        "l": 529
+    }
+]
