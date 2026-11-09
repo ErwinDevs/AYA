@@ -347,7 +347,7 @@
         "j": "9UHLSf91bb0",
         "b": "🔥CRUD en PHP y MySQL POO MVC JS - 40 Como hacer un CIERRE de SESION de USUARIO con PHP [LOGOUT]",
         "h": "20230922140026",
-        "l": 272
+        "l": 273
     },
     {
         "i": 60,
@@ -770,6 +770,13 @@
         "l": 489
     },
     {
+        "i": 222,
+        "j": "koLP7zqBcDM",
+        "b": "🔥40 - Programando CONTROLADOR para REGISTRAR CAJAS en PHP y MVC (part1)",
+        "h": "20260621014540",
+        "l": 985
+    },
+    {
         "i": 212,
         "j": "kuPrFkQ0RHU",
         "b": "🔥30 - ¿Cómo CREAR un CONTROLADOR para el MODULO de USUARIOS en PHP y MVC?",
@@ -926,7 +933,7 @@
     {
         "i": 183,
         "j": "NUlbT7Fa-Aw",
-        "b": "🔥1 - ¿Cómo crear o desarrollar un SISTEMA de VENTAS en PHP y MySQL MVC?",
+        "b": "🔥1 - ¿Cómo crear o desarrollar un SISTEMA de VENTAS en PHP y MySQL MVC PDO?",
         "h": "20251029002547",
         "l": 430
     },
@@ -943,6 +950,13 @@
         "b": "🐬 CURSO de PHP y MySQL desde CERO - 55 ELIMINAR IMAGENES o ARCHIVOS del SERVIDOR con PHP y MySQL",
         "h": "20221028222857",
         "l": 1072
+    },
+    {
+        "i": 223,
+        "j": "nwFONBx1BKQ",
+        "b": "🔥41 - Programando CONTROLADOR para REGISTRAR CAJAS en PHP y MVC (part2)",
+        "h": "20260621202540",
+        "l": 984
     },
     {
         "i": 63,
@@ -984,7 +998,7 @@
         "j": "OQO4rw1AtFA",
         "b": "🔥34 - ¿Cómo INSTALAR y UTILIZAR el plugin sweetalert2 js en proyecto PHP MVC AJAX?",
         "h": "20260305000441",
-        "l": 556
+        "l": 557
     },
     {
         "i": 159,
@@ -1020,6 +1034,13 @@
         "b": "🐬 CURSO de PHP y MySQL desde CERO - 32 Como UTILIZAR consulta UPDATE en MySQL para ACTUALIZAR DATOS",
         "h": "20220902235906",
         "l": 794
+    },
+    {
+        "i": 224,
+        "j": "pE7g9Xo3dBA",
+        "b": "🔥42 - Programando CONTROLADOR para REGISTRAR CAJAS en PHP y MVC (part3)",
+        "h": "20260623155757",
+        "l": 992
     },
     {
         "i": 34,
@@ -1173,7 +1194,7 @@
         "j": "rzXWjGDhrTU",
         "b": "🔥CRUD en PHP y MySQL POO MVC JS - 11 Como CREAR un MODELO y CONTROLADOR para las VISTAS",
         "h": "20230727204102",
-        "l": 418
+        "l": 419
     },
     {
         "i": 69,

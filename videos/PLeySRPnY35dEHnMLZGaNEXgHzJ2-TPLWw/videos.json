@@ -1,22 +1,22 @@
 [
     {
-        "i": 79,
+        "i": 124,
         "j": "__LlHVxRuD8",
         "b": "Integración por fracciones parciales | Ejemplo 8 Factores lineales diferentes",
         "h": "20191119223358",
         "l": 1262
     },
     {
-        "i": 68,
+        "i": 74,
         "j": "_er4fx7ZnOo",
         "b": "Integral de sec³x o de csc³x | secante al cubo o cosecante al cubo | Integrales trigonométricas",
         "h": "20250328230415",
         "l": 922
     },
     {
-        "i": 99,
+        "i": 86,
         "j": "_IUgKzFFnw8",
-        "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 9",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 1 Ejemplo 9",
         "h": "20250127235527",
         "l": 483
     },
@@ -28,9 +28,16 @@
         "l": 349
     },
     {
-        "i": 103,
+        "i": 166,
+        "j": "-g5XdicSfCU",
+        "b": "Sólidos de revolución | Método de Discos o Rebanadas | Ejemplo 3",
+        "h": "20260902015335",
+        "l": 1426
+    },
+    {
+        "i": 90,
         "j": "-IvNzcSnH00",
-        "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 13",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 1 Ejemplo 13",
         "h": "20250131013909",
         "l": 1463
     },
@@ -42,16 +49,16 @@
         "l": 448
     },
     {
-        "i": 145,
+        "i": 153,
         "j": "-pWAnu7JdkQ",
         "b": "Área entre curvas | Ejemplo 5",
         "h": "20210408183906",
         "l": 1738
     },
     {
-        "i": 121,
+        "i": 108,
         "j": "-TXffoen34A",
-        "b": "Integrales por sustitución trigonométrica | Caso 3 Ejemplo 6",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 3 Ejemplo 6",
         "h": "20250209170425",
         "l": 847
     },
@@ -63,9 +70,9 @@
         "l": 553
     },
     {
-        "i": 106,
+        "i": 93,
         "j": "0oUS55gsKIQ",
-        "b": "Integrales por sustitución trigonométrica | Caso 2 Ejemplo 3",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 3",
         "h": "20250131030650",
         "l": 998
     },
@@ -84,9 +91,9 @@
         "l": 436
     },
     {
-        "i": 125,
+        "i": 112,
         "j": "2hGkLVSE-sk",
-        "b": "Integrales por sustitución trigonométrica | Caso 3 Ejemplo 10",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 3 Ejemplo 10",
         "h": "20250302000937",
         "l": 1414
     },
@@ -105,21 +112,28 @@
         "l": 471
     },
     {
-        "i": 112,
+        "i": 99,
         "j": "3Fg2p6Og1EU",
-        "b": "Integrales por sustitución trigonométrica | Caso 2 Ejemplo 9",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 9",
         "h": "20250202151831",
         "l": 901
     },
     {
-        "i": 131,
+        "i": 139,
         "j": "3GyUg3h0qSI",
         "b": "Integrales definidas | Ejemplo 4",
         "h": "20180927203128",
         "l": 708
     },
     {
-        "i": 142,
+        "i": 172,
+        "j": "3h3hSMID29E",
+        "b": "Sólidos de revolución | Método de Cascarones o Capas Cilíndricas | Introducción",
+        "h": "20260902023030",
+        "l": 754
+    },
+    {
+        "i": 150,
         "j": "3jTd3VaG6WI",
         "b": "Área entre curvas | Ejemplo 2",
         "h": "20210331190231",
@@ -133,14 +147,14 @@
         "l": 437
     },
     {
-        "i": 139,
+        "i": 147,
         "j": "4azm-ulYyTk",
         "b": "Área bajo la curva | Ejemplo 7",
         "h": "20210319182912",
         "l": 2587
     },
     {
-        "i": 147,
+        "i": 155,
         "j": "4bKEWdFpFYw",
         "b": "Integración por sustitución | Ejemplo 4 | Multiplicación",
         "h": "20180919224443",
@@ -161,7 +175,7 @@
         "l": 442
     },
     {
-        "i": 132,
+        "i": 140,
         "j": "5ZrfmQEVMjk",
         "b": "Área bajo la curva | Introducción",
         "h": "20210321212222",
@@ -175,7 +189,14 @@
         "l": 737
     },
     {
-        "i": 91,
+        "i": 167,
+        "j": "64S96Bc07Pc",
+        "b": "Sólidos de revolución | Método de Anillos o Arandelas | Introducción",
+        "h": "20260902015804",
+        "l": 919
+    },
+    {
+        "i": 78,
         "j": "67xyWLEDmYo",
         "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 1",
         "h": "20250126220958",
@@ -189,7 +210,7 @@
         "l": 509
     },
     {
-        "i": 70,
+        "i": 115,
         "j": "6pFmUh41jsQ",
         "b": "Integración por Fracciones Parciales | Introducción",
         "h": "20191027171705",
@@ -203,28 +224,28 @@
         "l": 480
     },
     {
-        "i": 138,
+        "i": 146,
         "j": "79nuSpMmwC8",
         "b": "Área bajo la curva | Ejemplo 6",
         "h": "20210319211733",
         "l": 2535
     },
     {
-        "i": 111,
+        "i": 98,
         "j": "7BpsMJqd51E",
-        "b": "Integrales por sustitución trigonométrica | Caso 2 Ejemplo 8",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 8",
         "h": "20250202151115",
         "l": 1261
     },
     {
-        "i": 71,
+        "i": 116,
         "j": "7uhHbtgcZoY",
         "b": "Integración por fracciones parciales | Ejemplo 1 División",
         "h": "20191028223708",
         "l": 861
     },
     {
-        "i": 153,
+        "i": 63,
         "j": "8tVKjE11JJ4",
         "b": "Integral de sen⁶x . cos⁷x | seno a la 6 por coseno a la 7 | Integrales trigonométricas",
         "h": "20250807150555",
@@ -238,32 +259,39 @@
         "l": 854
     },
     {
-        "i": 83,
+        "i": 128,
         "j": "9JV3EXGiGZM",
         "b": "Integración por fracciones parciales | Ejemplo 12 Factores lineales repetidos",
         "h": "20191125222210",
         "l": 1293
     },
     {
-        "i": 114,
+        "i": 101,
         "j": "a-GqmPVVFX0",
-        "b": "Integrales por sustitución trigonométrica | Caso 2 Ejemplo 11",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 11",
         "h": "20250202153202",
         "l": 922
     },
     {
-        "i": 69,
+        "i": 75,
         "j": "a8wWDoW1caQ",
         "b": "Integral de tangente a la m por secante a la n | Integrales trigonométricas",
         "h": "20250405232210",
         "l": 997
     },
     {
-        "i": 148,
+        "i": 156,
         "j": "aGg3sJLqZbw",
         "b": "Integración por sustitución | Ejemplo 5 | Raíz",
         "h": "20180830204810",
         "l": 597
+    },
+    {
+        "i": 163,
+        "j": "agVs2JixVis",
+        "b": "Sólidos de revolución | Método de Discos o Rebanadas Introducción",
+        "h": "20260902013507",
+        "l": 1183
     },
     {
         "i": 18,
@@ -273,14 +301,14 @@
         "l": 443
     },
     {
-        "i": 61,
+        "i": 67,
         "j": "AP9DH5ZITc8",
         "b": "Integral de sec²x/tanx | secante al cuadrado sobre tangente | Integrales trigonométricas",
         "h": "20250328223810",
         "l": 569
     },
     {
-        "i": 65,
+        "i": 71,
         "j": "apEhgLt6vSA",
         "b": "Integral de seno sobre coseno a la n o coseno sobre seno a la n | Integrales trigonométricas",
         "h": "20250324231436",
@@ -294,7 +322,7 @@
         "l": 634
     },
     {
-        "i": 150,
+        "i": 158,
         "j": "AxJjx6f8mVg",
         "b": "Integración por sustitución | Ejemplo 8 | Raíz en el denominador",
         "h": "20180903011701",
@@ -308,65 +336,79 @@
         "l": 462
     },
     {
-        "i": 63,
+        "i": 69,
         "j": "bAvtGPPA3Uc",
         "b": "Integral de tan²x/secx | tangente al cuadrado sobre tangente | Integrales trigonométricas",
         "h": "20250328224906",
         "l": 435
     },
     {
-        "i": 73,
+        "i": 182,
+        "j": "bWaYms-ULNY",
+        "b": "Sólidos de revolución | Eje de Giro Desplazado | Ejemplo 3",
+        "h": "20260902172227",
+        "l": 1133
+    },
+    {
+        "i": 118,
         "j": "bYk6JI09MXY",
         "b": "Integración por fracciones parciales | Ejemplo 3 División",
         "h": "20191106011801",
         "l": 1186
     },
     {
-        "i": 118,
+        "i": 105,
         "j": "C-CwpEaSjys",
-        "b": "Integrales por sustitución trigonométrica | Caso 3 Ejemplo 3",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 3 Ejemplo 3",
         "h": "20250205181937",
         "l": 947
     },
     {
-        "i": 154,
+        "i": 59,
         "j": "c18tDhkZFxU",
         "b": "Integral de sen⁴x  o  cos⁴x | seno a la 4  o  coseno a la 5 | Integrales trigonométricas",
         "h": "20250831235016",
         "l": 1036
     },
     {
-        "i": 149,
+        "i": 157,
         "j": "c4SOnyZw_uI",
         "b": "Integración por sustitución | Ejemplo 7.1 Raíz",
         "h": "20200524175630",
         "l": 1038
     },
     {
-        "i": 62,
+        "i": 68,
         "j": "c7D3jWitDok",
         "b": "Integral de secx/tan²x | secante sobre tangente al cuadrado | Integrales trigonométricas",
         "h": "20250328224318",
-        "l": 669
+        "l": 670
     },
     {
-        "i": 146,
+        "i": 176,
+        "j": "CcPP-7VbzyU",
+        "b": "Sólidos de revolución | Identificar el método | Ejemplo 5",
+        "h": "20260902150044",
+        "l": 1369
+    },
+    {
+        "i": 154,
         "j": "CEEYpUBpqs8",
         "b": "Área entre curvas | Ejemplo 6",
         "h": "20210408184530",
         "l": 3454
     },
     {
-        "i": 96,
+        "i": 83,
         "j": "CyaekgHjdRw",
-        "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 6",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 1 Ejemplo 6",
         "h": "20250126230626",
         "l": 998
     },
     {
-        "i": 100,
+        "i": 87,
         "j": "d9-_AFyBs60",
-        "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 10",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 1 Ejemplo 10",
         "h": "20250128000028",
         "l": 1111
     },
@@ -392,6 +434,13 @@
         "l": 990
     },
     {
+        "i": 161,
+        "j": "DXgRGICFGOY",
+        "b": "Integración por fracciones parciales | Factores Cuadráticos Repetidos 3",
+        "h": "20260715003755",
+        "l": 1264
+    },
+    {
         "i": 37,
         "j": "ebJax447_lE",
         "b": "Integral de Tangente | Integrales por Sustitución - Cambio de variable | Ejemplo 21",
@@ -399,9 +448,9 @@
         "l": 469
     },
     {
-        "i": 116,
+        "i": 103,
         "j": "ECUxVNEIzZk",
-        "b": "Integrales por sustitución trigonométrica | Caso 3 Ejemplo 1",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 3 Ejemplo 1",
         "h": "20250205180405",
         "l": 780
     },
@@ -413,9 +462,16 @@
         "l": 366
     },
     {
-        "i": 97,
+        "i": 173,
+        "j": "FhlBuWwz25E",
+        "b": "Sólidos de revolución | Cascarones o Capas Cilíndricas | Ejemplo 1",
+        "h": "20260902024155",
+        "l": 928
+    },
+    {
+        "i": 84,
         "j": "fJ3Qek_P4cI",
-        "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 7",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 1 Ejemplo 7",
         "h": "20250127232651",
         "l": 1221
     },
@@ -427,11 +483,39 @@
         "l": 330
     },
     {
-        "i": 104,
+        "i": 113,
+        "j": "G5Mrh6C42t0",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 14",
+        "h": "20260715010522",
+        "l": 860
+    },
+    {
+        "i": 160,
+        "j": "gFJGsAKtROk",
+        "b": "Integración por fracciones parciales | Factores Cuadráticos Repetidos 2",
+        "h": "20260715003551",
+        "l": 1405
+    },
+    {
+        "i": 91,
         "j": "gfVrmcpqsts",
-        "b": "Integrales por sustitución trigonométrica | Caso 2 Ejemplo 1",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 1",
         "h": "20250131024115",
         "l": 886
+    },
+    {
+        "i": 177,
+        "j": "H-MNi9YdZFA",
+        "b": "Sólidos de revolución | Identificar el método | Ejemplo 7",
+        "h": "20260902150546",
+        "l": 1410
+    },
+    {
+        "i": 164,
+        "j": "H5TqUrI9Sbc",
+        "b": "Sólidos de revolución | Método de Discos o Rebanadas | Ejemplo 1",
+        "h": "20260902014308",
+        "l": 1323
     },
     {
         "i": 48,
@@ -441,11 +525,18 @@
         "l": 1038
     },
     {
-        "i": 67,
+        "i": 73,
         "j": "HlJ0ZEXCUmQ",
         "b": "Integral de tan³x o de cot³x | tangente al cubo o cotangente al cubo | Integrales trigonométricas",
         "h": "20250328225858",
         "l": 504
+    },
+    {
+        "i": 178,
+        "j": "hVOaavCQXzo",
+        "b": "Sólidos de revolución | Identificar el método | Ejemplo 8",
+        "h": "20260902151039",
+        "l": 937
     },
     {
         "i": 44,
@@ -455,7 +546,7 @@
         "l": 428
     },
     {
-        "i": 141,
+        "i": 149,
         "j": "hZ1n4-Cpn74",
         "b": "Área entre curvas | Ejemplo 1",
         "h": "20210331185027",
@@ -469,14 +560,14 @@
         "l": 519
     },
     {
-        "i": 72,
+        "i": 117,
         "j": "IhZfPrrua6A",
         "b": "Integración por fracciones parciales | Ejemplo 2 División",
         "h": "20191030204852",
         "l": 989
     },
     {
-        "i": 87,
+        "i": 132,
         "j": "IU4pw1HKv1E",
         "b": "Integración por fracciones parciales | Ejemplo 16 Factores Cuadráticos diferentes",
         "h": "20200205160756",
@@ -504,7 +595,7 @@
         "l": 580
     },
     {
-        "i": 130,
+        "i": 138,
         "j": "jBoJzwiXFZw",
         "b": "Integrales definidas | Ejemplo 3",
         "h": "20180926210846",
@@ -518,44 +609,58 @@
         "l": 343
     },
     {
-        "i": 134,
+        "i": 142,
         "j": "JfwLXVwPpkU",
         "b": "Área bajo la curva | Ejemplo 2",
         "h": "20210316015511",
         "l": 1752
     },
     {
-        "i": 82,
+        "i": 186,
+        "j": "JgBH5FpYQmI",
+        "b": "Sólidos de revolución | Identificar el método | Ejemplo 6",
+        "h": "20260922165727",
+        "l": 805
+    },
+    {
+        "i": 127,
         "j": "jTxpr8RFQKo",
         "b": "Integración por fracciones parciales | Ejemplo 11 Factores lineales repetidos",
         "h": "20191130230843",
         "l": 1428
     },
     {
-        "i": 128,
+        "i": 184,
+        "j": "JzRsGo4QiQs",
+        "b": "Sólidos de revolución | Identificar el método | Ejemplo 1",
+        "h": "20260922164716",
+        "l": 2378
+    },
+    {
+        "i": 136,
         "j": "K15rvmw2WwI",
         "b": "Integrales definidas | Ejemplo 1",
         "h": "20180925003623",
         "l": 386
     },
     {
-        "i": 117,
+        "i": 104,
         "j": "KC1Q4Y5whpo",
-        "b": "Integrales por sustitución trigonométrica | Caso 3 Ejemplo 2",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 3 Ejemplo 2",
         "h": "20250205181152",
         "l": 673
     },
     {
-        "i": 81,
+        "i": 126,
         "j": "KeJGi6VGbQU",
         "b": "Integración por fracciones parciales | Ejemplo 10 Factores lineales diferentes",
         "h": "20191210011701",
         "l": 1698
     },
     {
-        "i": 113,
+        "i": 100,
         "j": "kF14wLmeWl0",
-        "b": "Integrales por sustitución trigonométrica | Caso 2 Ejemplo 10",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 10",
         "h": "20250202152509",
         "l": 1049
     },
@@ -567,25 +672,39 @@
         "l": 292
     },
     {
-        "i": 64,
+        "i": 70,
         "j": "L-psb_elgwI",
         "b": "Integral de seno sobre coseno | Integrales trigonométricas",
         "h": "20250324230703",
         "l": 422
     },
     {
-        "i": 152,
+        "i": 62,
         "j": "LCmKrJbYNAk",
         "b": "Integral de sen⁴x . cos⁵x | seno a la 4 por coseno a la 5 | Integrales trigonométricas",
         "h": "20250807150207",
         "l": 899
     },
     {
-        "i": 101,
+        "i": 88,
         "j": "Lpah1aCG2sM",
-        "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 11",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 1 Ejemplo 11",
         "h": "20250330132125",
         "l": 863
+    },
+    {
+        "i": 159,
+        "j": "LUyhT5d6MaI",
+        "b": "Integración por fracciones parciales | Factores Cuadráticos Repetidos 1",
+        "h": "20260715001338",
+        "l": 1299
+    },
+    {
+        "i": 162,
+        "j": "lX3-2SfBwR8",
+        "b": "Sólidos de revolución Introducción",
+        "h": "20260902013223",
+        "l": 955
     },
     {
         "i": 16,
@@ -616,28 +735,35 @@
         "l": 546
     },
     {
-        "i": 119,
+        "i": 106,
         "j": "mHvqMmKx1nM",
-        "b": "Integrales por sustitución trigonométrica | Caso 3 Ejemplo 4",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 3 Ejemplo 4",
         "h": "20250205182553",
         "l": 664
     },
     {
-        "i": 109,
+        "i": 180,
+        "j": "MJhjRQxNq8o",
+        "b": "Sólidos de revolución | Eje de Giro Desplazado | Ejemplo 1",
+        "h": "20260902170552",
+        "l": 859
+    },
+    {
+        "i": 96,
         "j": "moSK9zAIY68",
-        "b": "Integrales por sustitución trigonométrica | Caso 2 Ejemplo 6",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 6",
         "h": "20250131032140",
         "l": 880
     },
     {
-        "i": 89,
+        "i": 134,
         "j": "mPIJpkXhXZU",
         "b": "Integración por fracciones parciales | Ejemplo 18 Factores Cuadráticos diferentes",
         "h": "20200302181844",
         "l": 1377
     },
     {
-        "i": 143,
+        "i": 151,
         "j": "mVU6bBpmhWk",
         "b": "Área entre curvas | Ejemplo 3",
         "h": "20210331191753",
@@ -672,39 +798,67 @@
         "l": 475
     },
     {
-        "i": 77,
+        "i": 122,
         "j": "ofGxwE9X3xU",
         "b": "Integración por fracciones parciales | Ejemplo 6 Factores lineales diferentes",
         "h": "20191110140731",
         "l": 1256
     },
     {
-        "i": 107,
+        "i": 187,
+        "j": "ONoynvzirgE",
+        "b": "Sólidos de revolución | Eje de Giro Desplazado | Ejemplo 4",
+        "h": "20260922171240",
+        "l": 1181
+    },
+    {
+        "i": 94,
         "j": "P7KY1q0Dfcw",
-        "b": "Integrales por sustitución trigonométrica | Caso 2 Ejemplo 4",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 4",
         "h": "20250131031124",
         "l": 589
     },
     {
-        "i": 59,
+        "i": 66,
         "j": "PAPU8iFpN1g",
         "b": "Integral de tan⁴x o de cot⁴x | tangente a la 4 o cotangente a la 4 | Integrales trigonométricas",
         "h": "20250328222209",
         "l": 606
     },
     {
-        "i": 80,
+        "i": 125,
         "j": "pbA8VVt_ei4",
         "b": "Integración por fracciones parciales | Ejemplo 9 Factores lineales diferentes",
         "h": "20191121232007",
         "l": 1827
     },
     {
-        "i": 108,
+        "i": 76,
+        "j": "PBK6QWQITq4",
+        "b": "Integrales trigonométricas inversas",
+        "h": "20260616004946",
+        "l": 1187
+    },
+    {
+        "i": 181,
+        "j": "pceEOR0JqVE",
+        "b": "Sólidos de revolución | Eje de Giro Desplazado | Ejemplo 2",
+        "h": "20260902171249",
+        "l": 1001
+    },
+    {
+        "i": 95,
         "j": "PpLEV7_rM9k",
-        "b": "Integrales por sustitución trigonométrica | Caso 2 Ejemplo 5",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 5",
         "h": "20250131031756",
         "l": 297
+    },
+    {
+        "i": 179,
+        "j": "QEdNf0IrRIY",
+        "b": "Sólidos de revolución | Identificar el método | Ejemplo 9",
+        "h": "20260902151219",
+        "l": 1387
     },
     {
         "i": 38,
@@ -721,23 +875,23 @@
         "l": 681
     },
     {
-        "i": 86,
+        "i": 131,
         "j": "QhbkHNbk0AM",
         "b": "Integración por fracciones parciales | Ejemplo 15 Factores cuadráticos",
         "h": "20191205210200",
         "l": 1866
     },
     {
-        "i": 94,
+        "i": 81,
         "j": "QIBF3iP5kE4",
-        "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 4",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 1 Ejemplo 4",
         "h": "20250126225318",
         "l": 1045
     },
     {
-        "i": 93,
+        "i": 80,
         "j": "qMBQ1BKwLo4",
-        "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 3",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 1 Ejemplo 3",
         "h": "20250126223029",
         "l": 1178
     },
@@ -749,11 +903,25 @@
         "l": 524
     },
     {
-        "i": 136,
+        "i": 144,
         "j": "qv4PWYWVg6s",
         "b": "Área bajo la curva | Ejemplo 4",
         "h": "20210316021955",
         "l": 1593
+    },
+    {
+        "i": 170,
+        "j": "QZXmnH6Yumc",
+        "b": "Sólidos de revolución | Método de Anillos o Arandelas | Ejemplo 3",
+        "h": "20260902021628",
+        "l": 1049
+    },
+    {
+        "i": 168,
+        "j": "r-42zBzdj68",
+        "b": "Sólidos de revolución | Método de Anillos o Arandelas | Ejemplo 1",
+        "h": "20260902020513",
+        "l": 940
     },
     {
         "i": 36,
@@ -763,14 +931,21 @@
         "l": 294
     },
     {
-        "i": 78,
+        "i": 123,
         "j": "r64v9tvFTsg",
         "b": "Integración por fracciones parciales | Ejemplo 7 Factores lineales diferentes",
         "h": "20191113014549",
         "l": 1049
     },
     {
-        "i": 90,
+        "i": 171,
+        "j": "rLEVgoKBSj8",
+        "b": "Sólidos de revolución | Método de Anillos o Arandelas | Ejemplo 4",
+        "h": "20260902022146",
+        "l": 1528
+    },
+    {
+        "i": 77,
         "j": "RM6_xi9AKV8",
         "b": "Integrales por sustitución trigonométrica Introducción",
         "h": "20250126214851",
@@ -784,28 +959,42 @@
         "l": 513
     },
     {
-        "i": 66,
+        "i": 185,
+        "j": "RrsfuP-ibIo",
+        "b": "Sólidos de revolución | Identificar el método | Ejemplo 2",
+        "h": "20260922165159",
+        "l": 1017
+    },
+    {
+        "i": 72,
         "j": "rs3n62TFANo",
         "b": "Integral de tan²x o de cot²x | Integrales trigonométricas",
         "h": "20250328225312",
         "l": 335
     },
     {
-        "i": 85,
+        "i": 130,
         "j": "rsPOesaTNbE",
         "b": "Integrales por fracciones parciales con factores cuadráticos | Introducción",
         "h": "20191204015751",
         "l": 1375
     },
     {
-        "i": 120,
+        "i": 174,
+        "j": "RWUzNXAesHI",
+        "b": "Sólidos de revolución | Identificar el método | Ejemplo 3",
+        "h": "20260902144852",
+        "l": 561
+    },
+    {
+        "i": 107,
         "j": "s_iuUDN-9LM",
-        "b": "Integrales por sustitución trigonométrica | Caso 3 Ejemplo 5",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 3 Ejemplo 5",
         "h": "20250205191841",
         "l": 1111
     },
     {
-        "i": 133,
+        "i": 141,
         "j": "s1BMqFdtZfM",
         "b": "Área bajo la curva | Ejemplo 1",
         "h": "20210316013622",
@@ -819,30 +1008,30 @@
         "l": 383
     },
     {
-        "i": 137,
+        "i": 145,
         "j": "sa77YylT0q0",
         "b": "Área bajo la curva | Ejemplo 5",
         "h": "20210317181703",
         "l": 2820
     },
     {
-        "i": 135,
+        "i": 143,
         "j": "SDyyHsKXx04",
         "b": "Área bajo la curva | Ejemplo 3",
         "h": "20210316022553",
         "l": 1634
     },
     {
-        "i": 156,
+        "i": 64,
         "j": "t_6FbSdaIdo",
         "b": "Integral de sen²x . cos⁴x | seno al cuadrado por coseno a la 4 | Integrales trigonométricas",
         "h": "20250929013925",
         "l": 1549
     },
     {
-        "i": 126,
+        "i": 114,
         "j": "t8LxCougAlw",
-        "b": "Integrales por sustitución trigonométrica | Evaluación final",
+        "b": "✨Integrales por sustitución trigonométrica | Evaluación final",
         "h": "20250316002241",
         "l": 1264
     },
@@ -854,56 +1043,56 @@
         "l": 633
     },
     {
-        "i": 127,
+        "i": 135,
         "j": "TocqVkBzDrA",
         "b": "Integrales definidas | Introducción",
         "h": "20180923144856",
         "l": 280
     },
     {
-        "i": 124,
+        "i": 111,
         "j": "tpvF0O9ypjk",
-        "b": "Integrales por sustitución trigonométrica | Caso 3 Ejemplo 9",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 3 Ejemplo 9",
         "h": "20250209171834",
         "l": 981
     },
     {
-        "i": 129,
+        "i": 137,
         "j": "tqbmfCDW3lM",
         "b": "Integrales definidas | Ejemplo 2",
         "h": "20180926001649",
         "l": 344
     },
     {
-        "i": 95,
+        "i": 82,
         "j": "tRuaoALRdDU",
         "b": "Private video",
         "h": "20250126230043",
         "l": 0
     },
     {
-        "i": 102,
+        "i": 89,
         "j": "tvmy5hLUHxQ",
-        "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 12",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 1 Ejemplo 12",
         "h": "20250131010911",
         "l": 1211
     },
     {
-        "i": 75,
+        "i": 120,
         "j": "TvZuD7-cEjU",
         "b": "Integración por fracciones parciales | Ejemplo 4 Factores lineales diferentes",
         "h": "20191101135509",
         "l": 1631
     },
     {
-        "i": 110,
+        "i": 97,
         "j": "u1JeeK2PgYQ",
         "b": "Private video",
         "h": "20250131032918",
         "l": 0
     },
     {
-        "i": 155,
+        "i": 65,
         "j": "uFB5xdnIbyY",
         "b": "Integral de tangente a la m o cotangente a la m",
         "h": "20250916192656",
@@ -931,14 +1120,14 @@
         "l": 279
     },
     {
-        "i": 74,
+        "i": 119,
         "j": "uwDKdolLkns",
         "b": "Integración por fracciones parciales | Los cuatro casos Introducción",
         "h": "20191101012703",
         "l": 539
     },
     {
-        "i": 144,
+        "i": 152,
         "j": "V7jYdQJevwU",
         "b": "Área entre curvas | Ejemplo 4",
         "h": "20210331192409",
@@ -966,7 +1155,7 @@
         "l": 448
     },
     {
-        "i": 84,
+        "i": 129,
         "j": "vqtaAUdZzec",
         "b": "Integración por fracciones parciales | Ejemplo 13 Factores lineales repetidos",
         "h": "20191127230131",
@@ -978,6 +1167,13 @@
         "b": "Integral del cuadrado de un binomio",
         "h": "20240124205837",
         "l": 494
+    },
+    {
+        "i": 175,
+        "j": "w_I3NzIPYCQ",
+        "b": "Sólidos de revolución | Identificar el método | Ejemplo 4",
+        "h": "20260902145454",
+        "l": 902
     },
     {
         "i": 7,
@@ -994,14 +1190,21 @@
         "l": 811
     },
     {
-        "i": 92,
+        "i": 169,
+        "j": "wUAFGK7vg-s",
+        "b": "Sólidos de revolución | Método de Anillos o Arandelas | Ejemplo 2",
+        "h": "20260902021226",
+        "l": 1408
+    },
+    {
+        "i": 79,
         "j": "wznyJ68pCm8",
-        "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 2",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 1 Ejemplo 2",
         "h": "20250126222124",
         "l": 1066
     },
     {
-        "i": 140,
+        "i": 148,
         "j": "xfMoUsPgqiA",
         "b": "Área bajo la curva | Ejemplo 8",
         "h": "20210317183214",
@@ -1015,23 +1218,23 @@
         "l": 332
     },
     {
-        "i": 123,
+        "i": 110,
         "j": "xyRMS6M7y98",
-        "b": "Integrales por sustitución trigonométrica | Caso 3 Ejemplo 8",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 3 Ejemplo 8",
         "h": "20250209171043",
         "l": 571
     },
     {
-        "i": 88,
+        "i": 133,
         "j": "yAHyEldmI88",
         "b": "Integración por fracciones parciales | Ejemplo 17 Factores Cuadráticos diferentes",
         "h": "20200210222046",
         "l": 2114
     },
     {
-        "i": 122,
+        "i": 109,
         "j": "ycJogDm3nRw",
-        "b": "Integrales por sustitución trigonométrica | Caso 3 Ejemplo 7",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 3 Ejemplo 7",
         "h": "20250220211815",
         "l": 984
     },
@@ -1043,18 +1246,32 @@
         "l": 857
     },
     {
-        "i": 115,
+        "i": 102,
         "j": "yInBmHTZ0KI",
-        "b": "Integrales por sustitución trigonométrica | Caso 2 Ejemplo 12",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 12",
         "h": "20250205195007",
         "l": 1028
     },
     {
-        "i": 151,
+        "i": 183,
+        "j": "YJ1WC_6fbt8",
+        "b": "Sólidos de revolución | Cascarones o Capas Cilíndricas | Ejemplo 2",
+        "h": "20260922164246",
+        "l": 1487
+    },
+    {
+        "i": 61,
         "j": "yNRgQnf0mKE",
         "b": "Integral de sen^m x . cos^n x | seno a la m por coseno a la n | Integrales trigonométricas",
         "h": "20250807145215",
         "l": 1116
+    },
+    {
+        "i": 165,
+        "j": "ytNn8qZAqoA",
+        "b": "Sólidos de revolución | Método de Discos o Rebanadas | Ejemplo 2",
+        "h": "20260902014931",
+        "l": 1312
     },
     {
         "i": 49,
@@ -1071,9 +1288,9 @@
         "l": 1041
     },
     {
-        "i": 105,
+        "i": 92,
         "j": "ZqxKj7aTvG4",
-        "b": "Integrales por sustitución trigonométrica | Caso 2 Ejemplo 2",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 2 Ejemplo 2",
         "h": "20250131030124",
         "l": 713
     },
@@ -1085,16 +1302,16 @@
         "l": 296
     },
     {
-        "i": 76,
+        "i": 121,
         "j": "zTT-tZvYeOE",
         "b": "Integración por fracciones parciales | Ejemplo 5 Factores lineales diferentes",
         "h": "20191106210158",
         "l": 1405
     },
     {
-        "i": 98,
+        "i": 85,
         "j": "zWDT2UHLgRg",
-        "b": "Integrales por sustitución trigonométrica | Caso 1 Ejemplo 8",
+        "b": "✨Integrales por sustitución trigonométrica | Caso 1 Ejemplo 8",
         "h": "20250127233756",
         "l": 731
     }

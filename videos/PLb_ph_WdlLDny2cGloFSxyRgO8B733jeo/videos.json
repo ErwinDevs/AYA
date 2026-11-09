@@ -364,6 +364,13 @@
         "l": 1092
     },
     {
+        "i": 380,
+        "j": "7-LukNT2vnM",
+        "b": "Como eliminar de forma fácil  picos de tensión (Clase 104.4)",
+        "h": "20261104212127",
+        "l": 1402
+    },
+    {
         "i": 36,
         "j": "7HnPH5XBiT4",
         "b": "Clase 18.2: Condensadores en serie con DC",
@@ -574,6 +581,13 @@
         "l": 839
     },
     {
+        "i": 378,
+        "j": "AyTuKifltiU",
+        "b": "Estación soldadura portátil 100W",
+        "h": "20261027180724",
+        "l": 1051
+    },
+    {
         "i": 208,
         "j": "b3CZiQ_PkbY",
         "b": "Circuito convertidor temperatura a voltaje con termopar y LM35 (Clase 74.2)",
@@ -670,6 +684,13 @@
         "b": "RETO ELECTRONICO ¿Que avería tiene ésta Fuente de alimentación? (clase 38.1)",
         "h": "20210331143327",
         "l": 538
+    },
+    {
+        "i": 379,
+        "j": "cCURNkLFva4",
+        "b": "Deleted video",
+        "h": "20261027180950",
+        "l": 0
     },
     {
         "i": 45,
@@ -917,6 +938,13 @@
         "l": 462
     },
     {
+        "i": 376,
+        "j": "fc_38HSiay4",
+        "b": "SABES QUE ES MASA VIRTUAL Y CORTOCIRCUITO VIRTUAL (Clase 61)",
+        "h": "20261017154214",
+        "l": 1508
+    },
+    {
         "i": 96,
         "j": "FCMzV7k8WEM",
         "b": "Control PWM para cargas de AC con MOSFET (Clase 52.3)",
@@ -1132,6 +1160,13 @@
         "b": "ESPECTACULAR INSTRUMENTO  3 en 1 2D15P FNIRSI",
         "h": "20260222221003",
         "l": 3288
+    },
+    {
+        "i": 377,
+        "j": "HzU47O4ShVs",
+        "b": "Como resolver rápido un circuito con OPAMP (Clase 84.5)",
+        "h": "20261025193727",
+        "l": 656
     },
     {
         "i": 313,
@@ -1906,7 +1941,7 @@
     {
         "i": 103,
         "j": "r-YCiCZNA_U",
-        "b": "Amplificador Operacional como Inversor. Masa virtual bien explicada. (Clase 61)",
+        "b": "Amplificador Operacional como Inversor. (Clase 61.1)",
         "h": "20191007191722",
         "l": 1181
     },
